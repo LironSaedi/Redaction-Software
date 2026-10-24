@@ -23,7 +23,10 @@ $Root = (Resolve-Path "$PSScriptRoot\..\..").Path
 $Build = Join-Path $Root "build\windows"
 $Stage = Join-Path $Build "stage"
 $Dist = Join-Path $Root "dist"
-$Version = ((Get-Content "$Root\backend\obscura\__init__.py") -match '__version__' | Select-Object -First 1) -replace '.*"(.*)".*', '$1'
+# (Select-String, not Get-Content -match: a one-line file makes -match return True instead of the line)
+$Version = (Select-String -Path "$Root\backend\obscura\__init__.py" -Pattern '^__version__\s*=\s*"([^"]+)"').Matches |
+    Select-Object -First 1 | ForEach-Object { $_.Groups[1].Value }
+if (-not $Version) { throw "no __version__ in backend\obscura\__init__.py" }
 function Step($m) { Write-Host "`n==> $m" -ForegroundColor Cyan }
 function Robo($src, $dst, [string[]]$extra) {
     robocopy $src $dst /E /NFL /NDL /NJH /NJS /NP @extra | Out-Null

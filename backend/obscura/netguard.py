@@ -10,6 +10,7 @@ import os
 import socket
 
 _installed = False
+_AF_UNIX = getattr(socket, "AF_UNIX", None)  # local sockets; Python on Windows has no AF_UNIX
 
 
 class NetworkBlocked(RuntimeError):
@@ -34,12 +35,12 @@ def block() -> None:
     real_getaddrinfo = socket.getaddrinfo
 
     def connect(self, address):
-        if self.family == socket.AF_UNIX or _is_loopback(address):
+        if self.family == _AF_UNIX or _is_loopback(address):
             return real_connect(self, address)
         raise NetworkBlocked(f"outbound connection blocked: {address!r}")
 
     def connect_ex(self, address):
-        if self.family == socket.AF_UNIX or _is_loopback(address):
+        if self.family == _AF_UNIX or _is_loopback(address):
             return real_connect_ex(self, address)
         raise NetworkBlocked(f"outbound connection blocked: {address!r}")
 
