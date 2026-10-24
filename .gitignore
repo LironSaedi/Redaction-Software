@@ -6,7 +6,7 @@ __pycache__/
 *.egg-info/
 
 # AI models (several GB; download with backend/scripts/download_models.py)
-backend/models/
+backend/models
 
 # case data, keys, databases — never commit
 backend/data/
