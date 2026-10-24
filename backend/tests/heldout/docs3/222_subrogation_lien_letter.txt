@@ -1,0 +1,187 @@
+[[ORGANIZATION?|MERIDIAN RECOVERY SERVICES, LLC]]
+Subrogation & Reimbursement Division
+[[ADDRESS?|4100 Corporate Center Drive, Suite 300, Tempe, AZ 85282]]
+Tel [[PHONE?|(480) 555-0102]]  |  Fax [[PHONE?|(480) 555-0109]]  |  [[EMAIL?|recovery@meridianrecovery.example.com]]
+
+                    *** CONFIDENTIAL - CONTAINS PROTECTED HEALTH INFORMATION (45 C.F.R. 164.506) ***
+
+[[DATE?|October 6, 2026]]
+
+VIA EMAIL ([[EMAIL|rthorne@thornealvarezlaw.example.com]]) AND FIRST-CLASS MAIL
+
+[[PERSON|Rebecca Thorne-Alvarez]], Esq.
+[[ORGANIZATION?|Thorne Alvarez Injury Law, P.C.]]
+[[ADDRESS?|900 SW Fifth Avenue, Suite 1720]]
+[[ADDRESS?|Portland, OR 97204]]
+
+        Re:   NOTICE OF LIEN AND RIGHT OF REIMBURSEMENT
+              Plan:               [[ORGANIZATION?|Cascade Peak Health Plan]] - [[EMPLOYER|Columbia Gorge Dental Partners]] Employee Benefit Plan
+              Plan Type:          Self-funded ERISA plan (Plan No. 501)
+              Our Client's Member: [[PERSON|KOFI A. MENSAH-REYNOLDS]]
+              Member ID:          [[HEALTH_PLAN_ID|CPH 7710 4492 08]]    Group: [[HEALTH_PLAN_ID?|CGDP-00412]]
+              Member DOB:         [[DATE_OF_BIRTH|04/22/1983]]           SSN: XXX-XX-[[SSN|2290]]
+              Date of Loss:       [[DATE|June 14, 2026]]
+              Our File No.:       [[CLAIM_NUMBER|MRS-SUB-2026-41188]]
+              Your File:          [[ID_NUMBER?|TAL-2026-0388]]
+              Liability Carrier:  [[ORGANIZATION?|Pacific Crest Mutual Insurance Co.]]  Claim No. [[CLAIM_NUMBER|PCM-26-0448190]]
+              Insured/Tortfeasor: [[PERSON|Brandon Lee Ashcroft]], Policy [[POLICY_NUMBER|PCM-AU-3318-5520-01]]
+
+Dear Ms. [[PERSON|Thorne-Alvarez]]:
+
+[[ORGANIZATION?|Meridian Recovery Services, LLC]] ("[[ORGANIZATION?|Meridian]]") is the recovery agent for the [[EMPLOYER|Columbia Gorge Dental
+Partners]] Employee Benefit Plan, administered by [[ORGANIZATION?|Cascade Peak Health Plan]] (the "Plan"). We
+understand from your letter of representation dated [[DATE?|September 2, 2026]] that you represent Plan
+member [[PERSON|Kofi A. Mensah-Reynolds]] ("Mr. [[PERSON|Mensah-Reynolds]]") in connection with injuries he
+sustained in a motor vehicle collision on [[DATE|June 14, 2026]] at [[INDIRECT_LOCATION|the SE 82nd Avenue and Foster Road
+intersection, westbound lane outside the Foster Plaza grocery]], Portland, Oregon.
+
+Please accept this letter as formal notice that the Plan has paid medical benefits on behalf of your client
+and his dependent in the amount of [[MONEY|$47,906.18]] through the date of this letter, and that the Plan asserts
+a first-priority lien and an equitable right of reimbursement against any recovery obtained from any
+third party, liability carrier, UM/UIM carrier or other source. See Plan Document Section 11.4
+("Subrogation and Right of Reimbursement"), Summary Plan Description p. 58, and Sereboff v. Mid Atlantic
+Medical Services, Inc., 547 U.S. 356 (2006). The Plan expressly disclaims the make-whole doctrine and the
+common-fund doctrine. A copy of the relevant plan language is enclosed (Enclosure A).
+
+Our records reflect that two Plan participants were treated for accident-related injuries:
+
+     (1) Member  [[PERSON|Kofi A. Mensah-Reynolds]], age [[AGE|43]], subscriber          Paid to date:  [[MONEY|$44,213.07]]
+     (2) Dependent [[MINOR|Amara J. Mensah-Reynolds]], age [[AGE|nine]], daughter     Paid to date:   [[MONEY|$3,693.11]]
+         Dependent ID [[HEALTH_PLAN_ID|CPH 7710 4492 10]]   DOB [[DATE_OF_BIRTH|02/03/2017]]
+
+The Plan's claims history was identified through diagnosis codes indicating trauma. If any of the itemized
+charges are unrelated to the accident, please identify them in writing and we will review them promptly.
+
+Our records also indicate that Mr. [[PERSON|Mensah-Reynolds]] may have been [[INDIRECT_ROLE|driving a MetroLift paratransit van
+on an assigned route]] at the time of the collision. If he was in the course and scope of employment, workers'
+compensation coverage would be primary and the Plan's payments may be recoverable from the workers' comp
+carrier. Please confirm his employment status on the date of loss and identify any WC claim number.
+
+                                                                                       Page 1 of 4
+-----------------------------------------------------------------------------------------------------------
+[[ORGANIZATION?|Meridian Recovery Services]]  |  File [[CLAIM_NUMBER|MRS-SUB-2026-41188]]  |  [[PERSON|Mensah-Reynolds, K.]]                   Page 2 of 4
+
+ITEMIZATION OF ACCIDENT-RELATED CLAIMS PAID  (through [[DATE?|10/01/2026]])
+
+PATIENT: [[PERSON|MENSAH-REYNOLDS, KOFI A]]       MEMBER ID [[HEALTH_PLAN_ID|CPH 7710 4492 08]]
+
+ Plan Claim No.    DOS        Provider                                CPT     ICD-10     Billed       Paid
+ ---------------   --------   -------------------------------------   -----   --------   ---------   ---------
+ [[CLAIM_NUMBER|26166E00418]]       [[DATE?|06/14/26]]   [[ORGANIZATION?|Columbia Metro Ambulance]]             A0427   [[MEDICAL_CONDITION?|S12.100A]]   [[MONEY|2,986.00]]   [[MONEY|2,105.40]]
+ [[CLAIM_NUMBER|26166E00502]]       [[DATE?|06/14/26]]   [[ORGANIZATION?|Eastbank Regional Medical Center]] - ED        99285   [[MEDICAL_CONDITION?|S12.100A]]   [[MONEY|6,410.00]]   [[MONEY|4,488.20]]
+ [[CLAIM_NUMBER|26166E00503]]       [[DATE?|06/14/26]]   [[ORGANIZATION?|Eastbank Regional Medical Center]] - Imaging   72125   [[MEDICAL_CONDITION?|S12.100A]]   [[MONEY|3,822.00]]   [[MONEY|2,611.75]]
+ [[CLAIM_NUMBER|26166E00504]]       [[DATE?|06/14/26]]   [[ORGANIZATION?|Eastbank Regional Medical Center]] - Imaging   70450   [[MEDICAL_CONDITION?|S06.0X1A]]   [[MONEY|3,980.00]]   [[MONEY|2,720.30]]
+ [[CLAIM_NUMBER|26170E01177]]       [[DATE?|06/15/26]]   [[ORGANIZATION?|Eastbank Regional Medical Center]] - Inpt      DRG 552 [[MEDICAL_CONDITION?|S12.100A]]  [[MONEY|18,640.00]]  [[MONEY|13,208.92]]
+ [[CLAIM_NUMBER|26181P00881]]       [[DATE?|06/27/26]]   [[ORGANIZATION?|Rose City Orthopedic Spine Clinic]]          99204   [[MEDICAL_CONDITION?|S13.4XXA]]     [[MONEY|512.00]]     [[MONEY|366.18]]
+ [[CLAIM_NUMBER|26188P02214]]       [[DATE?|07/07/26]]   [[ORGANIZATION?|Rose City Orthopedic Spine Clinic]]          72141   [[MEDICAL_CONDITION?|M50.121]]    [[MONEY|2,850.00]]   [[MONEY|1,904.66]]
+ [[CLAIM_NUMBER|26195P03390]]       [[DATE?|07/14/26]]   [[ORGANIZATION?|Willamette Valley Physical Therapy]]         97163   [[MEDICAL_CONDITION?|S13.4XXA]]     [[MONEY|318.00]]     [[MONEY|221.40]]
+   (24 visits)     [[DATE?|07/16/26]]-[[DATE?|09/24/26]] [[ORGANIZATION?|Willamette Valley Physical Therapy]]  97110/97140/97530        [[MONEY|9,480.00]]   [[MONEY|6,240.00]]
+ [[CLAIM_NUMBER|26209P04471]]       [[DATE?|07/28/26]]   [[ORGANIZATION?|Northwest Neurology Associates]]             99244   [[MEDICAL_CONDITION?|F07.81]]       [[MONEY|640.00]]     [[MONEY|452.88]]
+ [[CLAIM_NUMBER|26223P05028]]       [[DATE?|08/11/26]]   [[ORGANIZATION?|Northwest Neurology Associates]]             96132   [[MEDICAL_CONDITION?|F07.81]]     [[MONEY|1,880.00]]   [[MONEY|1,312.44]]
+ [[CLAIM_NUMBER|26244P06612]]       [[DATE?|09/01/26]]   [[ORGANIZATION?|Rose City Orthopedic Spine Clinic]]          64483   [[MEDICAL_CONDITION?|M54.12]]     [[MONEY|4,200.00]]   [[MONEY|2,941.00]]
+ [[CLAIM_NUMBER|RX-0614-9917]]      [[DATE?|06/16/26]]-[[DATE?|09/30/26]] [[ORGANIZATION?|ScriptPath PBM]] (7 fills: cyclobenzaprine, gabapentin,
+                                   hydrocodone/APAP 5/325, meloxicam)                                [[MONEY|1,108.31]]     [[MONEY|839.94]]
+ [[CLAIM_NUMBER|26258P07740]]       [[DATE?|09/15/26]]   [[ORGANIZATION?|Oregon Behavioral Health Partners]]          90837   [[MEDICAL_CONDITION?|F43.10]]       [[MONEY|6,840.00]]   [[MONEY|4,800.00]]
+                                                                                       ----------   ----------
+                                                                     SUBTOTAL MEMBER    [[MONEY|63,666.31]]   [[MONEY|44,213.07]]
+
+ Diagnosis key (member):  [[MEDICAL_CONDITION?|S12.100A]] [[MEDICAL_CONDITION|unspecified displaced fracture of second cervical vertebra]];
+   [[MEDICAL_CONDITION?|S06.0X1A]] [[MEDICAL_CONDITION|concussion with loss of consciousness of 30 minutes or less]]; [[MEDICAL_CONDITION?|S13.4XXA]] [[MEDICAL_CONDITION|sprain of
+   ligaments of cervical spine]]; [[MEDICAL_CONDITION?|M50.121]] [[MEDICAL_CONDITION|cervical disc disorder at C4-C5 with radiculopathy]];
+   [[MEDICAL_CONDITION?|M54.12]] [[MEDICAL_CONDITION|radiculopathy, cervical region]]; [[MEDICAL_CONDITION?|F07.81]] [[MEDICAL_CONDITION|postconcussional syndrome]]; [[MEDICAL_CONDITION?|F43.10]] [[MEDICAL_CONDITION|post-traumatic stress
+   disorder, unspecified]].
+
+PATIENT: [[MINOR|MENSAH-REYNOLDS, AMARA J]]       DEPENDENT ID [[HEALTH_PLAN_ID|CPH 7710 4492 10]]
+
+ [[CLAIM_NUMBER|26166E00519]]       [[DATE?|06/14/26]]   [[ORGANIZATION?|Hawthorne Children's Hospital]] - ED           99284   [[MEDICAL_CONDITION?|S30.1XXA]]   [[MONEY|2,940.00]]   [[MONEY|2,061.00]]
+ [[CLAIM_NUMBER|26166E00520]]       [[DATE?|06/14/26]]   [[ORGANIZATION?|Hawthorne Children's Hospital]] - Imaging      74177   [[MEDICAL_CONDITION?|S30.1XXA]]   [[MONEY|2,210.00]]   [[MONEY|1,512.11]]
+ [[CLAIM_NUMBER|26200P03371]]       [[DATE?|07/19/26]]   [[ORGANIZATION?|Kids First Pediatrics]]                      99214   [[MEDICAL_CONDITION?|S30.1XXA]]     [[MONEY|186.00]]     [[MONEY|120.00]]
+                                                                                       ----------   ----------
+                                                                  SUBTOTAL DEPENDENT     [[MONEY|5,336.00]]   [[MONEY|3,693.11]]
+
+ Diagnosis key (dependent): [[MEDICAL_CONDITION?|S30.1XXA]] [[MEDICAL_CONDITION|contusion of abdominal wall (seat-belt sign)]].
+
+                                                                    TOTAL LIEN AS OF [[DATE?|10/01/2026]]:  [[MONEY|$47,906.18]]
+
+ NOTE: Mr. [[PERSON|Mensah-Reynolds]] has scheduled an anterior cervical discectomy and fusion (CPT 22551) for
+ [[DATE|November 18, 2026]]. Future accident-related charges will be added to the lien. We estimate an additional
+ [[MONEY|$38,000 - $52,000]].
+-----------------------------------------------------------------------------------------------------------
+[[ORGANIZATION?|Meridian Recovery Services]]  |  File [[CLAIM_NUMBER|MRS-SUB-2026-41188]]                                         Page 3 of 4
+
+DUTIES OF THE MEMBER AND COUNSEL
+
+Under Plan Section 11.4(c), the member and his attorney must: (a) notify the Plan of any settlement
+negotiations, demand, mediation or trial date; (b) not release any party without the Plan's written consent;
+(c) hold all recovered funds in trust up to the amount of the lien; and (d) cooperate in providing
+information. We understand from the docket that a complaint has been filed: [[PERSON|Mensah-Reynolds]] v. [[PERSON|Ashcroft]],
+Multnomah County Circuit Court Case No. [[CASE_NUMBER|26CV41188]]. Please keep us advised of the trial setting.
+
+Please also advise whether your client has other coverage that may apply, including:
+     [ ] PIP coverage with [[ORGANIZATION?|Evergreen State Auto Insurance]], policy no. [[POLICY_NUMBER|ESA 4471-0829-OR]] (per police report)
+     [ ] UM/UIM coverage
+     [ ] Medical payments coverage under the at-fault driver's policy
+     [ ] Workers' compensation (see page 1)
+     [ ] Short-term disability through the employer ([[ORGANIZATION?|Granite Mutual Life]] STD claim [[CLAIM_NUMBER|STD-00924471]])
+
+Our records show your client's current mailing address as [[ADDRESS|7714 SE Ogden Street, Portland, OR 97206]]
+and home phone [[PHONE|503-555-0174]]. To protect your client's privacy, all future correspondence will be
+directed through your office.
+
+PAYMENT INSTRUCTIONS
+Reimbursement checks should be made payable to "[[ORGANIZATION?|Cascade Peak Health Plan]]" and mailed to [[ORGANIZATION?|Meridian]] at the
+address above, referencing File No. [[CLAIM_NUMBER|MRS-SUB-2026-41188]]. For wire or ACH transfers:
+
+     Beneficiary:        [[ORGANIZATION?|Meridian Recovery Services LLC]] FBO [[ORGANIZATION?|Cascade Peak Health Plan]]
+     Bank:               [[ORGANIZATION?|Sonoran Desert Commerce Bank]], Phoenix, AZ
+     ABA Routing:        [[ROUTING_NUMBER|122105744]]
+     Account:            [[BANK_ACCOUNT|5018-334-2297]]
+     Reference:          [[CLAIM_NUMBER|MRS-SUB-2026-41188]] / [[PERSON|MENSAH-REYNOLDS]]
+     [[ORGANIZATION?|Meridian]] Tax ID:    [[EIN?|86-1094417]]
+
+Please call before initiating any wire. [[ORGANIZATION?|Meridian]] will never change its wiring instructions by email.
+
+PROCUREMENT COST REDUCTION
+The Plan may, in its discretion, consider a reduction for a pro-rata share of attorney fees and costs upon
+receipt of (i) the settlement statement, (ii) your fee agreement and (iii) an itemization of costs. The
+Plan's current position, assuming a policy-limits tender of [[MONEY|$100,000.00]] and a one-third contingency fee:
+
+     Gross recovery                                   [[MONEY|$100,000.00]]
+     Lien                                              [[MONEY|$47,906.18]]
+     Less 33.33% procurement share                    [[MONEY|($15,968.73)]]
+     Net reimbursement requested                       [[MONEY|$31,937.45]]
+
+This is not a waiver of any of the Plan's rights under ERISA Sec. 502(a)(3), 29 U.S.C. 1132(a)(3).
+
+Sincerely,
+
+[[SIGNATURE|/s/ Darnell P. Whitfield-Osei]]
+[[PERSON|Darnell P. Whitfield-Osei]], CSRP
+Senior Recovery Specialist, ext. 4417
+Direct [[PHONE|(480) 555-0144]]  |  [[EMAIL|dwhitfield-osei@meridianrecovery.example.com]]
+
+cc:   [[ORGANIZATION?|Cascade Peak Health Plan]], Plan Administrator (via secure portal)
+      [[ORGANIZATION?|Pacific Crest Mutual Insurance Co.]], Attn: [[PERSON|Lorna Feeney-Castillo]], Bodily Injury Unit,
+      claim [[CLAIM_NUMBER|PCM-26-0448190]]
+Enclosures: A - Plan language; B - CMS-1500/UB-04 claim copies (47 pp.); C - Acknowledgment form
+-----------------------------------------------------------------------------------------------------------
+                                                                                       Page 4 of 4
+ENCLOSURE C - ATTORNEY ACKNOWLEDGMENT OF LIEN  (please sign and return within 30 days)
+
+I, the undersigned attorney for Plan member [[PERSON|Kofi A. Mensah-Reynolds]] (Member ID [[HEALTH_PLAN_ID|CPH 7710 4492 08]]),
+acknowledge receipt of the Plan's Notice of Lien dated [[DATE?|October 6, 2026]] and agree to protect the Plan's
+interest in any recovery arising out of the incident of [[DATE|06/14/2026]].
+
+Attorney Name: ____________________________    OSB No.: __________    Phone: ____________________
+
+Firm: _____________________________________    Email: _______________________________________
+
+Signature: ________________________________    Date: ________________
+
+Member authorization on file: HIPAA authorization signed by [[PERSON|Kofi Mensah-Reynolds]] on [[DATE?|09/02/2026]], and on
+behalf of minor [[MINOR|Amara]] by her mother [[PERSON|Adwoa Mensah]] (custodial parent; residing separately at
+[[ADDRESS|3305 NE Killingsworth St Apt 12, Portland OR 97211]]). Claim correspondence for the dependent should be
+copied to Ms. [[PERSON|Mensah]] at [[EMAIL|adwoa.mensah77@examplemail.com]].
+
+[[ORGANIZATION?|Meridian]] internal: Recovery queue OR-PI-02; assigned [[DATE?|09/09/2026]]; diary [[DATE?|11/05/2026]]; OPA lien statute
+ORS 742.536 not applicable (self-funded ERISA preemption, 29 U.S.C. 1144).

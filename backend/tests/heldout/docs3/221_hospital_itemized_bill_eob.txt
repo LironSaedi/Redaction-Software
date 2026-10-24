@@ -1,0 +1,203 @@
+[[ORGANIZATION?|ST. AGATHA REGIONAL MEDICAL CENTER]]                                  ITEMIZED STATEMENT OF ACCOUNT
+Patient Financial Services | [[ADDRESS?|PO Box 16620, Duluth, MN 55816-0620]]                         Page 1 of 5
+Billing questions: [[PHONE?|(218) 555-0140]]  Mon-Fri 8:00a-5:00p CT  |  Fed Tax ID [[EIN?|41-0695512]]  |  NPI [[ID_NUMBER?|1427093318]]
+
+  Statement Date ........ [[DATE?|10/02/2026]]              PLEASE PAY THIS AMOUNT ......... [[MONEY|$2,842.09]]
+  Payment Due ........... [[DATE?|10/27/2026]]              Patient Account (HAR) .......... [[ID_NUMBER|60418827]]
+  Guarantor No. ......... [[ID_NUMBER|G-0091174]]                Encounter / Visit No. .......... [[ID_NUMBER|E26-0917-4471]]
+
+        [[PERSON|DANIEL R VANCE]]
+        [[ADDRESS|1127 WOODLAND AVE APT 3]]
+        [[ADDRESS|DULUTH MN 55803-2216]]
+
+-------------------------------------------------------------------------------------------------------
+PATIENT / ENCOUNTER INFORMATION
+-------------------------------------------------------------------------------------------------------
+  Patient Name:     [[MINOR|VANCE, ELODIE JUNE]]                     MRN: [[MRN|M00873314]]
+  Date of Birth:    [[DATE_OF_BIRTH|03/14/2019]]    Age: [[AGE|7]] yrs   Sex: F    Patient Type: Inpatient (IP)
+  Admit Date/Time:  [[DATE|09/17/2026]] 14:22           Discharge Date/Time: [[DATE|09/19/2026]] 10:05
+  Admit Source:     Emergency Department           Discharge Disposition: 01 Home/Self-care
+  Attending:        [[PERSON|Priya Raghunathan]], MD (Pediatric Orthopaedics)
+  Admitting:        [[PERSON|Tomasz Wierzbicki]], DO (Emergency Medicine)
+  Unit / Bed:       4 West Pediatrics, 4W-412-B
+
+  Principal Diagnosis:  [[MEDICAL_CONDITION?|S52.531A]]  [[MEDICAL_CONDITION|Colles' fracture of right radius, initial encounter, closed]]
+  Secondary:            [[MEDICAL_CONDITION?|S06.0X0A]]  [[MEDICAL_CONDITION|Concussion without loss of consciousness]]
+                        [[MEDICAL_CONDITION?|J45.20]]    [[MEDICAL_CONDITION|Mild intermittent asthma, uncomplicated]]
+  External Cause:       [[MEDICAL_CONDITION?|W09.2XXA]]  [[MEDICAL_CONDITION?|Fall on or from jungle gym]]
+  Place of Occurrence:  Y92.211   Elementary school as the place of occurrence
+  DRG: 563  FX, SPRN, STRN & DISL EXCEPT FEMUR, HIP, PELVIS & THIGH W/O MCC
+
+GUARANTOR / RESPONSIBLE PARTY
+  Name:       [[PERSON|Daniel Robert Vance]]          Relationship to patient: Father
+  Phone:      [[PHONE|(218) 555-0196]] (cell)      Alt: [[PHONE|218.555.0123]] (work)
+  Email:      [[EMAIL|dvance.duluth@examplemail.com]]
+  Guarantor SSN on file: XXX-XX-[[SSN|6618]]       Guarantor DOB: [[DATE_OF_BIRTH|11/30/1986]]
+  Employer:   [[EMPLOYER|Lake Superior Grain Terminal Co.]], Harbor Operations
+
+INSURANCE ON FILE
+  Primary:    [[ORGANIZATION?|NorthStar BlueSky Health Plan]]  Commercial PPO     Payer ID 41190
+              Subscriber: [[PERSON|MARCHETTI, SIMONE A]]   Rel. to patient: 03 Mother
+              Member ID:  [[HEALTH_PLAN_ID|NSX884120375-02]]     Group No.: [[HEALTH_PLAN_ID?|0098214-A]]
+              Subscriber employer: [[EMPLOYER|Arrowhead Regional Transit Authority]]
+  Secondary:  None on file.  Minnesota Medical Assistance application status: NOT SUBMITTED
+
+ACCOUNT SUMMARY
+  Total Charges ..................................................... [[MONEY|$38,412.60]]
+  Insurance Payments - [[ORGANIZATION?|NorthStar BlueSky]] ([[DATE?|09/30/2026]]) ...... [[MONEY|-$24,180.31]]
+  Contractual Adjustment (CO-45) ................................... [[MONEY|-$11,140.20]]
+  Patient Payment - VISA x-[[CREDIT_CARD|3134]] ([[DATE?|09/19/2026]]) ............ [[MONEY|-$250.00]]
+  ---------------------------------------------------------------------------------------------
+  Patient Balance Due ................................................ [[MONEY|$2,842.09]]
+    Deductible [[MONEY|$1,250.00]]  +  Coinsurance 20% [[MONEY|$1,592.09]]
+
+  MESSAGES
+  * Your insurance has processed this claim. The balance shown is your share under your plan.
+  * You may qualify for help paying your bill. Households of 4 earning up to [[MONEY|$124,800]] (400% FPL)
+    may receive a discount under our Financial Assistance Policy (Policy PFS-112). Call [[PHONE?|(218) 555-0140]].
+  * [[ORGANIZATION?|NorthStar BlueSky]] has asked us to send you an Accident Questionnaire (enclosed, page 5). Please
+    complete and return it so your claim is not delayed.
+
+=======================================================================================================
+[[ORGANIZATION?|ST. AGATHA REGIONAL MEDICAL CENTER]]   Patient: [[MINOR|VANCE, ELODIE JUNE]]   HAR [[ID_NUMBER|60418827]]        Page 2 of 5
+DETAIL OF CHARGES (UB-04 revenue code order)
+-------------------------------------------------------------------------------------------------------
+SVC DATE   REV   CPT/HCPCS  MOD  DESCRIPTION                                   UNITS        CHARGES
+---------  ----  ---------  ---  --------------------------------------------  -----  -------------
+[[DATE?|09/17/26]]   0450  99284      25   [[MEDICAL_CONDITION?|ED VISIT MOD-HIGH SEVERITY LVL 4]]               1       [[MONEY|2,184.00]]
+[[DATE?|09/17/26]]   0450  96374           [[MEDICAL_CONDITION?|IV PUSH SINGLE/INITIAL DRUG]]                    1         [[MONEY|318.00]]
+[[DATE?|09/17/26]]   0320  73110      RT   [[MEDICAL_CONDITION?|XR WRIST COMPLETE MIN 3 VIEWS]]                  1         [[MONEY|486.00]]
+[[DATE?|09/17/26]]   0320  73090      RT   [[MEDICAL_CONDITION?|XR FOREARM 2 VIEWS]]                             1         [[MONEY|402.00]]
+[[DATE?|09/17/26]]   0350  70450           [[MEDICAL_CONDITION?|CT HEAD/BRAIN W/O CONTRAST]]                     1       [[MONEY|3,980.00]]
+[[DATE?|09/17/26]]   0636  J2405           [[MEDICAL_CONDITION?|ONDANSETRON HCL INJ PER 1 MG]]                   4          [[MONEY|96.40]]
+[[DATE?|09/17/26]]   0636  J3010           [[MEDICAL_CONDITION?|FENTANYL CITRATE INJ 0.1 MG]]                    1          [[MONEY|61.25]]
+[[DATE?|09/17/26]]   0258  J7050           [[MEDICAL_CONDITION?|NORMAL SALINE SOLUTION INFUS 250 CC]]            2          [[MONEY|84.00]]
+[[DATE?|09/17/26]]   0360  25605      RT   [[MEDICAL_CONDITION?|CLOSED TX DISTAL RADIAL FX W/MANIPULATION]]      1       [[MONEY|6,420.00]]
+[[DATE?|09/17/26]]   0370  01830           [[MEDICAL_CONDITION?|ANESTH FOREARM/WRIST/HAND CLOSED PROC]]          1       [[MONEY|2,980.00]]
+[[DATE?|09/17/26]]   0636  J2704           [[MEDICAL_CONDITION?|PROPOFOL INJ 10 MG]]                            12         [[MONEY|142.80]]
+[[DATE?|09/17/26]]   0710                  [[MEDICAL_CONDITION?|RECOVERY ROOM 1ST HOUR]]                         1       [[MONEY|1,410.00]]
+[[DATE?|09/17/26]]   0710                  [[MEDICAL_CONDITION?|RECOVERY ROOM EA ADDL 30 MIN]]                   2         [[MONEY|640.00]]
+[[DATE?|09/17/26]]   0278  Q4012      RT   [[MEDICAL_CONDITION?|LONG ARM CAST PEDS FIBERGLASS]]                  1         [[MONEY|388.00]]
+[[DATE?|09/17/26]]   0250            [[MEDICAL_CONDITION?|PHARMACY - ACETAMINOPHEN 160MG/5ML SUSP]]          3          [[MONEY|27.90]]
+[[DATE?|09/17/26]]   0122                  [[MEDICAL_CONDITION?|ROOM & BOARD SEMI-PRIVATE PEDIATRIC]]            1       [[MONEY|4,265.00]]
+[[DATE?|09/18/26]]   0122                  [[MEDICAL_CONDITION?|ROOM & BOARD SEMI-PRIVATE PEDIATRIC]]            1       [[MONEY|4,265.00]]
+[[DATE?|09/18/26]]   0300  85025           [[MEDICAL_CONDITION?|CBC W/AUTOMATED DIFF WBC]]                       1         [[MONEY|148.00]]
+[[DATE?|09/18/26]]   0301  80048           [[MEDICAL_CONDITION?|BASIC METABOLIC PANEL]]                          1         [[MONEY|212.00]]
+[[DATE?|09/18/26]]   0320  73100      RT   [[MEDICAL_CONDITION?|XR WRIST 2 VIEWS POST-REDUCTION]]                1         [[MONEY|338.00]]
+[[DATE?|09/18/26]]   0424  97163           [[MEDICAL_CONDITION?|PT EVALUATION HIGH COMPLEXITY]]                  1         [[MONEY|512.00]]
+[[DATE?|09/18/26]]   0444  92526           [[MEDICAL_CONDITION?|NEURO CHECK / CONCUSSION SCREEN (SCAT5 CHILD)]]  1         [[MONEY|275.00]]
+[[DATE?|09/18/26]]   0412  94640           [[MEDICAL_CONDITION?|AIRWAY INHALATION TREATMENT (NEB)]]              2         [[MONEY|366.00]]
+[[DATE?|09/18/26]]   0636  J7613           [[MEDICAL_CONDITION?|ALBUTEROL NON-COMP UNIT DOSE 1 MG]]              5          [[MONEY|43.75]]
+[[DATE?|09/18/26]]   0250            [[MEDICAL_CONDITION?|PHARMACY - IBUPROFEN 100MG/5ML SUSP]]              4          [[MONEY|31.60]]
+[[DATE?|09/19/26]]   0278  L3908      RT   [[MEDICAL_CONDITION?|WRIST HAND ORTHOSIS PREFAB]]                     1         [[MONEY|226.00]]
+[[DATE?|09/19/26]]   0270  A4565           [[MEDICAL_CONDITION?|SLING]]                                          1          [[MONEY|44.00]]
+[[DATE?|09/19/26]]   0942                  [[MEDICAL_CONDITION?|CHILD LIFE SPECIALIST SERVICES]]                 1         [[MONEY|190.00]]
+[[DATE?|09/19/26]]   0250            [[MEDICAL_CONDITION?|PHARMACY - DISCHARGE MEDS TO GO]]                  1          [[MONEY|61.35]]
+                                                                                        -------------
+                                                                  FACILITY CHARGES       [[MONEY|$31,598.05]]
+
+[[ORGANIZATION?|ST. AGATHA PHYSICIAN GROUP]] - PROFESSIONAL CHARGES (billed on separate claim, Tax ID [[EIN?|41-1880236]])
+---------  ----  ---------  ---  --------------------------------------------  -----  -------------
+[[DATE?|09/17/26]]   0981  99284      25   [[MEDICAL_CONDITION?|ED PHYSICIAN SERVICES - WIERZBICKI]]             1         [[MONEY|694.00]]
+[[DATE?|09/17/26]]   0981  25605      RT   [[MEDICAL_CONDITION?|CLOSED REDUCTION DISTAL RADIUS - RAGHUNATHAN]]   1       [[MONEY|3,140.00]]
+[[DATE?|09/17/26]]   0964  01830      AA   [[MEDICAL_CONDITION?|ANESTHESIA - CRNA/MD TEAM (12 UNITS)]]           1       [[MONEY|1,860.00]]
+[[DATE?|09/17/26]]   0972  70450      26   [[MEDICAL_CONDITION?|RADIOLOGY READ CT HEAD]]                         1         [[MONEY|420.00]]
+[[DATE?|09/18/26]]   0981  99232           [[MEDICAL_CONDITION?|SUBSEQ HOSPITAL CARE]]                           1         [[MONEY|318.55]]
+[[DATE?|09/19/26]]   0981  99238           [[MEDICAL_CONDITION?|HOSPITAL DISCHARGE DAY MGMT]]                    1         [[MONEY|382.00]]
+                                                                                        -------------
+                                                              PROFESSIONAL CHARGES        [[MONEY|$6,814.55]]
+                                                                     TOTAL CHARGES       [[MONEY|$38,412.60]]
+
+  Note: Modifier 25 = significant, separately identifiable E/M; RT = right side; 26 = professional
+  component; AA = anesthesia personally performed. Revenue codes 0122, 0250, 0278 per NUBC manual.
+
+=======================================================================================================
+[[ORGANIZATION?|ST. AGATHA REGIONAL MEDICAL CENTER]]   HAR [[ID_NUMBER|60418827]]                                       Page 3 of 5
+PAYMENTS, ADJUSTMENTS AND ACCOUNT ACTIVITY
+-------------------------------------------------------------------------------------------------------
+POST DATE   TXN CODE  DESCRIPTION                                                         AMOUNT
+[[DATE?|09/19/2026]]  PMT-CC    PATIENT PAYMENT AT DISCHARGE - VISA ************[[CREDIT_CARD|3134]]          [[MONEY|-250.00]]
+                      Auth 018842  Cardholder: [[PERSON|DANIEL R VANCE]]   Exp [[CARD_EXPIRY|07/29]]
+[[DATE?|09/20/2026]]  CLM-837I  CLAIM SUBMITTED TO [[ORGANIZATION?|NORTHSTAR BLUESKY]]  ICN [[CLAIM_NUMBER|2026263A41887]]
+[[DATE?|09/24/2026]]  HOLD-TPL  CLAIM PENDED - THIRD PARTY LIABILITY QUESTIONNAIRE REQUESTED
+[[DATE?|09/30/2026]]  INS-PMT   [[ORGANIZATION?|NORTHSTAR BLUESKY]] EFT TRN [[ID_NUMBER?|1*826049917*1410957801]]          [[MONEY|-24,180.31]]
+[[DATE?|09/30/2026]]  ADJ-CO45  CONTRACTUAL ALLOWANCE - NORTHSTAR PPO                       [[MONEY|-11,140.20]]
+[[DATE?|09/30/2026]]  XFER-PR   TRANSFER TO PATIENT RESPONSIBILITY (PR-1 / PR-2)            [[MONEY|2,842.09]]
+[[DATE?|10/01/2026]]  NOTE      Guarantor called re: payment plan. Spoke w/ [[PERSON|Kaitlyn Osei]] (PFS rep #[[ID_NUMBER?|4471]]).
+                      Guarantor states he works [[INDIRECT_ROLE|nights running the grain-loading crew at the Rice's
+                      Point elevator]]; best callback after 3 PM. Offered 12-mo interest-free plan.
+
+PAYMENT PLAN OFFER (no interest)                 6 months: [[MONEY|$473.68]]/mo     12 months: [[MONEY|$236.84]]/mo
+
+-------------------------------------------- detach and return ---------------------------------------
+REMITTANCE COUPON                                       Account (HAR): [[ID_NUMBER|60418827]]
+Guarantor: [[PERSON|DANIEL R VANCE]]                    Amount Due: [[MONEY|$2,842.09]]   Due by [[DATE?|10/27/2026]]
+Patient:   [[MINOR|ELODIE J VANCE]]                     Amount Enclosed: $__________
+
+[ ] VISA  [ ] MC  [ ] DISCOVER  [ ] AMEX     Card No. ________________________  Exp ____  CVV ____
+Signature ____________________________     Pay online: stagathapay.example.org  Quick-Pay Code [[ID_NUMBER|QK7-60418827-VN]]
+
+     [[ORGANIZATION?|ST AGATHA REGIONAL MEDICAL CENTER]]
+     [[ADDRESS?|PO BOX 16620]]
+     [[ADDRESS?|DULUTH MN 55816-0620]]
+   [[ID_NUMBER|0060418827]] 0000284209 1 26275 4
+
+=======================================================================================================
+[[ORGANIZATION?|NorthStar BlueSky Health Plan]]                             EXPLANATION OF BENEFITS     Page 4 of 5
+[[ADDRESS?|PO Box 64560, St. Paul, MN 55164-0560]]                          THIS IS NOT A BILL
+Member Services [[PHONE?|1-800-555-0177]] (TTY 711)    Statement Date: [[DATE?|09/29/2026]]
+
+     [[PERSON|SIMONE A MARCHETTI]]
+     [[ADDRESS|1127 WOODLAND AVE APT 3]]
+     [[ADDRESS|DULUTH MN 55803-2216]]
+
+  Subscriber:   [[PERSON|Simone A. Marchetti]]          Member ID: [[HEALTH_PLAN_ID|NSX884120375-01]]
+  Patient:      [[MINOR|Elodie J. Vance]] (dependent)   Patient ID: [[HEALTH_PLAN_ID|NSX884120375-02]]
+  Group:        [[EMPLOYER|ARROWHEAD REGIONAL TRANSIT AUTH]]  Group No. [[HEALTH_PLAN_ID?|0098214-A]]   Plan: Choice PPO 1250
+  Claim No.:    [[CLAIM_NUMBER|2026263A41887]]   Received [[DATE?|09/22/2026]]   Processed [[DATE?|09/29/2026]]
+  Provider:     [[ORGANIZATION?|St Agatha Regional Medical Center]] (In-Network)   Patient Acct: [[ID_NUMBER|60418827]]
+  Dates of Service: [[DATE|09/17/2026]] - [[DATE|09/19/2026]]   Type of Bill 0111
+
+  SERVICE                         BILLED       ALLOWED    DEDUCT    COINS     NOT COVERED   PLAN PAID   REMARK
+  ----------------------------  -----------  ----------  --------  --------  -----------  ----------  ------
+  Emergency room 0450            [[MONEY|2,502.00]]    [[MONEY|1,612.40]]    [[MONEY|1,250.00]]   [[MONEY|72.48]]        0.00      [[MONEY|289.92]]    PR1 PR2
+  Radiology/CT 0320-0350         [[MONEY|5,206.00]]    [[MONEY|3,344.10]]       0.00   [[MONEY|668.82]]        0.00    [[MONEY|2,675.28]]    PR2
+  Pharmacy/Drugs 0250-0636         [[MONEY|549.05]]      [[MONEY|352.80]]       0.00    [[MONEY|70.56]]        0.00      [[MONEY|282.24]]    PR2
+  Surgery/Anesth/Recovery       [[MONEY|11,450.00]]    [[MONEY|7,358.40]]       0.00   [[MONEY|505.01]]        0.00    [[MONEY|6,853.39]]    OOP
+  Room & board 0122 (2 days)     [[MONEY|8,530.00]]    [[MONEY|5,480.00]]       0.00   [[MONEY|275.22]]        0.00    [[MONEY|5,204.78]]    OOP
+  Supplies/Therapy/Other         [[MONEY|3,361.00]]    [[MONEY|2,160.40]]       0.00     0.00        0.00    [[MONEY|2,160.40]]    OOP
+  Professional (separate)        [[MONEY|6,814.55]]    [[MONEY|6,714.30]]       0.00     0.00        0.00    [[MONEY|6,714.30]]    CO45
+  ----------------------------  -----------  ----------  --------  --------  -----------  ----------
+  TOTALS                        [[MONEY|38,412.60]]   [[MONEY|27,022.40]]   [[MONEY|1,250.00]] [[MONEY|1,592.09]]       0.00   [[MONEY|24,180.31]]
+                                              YOUR SHARE (Deductible + Coinsurance):  [[MONEY|$2,842.09]]
+
+  REMARK CODES: PR1 deductible amount. PR2 coinsurance amount. CO45 charge exceeds fee schedule/maximum
+  allowable. OOP: annual out-of-pocket maximum reached for this member. N381 consult your contract.
+  ACCUMULATORS (plan year 2026): Indiv. deductible [[MONEY|$1,250.00]] of [[MONEY|$1,250.00]] met; Family [[MONEY|$2,500.00]] of [[MONEY|$2,500.00]];
+  Indiv. out-of-pocket [[MONEY|$3,000.00]] of [[MONEY|$3,000.00]] met; Family [[MONEY|$4,880.12]] of [[MONEY|$6,000.00]].
+  Other dependents on this contract: [[MINOR|Theo M. Vance]] ([[HEALTH_PLAN_ID|NSX884120375-03]]), age [[AGE|four]].
+
+  APPEAL RIGHTS: You have 180 days from the date of this notice to file an appeal. See 29 C.F.R. 2560.503-1.
+  Write: Appeals Unit, [[ADDRESS?|PO Box 64579, St. Paul, MN 55164]].  Need help in another language? 1-800-555-0177.
+
+=======================================================================================================
+[[ORGANIZATION?|NORTHSTAR BLUESKY]] - ACCIDENT / THIRD-PARTY LIABILITY QUESTIONNAIRE                    Page 5 of 5
+Return to: Coordination of Benefits Unit   Fax [[PHONE?|651-555-0110]]     Ref: Claim [[CLAIM_NUMBER|2026263A41887]]
+
+  Patient: [[MINOR|Elodie J. Vance]]    DOB [[DATE_OF_BIRTH|3/14/2019]]    Member ID [[HEALTH_PLAN_ID|NSX884120375-02]]
+  1. Date of injury: [[DATE|9/17/2026]]        Time: approx. 12:40 pm
+  2. How did the injury happen?  "She fell off the top of [[INDIRECT_LOCATION|the climbing dome by the back fence]]
+     during lunch recess at [[SCHOOL|Lakewalk Ridge Elementary]]. The safety mulch under it was never
+     replaced after the spring flooding. She is in [[INDIRECT_ROLE|Mrs. Haugland's 2nd grade class]]."
+  3. Was the injury work-related?  [ ] Yes  [X] No
+  4. Did the injury involve a motor vehicle?  [ ] Yes  [X] No
+  5. Is another person or entity responsible?  [X] Yes  -  [[ORGANIZATION?|Twin Ports Area Schools ISD 792]]
+  6. Have you retained an attorney?  [X] Yes   Name: [[PERSON|Gregory T. Halloran]]   Firm: [[ORGANIZATION?|Halloran & Pike PLLC]]
+     Phone: [[PHONE|(218) 555-0163]]     Email: [[EMAIL|ghalloran@halloranpike.example.com]]
+  7. Liability insurer / claim no., if known: [[ORGANIZATION?|Minnesota Schools Risk Pool]]  Claim [[CLAIM_NUMBER|MSRP-26-018840]]
+  8. Other health coverage?  [X] No
+
+  Completed by: [[PERSON|Simone A. Marchetti]]   Relationship: Mother/Subscriber   Phone: [[PHONE|(218) 555-0188]]
+  Signature: [[SIGNATURE|Simone A Marchetti]]                    Date: [[DATE?|10/04/2026]]
+
+  Plan use only:  TPL indicator Y   Subro referral to [[ORGANIZATION?|Meridian Recovery Svcs]]   Ref [[CLAIM_NUMBER|MRS-SUB-2026-77104]]

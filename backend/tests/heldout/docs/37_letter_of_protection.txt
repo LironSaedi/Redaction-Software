@@ -1,0 +1,66 @@
+                                 [[ORGANIZATION?|KIM & ABERNATHY PLLC]]
+                   [[ADDRESS?|600 Congress Avenue, Suite 1450]]  |  [[ADDRESS?|Austin, Texas 78701]]
+                        Tel [[PHONE|(512) 480-3300]]  |  Fax [[PHONE|(512) 480-3399]]
+
+[[PERSON|JORDAN ABERNATHY]]
+[[EMAIL|jabernathy@kimabernathy.com]]  |  Direct [[PHONE|512-480-3317]]
+
+[[DATE|February 4, 2025]]
+
+VIA FAX [[PHONE|(512) 458-2279]] AND EMAIL ([[EMAIL|billing@lylechiro.com]])
+
+[[PERSON|Brandon T. Lyle]], D.C.
+[[ORGANIZATION?|Lyle Family Chiropractic & Rehab]]
+[[ADDRESS?|2111 W. Anderson Ln., Ste. C]]
+[[ADDRESS?|Austin, TX 78757]]
+
+     Re:   LETTER OF PROTECTION
+           Our client / your patient:  [[PERSON|Hyun-woo ("Henry") Park]]
+           Date of birth:              [[DATE_OF_BIRTH|10/05/1982]]
+           Date of injury:             [[DATE|01/22/2025]]
+           Your account no.:           [[MRN|LFC-10388]]
+           Liability carrier:          [[ORGANIZATION?|Lakeshore General Insurance Co.]], claim [[CLAIM_NUMBER|LG-25-0122-30418]]
+           Adjuster:                   [[PERSON|Melissa Ortiz-Kang]], [[PHONE|877-525-3800 x4471]]
+
+Dear Dr. [[PERSON|Lyle]]:
+
+     This firm represents [[PERSON|Hyun-woo Park]] for personal injuries arising from a rear-end motor
+vehicle collision on [[DATE|January 22, 2025]], on southbound Loop 1 (MoPac) in [[LOCATION?|Austin]]. Mr. [[PERSON|Park]] is
+self-employed and does not currently have health insurance.
+
+     In consideration of your agreement to provide reasonable and necessary treatment to Mr. [[PERSON|Park]]
+for injuries related to this collision and to defer collection, this firm agrees to protect your
+reasonable charges from any settlement, judgment, or verdict obtained on Mr. [[PERSON|Park]]'s behalf, and to
+remit payment directly to you from the proceeds before disbursement to our client, subject to
+the following:
+
+     1.  This letter does not make this firm or any of its attorneys personally liable for your
+         charges. Mr. [[PERSON|Park]] remains responsible for your bill regardless of outcome.
+     2.  Your charges must be usual, customary, and reasonable for [[LOCATION?|Travis County]]. We may ask you to
+         consider a reduction if the recovery is insufficient to compensate all parties fairly;
+         any reduction is voluntary.
+     3.  Please provide us, within 30 days of each request, records and an itemized statement with
+         CPT codes, and execute a Tex. Civ. Prac. & Rem. Code § 18.001 affidavit upon request. Please
+         be advised that, under Tex. Civ. Prac. & Rem. Code § 18.001(e) and In re K & L Auto Crushers,
+         LLC, 627 S.W.3d 239 (Tex. 2021), your charges and any LOP arrangement may be subject to
+         discovery.
+     4.  Please do not send Mr. [[PERSON|Park]]'s account to collections, report it to a credit bureau, or
+         file a lien under Tex. Prop. Code ch. 55 while this letter is in effect.
+     5.  This letter may be withdrawn upon written notice if this firm no longer represents Mr. [[PERSON|Park]],
+         in which case we will notify subsequent counsel of your claim.
+
+     Our client consents to the release of his treatment records to this office and to the
+liability carrier. Please contact our case manager, [[PERSON|Bethany Nwosu-Clarke]] ([[PHONE|512-480-3326]]), with
+questions. Thank you for caring for Mr. [[PERSON|Park]].
+
+                                         Sincerely,
+                                         /s/ [[PERSON|Jordan Abernathy]]
+                                         [[PERSON|Jordan Abernathy]]
+
+ACKNOWLEDGED AND AGREED:
+  [[ORGANIZATION?|Lyle Family Chiropractic & Rehab]]   By: /s/ [[PERSON|Brandon T. Lyle]], D.C.   Date: [[DATE|02/05/2025]]
+
+CLIENT CONSENT: I authorize my attorneys to pay my provider from any recovery as set forth above.
+  /s/ [[PERSON|Hyun-woo Park]]          Date: [[DATE|2/4/2025]]       Phone: [[PHONE|737-215-8890]]
+
+cc: Client

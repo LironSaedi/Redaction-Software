@@ -1,0 +1,104 @@
+[[ORGANIZATION?|AUSTIN-TRAVIS COUNTY EMS]]                    PATIENT CARE REPORT (ePCR)
+[[ADDRESS?|15 Waller St]], [[ADDRESS?|Austin, TX 78702]]  Records: [[PHONE|512-972-7500]]  [[EMAIL|ems.records@atcems-records.org]]
+================================================================================
+PCR #: [[MRN|25-031447-M14]]     CAD Incident #: [[LAW_ENFORCEMENT_ID|E25073-01884]]     Unit: MEDIC 14
+Date of Service: [[DATE|03/14/2025]]          Shift: B          Response: Emergent (Lights/Siren)
+Nature: TRAFFIC/TRANSPORTATION INCIDENT - 29D2p  (Determinant: high mechanism)
+--------------------------------------------------------------------------------
+TIMES          PSAP 17:41:12   Disp 17:42:03   Enrt 17:42:40   OnScn 17:48:55
+               PtContact 17:50:10   DepScn 18:08:31   AtDest 18:20:47   InSvc 18:51:02
+
+INCIDENT LOCATION
+  [[INDIRECT_LOCATION|E BEN WHITE BLVD WB / S CONGRESS AVE]] -- [[LOCATION?|AUSTIN]] -- [[LOCATION?|TRAVIS]] CO
+  Lat/Long: [[GPS|30.21632, -97.74961]]          Location type: Street/Highway
+  Destination: [[ORGANIZATION?|Capitol Ridge Medical Center]] (Level II) -- Trauma Bay 2
+
+PATIENT
+  Name: [[PERSON|DELGADO-RUIZ, MARIA ELENA]]       DOB: [[DATE_OF_BIRTH|04-17-1986]]   Age: [[AGE|38]]   Sex: F
+  Home: [[ADDRESS|2209 BLUEBONNET LN]], [[ADDRESS|AUSTIN TX 78704]]
+  Phone: [[PHONE|512-836-2290]]       SSN: XXX-XX-[[SSN|1934]]       Weight: 64 kg (est)
+  Race/Ethnicity: [[DEMOGRAPHIC?|Hispanic or Latino]]      Language: English/Spanish
+  Payer: [[ORGANIZATION?|BCBS TX]] PPO   Member ID: [[HEALTH_PLAN_ID|XOD884417203]]   Group: [[HEALTH_PLAN_ID|228174]]
+  Guarantor: SELF      Employer: [[EMPLOYER|SOUTHPARK FAMILY DENTAL]]
+
+CREW
+  [[PERSON|Tyler Reese]], Paramedic (Lead)         TX Cert # [[ID_NUMBER|1184407]]
+  [[PERSON|Ana Lucía Moreno]], EMT-A (Driver)       TX Cert # [[ID_NUMBER|1301562]]
+  Other units on scene: AFD Engine 22, AFD Truck 22, [[ORGANIZATION?|APD]] Units 433/467, Medic 31
+
+CHIEF COMPLAINT: L wrist deformity, L chest pain, neck pain
+MECHANISM: MVC, driver, T-bone driver side by tractor trailer, est 35-40 mph,
+  intrusion >12" driver compartment, airbags deployed, restrained (lap/shoulder),
+  extrication time 22 min (AFD).
+
+PCR [[MRN|25-031447-M14]]   Pt: [[PERSON|DELGADO-RUIZ, MARIA ELENA]]   DOB [[DATE_OF_BIRTH|04-17-1986]]          Page 2 of 3
+--------------------------------------------------------------------------------
+VITALS
+  Time    BP       HR   RR   SpO2   EtCO2  GCS  Pain  BGL   Rhythm
+  17:52   138/92   118  24   95%    --     15   9     --    Sinus tach
+  18:00   134/90   114  22   96%    33     15   9     158   Sinus tach
+  18:10   128/84   108  20   97% O2 34     15   6     --    Sinus tach
+  18:18   130/86   110  20   98% O2 35     15   5     --    Sinus tach
+
+ASSESSMENT
+  General: A&Ox4, anxious, crying, speaking full sentences.
+  HEENT: abrasion L temporal; PERRL; no blood from ears/nose.
+  Neck: midline tenderness lower c-spine; trachea midline; no JVD.
+  Chest: seatbelt abrasion R clavicle -> L lower chest; tender L lateral ribs;
+         BS = bilat; no paradoxical motion.
+  Abd: soft, c/o mild LUQ tenderness on palpation.
+  Pelvis: stable to gentle compression.
+  Ext: L wrist obvious deformity w/ swelling; PMS intact x4; glass lacs L forearm.
+  Neuro: moves all ext; no focal deficit; denies LOC, states "I don't know, I
+         might have, it all went white."
+
+TREATMENT
+  17:51  Manual c-spine stabilization; c-collar (adj) applied -- [[PERSON|Reese]]
+  17:58  Rapid extrication assist w/ AFD to long board -> scoop
+  18:01  IV 18g L AC... unsuccessful (swelling); IV 18g R AC -- [[PERSON|Reese]] -- success
+  18:02  Fentanyl 100 mcg IV -- [[PERSON|Reese]]
+  18:04  L wrist splinted in position found (SAM splint) -- [[PERSON|Moreno]]
+  18:05  O2 2 L NC
+  18:09  Normal saline 500 mL TKO
+  18:12  Trauma alert called to [[ORGANIZATION?|CRMC]] via radio (Ch. MED-6) -- "Level 2, ETA 9"
+
+NARRATIVE
+  M14 dispatched emergent to above location for MVC with entrapment. On arrival
+  found a [[VEHICLE_DESCRIPTION|silver Nissan sedan]] with heavy driver-side intrusion resting against the
+  center median and a [[VEHICLE_DESCRIPTION|white Freightliner tractor w/ "SWIFTLINE" trailer]] stopped in the
+  WB lanes. AFD on scene performing extrication. Pt found in driver seat, belted,
+  airbags deployed. Pt states "the truck came through the red, I had the green
+  arrow." Pt's [[INDIRECT_ROLE|6 y/o son]] ([[PERSON MINOR|Mateo]]) was in a rear booster seat behind the front
+  passenger seat; assessed by M31 and transported separately to [[ORGANIZATION?|Lone Oak Children's]]
+  w/ his father, who arrived on scene. Truck driver (male, approx 45) ambulatory
+  on scene, refused evaluation, signed refusal w/ M31 -- see M31 PCR.
+
+  Pt extricated w/ spinal motion restriction, secured to cot, loaded. Pt
+  repeatedly asking about her son and requested we call her husband [[PERSON|Arturo]] at
+  [[PHONE|512-836-4471]] -- husband already on scene. Pt reports PMH [[MENTAL_HEALTH|anxiety]], [[MEDICAL_CONDITION?|thyroid]];
+  meds [[MEDICATION|Zoloft]], [[MEDICATION?|Synthroid]]; allergy PCN, latex (nitrile gloves used). Transport
+  uneventful; pain improved after fentanyl. Care and report given to [[PERSON|C. Blevins]] RN
+  and Dr. [[PERSON|Nair]] in Trauma Bay 2. Pt belongings (purse) sent w/ pt.
+
+PCR [[MRN|25-031447-M14]]   Pt: [[PERSON|DELGADO-RUIZ, MARIA ELENA]]   DOB [[DATE_OF_BIRTH|04-17-1986]]          Page 3 of 3
+--------------------------------------------------------------------------------
+IMPRESSION (primary): Traumatic injury -- extremity fx (suspected), chest wall
+  injury, possible c-spine injury.
+SECONDARY: [[MENTAL_HEALTH?|Acute anxiety]]
+
+DISPOSITION: Treated & transported, emergent, to [[ORGANIZATION?|CRMC]]. Pt condition unchanged-
+  improved. Transfer of care 18:22.
+
+SIGNATURES
+  Patient signature: unable to sign -- injury to dominant? (No -- pt R-handed;
+    pt in distress, signature obtained at hospital 18:40)  [[PERSON|M. Delgado-Ruiz]]
+  Receiving RN: [[PERSON|Courtney Blevins]] RN   [[DATE|03/14/2025]] 18:24
+  Crew: [[PERSON|T. Reese]], NRP / [[PERSON|A. L. Moreno]], EMT
+
+Billing: ALS1-Emergency (A0427) + mileage 6.1 loaded mi (A0425) -- Charge
+  [[MONEY?|$2,184.00]]. ICD-10: S52.502A, S29.9XXA, S16.1XXA.
+Authorization on file. Report completed [[DATE|03/14/2025]] 21:37 by [[USERNAME|treese1184]].
+QA reviewed [[DATE|03/17/2025]] -- [[PERSON|L. Okonjo]], Clinical Specialist.
+
+Copy released [[DATE|4/9/2025]] to [[ORGANIZATION?|Kim & Abernathy PLLC]] per HIPAA authorization. Release ID
+REL-25-00912. Fee paid [[MONEY?|$25.00]] (check # 10442).

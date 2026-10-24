@@ -1,0 +1,71 @@
+[[ORGANIZATION?|LONE STAR SURVEILLANCE GROUP, LLC]]  --  Licensed by Texas DPS Private Security Program, Lic. C18822
+[[ADDRESS?|P.O. Box 341190]], [[ADDRESS?|Austin, TX 78734]]  |  [[PHONE|(512) 266-0418]]  |  [[EMAIL|reports@lonestarsurveillance.com]]
+
+                       OPEN-SOURCE / SOCIAL MEDIA INVESTIGATION REPORT
+               PREPARED AT THE DIRECTION OF COUNSEL -- ATTORNEY WORK PRODUCT
+
+Client:           [[ORGANIZATION?|Garrison Leal LLP]] for [[ORGANIZATION?|Lakeshore General Insurance Co.]]
+Claim/File:       [[CLAIM_NUMBER|LG-25-0122-30418]]  /  GL 2025-0331
+Subject:          [[PERSON|PARK, Hyun-woo]] ("[[PERSON|Henry]]")     DOB [[DATE_OF_BIRTH|10/05/1982]]
+Subject address:  [[ADDRESS|4512 Avenue F, Austin, TX 78751]]
+Investigator:     [[PERSON|Wade Ostrander]], Licensed Investigator ID [[ID_NUMBER|PI-0118822]]
+Capture method:   Page Vault Browser (forensic capture with hash), captures from investigator workstation
+                  IP [[IP_ADDRESS|104.28.33.17]], UTC timestamps
+Report date:      [[DATE|07/08/2025]]
+-----------------------------------------------------------------------------------------------------
+
+1. ACCOUNTS IDENTIFIED
+   Platform    Handle / URL                                        Visibility    Linked to subject by
+   ---------   -------------------------------------------------   -----------   ----------------------------
+   Instagram   [[USERNAME|@henrypark_atx]]                                      Public        face match; tags by spouse
+   Instagram   [[USERNAME|@seoulfoodatx]] (business, 14.2K followers)           Public        bio "Chef/owner [[PERSON|Henry]]"
+   Facebook    [[URL|facebook.com/hyunwoo.henry.park]]                       Partially     name, photos, workplace
+   TikTok      [[USERNAME|@seoulfoodatx]]                                       Public        same branding
+   Instagram   [[USERNAME|@jieun.park.cpa]] (spouse -- [[PERSON|Ji-eun Park]])                 Private       --
+   Strava      [[URL|strava.com/athletes/40918822]] ("[[PERSON|Henry P.]]")                Public        profile photo
+   Venmo       [[USERNAME|@Henry-Park-ATX]]                                     Public txns   name/photo
+
+2. PROFILE DATA (Facebook, captured [[DATE|2025-07-02]] 14:11 UTC)
+   Works at [[EMPLOYER|Seoul Food ATX]] -- Owner/Chef. Former: [[EMPLOYER|Samsung Austin Semiconductor]] (process engineer).
+   Studied at [[SCHOOL|The University of Texas at Austin]] (M.S. Chemical Engineering, 2010) and [[SCHOOL|Yonsei University]].
+   Lives in [[LOCATION?|Austin, Texas]]. From [[LOCATION?|Busan, South Korea]]. Married to [[PERSON|Ji-eun Park]].
+   Family members listed: [[PERSON MINOR|Daniel Park]] (son, account private).
+
+3. POSTS OF INTEREST
+   (a) Instagram [[USERNAME|@henrypark_atx]] -- posted [[DATE|2025-03-08]] 16:42 CST -- geotag "[[INDIRECT_LOCATION|Pedernales Falls State Park]]"
+       ([[GPS|30.3081, -98.2577]])
+       Image: subject standing on rocks at river, carrying a [[INDIRECT_ROLE|young girl (approx. 7-8)]] on his shoulders;
+       backpack visible. Caption: "Spring break w/ my crew. [[PERSON MINOR|Seo-yeon]] made it the whole trail!"
+       Comment by [[USERNAME|@jieun.park.cpa]]: "my back hurts just looking at this lol"
+       Reply by subject: "neck is paying for it today haha"
+       Likes: 87. Capture hash SHA-256 3b9e...a71c.
+       NOTE: 45 days post-collision; chiropractic note [[DATE|03/10/2025]] reports neck 4/10.
+
+   (b) Instagram [[USERNAME|@seoulfoodatx]] Reel -- posted [[DATE|2025-04-12]] 11:05 CDT -- 0:19
+       Video: subject lifts and carries what appears to be a 100-lb propane cylinder from the van to the
+       truck (approx. 15 ft), unassisted. Caption: "New tank who dis. Open til 9 tonight on E 6th!"
+       Views 22.4K. Audio: subject says "[[PERSON|Jae-sung]]'s late again, I got it."
+       NOTE: In R/S [[DATE|01/28/2025]] subject stated cousin performs propane lifting.
+
+   (c) Facebook check-in -- [[DATE|2025-05-03]] 19:20 CDT -- "[[INDIRECT_LOCATION|Austin Bouldering Project -- Springdale]]"
+       Text: "[[PERSON MINOR|Daniel]]'s [[AGE|12th]] birthday party! He crushed the V3 wall." Photo shows subject belaying? [no -- bouldering;
+       subject standing at mat area holding a cake]. Not physically demanding as depicted.
+
+   (d) TikTok [[USERNAME|@seoulfoodatx]] -- posted [[DATE|2025-06-14]] -- 0:42 -- subject at flat-top grill, ~8 min continuous
+       footage during "Juneteenth Jam" at [[INDIRECT_LOCATION|Givens Park]]. Subject rubs neck at 0:31. Caption: "Long day,
+       worth it."
+
+   (e) Strava -- "Morning Ride" [[DATE|2025-05-18]] -- 18.4 mi bicycle, avg 14.2 mph, Walnut Creek trail -- start point
+       obscured by privacy zone (approx. 0.25 mi radius around home).
+
+   (f) Venmo public transactions -- [[DATE|04/04/2025]] to [[USERNAME|@JaeSung-Kim-17]] "lift+grill"; [[DATE|04/11/2025]] "heavy stuff" --
+       consistent with subject's claim of paying cousin for lifting.
+
+4. INVESTIGATOR'S SUMMARY
+   Posts (a) and (b) depict activities arguably inconsistent with reported limitations. Posts (d) and (f)
+   are consistent with subject's claims. No posts reference the lawsuit. No contact was made with the
+   subject or his family. No "friend" or "follow" requests were sent; private accounts were not accessed.
+   Minor children's images were captured incidentally and should be redacted before any production.
+
+   /s/ [[PERSON|Wade Ostrander]]                                                    [[DATE|07/08/2025]]
+   Hours: 6.5 @ [[MONEY?|$95]] = [[MONEY?|$617.50]].   Invoice LSSG-25-0412.

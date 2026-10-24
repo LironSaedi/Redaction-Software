@@ -1,0 +1,74 @@
+[[ORGANIZATION?|CORNERSTONE FORENSIC TOXICOLOGY, INC.]]          HHS-Certified Laboratory (NLCP)  |  Lab ID 0477
+[[ADDRESS?|2750 Lakeline Blvd]], [[ADDRESS?|Cedar Park, TX 78613]]  |  Client Services [[PHONE|800.224.6610]]
+=================================================================================================
+                FEDERAL DRUG TESTING CUSTODY AND CONTROL FORM -- LABORATORY RESULT REPORT
+=================================================================================================
+Specimen ID: [[MRN?|K40871226]]          Accession: [[MRN?|25-073-118440]]          Report Date: [[DATE|03/17/2025]] 11:42
+CCF Step 1 (completed by Collector)
+  A. Employer: [[EMPLOYER|SWIFTLINE FREIGHT LLC]], [[ADDRESS?|9900 Industrial Oaks Blvd, Buda, TX 78610]]
+     DER: [[PERSON|Gina Tolliver]], Safety Director   Ph [[PHONE|512-295-7700 x114]]   Fax [[PHONE|512-295-7790]]
+  B. MRO: [[PERSON|Harold V. Pennington]], MD, MRO   [[ADDRESS?|P.O. Box 160412]], [[ADDRESS?|San Antonio, TX 78280]]   Ph [[PHONE|210-555-0153]]
+  C. Donor SSN or Employee I.D. No.: ***-**-[[SSN|6618]] / Employee [[ID_NUMBER|SWF-02281]]
+  D. Specify Testing Authority: [X] FMCSA
+  E. Reason for Test: [X] Post Accident
+  F. Drug Tests to be Performed: [X] THC, COC, PCP, OPI, AMP
+  G. Collection Site: [[ORGANIZATION?|WorkWell Occupational Health -- Austin South]], [[ADDRESS?|4709 S. IH-35 Frontage Rd]],
+     [[ADDRESS?|Austin TX 78744]]   Collector Ph [[PHONE|512-693-2275]]
+CCF Step 2-4
+  Temperature in range (32-38 C): YES   Collection: SPLIT   Observed: NO
+  Collector: [[PERSON|Brenda Ochoa-Fails]]   Date/Time of collection: [[DATE|03/14/2025]] 20:48
+  Remarks: "Post-accident >2 hrs after crash (crash 17:38). Driver states delay due to police on
+  scene and EMS refusal. Alcohol test (EBT) performed 20:51 -- see ATF."
+CCF Step 5 (Donor)
+  Donor name: [[PERSON|WELLS, HUNTER J]]      Daytime Ph: [[PHONE|512-398-0047]]   DOB: [[DATE_OF_BIRTH|11/02/1979]]
+  Donor signature: [[PERSON|Hunter Wells]]      Date: [[DATE|03/14/2025]]
+
+LABORATORY RESULTS -- PRIMARY SPECIMEN (Bottle A)
+  Received at lab: [[DATE|03/15/2025]] 09:10   Seal intact: YES   Accessioner: [[PERSON|T. Mbeki]]
+
+  Analyte                     Screen Cutoff    Screen Result    Confirm Cutoff    Confirm Result
+  --------------------------  ---------------  ---------------  ----------------  ----------------
+  Marijuana metabolite        50 ng/mL         NEGATIVE         15 ng/mL          --
+  Cocaine metabolite          150 ng/mL        NEGATIVE         100 ng/mL         --
+  Opiates (codeine/morphine)  2000 ng/mL       NEGATIVE         2000 ng/mL        --
+  6-Acetylmorphine            10 ng/mL         NEGATIVE         10 ng/mL          --
+  Oxycodone/Oxymorphone       100 ng/mL        NEGATIVE         100 ng/mL         --
+  Hydrocodone/Hydromorphone   300 ng/mL        NEGATIVE         100 ng/mL         --
+  Phencyclidine               25 ng/mL         NEGATIVE         25 ng/mL          --
+  Amphetamines                500 ng/mL        NEGATIVE         250 ng/mL         --
+  MDMA/MDA                    500 ng/mL        NEGATIVE         250 ng/mL         --
+  Fentanyl (not DOT panel)    --               not tested       --                --
+
+  Specimen validity: Creatinine 18.4 mg/dL (>= 20 normal) -- DILUTE (2 <= Cr < 20, SG 1.0028)
+                     Specific gravity 1.0028   pH 6.8   Oxidant: negative
+  RESULT: NEGATIVE-DILUTE
+
+  Certifying Scientist: [[PERSON|Arjun Raghunathan]], PhD, F-ABFT     [[DATE|03/17/2025]] 11:40
+
+CCF [[MRN?|K40871226]] -- Donor [[PERSON|WELLS, HUNTER J]] -- Page 2 of 2
+=================================================================================================
+MEDICAL REVIEW OFFICER VERIFICATION (Step 6/7)
+  Verified result: [X] NEGATIVE -- DILUTE
+  MRO action: Per 49 CFR § 40.197(b)(2), creatinine 2-5 mg/dL requires immediate recollection
+  under direct observation; creatinine 18.4 does not meet that criterion. Employer MAY direct a
+  recollection under § 40.197(c) (policy-based). Employer policy: no recollection for post-accident.
+  Donor interview: [[DATE|03/17/2025]] 14:05 by phone ([[PHONE|512-398-0047]]). Donor reported drinking
+  "two Big Gulps of water" while waiting at the scene and denied any prescription drugs other
+  than [[MEDICATION|lisinopril]] and [[MEDICATION|metformin]]. No safety-sensitive medication concern.
+  /s/ [[PERSON|Harold V. Pennington]], MD, MRO   NPI [[NPI|1862551185]]      [[DATE|03/17/2025]] 14:30
+
+ALCOHOL TESTING FORM (DOT) -- SUMMARY
+  ATF #: 0091148   Device: Intoxilyzer 8000C, S/N 80-004471 (EBT, NHTSA CPL)
+  Screening test: 20:51  Result 0.000   BAT: [[PERSON|B. Ochoa-Fails]]   Confirmation: not required
+  Note: § 382.303(b) -- alcohol test not administered within 2 hours; reason documented by
+  employer: "driver detained at scene by APD and EMS"; within 8 hours -- test administered.
+
+CHAIN OF CUSTODY (internal)
+  [[DATE|03/15]] 09:10 rec'd [[PERSON|T. Mbeki]]  ->  09:44 aliquot [[PERSON|R. Salgado]]  ->  [[DATE|03/16]] 22:15 screen (Olympus AU5800)
+  ->  [[DATE|03/17]] 08:02 review [[PERSON|A. Raghunathan]]. Bottle B (split) frozen, retained 1 year.
+
+DISTRIBUTION: MRO (secure fax); Employer DER (MRO-verified result only); Donor copy on request.
+  Subpoena: produced to [[ORGANIZATION?|Kim & Abernathy PLLC]] [[DATE|06/12/2025]] (Bates SWIFT 000377-000378).
+
+This report contains confidential drug testing information protected by 49 CFR Part 40,
+Subpart P. Release only as permitted by § 40.321 and § 40.323.

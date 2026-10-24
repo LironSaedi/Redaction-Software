@@ -1,0 +1,134 @@
+                                CAUSE NO. [[CASE_NUMBER|2025-58817]]
+
+[[PERSON|FUNMILAYO OLUWAKEMI ADEYEMI]], Individually, as     §     IN THE DISTRICT COURT OF
+Representative of the ESTATE OF [[PERSON|OLUMIDE BABATUNDE]]  §
+[[PERSON|ADEYEMI]], Deceased, and as Next Friend of [[PERSON MINOR|A.A.]], a  §
+Minor; [[PERSON|TOLULOPE ADEYEMI]]; [[PERSON|OLUWASEUN ADEYEMI]]; and       §
+[[PERSON|ADUNNI ADEYEMI]],                                     §     [[LOCATION?|HARRIS COUNTY]], TEXAS
+     Plaintiffs,                                      §
+v.                                                    §
+[[PERSON|KEVIN LEE PRUITT]] and [[ORGANIZATION?|SIDELINES SPORTS GRILL, LLC]]   §
+d/b/a "[[ORGANIZATION?|SIDELINES ON WESTHEIMER]],"                      §
+     Defendants.                                      §     ___ JUDICIAL DISTRICT
+
+                PLAINTIFFS' ORIGINAL PETITION (WRONGFUL DEATH AND SURVIVAL)
+                              AND REQUEST FOR DISCLOSURE
+
+TO THE HONORABLE JUDGE OF SAID COURT:
+
+                                  I. DISCOVERY CONTROL PLAN
+     1.  Plaintiffs intend to conduct discovery under Level 3, Tex. R. Civ. P. 190.4. Plaintiffs seek
+monetary relief over [[MONEY?|$1,000,000]]. Tex. R. Civ. P. 47(c)(5).
+
+                                        II. PARTIES
+     2.  Plaintiff [[PERSON|Funmilayo Oluwakemi Adeyemi]] is the surviving spouse of [[PERSON|Olumide Babatunde Adeyemi]]
+("[[PERSON|Olumide]]" or "Decedent") and resides in [[LOCATION?|Harris County]], Texas. She brings this action individually
+under Tex. Civ. Prac. & Rem. Code § 71.004, as the representative of the Estate under § 71.021 (letters
+testamentary issued [[DATE|August 28, 2025]], Probate Court No. 4, No. [[CASE_NUMBER|PR-25-04417]]), and as next friend of
+[[PERSON MINOR|A.A.]], the parties' minor daughter. The last three digits of her driver's license number are [[DRIVERS_LICENSE|612]];
+the last three digits of her Social Security number are [[SSN|209]].
+     3.  Plaintiff [[PERSON|Tolulope Adeyemi]] is the adult son of Decedent and resides in [[LOCATION?|King County]],
+Washington. The last three digits of his driver's license number are [[DRIVERS_LICENSE|884]].
+     4.  Plaintiff [[PERSON|Oluwaseun Adeyemi]] is the adult daughter of Decedent and resides in [[LOCATION?|Denton County]],
+Texas.
+     5.  Plaintiff [[PERSON|Adunni Adeyemi]] is the surviving mother of Decedent and resides in [[LOCATION?|Lagos]], Federal
+Republic of Nigeria.
+     6.  Defendant [[PERSON|Kevin Lee Pruitt]] is an individual residing at [[ADDRESS|6402 Hollow Oaks Lane, Katy, Texas 77449]],
+who may be served there or wherever he may be found. He is currently released on bond in Cause No.
+[[CASE_NUMBER|1854472]], [[CRIMINAL_HISTORY|State of Texas v. Kevin Lee Pruitt, Intoxication Manslaughter]], 351st District Court.
+     7.  Defendant [[ORGANIZATION?|Sidelines Sports Grill, LLC]] is a Texas limited liability company doing business as
+"[[ORGANIZATION?|Sidelines on Westheimer]]" at [[ADDRESS?|9715 Westheimer Road, Houston, Texas 77042]], holding TABC permit
+MB-1188402. It may be served through its registered agent, [[PERSON|Darrell Whitacre]], at the same address.
+
+                                       III. FACTS
+     8.  On the evening of [[DATE|July 4, 2025]], [[PERSON|Olumide Adeyemi]] -- husband, father, engineer, and church elder --
+walked with his wife and their [[INDIRECT_ROLE|fifteen-year-old daughter]] from the Independence Day fireworks at
+[[INDIRECT_LOCATION|Living Waters Parish on Fondren Road]] toward their car. At approximately 9:52 p.m., the family
+entered the marked crosswalk across Westheimer Road at Fondren Road on a "WALK" signal.
+     9.  At the same moment, Defendant [[PERSON|Pruitt]], driving a [[VEHICLE_DESCRIPTION|red 2021 Dodge Ram 1500]] (Texas license plate
+[[LICENSE_PLATE|LXR4790]], VIN [[VIN|1C6SRFFT9MN220417]]) westbound on Westheimer, ran the red light at approximately 48 mph
+in a 35-mph zone. [[PERSON|Olumide]] saw the truck, pushed his daughter backward out of its path, and was struck.
+He was thrown approximately 70 feet. He died at [[ORGANIZATION?|Westchase General Hospital]] at 11:31 p.m., with his
+wife holding his hand.
+     10. [[PERSON|Pruitt]]'s breath alcohol concentration was 0.168 at 11:05 p.m. -- more than twice the legal limit.
+A blood specimen drawn under warrant at 12:40 a.m. on [[DATE|July 5, 2025]] measured 0.151 g/100 mL. [[PERSON|Pruitt]] [[CRIMINAL_HISTORY|was
+previously convicted of Driving While Intoxicated in Fort Bend County in 2019]].
+     11. In the four hours before the collision, [[PERSON|Pruitt]] was served at least nine 22-oz. draft beers and two
+shots of whiskey at [[ORGANIZATION?|Sidelines]], according to his own bar tab (Visa ending [[CREDIT_CARD|3306]], opened 5:41 p.m., closed
+9:38 p.m., [[MONEY?|$141.60]] before tip). [[ORGANIZATION?|Sidelines]]' bartender, [[PERSON|Kayleigh Dunaway]], continued to serve him after
+he had become loud, unsteady, and had knocked over a stool, as shown on the bar's own security video.
+
+                         IV. WHO [[PERSON|OLUMIDE ADEYEMI]] WAS (THE FAMILY'S ACCOUNT)
+     12. [[PERSON|Olumide Babatunde Adeyemi]] was born on [[DATE_OF_BIRTH|January 30, 1968]], in [[LOCATION?|Ibadan]], Oyo State, Nigeria, the
+second of five children of [[PERSON|Babatunde]] and [[PERSON|Adunni Adeyemi]]. His father was a secondary-school
+mathematics teacher; his mother sold fabric at [[INDIRECT_LOCATION|Oje Market]]. He bore on his cheeks the three
+traditional marks of his family's lineage, which his children say he wore "like a crown."
+     13. He graduated first in his class in petroleum engineering from the [[SCHOOL|University of Ibadan]] in 1990 and
+came to the United States in 1996 on a student visa to earn his master's degree at the [[SCHOOL|University of
+Houston]]. He returned to [[LOCATION?|Lagos]] in December 1997 to marry [[PERSON|Funmilayo Ogunleye]], whom he had known
+since their secondary school days at [[SCHOOL|Government College Ibadan]]. They settled in [[LOCATION?|Houston]], where he
+became a [[IMMIGRATION_STATUS|naturalized United States citizen in 2006]] -- a day his family says he called "the
+second-best day of my life, after my wedding."
+     14. For 22 years he worked as a reservoir engineer, most recently as Senior Reservoir Engineer at
+[[EMPLOYER|Gulfstar Energy Services]], where he earned a [[FINANCIAL_INFO|base salary of $186,400 plus an annual bonus averaging
+$38,000]]. He mentored dozens of young engineers, many of them first-generation immigrants like himself.
+     15. He was an elder at [[ORGANIZATION?|Living Waters Parish]], where he taught the Sunday youth class and organized the
+annual Independence Day fireworks for the neighborhood -- the event the family was leaving when he was
+killed. He coached under-12 soccer at [[INDIRECT_LOCATION|Bayland Park]] for eleven seasons. He called his mother in
+[[LOCATION?|Lagos]] every Sunday at 7:00 a.m. [[LOCATION?|Houston]] time, without fail, and sent her [[FINANCIAL_INFO|$1,200 every month]].
+     16. He is survived by his wife of 27 years, [[PERSON|Funmilayo]], a [[INDIRECT_ROLE|labor-and-delivery charge nurse at Westchase
+General Hospital]] -- the same hospital where he died; his son [[PERSON|Tolulope]] ("[[PERSON|Tolu]]"), [[AGE|27]], a software engineer in
+[[LOCATION?|Seattle]]; his daughter [[PERSON|Oluwaseun]] ("[[PERSON|Seun]]"), [[AGE|24]], a nursing student at [[SCHOOL|Texas Woman's
+University]] who had planned to have her father walk her down the aisle in [[DATE?|April 2026]]; his daughter [[PERSON MINOR|A.A.]],
+[[AGE|15]], a sophomore at [[SCHOOL|Westchase Preparatory Academy]], whom he saved; his mother, [[PERSON|Adunni]], [[AGE|82]]; and
+four siblings.
+     17. [[PERSON MINOR|A.A.]] saw her father die. She has since been diagnosed with [[MENTAL_HEALTH|post-traumatic stress disorder]] and
+is in weekly counseling. She has not returned to the varsity track team. She sleeps in her parents' room.
+
+Plaintiffs' Original Petition -- [[PERSON|Adeyemi]] v. [[PERSON|Pruitt]], et al.                                       Page 3
+
+                                  V. CAUSES OF ACTION
+     18. Negligence and negligence per se -- Defendant [[PERSON|Pruitt]]. Defendant [[PERSON|Pruitt]] owed a duty to exercise
+ordinary care. He breached that duty, and violated Tex. Transp. Code §§ 544.007 (traffic signals), 545.351
+(speed), and 552.002 (pedestrian right-of-way), and Tex. Penal Code § 49.04 (DWI), each of which was
+designed to protect pedestrians such as Decedent.
+     19. Gross negligence -- Defendant [[PERSON|Pruitt]]. Driving at nearly twice the legal limit, speeding, through a red
+light, into a crowded crosswalk on the Fourth of July, with a prior DWI conviction, involved an extreme degree
+of risk of which he had actual, subjective awareness. Plaintiffs seek exemplary damages, which are not subject
+to the statutory cap because the conduct constitutes a felony under Tex. Penal Code § 49.08. Tex. Civ. Prac.
+& Rem. Code § 41.008(c)(10).
+     20. Dram Shop Liability -- Defendant [[ORGANIZATION?|Sidelines]]. Under Tex. Alco. Bev. Code § 2.02(b), [[ORGANIZATION?|Sidelines]] is liable
+because at the time it provided alcoholic beverages to [[PERSON|Pruitt]] it was apparent to the provider that he was
+obviously intoxicated to the extent that he presented a clear danger to himself and others, and his
+intoxication was a proximate cause of Decedent's death. See F.F.P. Operating Partners, L.P. v. Duenez, 237
+S.W.3d 680 (Tex. 2007). The "safe harbor" of § 106.14 does not apply because [[ORGANIZATION?|Sidelines]] encouraged
+overservice through its "Bottomless Fourth" promotion.
+
+                                       VI. DAMAGES
+     21. Wrongful death beneficiaries (§ 71.004) seek: pecuniary loss (loss of support, services, advice, and
+counsel, including [[FINANCIAL_INFO|$1,200 per month in support to his mother]]); loss of companionship and society;
+mental anguish; loss of inheritance; and funeral expenses of [[MONEY?|$18,742.16]] ([[ORGANIZATION?|Bradshaw-Carter Funeral Home]]
+and repatriation of a memorial service to [[LOCATION?|Ibadan]]).
+     22. The Estate (§ 71.021) seeks conscious pain and mental anguish suffered by Decedent from impact until
+death (approximately 99 minutes; he was briefly responsive at the scene, according to HFD), and medical
+expenses of [[MONEY?|$97,416.00]] ([[ORGANIZATION?|Westchase General Hospital]]; HFD EMS).
+     23. Exemplary damages against both Defendants.
+
+                                  VII. CONDITIONS PRECEDENT; JURY DEMAND
+     24. All conditions precedent have occurred. Plaintiffs demand a jury and tender the fee.
+
+                                        PRAYER
+     Plaintiffs ask that Defendants be cited to appear and that, on final trial, Plaintiffs have judgment for
+actual and exemplary damages, pre- and post-judgment interest, costs, and all other relief to which they are
+entitled.
+                                    Respectfully submitted,
+                                    [[ORGANIZATION?|NNAMDI PIERCE TRIAL LAWYERS, PLLC]]
+                                    [[ADDRESS?|5847 San Felipe St., Suite 2100]]
+                                    [[ADDRESS?|Houston, Texas 77057]]
+                                    Tel. [[PHONE|713-664-2900]] | Fax [[PHONE|713-664-2901]]
+                                    By: /s/ [[PERSON|Adaora Nnamdi-Pierce]]
+                                    [[PERSON|Adaora Nnamdi-Pierce]], State Bar No. [[ID_NUMBER|24059904]]
+                                    [[EMAIL|adaora@nnamdipierce.com]]
+                                    [[PERSON|Marcus Delahoussaye]], State Bar No. [[ID_NUMBER|24112268]]
+                                    [[EMAIL|mdelahoussaye@nnamdipierce.com]]
+                                    ATTORNEYS FOR PLAINTIFFS

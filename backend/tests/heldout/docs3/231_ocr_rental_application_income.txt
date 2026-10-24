@@ -1,0 +1,88 @@
+[OCR TEXT LAYER - faxed application packet, 5 pp. Fax header: "[[DATE?|O9/28/2026]] 16:O2  FR0M: [[PHONE?|919 555 O114]]  TO: [[ORGANIZATION?|BRIARCREST PR0P MGMT]]  P.OO1/OO5". Uncorrected.]
+
+[[ORGANIZATION?|BRIARCREST PR0PERTY MANAGEMENT, LLC]]                       RESIDENTIAL RENTAL APPLICATI0N
+[[ADDRESS?|38O0 Glenwood Ave, Ste 2l0, Ra1eigh, NC 276l2]]                   Each adu1t (18+) must app1y separate1y.
+Property app1ied f0r: [[ADDRESS?|ll6 Oakvi1le Crossing Ln, Unit C-2O4, Cary NC 275l3]]   Rent [[MONEY|$2,l45]]/rno   Move-in [[DATE?|ll/O1/2O26]]
+
+APPLICANT
+  Ful1 1egal narne:  [[PERSON|PRIYA  DESAI-0KONJO]]                       0ther narnes used: [[PERSON|Priya N. Desai]]
+  Date of birth:  [[DATE_OF_BIRTH|O5/l7/l99l]]    SSN: [[SSN|24l-8O-37l9]]    Driver's 1ic. # / State: [[DRIVERS_LICENSE|0OO3l8822l4]] / NC
+  Ce11: [[PHONE|(9l9) 555-Ol33]]      Ernail: [[EMAIL|priya.desaiokonjo@exarnp1email.com]]
+  Current address: [[ADDRESS|2O7 Hi1lsb0rough St Apt 5l1]], [[ADDRESS|Ra1eigh NC 276O3]]      Since: [[DATE?|O8/2O22]]   Rent [[MONEY|$l,79O]]
+  Current 1and1ord: [[PERSON|Gregory Hawt horne]] ([[ORGANIZATION?|Capita1 B1vd Apartrnents]])   Ph [[PHONE|9l9-555-Ol6l]]
+  Reason for rnoving: "need 2 bdrrn - [[MEDICAL_CONDITION|baby due in Dec]] + c1oser to [[INDIRECT_LOCATION|husband's c1inic r0tation in Cary]]"
+  Previous address: [[ADDRESS|44 Wi11ow Bend Ct, Durharn NC 277O7]] ([[DATE?|2O19]]-[[DATE?|2O22]])   Landl0rd: Mrs. [[PERSON|Ade1e Pfister]] [[PHONE|(9l9) 555-O19O]]
+
+  Ernp1oyer: [[EMPLOYER|Tri-County Pediatric Therapy Group]]     P0sition: Speech-1anguage pathologist
+  Supervis0r: [[PERSON|Dana Mbeki-Ho1t]]   Ph [[PHONE|(9l9) 555-Ol27]] ext 4   Start [[DATE|O3/2O2l]]   Gross [[MONEY|$6,8l2]]/rno
+  0ther incorne: tutoring [[MONEY|~$4OO]]/rno ([[ORGANIZATION?|Venrno]])
+
+CO-APPLICANT
+  Ful1 1egal narne:  [[PERSON|0LUWASEUN T. 0KONJO]]                    0ther narnes: "[[PERSON|Seun]]"
+  Date of birth:  [[DATE_OF_BIRTH|l2/O2/l989]]    SSN/ITIN: [[ITIN|9l2-7l-O448]] (SSN app1. pending)   ID: Passport [[PASSPORT|A0l7724l9]] (Nigeria) exp [[DATE?|2O3O]]
+  Ce11: [[PHONE|(9l9) 555-Ol5O]]     Ernai1: [[EMAIL|seun.okonjo@exarnplemai1.org]]
+  Ernp1oyer: [[EMPLOYER|Wake Ridge Physical Therapy]]   P0sition: PT resident (H-1B)   Supervis0r: Dr. [[PERSON|R. Lindgren-Osei]]
+  Start [[DATE|O7/2O25]]   Gross [[MONEY|$5,25O]]/rno     Visa/I-797 receipt # [[ID_NUMBER|WAC26l90447l8]]
+
+0CCUPANTS (n0t app1icants)
+  [[MINOR|Ternperance A. 0konjo]]   age [[AGE|3]]   (daughter)          [baby due [[DATE|Dec 2O26]]]
+
+PETS: [ ] n0ne  [X] 1 cat - "[[PERSON?|Mango]]", 9 1bs, spayed (vet: [[ORGANIZATION?|Five Points Anima1 Hosp]].)
+VEHICLES:  1) [[VEHICLE_DESCRIPTION|2O19 Honda CR-V EX, si1ver]]  NC tag [[LICENSE_PLATE|PKR-44l7]]   VIN [[VIN|5J6RW2H5XKL0O4471]]
+           2) [[VEHICLE_DESCRIPTION|2Ol5 Toyota Prius, b1ue w/ dent rear burnper]]  NC tag [[LICENSE_PLATE|HJW-9O22]]
+
+BACKGR0UND (answer a11)
+  Ever evicted?  [ ] Yes [X] No      Ever fi1ed bankruptcy?  [X] Yes  [ ] No - [[FINANCIAL_INFO|Ch. 7 discharged 2O2O (student 1oans not discharged)]]
+  Ever c0nvicted of a fe1ony or rnisdemeanor?  [X] Yes [ ] No  If yes exp1ain:
+     "[[CRIMINAL_HISTORY|DWI - Durharn Co. 2Ol8, 1eve1 5, cornpleted A1cohol & Drug Services course, no other]]" -P.D.O.
+  Do y0u smoke?  [ ] Yes [X] No
+
+EMERGENCY C0NTACT: [[PERSON|Nita Desai]] (rn0ther) [[ADDRESS|9 Pinegrove Rd, Edison NJ O8820]]  [[PHONE|(732) 555-Ol84]]
+
+AUTH0RIZATI0N: I authorize [[ORGANIZATION?|Briarcrest]] to obtain credit, crirnina1 and eviction reports and to verify ernp1oyrnent,
+incorne and rental history. App1ication fee [[MONEY|$65]] per adult (non-refundab1e). Paid by card ending [[CREDIT_CARD|1235]].
+
+  App1icant: [[SIGNATURE|Priya Desai-Okonjo]]     Date [[DATE?|9/28/26]]        Co-app: [[SIGNATURE|O. Okonjo]]     Date [[DATE?|9/28/26]]
+                                                                                    P.OO1/OO5 - P.OO2/OO5
+-------------------------------------------------------------------------------------------------------------
+[[ORGANIZATION?|BRIARCREST]] - VERIFICATI0N 0F EMPL0YMENT                                                P.OO3/OO5
+  To: [[EMPLOYER|Tri-County Pediatric Therapy Group]], HR    Fax [[PHONE?|9l9-555-O1O2]]
+  Re: [[PERSON|Priya Desai-0konjo]]   SSN (1ast 4) [[SSN|37l9]]   - signed re1ease attached
+
+  Ernp1oyed since: [[DATE|O3/l5/2O2l]]   Status: [X] FT  [ ] PT   Title: SLP II   Rate: [[MONEY|$4l.92]]/hr, 37.5 hrs/wk
+  YTD gross as of [[DATE?|9/2O/26]]: [[MONEY|$6l,3O8.4O]]      2O25 gross: [[MONEY|$78,ll5.OO]]     Bonus/OT: none
+  Probabi1ity of continued ernp1oyment: "Ver y 1ikely - she is [[INDIRECT_ROLE|our on1y bi1ingual (Gujarati) SLP]]"
+  Upcorning 1eave: [[MEDICAL_CONDITION|rnaternity]] 1eave approved l2/l5/26 - O3/l5/27 (FMLA + STD 6O%)
+  Cornp1eted by: [[PERSON|Kirn Vo-Ashby]], HR Generalist   [[SIGNATURE|K Vo-Ashby]]   [[DATE?|O9/3O/2O26]]   Ph [[PHONE|9l9-555-Ol27]] x2
+-------------------------------------------------------------------------------------------------------------
+[[ORGANIZATION?|BRIARCREST]] - INC0ME & ASSET W0RKSHEET (1easing agent)                                     P.OO4/OO5
+  Agent: [[PERSON|T. Barkdu11]]   Ernp1oyee # [[ID_NUMBER|BPM-O33l]]   Screening report # [[ID_NUMBER?|SR-2O26-O9-l8842O]] ([[ORGANIZATION?|TenantSafe]])
+
+  Credit: App1icant score [[FINANCIAL_INFO?|684]]   Co-app score [[FINANCIAL_INFO?|n0 US fi1e (thin)]]   Co11ections: [[FINANCIAL_INFO?|l rnedica1 - $2l8]] ([[ORGANIZATION?|Duke]] 2O24)
+  Student 1oans: [[FINANCIAL_INFO?|$84,2OO bal.]] ([[ORGANIZATION?|MOHELA]] acct ...[[BANK_ACCOUNT|O9l7]])  IBR pyrnt [[MONEY|$3l2]]/rno
+
+  BANK STATEMENTS PROVIDED (3 rno - Jun/Ju1/Aug 2O26)
+  Inst.                       Acct            Holder                  Avg bal        Lowest     NSF   Dep (rno avg)
+  -------------------------   -------------   ---------------------   ------------   --------   ---   -------------
+  [[ORGANIZATION?|Coastal Carolina Bank]] chk      ****[[BANK_ACCOUNT|2295]]        [[PERSON|P DESAI-OKONJO]]          [[FINANCIAL_INFO?|$3,9l4.22]]      [[FINANCIAL_INFO?|$4l2.O8]]     0     [[FINANCIAL_INFO?|$5,O2l.4O]]
+  [[ORGANIZATION?|Coastal Carolina Bank]] sav      ****[[BANK_ACCOUNT|2296]]        [[PERSON|P DESAI-OKONJO]]          [[FINANCIAL_INFO?|$l2,6OO.OO]]     [[FINANCIAL_INFO?|$l2,4OO]]     0     [[FINANCIAL_INFO?|$2OO.OO]]
+  [[ORGANIZATION?|Wake FCU]] share drft            acct# [[BANK_ACCOUNT|00 4471 22O 9O]]  [[PERSON|O T OKONJO]] / [[PERSON|P D OKONJO]]  [[FINANCIAL_INFO?|$2,l8O.55]]   [[FINANCIAL_INFO?|-$46.l2]]     1     [[FINANCIAL_INFO?|$3,9l7.6O]]
+     routing on stmt: [[ROUTING_NUMBER|253l77O49]]   (NSF [[DATE?|O7/O2]] - [[ORGANIZATION?|Duke Energy]] autopay [[MONEY|$l84.l9]] returned)
+
+  Large / unusua1 dep0sits:
+    [[DATE?|O7/l5]]  [[MONEY|$3,5OO.OO]]  ZELLE FROM [[PERSON|NITA DESAI]] "for the deposit beta 💛"   - gift 1etter rec'd? [ ] Y [X] N
+    [[DATE?|O8/O1]]  [[MONEY|$l,2OO.OO]]  M0BILE DEP CHK #2O4l [[PERSON|AKINOLA, FOLAKE]] (memo: "[[MINOR|Temperance]] ch ristening")
+    [[DATE?|O8/22]]  [[MONEY|$64O.OO]]    VENM0 CASH0UT [[USERNAME|@PriyaD-SLP]]  (tutoring)
+
+  Gross m0nth1y household incorne: [[MONEY|$l2,O62]]   Rent-to-incorne: l7.8%  (rnin 3.Ox rent = [[MONEY|$6,435]]) - PASS
+  N0tes: Co-app on H-1B, 1ease terrn rnust not exceed I-797 va1idity ([[DATE?|O6/3O/2O28]]). Prior DWI is >7 yrs,
+         not disqua1ifying under our FHA-cornp1iant criteria. App1icant is [[MEDICAL_CONDITION|pregnant]] - DO NOT note
+         or consider (farnilia1 status protected).  ** str ike prior 1ine - TB **
+-------------------------------------------------------------------------------------------------------------
+[[ORGANIZATION?|BRIARCREST]] - LANDL0RD REFERENCE (phone)                                                 P.OO5/OO5
+  Ref: [[PERSON|Gregory Hawthorne]], [[ORGANIZATION?|Capital Blvd Apartments]]   called [[DATE?|9/29]] 1O:15a   [[PHONE|9l9-555-Ol6l]]
+  Tenant since [[DATE?|8/22]], rent [[MONEY|$l,79O]], 2 1ate pays ([[DATE?|Feb 25]], [[DATE?|Ju1 26]]), no damages, wou1d re-rent: YES
+  Cornrnents: "Quiet. Husband [[INDIRECT_ROLE|is the PT guy who he1ped my rnom after her knee]]. They have a sma11 kid + cat."
+  Prior LL [[PERSON|Ade1e Pfister]] - [[PHONE|(9l9) 555-O19O]] - no answer x2; 1eft vrn.
+  Decision: [X] APPR0VED w/ add'1 deposit [[MONEY|$5OO]]   [ ] DENIED       Agent [[SIGNATURE|TB]]   Mgr [[PERSON|R. Strick1and]]  [[DATE?|9/3O/26]]
+[0CR conf. 69%; fax 1ines and handwritten notes]

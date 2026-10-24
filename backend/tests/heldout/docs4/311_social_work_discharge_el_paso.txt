@@ -1,0 +1,47 @@
+FRANKLIN MOUNTAIN REGIONAL MEDICAL CENTER
+CASE MANAGEMENT / SOCIAL WORK -- DISCHARGE PLANNING NOTE
+
+Patient: [[PERSON|Rigoberto Anaya Salcido]]      DOB: [[DATE_OF_BIRTH|03/19/1968]]      Age: [[AGE|58]]      MRN: [[MRN|FMR-7741902]]
+Admit date: [[DATE|10/02/2026]]      Anticipated discharge: [[DATE|10/16/2026]]      Unit: [[INDIRECT_LOCATION?|5 West Neuro, Rm 512-B]]
+Diagnoses: [[MEDICAL_CONDITION|L MCA ischemic stroke]] with [[MEDICAL_CONDITION|R hemiparesis]] and [[MEDICAL_CONDITION|expressive aphasia]];
+[[MEDICAL_CONDITION|uncontrolled type 2 diabetes]]
+Social worker: [[PERSON|Graciela Ybarra]], LMSW      Ext. 4-2219
+Primary language: Spanish (interpreter used for all family meetings)
+
+ADMISSION CIRCUMSTANCES
+Pt arrived by EMS on [[DATE|10/02/2026]] without identification after collapsing at work. He was registered as an unknown male
+until [[DATE?|10/03/2026]], when his daughter identified him at the bedside by [[PHYSICAL_DESCRIPTOR|the Virgen de Guadalupe tattoo across his
+upper back]] and [[PHYSICAL_DESCRIPTOR|his glass right eye]], which he has had since a welding accident in his twenties.
+
+PSYCHOSOCIAL ASSESSMENT
+Prior to admission pt lived alone in [[INDIRECT_LOCATION|the back room of the tortillería on Alameda near Zaragoza]], which he rents for
+[[MONEY|$300]]/month from [[INDIRECT_ROLE|the tortillería owner]]. The room has a step-up entrance, a shared bathroom, and no air
+conditioning; it is not appropriate for discharge. Pt worked for eleven years as [[INDIRECT_ROLE|the night watchman at the pallet yard
+by the Ysleta port of entry]] (employer: [[EMPLOYER|Border Pallet Recyclers]]); he has no paid leave or disability coverage.
+
+Pt is a [[IMMIGRATION_STATUS|lawful permanent resident]]. Medicaid application submitted [[DATE?|10/08/2026]] using SSN [[SSN|461-27-8830]];
+pending. Pt has no other income. His daughter reports he sends money monthly to a sister in Chihuahua.
+
+Family: daughter [[PERSON|Yesenia Anaya de Lozano]], [[PHONE|(915) 555-0138]], who is [[INDIRECT_ROLE|the cafeteria manager at Socorro High
+School]]; she is married with three children. [[INDIRECT_ROLE|Pt's only son, an inmate at FCI La Tuna]], is not involved in
+care; per daughter they have not spoken in two years. Pt's closest friend is [[INDIRECT_ROLE|his compadre,
+the owner of the yonke on Pan American Drive]], who visits daily and has offered transportation.
+
+DISCHARGE PLAN
+1. Discharge to [[INDIRECT_LOCATION|his daughter's house across from the Socorro Mission, white wrought-iron fence]]. Daughter
+   confirms pt will have the front bedroom; one step at entry, ramp to be built by son-in-law this weekend.
+2. Home health PT/OT/SLP and SN referral accepted by Paso del Norte Home Health; start of care [[DATE|10/17/2026]].
+3. DME delivered to daughter's home [[DATE?|10/15/2026]]: hospital bed, wheelchair, shower chair, hemi-walker.
+4. Community support: referred to [[INDIRECT_ROLE|the promotora assigned to the Socorro colonias by Centro San Vicente]] for
+   diabetes education in Spanish and help with the Medicaid follow-up.
+5. Medications sent to the outpatient pharmacy; daughter received teaching on [[MEDICATION|clopidogrel]], [[MEDICATION|atorvastatin]],
+   and [[MEDICATION|insulin glargine]]. A nurse will review insulin technique at the first home visit.
+6. Follow-up: neurology clinic in 2 weeks; PCP in 1 week.
+
+Pt has attended [[INDIRECT_LOCATION|the 6 a.m. Spanish Mass at San Juan Bautista on Alameda]] daily for years; per daughter, the
+parish has asked to bring him communion at home.
+
+Pt participated in the meeting using yes/no gestures and a picture board and nodded agreement with the plan. Daughter
+expressed worry about missing work; FMLA paperwork provided.
+
+[[PERSON|G. Ybarra]], LMSW      [[DATE?|10/14/2026]] 15:20

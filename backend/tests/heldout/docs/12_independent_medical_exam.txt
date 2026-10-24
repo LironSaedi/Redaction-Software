@@ -1,0 +1,255 @@
+[[PERSON|GERALD R. FENWICK]], M.D., F.A.A.O.S.
+Diplomate, American Board of Orthopaedic Surgery
+[[ADDRESS?|8711 Burnet Road, Suite 240]] * [[ADDRESS?|Austin, Texas 78757]]
+Tel [[PHONE|512-451-0080]] * Fax [[PHONE|512-451-0089]] * [[EMAIL|gfenwick@fenwickortho-ime.com]]
+
+[[DATE|August 19, 2025]]
+
+VIA EMAIL ([[EMAIL|cashford@hbplaw.com]]) AND FIRST-CLASS MAIL
+[[PERSON|Courtney Ashford]], Esq.
+[[ORGANIZATION?|Holloway Brandt & Pierce LLP]]
+[[ADDRESS?|111 Congress Avenue, Suite 2700]]
+[[ADDRESS?|Austin, Texas 78701]]
+
+     RE:  Independent Medical Examination (Tex. R. Civ. P. 204.1)
+          Examinee:        [[PERSON|Maria Elena Delgado-Ruiz]]
+          DOB:             [[DATE_OF_BIRTH|04/17/1986]]
+          Date of Exam:    [[DATE|08/12/2025]]
+          Date of Injury:  [[DATE|03/14/2025]]
+          Cause:           [[PERSON|Delgado-Ruiz]] v. [[PERSON|Wells]], et al., No. [[CASE_NUMBER|D-1-GN-25-002918]], 345th Dist. Ct.,
+                           [[LOCATION?|Travis County]], Texas
+          Your File:       HBP 40177-022
+          Carrier Claim:   [[CLAIM_NUMBER|GM-25-0314-88172]]
+
+Dear Ms. [[PERSON|Ashford]]:
+
+At your request, and pursuant to the Rule 11 Agreement between counsel dated [[DATE|July 22, 2025]],
+I performed an independent orthopaedic medical examination of Ms. [[PERSON|Delgado-Ruiz]] at my office
+on [[DATE|August 12, 2025]], from 9:05 a.m. to 10:20 a.m. She was accompanied by her husband,
+[[PERSON|Arturo Ruiz]], and by a nurse observer from her counsel's office, [[PERSON|Destiny Vu]], LVN. The
+examination was audio-recorded by agreement. No doctor-patient relationship was established,
+and this was explained to and acknowledged by the examinee. Identity was confirmed with Texas
+driver's license no. [[DRIVERS_LICENSE|31884207]].
+
+RECORDS REVIEWED
+I reviewed the following records, produced by your office and Bates-labeled HBP-DR 000001
+through HBP-DR 001412:
+   1.  [[ORGANIZATION?|Austin-Travis County EMS]] PCR [[MRN|25-031447-M14]], [[DATE|03/14/2025]]
+   2.  [[ORGANIZATION?|Capitol Ridge Medical Center]] ED and inpatient records, [[DATE|03/14/2025]] - [[DATE|03/18/2025]]
+   3.  Operative report, ORIF L distal radius, Dr. [[PERSON|A. Venkataraman]], [[DATE|03/15/2025]]
+   4.  Imaging reports: CT head, CT C-spine, CT C/A/P ([[DATE|3/14/25]]); MRI C-spine ([[DATE|3/16/25]]) with
+       addendum ([[DATE|3/21/25]]); XR L wrist series ([[DATE|3/14]] through [[DATE|7/10/25]])
+   5.  Outside MRI C-spine, [[ORGANIZATION?|Lakeway Open MRI]], [[DATE|08/09/2021]] (images personally reviewed)
+   6.  Capitol Ridge Orthopedics office notes, [[DATE|3/27/25]] - [[DATE|7/10/25]] (6 visits)
+   7.  Neurosurgery notes, Dr. [[PERSON|M. Whitfield]], [[DATE|4/15/25]], [[DATE|5/14/25]], [[DATE|6/13/25]]
+   8.  EMG/NCS, Dr. [[PERSON|Sunita Bhattacharya]], [[DATE|05/29/2025]]
+   9.  [[ORGANIZATION?|ProMotion Physical Therapy]], 31 visits, [[DATE|4/2/25]] - [[DATE|7/31/25]]
+   10. [[ORGANIZATION?|Southpark Primary Care]] (Dr. [[PERSON|Garza-Ybarra]]), [[DATE?|01/2019]] - [[DATE?|06/2025]] (pre- and post-incident)
+   11. [[ORGANIZATION?|Clearwater Counseling]] intake and treatment summary ([[PERSON|C. Abernathy]], PMHNP), [[DATE|5/20/25]]
+   12. Pharmacy profile, [[INDIRECT_LOCATION|Bluebonnet Pharmacy #212]], [[DATE|1/1/24]] - [[DATE|6/30/25]]
+   13. Plaintiff's Answers to Interrogatories (served [[DATE|6/30/25]])
+   14. Texas Peace Officer's Crash Report, [[ORGANIZATION?|APD]] [[LAW_ENFORCEMENT_ID|25-0731188]]
+   15. Photographs of vehicles (42 images)
+
+HISTORY (as provided by examinee)
+Ms. [[PERSON|Delgado-Ruiz]] is a [[DEMOGRAPHIC|39-year-old right-hand-dominant woman]] employed as a dental
+hygienist at [[EMPLOYER|Southpark Family Dental]] for nine years. She states that on [[DATE|March 14, 2025]], while
+turning left on a green arrow from S. Congress onto eastbound Ben White, her car was struck on
+the driver's side by a tractor-trailer. She recalls "a white wall, then glass everywhere." She
+believes she lost consciousness for "a second or two." She was extricated and taken by
+ambulance. Her son, then [[AGE|six]], was in the rear seat and was treated and released.
+
+IME -- [[PERSON|Maria Elena Delgado-Ruiz]] -- DOB [[DATE_OF_BIRTH|04/17/1986]] -- DOE [[DATE|08/12/2025]]                  Page 2 of 6
+-------------------------------------------------------------------------------------------------
+
+She underwent ORIF of the left wrist on [[DATE|3/15/25]]. The rib fractures and splenic injury were
+managed without surgery. She attended 31 sessions of therapy. She reports current complaints of:
+   a. Left wrist pain 4/10 at rest, 7/10 with gripping; stiffness; "clicking" on the ulnar side;
+      inability to hold dental instruments for more than 10-15 minutes.
+   b. Neck pain 5/10 radiating to the left shoulder blade, with intermittent numbness of the
+      left thumb and index finger, worse with looking down.
+   c. Headaches 3-4 times a week, "behind my eyes."
+   d. Sleep disturbance and [[MENTAL_HEALTH|nightmares; she is now treated for post-traumatic stress]] by a
+      nurse practitioner. (I defer psychiatric issues to an appropriate specialist.)
+
+She has not returned to her job. She states her employer has held the position open "but not
+forever." She has attempted to return to light housework and to driving; she reports she drives
+only on surface streets and avoids [[INDIRECT_LOCATION|the Ben White / Congress intersection]] entirely.
+
+PRIOR HISTORY
+On direct questioning, Ms. [[PERSON|Delgado-Ruiz]] initially denied prior neck problems. When asked about
+the [[DATE?|August 2021]] MRI, she recalled that she had "a stiff neck for a few weeks" after a weekend
+of moving furniture, saw her PCP, had an MRI and "some therapy," and that it resolved. The PCP
+records reflect visits on [[DATE|07/26/2021]], [[DATE|08/16/2021]] and [[DATE|09/20/2021]] for [[MEDICAL_CONDITION|cervicalgia]] with
+[[MEDICAL_CONDITION|left trapezius spasm]], 6 PT visits, and no further cervical complaints in the PCP records
+from [[DATE?|10/2021]] until [[DATE|03/14/2025]]. She has a history of [[MENTAL_HEALTH|generalized anxiety disorder]] treated with
+[[MEDICATION|sertraline]] since 2019, and [[MEDICAL_CONDITION|hypothyroidism]]. No prior wrist injury.
+
+PHYSICAL EXAMINATION
+Height 5'4". Weight 139 lb. BP 122/78. Pleasant, cooperative, mildly anxious. No pain behaviors
+out of proportion. Waddell signs 0/5. Gait normal; heel and toe walk normal.
+
+Cervical spine:
+   No midline tenderness. Mild tenderness over the left upper trapezius and levator scapulae.
+   Range of motion (inclinometer, best of 3):
+                       Measured     Normal (AMA Guides)
+      Flexion           40 deg        50 deg
+      Extension         45 deg        60 deg
+      L rotation        55 deg        80 deg
+      R rotation        70 deg        80 deg
+      L lateral bend    30 deg        45 deg
+      R lateral bend    35 deg        45 deg
+   Spurling's maneuver: positive on the left for reproduction of scapular pain; equivocal for
+   radiation to the thumb. Negative on the right. Lhermitte negative.
+
+Upper extremities:
+   Left wrist: well-healed 7 cm volar FCR approach incision. Mild dorsal swelling. Tenderness
+   over the ulnar styloid and TFCC fovea. Ulnar fovea sign positive.
+   Range of motion:        Left        Right
+      Extension            45 deg      70 deg
+      Flexion              40 deg      75 deg
+      Radial deviation     15 deg      20 deg
+      Ulnar deviation      20 deg      35 deg
+      Pronation            70 deg      80 deg
+      Supination           60 deg      85 deg
+   Jamar grip (position 2), 3 trials: Left 12 / 11 / 12 kg; Right 26 / 27 / 26 kg.
+   Coefficient of variation L 4.9% (consistent effort).
+   Sensation: diminished light touch L thumb and index finger pads (C6 vs. median); 2-point
+   discrimination 7 mm L index vs. 4 mm R. Tinel's at L carpal tunnel: positive. Phalen's: positive
+   at 40 seconds.
+   Reflexes: biceps 2+ R, 1+ L; brachioradialis 2+ R, 1+ L; triceps 2+ symmetric. Hoffmann negative.
+   Strength: 5/5 except L wrist extension 4+/5 and L EPL 4+/5 (pain-limited).
+
+IME -- [[PERSON|Maria Elena Delgado-Ruiz]] -- DOB [[DATE_OF_BIRTH|04/17/1986]] -- DOE [[DATE|08/12/2025]]                  Page 3 of 6
+-------------------------------------------------------------------------------------------------
+
+REVIEW OF IMAGING (personally reviewed)
+   MRI C-spine [[DATE|08/09/2021]]: 1-2 mm broad-based disc bulge C5-C6. No HIZ. Foramina patent.
+   MRI C-spine [[DATE|03/16/2025]]: 3.8 mm central/left paracentral protrusion C5-C6 with T2 high-intensity
+   zone; mild left foraminal narrowing. Prevertebral edema C4-C6. I agree with Dr. [[PERSON|Cho]]'s
+   addendum that the protrusion is larger than in 2021.
+   Wrist radiographs [[DATE|07/10/2025]]: healed distal radius fracture, volar plate intact, 2 mm positive
+   ulnar variance, radial inclination 19 degrees, volar tilt 4 degrees. Ulnar styloid nonunion.
+
+ELECTRODIAGNOSTICS ([[DATE|05/29/2025]], Dr. [[PERSON|Bhattacharya]]): mild left median neuropathy at the wrist
+(sensory latency 3.9 ms); mild chronic left C6 radiculopathy with no active denervation.
+
+DIAGNOSES
+   1. [[MEDICAL_CONDITION|Healed intra-articular left distal radius fracture, s/p ORIF]], with [[MEDICAL_CONDITION|ulnar styloid nonunion
+      and probable TFCC injury]].
+   2. [[MEDICAL_CONDITION|Post-traumatic left carpal tunnel syndrome]], mild.
+   3. [[MEDICAL_CONDITION|Cervical sprain/strain superimposed on pre-existing C5-C6 degenerative disc disease]],
+      with [[MEDICAL_CONDITION|mild left C6 radiculopathy]].
+   4. [[MEDICAL_CONDITION|Healed left rib fractures]] (no residual).
+   5. [[MEDICAL_CONDITION|Splenic laceration]], resolved per records.
+   6. [[MEDICAL_CONDITION|Post-concussive headaches]], by history (defer to neurology).
+
+RESPONSES TO COUNSEL'S QUESTIONS
+Q1. Were the examinee's injuries caused by the collision of [[DATE|March 14, 2025]]?
+    The left distal radius fracture, rib fractures, splenic laceration, and concussion are, in
+    reasonable medical probability, caused by the collision. The cervical condition represents, in
+    reasonable medical probability, an aggravation of a pre-existing degenerative condition at
+    C5-C6. The 2021 study shows a pre-existing bulge; the 2025 study shows a larger protrusion with
+    annular fissure. Annular fissures may be degenerative. I cannot state within reasonable
+    medical probability that the collision caused the C5-C6 protrusion de novo; it more likely
+    than not aggravated it.
+Q2. Is the treatment to date reasonable and necessary?
+    Yes, with the exception that 31 PT visits exceed ODG guidelines (16 visits over 8 weeks for
+    distal radius fracture post-ORIF); visits after [[DATE|06/15/2025]] appear excessive.
+Q3. Has the examinee reached maximum medical improvement?
+    Not for the wrist. A wrist arthroscopy with TFCC debridement/repair and possible carpal tunnel
+    release is reasonable. For the neck, she is near MMI with conservative care. I do not believe
+    cervical surgery (ACDF) is reasonably probable at this time, although it is possible.
+Q4. Future medical care?
+    Wrist arthroscopy +/- CTR (~[[MONEY?|$18,000-24,000]] facility and professional); post-op therapy 12
+    visits; hardware removal possible (25-30% probability). Cervical: medial branch blocks or ESI
+    up to 2 per year for 2 years; home exercise. I disagree with the life care planner's projection
+    of a C5-C6 ACDF at 100% probability.
+Q5. Work restrictions?
+    Temporary: no repetitive fine pinch with the left hand > 20 min/hr; no lifting > 15 lb with
+    the left hand. Ms. [[PERSON|Delgado-Ruiz]] is right-hand dominant; a dental hygienist uses both hands
+    extensively (left hand for mirror and retraction). Return to full duty is reasonably probable
+    within 4-6 months after wrist arthroscopy.
+Q6. Impairment (AMA Guides, 6th Ed.) -- provisional, not at MMI:
+    Wrist: Class 1, grade modifier adjustments -> 6% UEI = 4% WPI. Cervical: Class 1 radiculopathy,
+    6% WPI. Combined 10% WPI.
+
+IME -- [[PERSON|Maria Elena Delgado-Ruiz]] -- DOB [[DATE_OF_BIRTH|04/17/1986]] -- DOE [[DATE|08/12/2025]]                  Page 4 of 6
+-------------------------------------------------------------------------------------------------
+
+DISCUSSION
+The literature I relied upon includes: Jupiter JB, Fernandez DL, "Complications following distal
+radial fractures," J Bone Joint Surg Am 2001;83(8):1244-65; Carragee EJ et al., "Is cervical neck
+pain and radiculopathy related to MRI findings?" Spine 2005; and the Official Disability
+Guidelines (ODG), Neck and Upper Back chapter (2024). I am also aware of the Texas standard
+for expert causation testimony discussed in Merrell Dow Pharmaceuticals, Inc. v. Havner, 953
+S.W.2d 706 (Tex. 1997), and Guevara v. Ferrer, 247 S.W.3d 662 (Tex. 2007), as explained to me by
+counsel; my opinions are medical, not legal.
+
+The examinee was credible and gave consistent effort. Her grip testing was reproducible. There
+were no signs of symptom magnification. Her description of the prior 2021 neck episode was
+incomplete at first but she corrected it without prompting once reminded. Her husband stated
+she "hasn't been the same" and that she no longer lifts their [[INDIRECT_ROLE?|youngest]] or braids their
+daughter's hair. I note that [[MEDICAL_CONDITION|hypothyroidism]] is a recognized risk factor for carpal tunnel
+syndrome; however, she had no carpal tunnel complaints before [[DATE|3/14/25]] and was euthyroid (TSH
+2.84) during the admission.
+
+APPORTIONMENT
+Cervical: 70% attributable to the [[DATE|3/14/25]] collision; 30% to pre-existing degenerative disease.
+Wrist: 100% attributable to the collision.
+
+The opinions expressed above are held to a reasonable degree of medical probability and are
+based on the records reviewed, history obtained, and examination performed. I reserve the right
+to amend them if additional records are provided, including the [[ORGANIZATION?|Clearwater Counseling]] records
+and the rear-seat child's records, which I have not seen.
+
+Sincerely,
+
+/s/ [[PERSON|Gerald R. Fenwick]]
+[[PERSON|Gerald R. Fenwick]], M.D.
+Texas Medical License No. [[ID_NUMBER|K7713]]   NPI [[NPI|1668127578]]
+
+IME -- [[PERSON|Maria Elena Delgado-Ruiz]] -- DOB [[DATE_OF_BIRTH|04/17/1986]] -- DOE [[DATE|08/12/2025]]                  Page 5 of 6
+-------------------------------------------------------------------------------------------------
+
+ATTACHMENT A -- EXAMINEE INTAKE QUESTIONNAIRE (completed by examinee, transcribed)
+
+Name: [[PERSON|Maria E. Delgado-Ruiz]]           Date: [[DATE|8/12/25]]
+Address: [[ADDRESS|2209 Bluebonnet Lane, Austin TX 78704]]
+Phone: [[PHONE|512 836 2290]]                  Email: [[EMAIL|mdelgado.ruiz86@gmail.com]]
+Occupation: Registered Dental Hygienist (RDH lic. # [[ID_NUMBER|061884]])
+Employer: [[EMPLOYER|Southpark Family Dental]] -- Supervisor: Dr. [[PERSON|Neil Hartigan]], DDS
+Dominant hand:  [X] Right   [ ] Left
+Marital status: Married -- Spouse: [[PERSON|Arturo Ruiz Benavides]]
+Children (ages): [[AGE|9]] and [[AGE|6]]
+Attorney: [[PERSON|Rachel Kim]] -- [[ORGANIZATION?|Kim & Abernathy PLLC]]
+Health insurance: [[ORGANIZATION?|BCBS of Texas]] -- Member ID [[HEALTH_PLAN_ID|XOD884417203]]
+Prior accidents/injuries: "Neck strain 2021 from moving -- PT, fine after"
+Prior claims (workers comp/disability/lawsuits): None
+Current medications: [[MEDICATION|sertraline]] 50, [[MEDICATION|levothyroxine]] 75, [[MEDICATION|gabapentin]] 300 TID, [[MEDICATION|meloxicam]]
+   15, [[MEDICATION|prazosin]] 2, [[MEDICATION|trazodone]] 50 PRN
+Pain diagram: shaded L wrist (dorsal/ulnar), L neck -> L scapula, L thumb & index finger
+Pain today (0-10): wrist 5, neck 5, head 2
+Activities you can no longer do: "hold my scaler for a full cleaning, carry laundry basket, curl
+   my daughter's hair, run, sleep through the night, drive on Ben White"
+Signature: [[PERSON|Maria Delgado-Ruiz]]
+
+IME -- [[PERSON|Maria Elena Delgado-Ruiz]] -- DOB [[DATE_OF_BIRTH|04/17/1986]] -- DOE [[DATE|08/12/2025]]                  Page 6 of 6
+-------------------------------------------------------------------------------------------------
+
+ATTACHMENT B -- FEE STATEMENT                                     Invoice No. GRF-2025-0812-07
+
+   Records review (1,412 pages), 6.5 hrs @ [[MONEY?|$650]]/hr ............... [[MONEY?|$4,225.00]]
+   Examination and history ......................................... [[MONEY?|$1,500.00]]
+   Report preparation, 3.0 hrs @ [[MONEY?|$650]]/hr ...................... [[MONEY?|$1,950.00]]
+   Total ........................................................... [[MONEY?|$7,675.00]]
+   Deposition/trial testimony: [[MONEY?|$1,200]]/hr, 2-hr minimum, prepaid.
+   Tax ID [[ID_NUMBER?|74-3318820]]. Payable to [[ORGANIZATION?|Fenwick Orthopaedic Consulting, PLLC]].
+
+   Over the last four years I have testified as an expert at trial or by deposition in 61
+   matters; approximately 85% on behalf of defendants. A list is attached as required by Tex.
+   R. Civ. P. 195.5(a)(4)(C) (Attachment C, not reproduced).
+
+ATTACHMENT D -- AUDIO RECORDING LOG
+   File: IME_20250812_DR.m4a   Duration 01:14:52   SHA-256 9f1c...e04a   Retained by examiner.
+   Copy provided to plaintiff's counsel [[PERSON|Rachel Kim]] ([[EMAIL|rkim@kimabernathy.com]]) on [[DATE|08/20/2025]].

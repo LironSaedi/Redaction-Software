@@ -1,0 +1,89 @@
+[[ORGANIZATION?|SCHOOL BOARD OF ALACHUA COUNTY]]
+[[SCHOOL|HAWTHORNE RIDGE HIGH SCHOOL]]  --  [[ADDRESS?|4800 NW 39th Avenue]], [[ADDRESS?|Gainesville, FL 32606]]  --  [[PHONE|(352) 955-6700]]
+
+               SECTION 504 STUDENT ACCOMMODATION PLAN  (Annual Review / Re-evaluation)
+               CONFIDENTIAL STUDENT RECORD -- FERPA (20 U.S.C. 1232g); s. 1002.22, F.S.
+
+Student:        [[PERSON MINOR|BROOKS-YAZZIE, ELIJAH NAKAI]]       Goes by: "[[PERSON MINOR|Eli]]"
+Student ID:     [[ID_NUMBER|2009184471]]        FLEID: [[ID_NUMBER|FL004418820733]]
+DOB:            [[DATE_OF_BIRTH|01/27/2011]]   Age: [[AGE|15]]   Grade: 10   Homeroom: Rm 214 (Mr. [[PERSON|Delacroix]])
+Address:        [[ADDRESS|7211 NW 43rd Street]], [[ADDRESS|Gainesville, FL 32653]]
+Parent/Guardian:[[PERSON|Renata Brooks]] (mother)  cell [[PHONE|(352) 281-9047]]  [[EMAIL|renata.brooks.gnv@gmail.com]]
+                [[PERSON|Tobias Yazzie]] (father; shared custody, alt. weeks)  cell [[PHONE|(505) 863-2219]] (lives in Gallup, NM)
+Meeting date:   [[DATE|08/27/2026]]     Plan effective: [[DATE|08/27/2026]] - [[DATE|08/26/2027]]
+504 Coordinator:[[PERSON|Shanice Pemberton-Ruiz]], School Counselor (A-K)   ext. 2271
+
+ELIGIBILITY
+Physical or mental impairment(s):
+  1. [[MEDICAL_CONDITION|Type 1 diabetes mellitus]] (dx age 8) -- managed with [[MEDICAL_CONDITION?|Omnipod 5 insulin pump]] and Dexcom
+     G7 CGM. Pump PDM serial [[DEVICE_ID|PDM-05A71188Q]]; CGM paired to student's iPhone ("[[PERSON MINOR|Eli]]'s iPhone").
+  2. [[MENTAL_HEALTH|Attention-deficit/hyperactivity disorder, combined presentation]] (dx 2019, Dr. [[PERSON|Wen-Li Fairbanks]]).
+  3. [[MEDICAL_CONDITION|Post-concussion syndrome]] following motor vehicle collision on [[DATE|04/03/2026]] (passenger; family
+     vehicle rear-ended on [[INDIRECT_LOCATION?|Archer Rd]]). Neuropsych eval [[DATE|06/11/2026]] by Dr. [[PERSON|Ifeoma Chukwu]], PsyD, [[ORGANIZATION?|UF Health
+     Pediatric Neuropsychology]]: [[MEDICAL_CONDITION|reduced processing speed (9th percentile)]], [[MEDICAL_CONDITION|light sensitivity]],
+     [[MENTAL_HEALTH|post-injury anxiety]].
+Major life activities affected: learning, concentrating, reading, endocrine function, thinking.
+Data reviewed: FAST PM3 ELA 2 (was 4 in 8th gr); Q4 grades (Geometry D, Chem C-); 14 nurse visits Q4;
+               11 absences since collision; teacher input forms; physician orders (Dr. [[PERSON|Hamid Rostami]], endo).
+
+ACCOMMODATIONS
+  Classroom
+   a. Extended time 50% on tests/quizzes/major assignments (all classes).
+   b. Testing in reduced-distraction setting -- [[INDIRECT_LOCATION|the Media Center conference room B]]; ESE proctor.
+   c. Preferential seating near door, away from windows (glare); may wear tinted glasses / hat brim.
+   d. Copy of teacher notes / slides; reduced copy work. Breaks: 5 min per class period as needed.
+   e. Access to phone at all times for CGM monitoring; phone NOT to be confiscated.
+  Health (Diabetes Medical Management Plan on file -- see nurse)
+   f. Unrestricted access to water, restroom, snacks; may eat in class.
+   g. Blood glucose checks / pump boluses in any location; may go to clinic with escort if BG < 70.
+   h. If BG < 70 or > 300 during a test, test is paused and resumed later without penalty.
+   i. Trained diabetes personnel on campus: Nurse [[PERSON|Carla Odom-Fitch]], RN; Coach [[PERSON|Brent Halvorsen]];
+      front office [[PERSON|Lisa Tran]]. Glucagon ([[MEDICATION?|Baqsimi]]) kept in clinic and in [[INDIRECT_LOCATION|the PE office
+      next to the boys' locker room]].
+   j. Field trips / athletics: trained adult accompanies; supplies travel with student.
+  Concussion / Return-to-Learn
+   k. No more than 1 test per day; screen-time breaks every 20 min. Elevator pass (2nd floor classes).
+   l. Excused from band (trumpet) until cleared by Dr. [[PERSON|Chukwu]]; alternate assignment in band room office.
+  ADHD
+   m. Daily planner check with case manager at end of 7th period. Chunked assignments.
+   n. Medication administered at school: [[MEDICATION|methylphenidate ER (Concerta) 36 mg]] is given at home; a noon dose of
+      [[MEDICATION|methylphenidate IR 5 mg]] is given by clinic staff (locked, count sheet).
+
+TRANSPORTATION
+   Rides bus [[ID_NUMBER?|#418]] (AM), stop at [[INDIRECT_LOCATION|the corner of NW 43rd St and 71st Pl, in front of the Circle K]].
+   Driver Mr. [[PERSON|Odell Washington]] trained on hypoglycemia signs; Glucose tabs in bus first-aid kit.
+   PM: picked up by grandmother, Mrs. [[PERSON|Loretta Brooks]], [[VEHICLE_DESCRIPTION|silver Toyota Sienna minivan]], tag [[LICENSE_PLATE|QVL R42]].
+
+TEACHER LIST (all teachers received copy of plan, signature on roster)
+   Period  Course                      Teacher                         Room
+   1       English II Honors            Ms. [[PERSON|Aaliyah Grant]]               214
+   2       Geometry                     Mr. [[PERSON|Javier Montes de Oca]]        118
+   3       Chemistry                    Dr. [[PERSON|Priyanka Sethi]]              306
+   4       World History                Mr. [[PERSON|Kevin Delacroix]]             214
+   5       Lunch B / Study Skills       Mrs. [[PERSON|Tamsin Wolfe]] (ESE)         ESE-3
+   6       Band II                      Mr. [[PERSON|Gareth Lindqvist]]            Band
+   7       Spanish II                   Sra. [[PERSON|Marisol Echeverría]]         122
+
+NOTES / STUDENT INPUT
+   [[PERSON MINOR|Eli]] stated he "hates going to the nurse in front of everybody" and prefers to bolus at his desk. He is
+   [[INDIRECT_ROLE|the only student in Mrs. Wolfe's study skills section with a pump]], and has asked that peers not
+   be told about his diabetes. He plays JV lacrosse (cleared with conditions) and works Saturday
+   mornings at [[EMPLOYER|Hogtown Bagel Co.]] on 13th St. Mother reports [[MENTAL_HEALTH|panic episodes when riding in a car
+   since the collision]]; student sees therapist [[PERSON|Kai Nakamura-Ellis]], LMHC at [[ORGANIZATION?|Meridian]] on Tuesdays (early
+   release 1:30 p.m. Tuesdays approved). Father requested copies of plan be mailed to [[ADDRESS|1806 Aztec Dr]],
+   [[ADDRESS?|Gallup, NM 87301]]. Mother's attorney ([[PERSON|Joaquin Ferreira]], Esq.) requested records re: collision --
+   referred to records custodian; release requires signed authorization.
+
+DISTINGUISHING HEALTH INFO FOR SUBSTITUTE FOLDER
+   Wears [[PHYSICAL_DESCRIPTOR|pump pod on the back of his left arm (visible)]]; [[PHYSICAL_DESCRIPTOR|medical alert bracelet, black, right wrist]];
+   [[PHYSICAL_DESCRIPTOR|healed 4 cm scar above right eyebrow (from collision)]]. Photo on file.
+
+SIGNATURES
+   [[PERSON|Shanice Pemberton-Ruiz]], 504 Coordinator     ________________   [[DATE|08/27/2026]]
+   [[PERSON|Renata Brooks]], Parent                       ________________   [[DATE|08/27/2026]]
+   [[PERSON|Tobias Yazzie]], Parent (by phone)            consent emailed    [[DATE|08/28/2026]]
+   [[PERSON MINOR|Elijah Brooks-Yazzie]], Student               ________________   [[DATE|08/27/2026]]
+   Dr. [[PERSON|Marcus Oyelaran]], Assistant Principal    ________________   [[DATE|08/27/2026]]
+   [[PERSON|Carla Odom-Fitch]], RN, School Nurse          ________________   [[DATE|08/27/2026]]
+
+Parent received Notice of Procedural Safeguards (Section 504). Next review: [[DATE?|August 2027]] or upon request.

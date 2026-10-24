@@ -1,0 +1,97 @@
+=====================================================================================================
+               MOBILE DEVICE EXTRACTION REPORT -- SMS / iMESSAGE / MMS (FILTERED)
+=====================================================================================================
+Agency:            San Antonio Police Department -- Digital Forensics Lab
+Lab case #:        [[LAW_ENFORCEMENT_ID|DFL-25-0912]]           Related report: [[LAW_ENFORCEMENT_ID|SAPD-25-187734]]
+Examiner:          [[PERSON|Kevin Atwood-Sandoval]], CFCE (#[[LAW_ENFORCEMENT_ID|5560]])
+Authority:         Written consent of device owner ([[PERSON|Grace E. Hill]]), signed [[DATE|08/18/2025]] 11:02
+Device:            Apple iPhone 13, Model A2482, iOS 18.5 (screen damaged)
+  IMEI:            [[DEVICE_ID|353527258959118]]
+  Serial:          [[DEVICE_ID|F17HQ2XLPN9K]]
+  Phone number:    [[PHONE|+1 210-614-3378]]
+  Apple ID:        [[EMAIL|gracehill.sa93@icloud.com]]
+Extraction:        [[DATE|2025-08-18]] 14:22 (CDT), advanced logical; tool v7.71.0.0812; hash verified
+Filter applied:    Threads w/ "[[PERSON|Darek]] <3" ([[PHONE|+12103936620]]), "[[PERSON|Hannah]] sis" ([[PHONE|+18307142081]]),
+                   "[[PERSON|Roz]] 12C" ([[PHONE|+12104550912]]); date range [[DATE|2025-07-01]] to [[DATE|2025-08-18]]
+Time zone:         UTC-05:00 (CDT). "Dir": IN = received, OUT = sent.
+-----------------------------------------------------------------------------------------------------
+
+THREAD 1 -- "[[PERSON|Darek]] <3"  [[PHONE|+1 (210) 393-6620]]  ([[PERSON|Dariusz Kowalczyk]])
+
+ #    Date/Time             Dir  Status     Body
+ ---- --------------------  ---  ---------  ---------------------------------------------------------
+ 0412 [[DATE|07/04/2025]] 21:14      IN   Read       where r u. Life360 says ur at [[PERSON|Hannah]]s?? u said u were home
+ 0413 [[DATE|07/04/2025]] 21:15      OUT  Delivered  [[PERSON MINOR|Lily]] wanted to see fireworks w her cousins. we'll be back by 11
+ 0414 [[DATE|07/04/2025]] 21:15      IN   Read       u dont go places without telling me. thats how it works
+ 0418 [[DATE|07/19/2025]] 18:02      OUT  Read       can u pick up [[PERSON MINOR|Lily]] from [[INDIRECT_LOCATION|Little Sprouts]] by 6:30? I'm stuck at work, [[PERSON|Mike]]
+                                                    called in so it's just me + the tech
+ 0419 [[DATE|07/19/2025]] 18:03      IN   Read       [[PERSON|Mike]] again huh
+ 0420 [[DATE|07/19/2025]] 18:03      IN   Read       ok
+ 0425 [[DATE|07/28/2025]] 09:02      OUT  Delivered  did u send ur mom the 800 zl? she called me
+ 0426 [[DATE|07/28/2025]] 09:10      IN   Read       yes. to her acct [[IBAN|PL47 1020 4027 0000 1102 0178 8215]] at PKO. stop talking to her
+ 0431 [[DATE|08/01/2025]] 07:40      IN   Read       wifi pw changed?? cant get on
+ 0432 [[DATE|08/01/2025]] 07:44      OUT  Delivered  Spectrum reset it. new one is [[PASSWORD|LilyBug2022!]]
+ 0447 [[DATE|08/09/2025]] 23:51      IN   Read       open the door
+ 0448 [[DATE|08/09/2025]] 23:51      IN   Read       [[PERSON|GRACE]] OPEN THE DOOR
+ 0449 [[DATE|08/09/2025]] 23:58      OUT  Read       you're drunk. sleep in the truck. I'm not doing this w [[PERSON MINOR|Lily]] here
+ 0450 [[DATE|08/10/2025]] 00:02      IN   Read       ill take her to [[LOCATION?|poland]] and u will never see her again. try me
+ 0455 [[DATE|08/10/2025]] 10:16      IN   Read       im sorry babe. i was wasted. i love u and [[PERSON MINOR|lily]] more than anything
+ 0471 [[DATE|08/16/2025]] 19:22      IN   Read       whos [[PERSON|Mike Delacroix]] and why is he liking ur pics
+ 0472 [[DATE|08/16/2025]] 19:30      OUT  Delivered  he's the pharmacist. I work with him. stop
+ 0473 [[DATE|08/16/2025]] 19:31      IN   Read       we'll talk when i get home
+ 0474 [[DATE|08/16/2025]] 22:41      IN   Read       on my way. be up
+ ---- [[DATE|08/17/2025]] 06:41      IN   Read       you know what you did. drop it or else.
+                                                    [source: SMS gateway [[PHONE|+1 (210) 555-0101]] -- Securus/tablet relay;
+                                                    sender display name spoofed as "[[PERSON|Darek]] <3" contact]
+
+THREAD 2 -- "[[PERSON|Hannah]] sis"  [[PHONE|+1 830-714-2081]]  ([[PERSON|Hannah Hill]])
+
+ 0388 [[DATE|07/21/2025]] 12:10      IN   Read       did u call the lady from the shelter? the number is [[PHONE|210-733-8810]]
+ 0389 [[DATE|07/21/2025]] 12:14      OUT  Delivered  not yet. he checks my phone. delete this
+ 0401 [[DATE|08/10/2025]] 00:20      OUT  Delivered  he said he's taking [[PERSON MINOR|Lily]] to [[LOCATION?|Poland]]. I'm scared [[PERSON|Han]]
+ 0402 [[DATE|08/10/2025]] 00:21      IN   Read       come here tonight. the code to my garage is [[PASSWORD|8812]]. [[ADDRESS|1288 Gruene Crossing]]
+                                                    -- just drive
+ 0403 [[DATE|08/10/2025]] 00:30      OUT  Delivered  he has the truck keys and mine. I can't
+ 0420 [[DATE|08/17/2025]] 01:05      IN   Read       I have [[PERSON MINOR|Lily]], she's asleep in my car. going to [[ORGANIZATION?|Mission Trail]] now? I'll
+                                                    meet u there. Bay 3 ER entrance
+ 0425 [[DATE|08/17/2025]] 04:48      OUT  Delivered  CT was ok. they said [[MEDICAL_CONDITION|bruised larynx]]. the nurse took pictures of my neck
+                                                    and inside my mouth. I can't stop shaking
+
+THREAD 3 -- "[[PERSON|Roz]] 12C"  [[PHONE|+1 210 455 0912]]  ([[PERSON|Rosalind Pham]])
+
+ 0091 [[DATE|05/03/2025]] 22:13      OUT  Read       [[PERSON|Roz]] are you up? can I come over for a min
+ 0092 [[DATE|05/03/2025]] 22:13      IN   Read       Yes honey come. door's unlocked
+ 0110 [[DATE|08/17/2025]] 09:12      IN   Read       [[PERSON|Grace]] I'm praying for you. I gave the police officer my statement.
+                                                    Your door code is still [[PASSWORD|4471]] right? I will feed the cat
+ 0111 [[DATE|08/17/2025]] 09:30      OUT  Delivered  yes thank you [[PERSON|Roz]]. thank you for calling. you saved my life
+
+-----------------------------------------------------------------------------------------------------
+ATTACHMENTS (MMS) -- 3 items exported
+ IMG_5203.HEIC   [[DATE|2025-08-17]] 04:31  EXIF GPS [[GPS|29.5214 N, 98.5880 W]]  (photo of neck, selfie)
+ IMG_5204.HEIC   [[DATE|2025-08-17]] 04:32  EXIF GPS [[GPS|29.5214 N, 98.5880 W]]
+ IMG_5112.HEIC   [[DATE|2025-08-09]] 23:59  EXIF GPS [[GPS|29.5023 N, 98.5719 W]]  (photo of bathroom door, hole)
+
+MOBILE DEVICE EXTRACTION REPORT -- Lab case [[LAW_ENFORCEMENT_ID|DFL-25-0912]] -- page 2 of 2
+-----------------------------------------------------------------------------------------------------
+CALL LOG (filtered, same parties)
+ Date/Time            Dir      Party                       Duration
+ [[DATE|08/16/2025]] 22:46     Missed   [[PHONE|+12103936620]] ("[[PERSON|Darek]] <3")    00:00
+ [[DATE|08/16/2025]] 22:47     Missed   [[PHONE|+12103936620]] ("[[PERSON|Darek]] <3")    00:00
+ [[DATE|08/16/2025]] 23:01     Outgoing 911                         00:00:03 (dropped -- device damage?)
+ [[DATE|08/17/2025]] 00:58     Outgoing [[PHONE|+18307142081]] ("[[PERSON|Hannah]] sis")  00:04:11
+
+INSTALLED APPS OF NOTE
+ Life360 -- logged-in account: [[USERNAME|darek_k88]] (owner of circle "Fam"); members: [[USERNAME|gracehill93]], [[USERNAME|darek_k88]]
+ Venmo -- account [[USERNAME|@Grace-Hill-93]]; payments to [[USERNAME|@Darek-Kowalczyk]] (rent share) monthly
+ Instagram -- [[USERNAME|@gracie.lilybug]] (private)
+
+EXAMINER NOTES
+ 1. Messages 0412-0474 corroborate controlling behavior, threats to remove the child to [[LOCATION?|Poland]]
+    (#0450), and Respondent's anticipation of confrontation on the date of offense (#0471-0474).
+ 2. The 06:41 message on [[DATE|08/17/2025]] originated from the jail tablet relay while Defendant was in
+    BCADC custody (see booking IA ticket 25-1182) -- potential violation of MEPO / witness tampering
+    (Tex. Penal Code § 36.05). Referred to Det. [[PERSON|Villalobos]].
+ 3. Unfiltered content (other contacts) was not reviewed beyond the date filter, per consent scope.
+
+/s/ [[PERSON|Kevin Atwood-Sandoval]], CFCE        [[DATE|08/20/2025]]
+Reviewed: Lt. [[PERSON|A. Fairbanks]], Digital Forensics Lab supervisor, [[DATE|08/21/2025]]

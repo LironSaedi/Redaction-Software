@@ -1,0 +1,126 @@
+                            LIFE CARE PLAN
+                    Prepared for: [[PERSON|Maria Elena Delgado-Ruiz]]
+            Prepared at the request of: [[PERSON|Rachel Kim]], Esq., [[ORGANIZATION?|Kim & Abernathy PLLC]]
+                 Prepared by: [[PERSON|Linda Marquez-Ochoa]], RN, BSN, CLCP, CCM
+                     [[ORGANIZATION?|Marquez-Ochoa Care Planning, LLC]]
+        [[ADDRESS?|P.O. Box 92218]], [[ADDRESS?|Austin, TX 78709]]  |  [[PHONE|(737) 210-4486]]  |  [[EMAIL|linda@mocareplanning.com]]
+                         Report date: [[DATE|September 2, 2025]]
+                      EXCERPT -- Sections 1, 4 and 7 only
+
+====================================================================================================
+SECTION 1 -- DEMOGRAPHIC AND BACKGROUND INFORMATION
+====================================================================================================
+Name ......................... [[PERSON|Maria Elena Delgado-Ruiz]]
+Date of birth ................ [[DATE_OF_BIRTH|April 17, 1986]]
+Age at injury / at report .... [[AGE|38]] / [[AGE|39]]
+Life expectancy .............. 42.6 additional years (CDC/NCHS U.S. Life Tables 2021, Hispanic
+                               female, age 39) -- to approximately age 81.6
+Date of injury ............... [[DATE|03/14/2025]]
+Residence .................... [[ADDRESS|2209 Bluebonnet Ln., Austin, TX 78704]] (single-story, 3BR/2BA,
+                               owned; 3 exterior steps at front entry, no rail)
+Household .................... Spouse ([[PERSON|Arturo]], [[AGE|41]], HVAC technician with [[EMPLOYER|Cool Breeze Mechanical]]);
+                               daughter [[PERSON MINOR|Sofia]] ([[AGE|9]]); son [[PERSON MINOR|Mateo]] ([[AGE|6]])
+Education .................... A.A.S. Dental Hygiene, [[SCHOOL|Austin Community College]] (2014)
+Occupation (pre-injury) ...... Registered Dental Hygienist, [[EMPLOYER|Southpark Family Dental]], 36-38 hrs/wk
+Pre-injury earnings .......... [[FINANCIAL_INFO|$31.40/hr; 2024 W-2 wages $58,412]]
+Primary language ............. English (bilingual Spanish)
+Interview .................... In home, [[DATE|08/26/2025]], 2.5 hours, with spouse present
+
+Sources: records of [[ORGANIZATION?|Capitol Ridge Medical Center]]; Dr. [[PERSON|A. Venkataraman]] (orthopaedic hand);
+Dr. [[PERSON|M. Whitfield]] (neurosurgery); Dr. [[PERSON|S. Bhattacharya]] (PM&R/EMG); [[PERSON|C. Abernathy]], PMHNP;
+[[ORGANIZATION?|ProMotion PT]]; telephone conference with Dr. [[PERSON|Whitfield]] [[DATE|08/28/2025]] (15 min) and Dr.
+[[PERSON|Venkataraman]] [[DATE|08/29/2025]] (written responses to questionnaire, attached as Exhibit 3).
+
+Diagnoses relevant to future care:
+  - [[MEDICAL_CONDITION|L distal radius fracture s/p ORIF with TFCC tear, ulnar styloid nonunion]]
+  - [[MEDICAL_CONDITION|Post-traumatic L carpal tunnel syndrome]]
+  - [[MEDICAL_CONDITION|C5-C6 disc protrusion with L C6 radiculopathy]]
+  - [[MEDICAL_CONDITION|Post-concussive syndrome / post-traumatic headache]]
+  - [[MENTAL_HEALTH|Post-traumatic stress disorder]]; [[MENTAL_HEALTH|exacerbation of generalized anxiety disorder]]
+
+LIFE CARE PLAN -- [[PERSON|M. E. Delgado-Ruiz]] -- DOB [[DATE_OF_BIRTH|04/17/1986]]                       Page 4 of 22 (excerpt)
+====================================================================================================
+SECTION 4 -- PROJECTED FUTURE MEDICAL CARE (costs in 2025 dollars; sources: PMIC/MedData, CPT-
+specific 75th percentile for ZIP 787; facility from TX hospital price-transparency files)
+====================================================================================================
+
+4.1 PHYSICIAN SERVICES
+Item                              CPT     Frequency / Duration              Unit Cost    Total
+--------------------------------  ------  --------------------------------  -----------  -------------
+Orthopaedic hand follow-up        99214   4x yr1, 2x yr2-3, 1x/yr to LE     [[MONEY?|$245]]         [[MONEY?|$11,270]]
+Neurosurgery follow-up            99214   3x yr1, 2x yr2-5, 1x/yr to LE     [[MONEY?|$245]]         [[MONEY?|$11,760]]
+PM&R / pain management            99214   4x/yr x 5 yrs, then 2x/yr to LE   [[MONEY?|$245]]         [[MONEY?|$22,295]]
+Neurology (headache)              99204/  1 new + 3/yr x 3 yrs              [[MONEY?|$410]] / [[MONEY?|$245]]  [[MONEY?|$2,615]]
+                                  99214
+Psychiatry med management         99214   6x yr1, 4x/yr yr2-5, 2x/yr to LE  [[MONEY?|$245]]         [[MONEY?|$22,050]]
+PCP (injury-related portion)      99213   2x/yr to LE                       [[MONEY?|$165]]         [[MONEY?|$14,058]]
+
+4.2 SURGICAL / PROCEDURAL (probabilities per treating surgeons)
+Wrist arthroscopy, TFCC repair,   29846,  1x, within 6 months (prob. 90%)   [[MONEY?|$21,480]]      [[MONEY?|$21,480]]
+  +/- CTR                         64721
+Removal of volar plate            20680   1x (prob. 30%) -- not totaled     [[MONEY?|$9,850]]       ([[MONEY?|$9,850]])
+Cervical ESI, interlaminar        62321   2x/yr x 3 yrs                     [[MONEY?|$3,140]]       [[MONEY?|$18,840]]
+Medial branch blocks / RFA        64490,  1 set dx + RFA q12-18 mo x 10 yrs [[MONEY?|$4,410]]       [[MONEY?|$33,075]]
+                                  64633
+ACDF C5-C6 (Dr. [[PERSON|Whitfield]]: "more    22551   1x, est. within 5-10 yrs          [[MONEY?|$118,600]]     [[MONEY?|$118,600]]
+  likely than not")
+Adjacent segment surgery          22551   1x (prob. 25%) -- not totaled     [[MONEY?|$118,600]]     ([[MONEY?|$118,600]])
+
+4.3 THERAPIES
+Post-op hand therapy (CHT)        97110,  24 visits after arthroscopy       [[MONEY?|$185]]/visit   [[MONEY?|$4,440]]
+                                  97140
+PT neck flare-ups                 97110   12 visits/yr x 5 yrs              [[MONEY?|$165]]/visit   [[MONEY?|$9,900]]
+Psychotherapy (trauma-focused,    90837   weekly x 1 yr, biweekly x 1 yr,   [[MONEY?|$195]]         [[MONEY?|$20,670]]
+  CPT/EMDR)                               monthly x 3 yrs
+Cognitive rehab / SLP eval        92523   1x                                [[MONEY?|$380]]         [[MONEY?|$380]]
+
+4.4 DIAGNOSTICS
+MRI C-spine                       72141   q2-3 yrs to age 65 (9x)           [[MONEY?|$1,950]]       [[MONEY?|$17,550]]
+X-ray L wrist 3v                  73110   1x/yr x 5 yrs                     [[MONEY?|$145]]         [[MONEY?|$725]]
+EMG/NCS                           95886,  q3 yrs x 3                        [[MONEY?|$1,240]]       [[MONEY?|$3,720]]
+                                  95910
+
+LIFE CARE PLAN -- [[PERSON|M. E. Delgado-Ruiz]] -- DOB [[DATE_OF_BIRTH|04/17/1986]]                       Page 5 of 22 (excerpt)
+====================================================================================================
+
+4.5 MEDICATIONS (annual cost x years; GoodRx/Medi-Span AWP 75th pct)
+[[MEDICATION|Gabapentin]] 300 mg TID                 [[MONEY?|$312]]/yr  x 42.6                      [[MONEY?|$13,291]]
+[[MEDICATION|Meloxicam]] 15 mg daily (intermittent)  [[MONEY?|$96]]/yr   x 42.6                      [[MONEY?|$4,090]]
+[[MEDICATION|Sertraline]] -- increased dose portion  [[MONEY?|$84]]/yr   x 10 (injury-related increase)  [[MONEY?|$840]]
+[[MEDICATION|Prazosin]] 2 mg qHS                      [[MONEY?|$132]]/yr  x 5                         [[MONEY?|$660]]
+[[MEDICATION|Sumatriptan]] 50 mg PRN (9/mo)          [[MONEY?|$540]]/yr  x 5                         [[MONEY?|$2,700]]
+Topical [[MEDICATION|diclofenac]] 1% gel                [[MONEY?|$180]]/yr  x 42.6                      [[MONEY?|$7,668]]
+
+4.6 DURABLE EQUIPMENT / AIDS
+Custom wrist orthosis (L3807)       replace q1 yr             [[MONEY?|$420]]                  [[MONEY?|$17,892]]
+TENS unit (E0730) + supplies        q5 yrs + [[MONEY?|$240]]/yr          [[MONEY?|$1,120]]                [[MONEY?|$19,764]]
+Cervical pillow, ergonomic loupes   q3 yrs                    [[MONEY?|$1,860]]                [[MONEY?|$26,412]]
+  & headlight (to permit RDH work)
+
+4.7 HOUSEHOLD SERVICES
+Heavy housekeeping / yard work    4 hrs/wk x 52 wks to age 70   [[MONEY?|$28]]/hr        [[MONEY?|$180,128]]
+  (pt formerly performed; spouse works 50+ hr/wk)
+
+                                                    SUBTOTAL (Sections 4.1 - 4.7)   [[MONEY?|$626,233]]
+
+====================================================================================================
+SECTION 7 -- VOCATIONAL SUMMARY (from [[PERSON|Ray Dominguez]], MS, CRC -- separate report)
+====================================================================================================
+Ms. [[PERSON|Delgado-Ruiz]] has been unable to return to her pre-injury occupation. If arthroscopy is
+successful, return to RDH work at reduced hours (24-28 hrs/wk) is expected; alternative
+occupations (dental office manager, insurance coordinator) pay [[FINANCIAL_INFO|$19-$23/hr]]. Lost earning
+capacity is addressed by the economist, Dr. [[PERSON|Thaddeus Moyer]] -- not reproduced here.
+
+Interview note (verbatim excerpt): "I used to do eight patients a day. Now I can't hold the
+mirror for one. [[PERSON MINOR|Sofia]] does her own hair now and she's nine. [[PERSON MINOR|Mateo]] still won't ride in the back
+seat on that side."
+
+CERTIFICATION
+The opinions in this plan are stated to a reasonable degree of nursing and life care planning
+probability and are consistent with the standards of practice of the International Academy of
+Life Care Planners (Standards of Practice, 3d ed. 2015). I have no financial interest in the
+outcome. Fee: [[MONEY?|$225]]/hr.
+
+/s/ [[PERSON|Linda Marquez-Ochoa]]                                          [[DATE|09/02/2025]]
+[[PERSON|Linda Marquez-Ochoa]], RN, BSN, CLCP, CCM -- TX RN License [[ID_NUMBER|781194]]
+Bates KA-LCP 000004 - KA-LCP 000006

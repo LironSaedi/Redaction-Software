@@ -1,0 +1,60 @@
+[[EMPLOYER|SOUTHPARK FAMILY DENTAL]], P.L.L.C.
+[[PERSON|Neil Hartigan]], D.D.S.  *  [[PERSON|Priscilla Oyelowo-Grant]], D.M.D.
+[[ADDRESS?|5700 S. Congress Ave., Ste. 140]]  *  [[ADDRESS?|Austin, TX 78745]]  *  [[PHONE|(512) 444-8120]]  *  Fax [[PHONE|512-444-8129]]
+
+[[DATE|September 4, 2025]]
+
+[[ORGANIZATION?|Kim & Abernathy PLLC]]
+Attn: [[PERSON|Destiny Vu]], Paralegal
+[[ADDRESS?|600 Congress Ave., Ste. 1450]]
+[[ADDRESS?|Austin, TX 78701]]
+
+RE: EMPLOYMENT AND WAGE VERIFICATION -- [[PERSON|Maria E. Delgado-Ruiz]]
+    Employee ID: [[ID_NUMBER|SFD-0117]]     SSN: XXX-XX-[[SSN|1934]]
+
+To Whom It May Concern:
+
+At the request of our employee and with her signed authorization (attached), we provide the
+following information:
+
+  Position:                 Registered Dental Hygienist (full-time, non-exempt)
+  Date of hire:             [[DATE|06/02/2016]]
+  Last day worked:          [[DATE|03/14/2025]] (left at 3:15 p.m. to pick up her son)
+  Status:                   Medical leave [[DATE|03/15/2025]] - [[DATE|08/31/2025]]; position filled effective [[DATE|09/02/2025]].
+                            Employee eligible for rehire. Employment separated [[DATE|08/31/2025]] (not for cause).
+  Regular schedule:         Mon-Thu 7:30-5:00, alternate Fridays 7:30-1:00 (avg 37.0 hrs/wk)
+  Rate of pay:              [[FINANCIAL_INFO|$31.40/hour]] (since [[DATE|01/01/2024]]; previously [[FINANCIAL_INFO|$29.75/hour]])
+  Overtime:                 rare; 0-2 hrs/month at 1.5x
+  Bonus:                    [[FINANCIAL_INFO|Quarterly hygiene production bonus -- 2024 total $4,612.00]]
+                            (Q1 [[MONEY?|$1,080]]; Q2 [[MONEY?|$1,195]]; Q3 [[MONEY?|$1,142]]; Q4 [[MONEY?|$1,195]])
+  Benefits:                 Health (BCBSTX PPO, employer pays 70% of employee premium -- [[MONEY?|$412.18]]/mo);
+                            401(k) match 4% ([[MONEY?|$2,336.48]] in 2024); 10 PTO days; CE allowance [[MONEY?|$750]]/yr.
+                            Benefits continued through [[DATE|08/31/2025]]; COBRA notice issued [[DATE|09/03/2025]].
+
+  Gross wages, prior years (from payroll records, [[ORGANIZATION?|Gusto]]):
+      2022 ....... [[FINANCIAL_INFO|$54,180.44]]
+      2023 ....... [[FINANCIAL_INFO|$56,902.10]]
+      2024 ....... [[FINANCIAL_INFO|$58,412.17]]
+      2025 YTD ... [[FINANCIAL_INFO|$12,931.60]] (through [[DATE|03/14/2025]]) + PTO payout [[MONEY?|$1,874.40]]
+
+  Wages that would have been earned [[DATE|03/15/2025]] - [[DATE|08/31/2025]] at the regular schedule:
+      24.3 weeks x 37.0 hrs x [[MONEY?|$31.40]] = [[FINANCIAL_INFO|$28,231.74]], plus estimated Q2/Q3 bonuses [[MONEY?|$2,337]]
+      (based on 2024) = [[FINANCIAL_INFO|$30,568.74]]. (Employee received STD benefits from [[ORGANIZATION?|Guardian]];
+      we do not have those amounts.)
+
+Comments: [[PERSON|Maria]] was one of our most productive hygienists and was well-liked by patients. Her
+duties require prolonged bimanual instrumentation (scaling, root planing, polishing),
+holding a mirror and retracting with the non-dominant hand, and sitting in a fixed posture with
+neck flexion for 45-60 minutes per patient. We could not accommodate a one-handed or reduced-
+instrumentation role. We held her position as long as we could.
+
+I certify that the above information is true and correct according to our payroll and personnel
+records.
+
+/s/ [[PERSON|Yesenia Flores]]
+[[PERSON|Yesenia Flores]], Office Manager                     Direct: [[PHONE|512-444-8121]]   [[EMAIL|yflores@southparkfamilydental.com]]
+
+/s/ [[PERSON|Neil Hartigan]], DDS -- Owner                    Federal EIN: [[ID_NUMBER?|46-2281907]]
+
+Attachments: Payroll register (2022-2025, 9 pp.); Employee authorization dated [[DATE|08/28/2025]].
+Bates KA-EMP 000001-000011.

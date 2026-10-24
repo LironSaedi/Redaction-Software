@@ -1,0 +1,164 @@
+[[ORGANIZATION?|CARDINAL RIDGE INVESTMENTS, INC.]]                               Member FINRA / SIPC
+[[ADDRESS?|80 South Eighth Street, Suite 2900, Minneapolis, MN 55402]]          [[PHONE?|800-555-0116]]  cardinalridge.example
+
+                        RETIREMENT ACCOUNTS -- QUARTERLY STATEMENT
+                   Third Quarter 2026:  [[DATE?|July 1, 2026]] - [[DATE?|September 30, 2026]]
+
+  [[PERSON|GRAHAM P WESTERGAARD]]                                       Your Financial Consultant
+  [[ADDRESS|5410 BRISTOL LN]]                                           [[PERSON?|Priya Raman-Ostrowski]], CFP(R)
+  [[ADDRESS|EDINA MN 55436-1127]]                                       Branch: Edina / 50th & France
+                                                                Direct [[PHONE?|(952) 555-0147]]
+                                                                [[EMAIL?|p.ramanostrowski@cardinalridge.example]]
+
+  Accounts included in this statement                               Account Number        Value on 09/30
+  ------------------------------------------------------------------------------------------------------
+  Traditional IRA  (Cardinal Ridge Investments, Custodian            [[BANK_ACCOUNT|7Q2-418826]]       [[MONEY|$475,529.93]]
+     FBO [[PERSON|Graham P. Westergaard]])
+  Roth IRA         (Cardinal Ridge Investments, Custodian            [[BANK_ACCOUNT|7Q2-418834]]        [[MONEY|$98,603.46]]
+     FBO [[PERSON|Graham P. Westergaard]])
+  ------------------------------------------------------------------------------------------------------
+  Total Retirement Assets                                                                 [[MONEY|$574,133.39]]
+
+  Owner information on file:  Date of birth [[DATE_OF_BIRTH|03/22/1954]]    SSN/TIN ***-**-[[SSN|7046]]
+                              Marital status: Married     Investment objective: Income w/ moderate growth
+                              Risk tolerance: Moderate    Time horizon: 5-10 years
+
+  REQUIRED MINIMUM DISTRIBUTION (RMD) REMINDER
+  Our records show you will reach age [[AGE|73]] in 2027. Under SECURE 2.0 your first RMD from the Traditional IRA
+  will be due by [[DATE?|April 1, 2028]]. Your estimated 2027 RMD, based on the 12/31/2026 value and the IRS Uniform
+  Lifetime Table (Pub. 590-B, Table III, divisor 26.5), will be about [[MONEY|$17,900]]. The Roth IRA is not
+  subject to lifetime RMDs.
+
+                                                                                          Page 1 of 5
+
+--- Page 2 ---
+
+[[PERSON|GRAHAM P WESTERGAARD]]   Traditional IRA [[BANK_ACCOUNT|7Q2-418826]]                 [[DATE?|July 1, 2026]] - [[DATE?|September 30, 2026]]
+
+ACCOUNT SUMMARY                                   This Quarter            Year to Date
+  Beginning value                                 [[MONEY|$410,882.16]]             [[MONEY|$388,904.27]]
+  Contributions / rollovers in                    [[MONEY|$84,612.09]]              [[MONEY|$84,612.09]]
+  Distributions (gross)                           [[MONEY|-$8,000.00]]              [[MONEY|-$24,000.00]]
+  Income (dividends, interest)                    [[MONEY|$2,564.59]]               [[MONEY|$7,118.40]]
+  Change in value                                 see detail                see detail
+  Ending value                                    [[MONEY|$475,529.93]]
+
+  Asset allocation:  Equities 61.8%   Fixed income 29.1%   CDs 4.5%   Cash & sweep 4.6%
+
+HOLDINGS -- EQUITIES, ETFs AND MUTUAL FUNDS (as of 09/30/2026)
+Description                      Symbol  CUSIP         Quantity     Price    Market Value     Cost Basis    Unreal G/L
+----------------------------------------------------------------------------------------------------------------------
+APPLE INC                        AAPL    037833100          185    241.17       [[MONEY|44,616.45]]      21,480.55     23,135.90
+MICROSOFT CORP                   MSFT    594918104           96    512.40       [[MONEY|49,190.40]]      30,112.80     19,077.60
+JOHNSON & JOHNSON                JNJ     478160104          140    171.86       [[MONEY|24,060.40]]      22,044.10      2,016.30
+JPMORGAN CHASE & CO              JPM     46625H100          110    296.03       [[MONEY|32,563.30]]      17,605.50     14,957.80
+VANGUARD TOTAL STOCK MKT ETF     VTI     922908769      420.318    318.22      [[MONEY|133,753.59]]      98,774.73     34,978.86
+VANGUARD TOTAL INTL STOCK ETF    VXUS    921909768          615     70.45       [[MONEY|43,326.75]]      36,285.00      7,041.75
+VANGUARD TOTAL BOND MARKET ETF   BND     921937835    1,210.442     73.91       [[MONEY|89,463.77]]      92,088.52     -2,624.75
+ISHARES CORE S&P MID-CAP ETF     IJH     464287507          300     64.38       [[MONEY|19,314.00]]      15,822.00      3,492.00
+----------------------------------------------------------------------------------------------------------------------
+TOTAL SECURITIES                                                               [[MONEY|436,288.66]]     334,213.20    102,075.46
+
+CERTIFICATES OF DEPOSIT
+  GOLDMAN SACHS BK USA  CD 4.350% DUE 03/15/2027   CUSIP 38150VJK6   Par 25,000   Price 100.13   Value [[MONEY|25,032.50]]
+  FDIC insured to applicable limits. Next interest payment 12/31/2026. Moody's/S&P: N/A.
+
+CASH AND SWEEP
+  Cardinal Ridge Bank Deposit Sweep (FDIC)   APY 0.45%                                Balance [[MONEY|14,208.77]]
+
+                                                                                          Page 2 of 5
+
+--- Page 3 ---
+
+[[PERSON|GRAHAM P WESTERGAARD]]   Traditional IRA [[BANK_ACCOUNT|7Q2-418826]]                 [[DATE?|July 1, 2026]] - [[DATE?|September 30, 2026]]
+
+ACTIVITY DETAIL
+Date    Description                                                                                  Amount
+[[DATE?|07/01]]   Beginning balance                                                                                   
+[[DATE?|07/03]]   Dividend received  JNJ  140 shs @ 1.30                                                        [[MONEY|182.00]]
+[[DATE?|07/15]]   Rollover contribution - direct  CHECK #448120                                              [[MONEY|84,612.09]]
+          FROM [[ORGANIZATION?|NORTHBRIDGE RETIREMENT SVCS]] TTEE [[EMPLOYER|HALVORSEN MARINE SUPPLY]] 401(K)                              
+          PLAN FBO [[PERSON|GRAHAM P WESTERGAARD]]  PLAN ACCT [[BANK_ACCOUNT|HMS-401K-00418]]                                           
+[[DATE?|07/17]]   Bought BND  1,148.112 shs @ 73.70                                                         [[MONEY|-84,615.85]]
+[[DATE?|08/01]]   Distribution - normal (age 59 1/2+)  EFT TO [[ORGANIZATION?|LAKESIDE CU]]                                    [[MONEY|-4,000.00]]
+          CHECKING ****[[BANK_ACCOUNT|2283]]                                                                                 
+[[DATE?|08/01]]   Federal income tax withheld 10%                                                              [[MONEY|-400.00]]
+[[DATE?|08/01]]   Minnesota income tax withheld 6.25%                                                          [[MONEY|-250.00]]
+[[DATE?|08/14]]   Dividend received  AAPL  185 shs @ 0.26                                                        [[MONEY|48.10]]
+[[DATE?|09/01]]   Distribution - normal  EFT TO ****[[BANK_ACCOUNT|2283]]                                                     [[MONEY|-4,000.00]]
+[[DATE?|09/01]]   Federal income tax withheld 10%                                                              [[MONEY|-400.00]]
+[[DATE?|09/01]]   Minnesota income tax withheld 6.25%                                                          [[MONEY|-250.00]]
+[[DATE?|09/11]]   Dividend received  MSFT  96 shs @ 0.91                                                         [[MONEY|87.36]]
+[[DATE?|09/30]]   Dividend received  VTI/VXUS/BND/IJH (see detail)                                            [[MONEY|2,214.63]]
+[[DATE?|09/30]]   Interest - CD  GOLDMAN SACHS BK USA 4.35%                                                      [[MONEY|32.50]]
+[[DATE?|09/30]]   Ending cash balance                                                                                 
+
+INCOME SUMMARY              This Quarter     YTD      |  TAX WITHHOLDING (Form 1099-R)   This Qtr     YTD
+  Ordinary dividends          2,532.09    7,021.55    |    Federal (10%)                    800.00    2,400.00
+  Qualified dividends         1,904.40    5,280.10    |    Minnesota (6.25%)                500.00    1,500.00
+  Interest                       32.50       96.85    |  Gross distributions 2026        8,000.00   24,000.00
+  Total income                2,564.59    7,118.40    |  Distribution code 7 (normal)
+
+STANDING INSTRUCTIONS
+  Systematic withdrawal: $4,000.00 monthly on the 1st by EFT to [[ORGANIZATION?|Lakeside Credit Union]]
+  ABA [[ROUTING_NUMBER|091310521]]   Account [[BANK_ACCOUNT|0004418822283]]   Account owner(s): [[PERSON|Graham P Westergaard]],
+  [[PERSON|Ingrid M Westergaard]]. Withholding elections on file (Form W-4R, rev. 2026): Federal 10%, State 6.25%.
+
+                                                                                          Page 3 of 5
+
+--- Page 4 ---
+
+[[PERSON|GRAHAM P WESTERGAARD]]   Roth IRA [[BANK_ACCOUNT|7Q2-418834]]                        [[DATE?|July 1, 2026]] - [[DATE?|September 30, 2026]]
+
+ACCOUNT SUMMARY                                   This Quarter            Year to Date
+  Beginning value                                 [[MONEY|$71,906.33]]              [[MONEY|$66,210.05]]
+  Contributions                                   [[MONEY|$0.00]]                   [[MONEY|$8,000.00]] (2026 limit, age 50+)
+  Income                                          [[MONEY|$118.27]]                 [[MONEY|$402.66]]
+  Ending value                                    [[MONEY|$98,603.46]]
+
+  Roth 5-year holding period satisfied: Yes (first Roth contribution tax year 2011)
+
+HOLDINGS (as of 09/30/2026)
+Description                      Symbol  CUSIP         Quantity     Price    Market Value     Cost Basis    Unreal G/L
+----------------------------------------------------------------------------------------------------------------------
+VANGUARD INFO TECH ETF           VGT     92204A702           64    701.15       [[MONEY|44,873.60]]      26,880.00     17,993.60
+FIDELITY 500 INDEX FUND          FXAIX   31617H102      233.871    224.66       [[MONEY|52,541.46]]      31,002.37     21,539.09
+----------------------------------------------------------------------------------------------------------------------
+TOTAL SECURITIES                                                                [[MONEY|97,415.06]]      57,882.37     39,532.69
+  Cash sweep balance                                                               [[MONEY|1,188.40]]
+
+BENEFICIARY DESIGNATIONS ON FILE (both accounts, last updated [[DATE?|02/09/2024]])
+  Type       Name                              Relationship        Share   Date of Birth     SSN
+  ---------  --------------------------------  ------------------  ------  ----------------  -------------
+  Primary    [[PERSON|INGRID M WESTERGAARD]]              Spouse              60%     [[DATE_OF_BIRTH|07/14/1957]]        ***-**-[[SSN|3318]]
+  Primary    [[PERSON|KARINA WESTERGAARD-ROSS]]           Daughter            40%     [[DATE_OF_BIRTH|11/02/1983]]        ***-**-[[SSN|5521]]
+  Contingent [[PERSON MINOR|ELLIOT J ROSS]] (minor)             Grandson            50%     [[DATE_OF_BIRTH|04/19/2015]]        ***-**-[[SSN|8840]]
+             c/o [[PERSON|KARINA WESTERGAARD-ROSS]], custodian under MN UTMA
+  Contingent [[PERSON MINOR|NORA L ROSS]] (minor)               Granddaughter       50%     [[DATE_OF_BIRTH|09/30/2018]]        ***-**-[[SSN|1179]]
+  Per stirpes: NO.  Spousal consent on file: Yes (Traditional IRA).
+
+  Note from your Financial Consultant: per our [[DATE?|8/20]] call, [[PERSON|Graham]] wants to add his stepson,
+  [[PERSON|Mikkel Dahl-Hansen]] (lives in [[LOCATION?|Aarhus, Denmark]]), as a 10% primary beneficiary on the Roth only. A new
+  beneficiary form (CRI-RET-BEN-02) was mailed [[DATE?|08/22/2026]]; it has not yet been returned.
+
+                                                                                          Page 4 of 5
+
+--- Page 5 ---
+
+IMPORTANT INFORMATION
+- Cardinal Ridge Investments, Inc. acts as custodian for your IRA. Securities are held in street name.
+  Member SIPC, which protects securities customers of its members up to $500,000 (including $250,000
+  for claims for cash). Explanatory brochure available at www.sipc.org.
+- Market values are based on closing prices on 09/30/2026 from third-party sources. Cost basis for IRA
+  holdings is shown for informational purposes only and is not reported to the IRS.
+- Your 2026 Form 5498 (IRA contribution information) will be issued by May 31, 2027. Rollover
+  contributions of $84,612.09 will be reported in Box 2.
+- CUSIP(R) is a registered trademark of the American Bankers Association. CUSIP data provided by
+  CUSIP Global Services. Ticker symbols are for reference only.
+- Please review this statement promptly. Report any inaccuracy or discrepancy to your Financial
+  Consultant and to Cardinal Ridge Client Services at [[PHONE?|800-555-0116]] within 10 days.
+- Online access: sign in at cardinalridge.example with your user ID. For your security, your user ID
+  and password are never printed on statements.
+- Account statement code RQ-03 / mailing code 0447-EDN / Doc ID 2026Q3-118827.
+
+                                                                                          Page 5 of 5

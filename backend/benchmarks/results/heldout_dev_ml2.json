@@ -1,0 +1,1883 @@
+{
+ "recall": 0.9070403280929596,
+ "precision": 0.9446308724832215,
+ "f1": 0.9254540398287832,
+ "per_type": {
+  "PHONE": {
+   "gold": 134,
+   "caught": 131
+  },
+  "PERSON": {
+   "gold": 752,
+   "caught": 732
+  },
+  "MRN": {
+   "gold": 36,
+   "caught": 36
+  },
+  "DATE_OF_BIRTH": {
+   "gold": 71,
+   "caught": 71
+  },
+  "INDIRECT_LOCATION": {
+   "gold": 60,
+   "caught": 16
+  },
+  "INDIRECT_ROLE": {
+   "gold": 12,
+   "caught": 4
+  },
+  "EMPLOYER": {
+   "gold": 48,
+   "caught": 36
+  },
+  "USERNAME": {
+   "gold": 23,
+   "caught": 20
+  },
+  "ADDRESS": {
+   "gold": 67,
+   "caught": 58
+  },
+  "SCHOOL": {
+   "gold": 11,
+   "caught": 6
+  },
+  "EMAIL": {
+   "gold": 40,
+   "caught": 40
+  },
+  "ID_NUMBER": {
+   "gold": 37,
+   "caught": 34
+  },
+  "HEALTH_PLAN_ID": {
+   "gold": 17,
+   "caught": 13
+  },
+  "PHYSICAL_DESCRIPTOR": {
+   "gold": 16,
+   "caught": 4
+  },
+  "PASSWORD": {
+   "gold": 10,
+   "caught": 9
+  },
+  "MEDICARE_ID": {
+   "gold": 1,
+   "caught": 1
+  },
+  "DRIVERS_LICENSE": {
+   "gold": 19,
+   "caught": 14
+  },
+  "GPS": {
+   "gold": 7,
+   "caught": 6
+  },
+  "SSN": {
+   "gold": 20,
+   "caught": 19
+  },
+  "CLAIM_NUMBER": {
+   "gold": 19,
+   "caught": 18
+  },
+  "CREDIT_CARD": {
+   "gold": 4,
+   "caught": 4
+  },
+  "CARD_EXPIRY": {
+   "gold": 2,
+   "caught": 2
+  },
+  "CVV": {
+   "gold": 2,
+   "caught": 2
+  },
+  "LICENSE_PLATE": {
+   "gold": 10,
+   "caught": 10
+  },
+  "VIN": {
+   "gold": 6,
+   "caught": 6
+  },
+  "DEVICE_ID": {
+   "gold": 5,
+   "caught": 5
+  },
+  "POLICY_NUMBER": {
+   "gold": 8,
+   "caught": 8
+  },
+  "IBAN": {
+   "gold": 1,
+   "caught": 1
+  },
+  "BANK_ACCOUNT": {
+   "gold": 16,
+   "caught": 14
+  },
+  "PASSPORT": {
+   "gold": 3,
+   "caught": 2
+  },
+  "NATIONAL_ID": {
+   "gold": 2,
+   "caught": 1
+  },
+  "ROUTING_NUMBER": {
+   "gold": 4,
+   "caught": 4
+  }
+ },
+ "misses": [
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "2l0-455-09l2",
+   "coverage": 0.0,
+   "context": " TX 78229\u23cePh0ne (h0me) ---------------     (cell) 2l0-455-09l2\u23ceEmpl0yer: retired -- f0rmerly",
+   "entity": "PHONE"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "1-8OO-3l8-2245",
+   "coverage": 0.0,
+   "context": "C\u23ceP.0. Box 2O418 * Austin TX 78768 * 24/7 Banking 1-8OO-3l8-2245 * capitalhillcb.com\u23ce\u23ce        ",
+   "entity": "PHONE"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "1-8OO-3l8-2245",
+   "coverage": 0.0,
+   "context": "r questions about your electronic transfers, call 1-8OO-3l8-2245\u23ce  or write P.0. Box 2O418, Au",
+   "entity": "PHONE"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "ROZ",
+   "coverage": 0.0,
+   "context": "S (W1) / REPORTING PARTY\u23ce  Name: PHAM, ROSALIND (\"ROZ\")          DOB: 04/30/1961   ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "Grace Hill",
+   "coverage": 0.0,
+   "context": "I\u23ceobserved a white female, later identified as V1 Grace Hill, sitting on the kitchen floor",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "R0salind Thi Pham",
+   "coverage": 0.47,
+   "context": ": Apt l2C, Pinecrest Apts (breezeway)\u23ce\u23ceMy name is R0salind Thi Pham                    I am 64 ye",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "R0salind Pham",
+   "coverage": 0.33,
+   "context": "pl0yer: retired -- f0rmerly USAA c1aims dept.\u23ce\u23ceI, R0salind Pham, having been first du1y sw0rn",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "K0wa1-chick",
+   "coverage": 0.0,
+   "context": "nt kn0w his last name it\u23ceis P0lish s0mething like K0wa1-chick. They have a 1itt1e gir1 Li1y",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "Li1y",
+   "coverage": 0.0,
+   "context": "mething like K0wa1-chick. They have a 1itt1e gir1 Li1y wh0 is 3. T0night ar0und\u23ce1050",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "Li1y",
+   "coverage": 0.0,
+   "context": "n when he\u23cedrinks and she was afraid he w0u1d take Li1y t0 P0land. She asked me n0t t",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "Li1y",
+   "coverage": 0.0,
+   "context": "the c0de f0r her d00r\u23ce1ock (4471) because I watch Li1y s0metimes when she w0rks 1ate",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "R0sa1ind T. Pham",
+   "coverage": 0.43,
+   "context": "\u00a7 37.08.\u23ce\u23ceSignature 0f pers0n giving statement:   R0sa1ind T. Pham      Date: 8/l6/25\u23ce\u23ceWitness: ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "M. D0y1e",
+   "coverage": 0.0,
+   "context": " #4l27                   Date: 8/l6/2025\u23ceWitness: M. D0y1e #3390\u23ce\u23ce[margina1 n0te, differ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "Vi11al0b0s",
+   "coverage": 0.2,
+   "context": "different ink:] W1 interviewed again 8/l8 by Det. Vi11al0b0s -- c0nsistent.\u23ce[stamp:] RECEI",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "P-H-A-M",
+   "coverage": 0.0,
+   "context": "alk. What's your name?\u23ce00:37  C:   Rosalind Pham. P-H-A-M.\u23ce00:40  CT:  And the number y",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "26_recorded_statement_transcript",
+   "value": "H-Y-U-N, hyphen, W-O-O",
+   "coverage": 0.0,
+   "context": "ould you spell your name for me?\u23ceHP:   First name H-Y-U-N, hyphen, W-O-O. Last name P-A-R-K. Most peop",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "26_recorded_statement_transcript",
+   "value": "P-A-R-K",
+   "coverage": 0.0,
+   "context": "P:   First name H-Y-U-N, hyphen, W-O-O. Last name P-A-R-K. Most people call me Henry.\u23ceM",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "HYUN W00 PARK",
+   "coverage": 0.36,
+   "context": "      Statement Period: O4/Ol/2O25 - O4/3O/2O25\u23ce  HYUN W00 PARK MBR                          ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "32_tax_return_excerpt",
+   "value": "JI EUN",
+   "coverage": 0.0,
+   "context": "e                 Spouse's social security number\u23ceJI EUN                              ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "32_tax_return_excerpt",
+   "value": "DANIEL J",
+   "coverage": 0.86,
+   "context": "    (3) Relationship   (4) Child tax credit\u23ce      DANIEL J     PARK         643-18-2290 ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "32_tax_return_excerpt",
+   "value": "SEO YEON",
+   "coverage": 0.0,
+   "context": "  643-18-2290        SON                [X]\u23ce      SEO YEON     PARK         643-19-5571 ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "32_tax_return_excerpt",
+   "value": "PARK, HYUN WOO & JI EUN",
+   "coverage": 0.5,
+   "context": "count number 7720 0418 0471\u23ce\u23ce\fForm 1040 (2024) -- PARK, HYUN WOO & JI EUN -- SSN ***-**-0927           ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "32_tax_return_excerpt",
+   "value": "JI EUN",
+   "coverage": 0.0,
+   "context": "rst name and initial   Last name     Suff.\u23ce       JI EUN                              ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "01_discharge_summary_trauma",
+   "value": "Bluebonnet Pharmacy #212",
+   "coverage": 0.82,
+   "context": "b\u23ce   x 6 weeks.\u23ce\u23ce   Prescriptions e-prescribed to Bluebonnet Pharmacy #212, 3601 S. Congress Ave,\u23ce   (51",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "05_obgyn_visit",
+   "value": "Bellaire Chinatown strip next to the pho restaurant",
+   "coverage": 0.0,
+   "context": "s a nail technician at Lotus Nails &\u23ce  Spa in the Bellaire Chinatown strip next to the pho restaurant; concerned about\u23ce  solvent ex",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "06_hiv_clinic_note",
+   "value": "the bar on Cincinnati Ave\n  across from the UTEP lot",
+   "coverage": 0.51,
+   "context": "ancial: Works as a bartender at The Rusty Anchor (the bar on Cincinnati Ave\u23ce  across from the UTEP lot). Reports income dropped to a",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "value": "a mobile home at the back of the Shady Acres park off FM 150, lot 22",
+   "coverage": 0.51,
+   "context": "ssing SNF vs inpatient rehab;\u23ce  pt lives alone in a mobile home at the back of the Shady Acres park off FM 150, lot 22.\u23ce  Medicare A/B -- MBI 5QR7-H",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "value": "the Dollar General #13820 on FM 1626",
+   "coverage": 0.0,
+   "context": "ted she \"slipped on water by the\u23ceice freezers\" at the Dollar General #13820 on FM 1626 on 05/02/2025 approx 14:15.\u23ceR",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "Store #212",
+   "coverage": 0.0,
+   "context": "CY -- PATIENT PRESCRIPTION PROFILE / FILL HISTORY\u23ceStore #212 -- 3601 S. Congress Ave, Aust",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "Store\n  #212",
+   "coverage": 0.0,
+   "context": " the custodian of records for Bluebonnet Pharmacy Store\u23ce  #212. The foregoing 2 pages are tr",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "value": "E BEN WHITE BLVD WB / S CONGRESS AVE",
+   "coverage": 0.0,
+   "context": "st 18:20:47   InSvc 18:51:02\u23ce\u23ceINCIDENT LOCATION\u23ce  E BEN WHITE BLVD WB / S CONGRESS AVE -- AUSTIN -- TRAVIS CO\u23ce  Lat/",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "12_independent_medical_exam",
+   "value": "Bluebonnet Pharmacy #212",
+   "coverage": 0.82,
+   "context": "ernathy, PMHNP), 5/20/25\u23ce   12. Pharmacy profile, Bluebonnet Pharmacy #212, 1/1/24 - 6/30/25\u23ce   13. Plai",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "12_independent_medical_exam",
+   "value": "the Ben White / Congress intersection",
+   "coverage": 0.25,
+   "context": "rts she drives\u23ceonly on surface streets and avoids the Ben White / Congress intersection entirely.\u23ce\u23cePRIOR HISTORY\u23ceOn d",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "14_chiropractic_notes",
+   "value": "southbound MoPac just past the Far West Blvd exit",
+   "coverage": 0.0,
+   "context": "s/p rear-end MVC. Pt was stopped in\u23ce   traffic on southbound MoPac just past the Far West Blvd exit when struck from behind by a\u23ce",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "14_chiropractic_notes",
+   "value": "the Mueller farmers market",
+   "coverage": 0.0,
+   "context": "7/10, LBP 5/10. Slept poorly. Worked Sat lunch at the Mueller farmers market.\u23ceO: Hypertonicity unchanged. ",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "PINECREST APARTMENTS",
+   "coverage": 0.32,
+   "context": "2B, SAN ANTONIO TX 78229\u23ce  Premise: APARTMENT -- \"PINECREST APARTMENTS\", BLDG 12, 2ND FLOOR, gate co",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "the icehouse on Bandera by the Valero",
+   "coverage": 0.29,
+   "context": "ame home at approximately 2245 after\u23cedrinking at \"the icehouse on Bandera by the Valero.\" S1 accused her of texting a",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "the H-E-B at Bandera and 1604",
+   "coverage": 0.58,
+   "context": "\"for a second\"\u23cein the truck in the parking lot of the H-E-B at Bandera and 1604, and in December 2024 he\u23cepunc",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "16_police_crash_report",
+   "value": "SHELL STATION NE CORNER, PUMP 6",
+   "coverage": 0.77,
+   "context": " TX 78704   (737) 302-6614\u23ce     Location at time: SHELL STATION NE CORNER, PUMP 6; has dashcam video (provided ",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "16_police_crash_report",
+   "value": "pump 6 of the Shell station on the\n  northeast corner",
+   "coverage": 0.0,
+   "context": "from W1 Carter. W1 stated by phone that he was at pump 6 of the Shell station on the\u23ce  northeast corner and that his Vantrue N4 dashc",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "Apt l2C, Pinecrest Apts",
+   "coverage": 0.65,
+   "context": "l6-2025     Time: 2355 hrs\u23cePlace statement taken: Apt l2C, Pinecrest Apts (breezeway)\u23ce\u23ceMy name is R0sal",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "12B",
+   "coverage": 0.0,
+   "context": "7420 Callaghan, apartment -- it's next door, it's 12B, I'm in 12C.\u23ce00:09  CT:  7420",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "12C",
+   "coverage": 0.0,
+   "context": "an, apartment -- it's next door, it's 12B, I'm in 12C.\u23ce00:09  CT:  7420 Callaghan R",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "the Pinecrest",
+   "coverage": 0.5,
+   "context": " CT:  7420 Callaghan Road, apartment 12B. Is that the Pinecrest?\u23ce00:12  C:   Yes, Pinecrest, ",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "Pinecrest, building 12, upstairs",
+   "coverage": 0.21,
+   "context": "ment 12B. Is that the Pinecrest?\u23ce00:12  C:   Yes, Pinecrest, building 12, upstairs. He's hurting her, I can hear",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "12B",
+   "coverage": 0.0,
+   "context": ":   Yes. That's my cell.\u23ce00:45  CT:  Who lives in 12B?\u23ce00:47  C:   Grace -- Grace H",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "the CVS on Fredericksburg",
+   "coverage": 0.86,
+   "context": " the baby, I\u23ce            don't know. She works at the CVS on Fredericksburg, the pharmacy.\u23ce02:12  CT:  Ok",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "20_probable_cause_affidavit",
+   "value": "CVS Pharmacy Store #10432, 8302 Fredericksburg Road",
+   "coverage": 0.73,
+   "context": "rom the\u23ce       complainant's place of employment, CVS Pharmacy Store #10432, 8302 Fredericksburg Road;\u23ce  (3)  Surrender all firearm",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "value": "Little Sprouts Learning Center on Wurzbach Rd",
+   "coverage": 0.0,
+   "context": "urg Rd), the child's child-care facility\u23ce        (Little Sprouts Learning Center on Wurzbach Rd), and the residence of Applic",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "value": "the H-E-B at Bandera\nand Loop 1604",
+   "coverage": 0.64,
+   "context": "ur daughter. In March 2025, in the parking lot of the H-E-B at Bandera\u23ceand Loop 1604, he grabbed my throat in the ",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "the Cedar Park Recreation Center pool",
+   "coverage": 0.88,
+   "context": "26, 2025, Respondent left Rohan, then 7, alone at the Cedar Park Recreation Center pool for\u23ce        approximately thr",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "the Villas at Little Texas",
+   "coverage": 0.0,
+   "context": "     4410 S. 1st St., Apt. 318, Austin, TX 78745 (the Villas at Little Texas)\u23ce     2012 - 2015       1302 ",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "#044 (Harlingen)",
+   "coverage": 0.27,
+   "context": "a Venkatesh; $29.00 per hour.\u23ce     c. H-E-B Store #044 (Harlingen); pharmacy clerk; 2012 to 2014",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "the Whataburger on William Cannon",
+   "coverage": 0.0,
+   "context": "r-ended at low speed in the drive-through\u23celane of the Whataburger on William Cannon. I did not file a lawsuit. My",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "his after-school program at the YMCA on Ben White",
+   "coverage": 0.0,
+   "context": "e front\u23cepassenger seat. I was picking him up from his after-school program at the YMCA on Ben White. I\u23cewas in the left-turn lane ",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "Bluebonnet Pharmacy #212",
+   "coverage": 0.82,
+   "context": "           5/20/25-6/24/25         $1,375.00\u23ce     Bluebonnet Pharmacy #212                            3/",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "Garrison\nPark",
+   "coverage": 0.0,
+   "context": ". I stopped coaching my daughter's soccer team at Garrison\u23cePark. My husband has had to take u",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "25_deposition_excerpt_wells",
+   "value": "H-E-B distribution center in San Marcos",
+   "coverage": 0.0,
+   "context": "at sounds right. I picked up the load at the\u23ce 4   H-E-B distribution center in San Marcos at 4:00.\u23ce 5        Q.   And t",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "25_deposition_excerpt_wells",
+   "value": "Love's in Waco",
+   "coverage": 0.0,
+   "context": "      A.   One in 2017, I backed into a pole at a Love's in Waco. No\u23ce24   injuries.\u23ce25        ",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "26_recorded_statement_transcript",
+   "value": "the lot on East Sixth by the brewery",
+   "coverage": 0.0,
+   "context": " Jae-sung,\u23ce      he works for me part-time. We do the lot on East Sixth by the brewery Thursday to Sunday,\u23ce      and",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "26_recorded_statement_transcript",
+   "value": "the Mueller farmers market",
+   "coverage": 0.0,
+   "context": "ixth by the brewery Thursday to Sunday,\u23ce      and the Mueller farmers market on Saturday mornings, and cat",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "27_adjuster_claim_notes",
+   "value": "E Ben White Blvd @ S Congress Ave",
+   "coverage": 0.0,
+   "context": " Freight LLC)      DOL: 03/14/2025\u23ceLoss location: E Ben White Blvd @ S Congress Ave, Austin TX      Loss cause: I",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "27_adjuster_claim_notes",
+   "value": "HEB DC San Marcos",
+   "coverage": 0.0,
+   "context": "                    on duty since 0312, load from HEB DC San Marcos, ~45\u23ce                        ",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "27_adjuster_claim_notes",
+   "value": "Dittmar Park",
+   "coverage": 0.0,
+   "context": "                             son's T-ball game at Dittmar Park, wrist brace visible,\u23ce       ",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "28_workers_comp_first_report",
+   "value": "Mueller Crossing Apartments (job #RB-2307), Building C, 3rd floor east balcony",
+   "coverage": 0.37,
+   "context": "(if different):\u23ce                                  Mueller Crossing Apartments (job #RB-2307), Building C, 3rd floor east balcony\u23ce                             ",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "33_school_records_iep",
+   "value": "Saturday art program at the Round Rock Public Library",
+   "coverage": 0.56,
+   "context": " He loves drawing, Minecraft, and\u23ce            the Saturday art program at the Round Rock Public Library.\u23ce\u23ce\fIEP -- BANKS, JAYLEN MARCU",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "36_hipaa_authorization",
+   "value": "Bluebonnet Pharmacy #212",
+   "coverage": 0.82,
+   "context": "water Counseling (Claire Abernathy, PMHNP);\u23ce      Bluebonnet Pharmacy #212; Lakeway Open MRI.\u23ce  [X] My h",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "04_sud_progress_note_part2",
+   "value": "overnight shifts as a CNA",
+   "coverage": 0.0,
+   "context": " will be \"only bupe.\"\u23ce\u23ce  Client continues working overnight shifts as a CNA at Heritage Oaks Nursing & Re",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "value": "6 y/o son",
+   "coverage": 0.0,
+   "context": "e through the red, I had the green\u23ce  arrow.\" Pt's 6 y/o son (Mateo) was in a rear booster",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "value": "the pharmacist I work with",
+   "coverage": 0.0,
+   "context": " grabbed my\u23cephone and accused me of sleeping with the pharmacist I work with. He threw my phone and broke ",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "pharmacy manager",
+   "coverage": 0.0,
+   "context": "d., Cedar Park, Texas 78613, where\u23ce    she is the pharmacy manager, weekdays between 9:00 a.m. a",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "journeyman lineman with a standard 7:00 a.m. -- 3:30 p.m. schedule",
+   "coverage": 0.0,
+   "context": " no report to any agency.\u23ce    d.  Petitioner is a journeyman lineman with a standard 7:00 a.m. -- 3:30 p.m. schedule and on-call storm\u23ce        rot",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "my next-door neighbor and carpool partner",
+   "coverage": 0.0,
+   "context": " deposition of the minor).\u23ce     - Karen Whitmore, my next-door neighbor and carpool partner -- before/after condition.\u23ce\u23ceI",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "33_school_records_iep",
+   "value": "the overnight shift as a CNA at the Avery Ranch nursing home",
+   "coverage": 0.27,
+   "context": "confidential file only.\u23ce  Parent stated she works the overnight shift as a CNA at the Avery Ranch nursing home and can attend meetings\u23ce  onl",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "38_demand_letter",
+   "value": "first-grade teacher",
+   "coverage": 0.0,
+   "context": "r. Ifeoma Chukwu,\u23cePsyD (12 sessions to date). His first-grade teacher at Galindo Elementary reports",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "16_police_crash_report",
+   "value": "SWIFTLINE FREIGHT LLC",
+   "coverage": 0.0,
+   "context": "mercial Motor Vehicle: Y   GVWR 80,000   Carrier: SWIFTLINE FREIGHT LLC   USDOT # 3318852\u23ce  Carrier A",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "24_rfp_response",
+   "value": "Brightline CPA Group LLC",
+   "coverage": 0.0,
+   "context": "000202-000231.\u23ceThe W-2 of Plaintiff's spouse from Brightline CPA Group LLC is not relevant and is withhe",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "24_rfp_response",
+   "value": "Seoul Food ATX LLC",
+   "coverage": 0.0,
+   "context": "N NO. 5: Point-of-sale (Square) sales reports for Seoul Food ATX LLC, 2023 to present.\u23ceRESPONSE: S",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "25_deposition_excerpt_wells",
+   "value": "Swiftline",
+   "coverage": 0.0,
+   "context": "                     Page 9\u23ce 1        Q.   Before Swiftline, where did you work?\u23ce 2      ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "25_deposition_excerpt_wells",
+   "value": "Swiftline",
+   "coverage": 0.0,
+   "context": "regates, dump truck, two years. I started\u23ce 4   at Swiftline in August of '21.\u23ce 5        Q",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "25_deposition_excerpt_wells",
+   "value": "Caliche",
+   "coverage": 0.0,
+   "context": "n August of '21.\u23ce 5        Q.   Why did you leave Caliche?\u23ce 6        A.   They were sol",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "25_deposition_excerpt_wells",
+   "value": "Swiftline",
+   "coverage": 0.0,
+   "context": "13        Q.   (BY MS. KIM) Was that disclosed to Swiftline when you applied?\u23ce14        A",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "26_recorded_statement_transcript",
+   "value": "Seoul Food ATX",
+   "coverage": 0.0,
+   "context": "do you do for a living?\u23ceHP:   I own a food truck. Seoul Food ATX. Korean barbecue, tacos. It's",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "26_recorded_statement_transcript",
+   "value": "Seoul Food",
+   "coverage": 0.0,
+   "context": "t. The plate is SFD 4417 -- it's a vanity plate, \"Seoul Food.\"\u23ceMOK:  Anyone with you?\u23ceHP: ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "SE0UL F00D ATX LLC",
+   "coverage": 0.0,
+   "context": "                   BUSlNESS CHECKlNG STATEMENT\u23ce\u23ce  SE0UL F00D ATX LLC                              ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "SE0UL F00D ATX LLC",
+   "coverage": 0.0,
+   "context": " CAPITAL HlLL COMMUNlTY BANK   Acct ending 3318   SE0UL F00D ATX LLC   Page 2 of 3\u23ce\u23ce  WlTHDRAWALS ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "32_tax_return_excerpt",
+   "value": "SEOUL FOOD ATX LLC",
+   "coverage": 0.0,
+   "context": "RVICE         B  Code: 722330\u23ce  C  Business name: SEOUL FOOD ATX LLC                           D  ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "05_obgyn_visit",
+   "value": "thuyle0109",
+   "coverage": 0.0,
+   "context": "n Minh Chau, CHI   ID V-2231\u23ce\u23cecc: Patient portal (thuyle0109), Gulfgate Southwest Hospital",
+   "entity": "USERNAME"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "inmate account DKOWALCZYK0098812",
+   "coverage": 0.57,
+   "context": "(sent via jail tablet? -- follow up with BCADC\u23ceon inmate account DKOWALCZYK0098812): \"you know what you did. dro",
+   "entity": "USERNAME"
+  },
+  {
+   "doc": "27_adjuster_claim_notes",
+   "value": "kbrandt",
+   "coverage": 0.0,
+   "context": "F)        Export date: 10/01/2025    Exported by: kbrandt\u23ce-----------------------------",
+   "entity": "USERNAME"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "SAN ANTONIO TX 78229",
+   "coverage": 0.0,
+   "context": "CATION OF OCCURRENCE\u23ce  7420 CALLAGHAN RD APT 12B, SAN ANTONIO TX 78229\u23ce  Premise: APARTMENT -- \"PINE",
+   "entity": "ADDRESS"
+  },
+  {
+   "doc": "16_police_crash_report",
+   "value": "AUSTIN TX 78704",
+   "coverage": 0.0,
+   "context": " 1. CARTER, DESHAWN M   1107 E OLTORF ST APT 233, AUSTIN TX 78704   (737) 302-6614\u23ce     Locatio",
+   "entity": "ADDRESS"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "Flat 4B, Sri Sai Residency, 12 Venkatnarayana Road, T. Nagar, Chennai 600017",
+   "coverage": 0.31,
+   "context": "K) linked to a flat titled in her name at\u23ce        Flat 4B, Sri Sai Residency, 12 Venkatnarayana Road, T. Nagar, Chennai 600017.\u23ce    b.  On August 11, 2025, ",
+   "entity": "ADDRESS"
+  },
+  {
+   "doc": "26_recorded_statement_transcript",
+   "value": "4512 Avenue F, Austin, 78751",
+   "coverage": 0.46,
+   "context": "P:   October 5th, 1982.\u23ceMOK:  Your address?\u23ceHP:   4512 Avenue F, Austin, 78751.\u23ceMOK:  And the best phone num",
+   "entity": "ADDRESS"
+  },
+  {
+   "doc": "30_payroll_stub",
+   "value": "PFLUGERVILLE TX 78660",
+   "coverage": 0.0,
+   "context": "35     Pay Period: 06/01/25-06/07/25|\u23ce|           PFLUGERVILLE TX 78660           Filing: MFJ  Allow:",
+   "entity": "ADDRESS"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "45l2 AVENUE F",
+   "coverage": 0.0,
+   "context": "                Account Number:   884l-OO2-3318\u23ce  45l2 AVENUE F                              ",
+   "entity": "ADDRESS"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "AUSTlN TX 7875l-23O4",
+   "coverage": 0.0,
+   "context": "                    Routing (ABA):    l32874926\u23ce  AUSTlN TX 7875l-23O4                              ",
+   "entity": "ADDRESS"
+  },
+  {
+   "doc": "32_tax_return_excerpt",
+   "value": "AUSTIN                                    TX        78751",
+   "coverage": 0.0,
+   "context": " or post office                State     ZIP code\u23ceAUSTIN                                    TX        78751\u23cePresidential Election Campaig",
+   "entity": "ADDRESS"
+  },
+  {
+   "doc": "32_tax_return_excerpt",
+   "value": "AUSTIN TX 78751",
+   "coverage": 0.0,
+   "context": " address and ZIP code\u23ce       4512 AVENUE F\u23ce       AUSTIN TX 78751\u23ce   1  Wages, tips, other comp",
+   "entity": "ADDRESS"
+  },
+  {
+   "doc": "03_psychiatric_evaluation",
+   "value": "Naaman Forest High\n  School",
+   "coverage": 0.0,
+   "context": "ildren. Arrived in Garland, TX in 2008. Graduated Naaman Forest High\u23ce  School and UT Dallas (B.S. Computer ",
+   "entity": "SCHOOL"
+  },
+  {
+   "doc": "03_psychiatric_evaluation",
+   "value": "UT Dallas",
+   "coverage": 0.0,
+   "context": "n 2008. Graduated Naaman Forest High\u23ce  School and UT Dallas (B.S. Computer Science, 2018)",
+   "entity": "SCHOOL"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "Westwood Hills\n    Elementary",
+   "coverage": 0.0,
+   "context": "g Brook Middle School; Rohan attends 2nd grade at Westwood Hills\u23ce    Elementary. No other children were born ",
+   "entity": "SCHOOL"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "Westwood Hills Elementary",
+   "coverage": 0.0,
+   "context": " the children from Running Brook Middle School or Westwood Hills Elementary; (5) hiding\u23ce    or destroying",
+   "entity": "SCHOOL"
+  },
+  {
+   "doc": "38_demand_letter",
+   "value": "Galindo Elementary",
+   "coverage": 0.0,
+   "context": "(12 sessions to date). His first-grade teacher at Galindo Elementary reports he\u23cestartles at loud n",
+   "entity": "SCHOOL"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "value": "SRC1912345678",
+   "coverage": 0.0,
+   "context": " 41877203\u23ce  5  Permanent resident card (I-551), # SRC1912345678, exp 06/14/2029 -- held for I",
+   "entity": "ID_NUMBER"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "IOE0918827741",
+   "coverage": 0.0,
+   "context": "dent of the United States (Form I-551\u23ce        No. IOE0918827741) and holds Indian passport No",
+   "entity": "ID_NUMBER"
+  },
+  {
+   "doc": "32_tax_return_excerpt",
+   "value": "88-1937204",
+   "coverage": 0.0,
+   "context": "UL FOOD ATX LLC                           D  EIN: 88-1937204\u23ce  E  Business address: 4512 A",
+   "entity": "ID_NUMBER"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "HCE-11820",
+   "coverage": 0.0,
+   "context": ", Hill Country Electric Cooperative (BCBSTX group HCE-11820, member\u23ce    IDs HCE884410217-",
+   "entity": "HEALTH_PLAN_ID"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "HCE884410217-02",
+   "coverage": 0.0,
+   "context": "operative (BCBSTX group HCE-11820, member\u23ce    IDs HCE884410217-02 and HCE884410217-03).\u23ce\u23ce8.  Co",
+   "entity": "HEALTH_PLAN_ID"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "HCE884410217-03",
+   "coverage": 0.0,
+   "context": "oup HCE-11820, member\u23ce    IDs HCE884410217-02 and HCE884410217-03).\u23ce\u23ce8.  Conservatorship. Petit",
+   "entity": "HEALTH_PLAN_ID"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "228174",
+   "coverage": 0.0,
+   "context": "hrough my employer, member ID XOD884417203, group\u23ce228174; Guardian short-term disabili",
+   "entity": "HEALTH_PLAN_ID"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "TATTOO -- SCORPION, L SIDE OF NECK",
+   "coverage": 0.21,
+   "context": "\"  Wt 215  Hair BLN  Eyes BLU  Build HEAVY\u23ce  SMT: TATTOO -- SCORPION, L SIDE OF NECK; TATTOO -- \"PIOTR\" + DATE, R ",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "TATTOO -- \"PIOTR\" + DATE, R FOREARM",
+   "coverage": 0.38,
+   "context": " HEAVY\u23ce  SMT: TATTOO -- SCORPION, L SIDE OF NECK; TATTOO -- \"PIOTR\" + DATE, R FOREARM;\u23ce       SCAR -- 3\" VERTICAL, ",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "SCAR -- 3\" VERTICAL, CHIN",
+   "coverage": 0.19,
+   "context": "NECK; TATTOO -- \"PIOTR\" + DATE, R FOREARM;\u23ce       SCAR -- 3\" VERTICAL, CHIN\u23ce  Address: same as occurrence",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "sc0rpion tattoo 0n his neck",
+   "coverage": 0.61,
+   "context": "1d.\u23ce\u23ceHe drives a big gray F0rd truck and he has a sc0rpion tattoo 0n his neck, y0u cant miss it.\u23ceI am afrai",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "a tattoo on his neck\n            of a scorpion",
+   "coverage": 0.56,
+   "context": "g. Polish. Kowalczyk? He's a big guy, blond, with a tattoo on his neck\u23ce            of a scorpion.\u23ce01:03  CT:  Are there any we",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "value": "SCORPION, BLACK INK, APPROX 4\"",
+   "coverage": 0.54,
+   "context": "  SKIN: FAR\u23ceSCARS/MARKS/TATTOOS:\u23ce   TAT NECK L -- SCORPION, BLACK INK, APPROX 4\"\u23ce   TAT R FARM -- \"PIOTR 1961-",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "value": "\"PIOTR 1961-2012\" W/ CROSS",
+   "coverage": 0.22,
+   "context": "- SCORPION, BLACK INK, APPROX 4\"\u23ce   TAT R FARM -- \"PIOTR 1961-2012\" W/ CROSS\u23ce   TAT L CHEST -- POLISH EAGL",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "value": "POLISH EAGLE, RED/WHITE",
+   "coverage": 0.0,
+   "context": "M -- \"PIOTR 1961-2012\" W/ CROSS\u23ce   TAT L CHEST -- POLISH EAGLE, RED/WHITE\u23ce   SC CHIN -- 3 IN VERTICAL S",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "value": "3 IN VERTICAL SCAR",
+   "coverage": 0.8,
+   "context": " L CHEST -- POLISH EAGLE, RED/WHITE\u23ce   SC CHIN -- 3 IN VERTICAL SCAR\u23ce   PRC -- none\u23ceSSN:          ",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "1-inch scar on my left\ncheek",
+   "coverage": 0.74,
+   "context": "d index finger; cuts to my face and arm leaving a 1-inch scar on my left\u23cecheek and a 3-inch scar on my left ",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "38_demand_letter",
+   "value": "scarring of the left cheek (1 inch) and left forearm (3 inches)",
+   "coverage": 0.0,
+   "context": "es prazosin and trazodone; and\u23ce     7.  Permanent scarring of the left cheek (1 inch) and left forearm (3 inches) and a\u23ce         7 cm surgical ",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "38_demand_letter",
+   "value": "7 cm surgical scar on the volar wrist",
+   "coverage": 0.0,
+   "context": " inch) and left forearm (3 inches) and a\u23ce         7 cm surgical scar on the volar wrist.\u23ce\u23ce\fKyle Brandt -- Granite Mut",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "4471",
+   "coverage": 0.0,
+   "context": "ey t0 mine and I have the c0de f0r her d00r\u23ce1ock (4471) because I watch Li1y s0metim",
+   "entity": "PASSWORD"
+  },
+  {
+   "doc": "14_chiropractic_notes",
+   "value": "40921187",
+   "coverage": 0.0,
+   "context": "ling ZIP 78751 -- cardholder HYUN W PARK\u23ce  DL: TX 40921187\u23ce\u23ceI certify the above records ",
+   "entity": "DRIVERS_LICENSE"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "36120554",
+   "coverage": 0.0,
+   "context": "ERICKSBURG RD @ WURZBACH (pharmacy tech)\u23ce  DL: TX 36120554     Relationship to S1: DATIN",
+   "entity": "DRIVERS_LICENSE"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "41877203",
+   "coverage": 0.0,
+   "context": "ployer: ALAMO STEEL FABRICATORS (welder)\u23ce  DL: TX 41877203      Place of birth: KRAKOW, ",
+   "entity": "DRIVERS_LICENSE"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "0l99 4527",
+   "coverage": 0.0,
+   "context": "birth is 4/30/l96l             My S5N / DL# is TX 0l99 4527\u23ceMy h0me address is 7420 Ca11a",
+   "entity": "DRIVERS_LICENSE"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "336",
+   "coverage": 0.0,
+   "context": "s of Petitioner's driver's\u23ce    license number are 336. The last three numbers of Pe",
+   "entity": "DRIVERS_LICENSE"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "LAT +29.502288  LON -098.571934",
+   "coverage": 0.78,
+   "context": " 6100 CALLAGHAN RD S/E sector\u23ce  Phase II:         LAT +29.502288  LON -098.571934  Uncertainty 9 m  Confidence ",
+   "entity": "GPS"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "512",
+   "coverage": 0.0,
+   "context": "umbers of Petitioner's Social Security number are 512.\u23ce    Respondent is Priya Rama",
+   "entity": "SSN"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "LG25Ol223O4l8",
+   "coverage": 0.0,
+   "context": "   3,9O8.6O\u23ce  O4/22   LAKESH0RE GEN lNS CLAlM PMT LG25Ol223O4l8 PD                 6,8l2.44\u23ce ",
+   "entity": "CLAIM_NUMBER"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "884l-OO2-3318",
+   "coverage": 0.0,
+   "context": "                                Account Number:   884l-OO2-3318\u23ce  45l2 AVENUE F              ",
+   "entity": "BANK_ACCOUNT"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "O47l",
+   "coverage": 0.0,
+   "context": "      -85O.OO\u23ce  O4/22   0NLlNE TRANSFER T0 CHK ...O47l (PERS0NAL)                 -4",
+   "entity": "BANK_ACCOUNT"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "A04418278",
+   "coverage": 0.0,
+   "context": "ren's U.S. passports (No. A04418277 -- Aanya; No. A04418278 -- Rohan)\u23ce    be deposited wi",
+   "entity": "PASSPORT"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "4471 9902 3318",
+   "coverage": 0.0,
+   "context": " she also holds an Indian Aadhaar\u23ce        number (4471 9902 3318) and PAN (AQRPR4417K) linked ",
+   "entity": "NATIONAL_ID"
+  }
+ ],
+ "false_positives": [
+  {
+   "doc": "01_discharge_summary_trauma",
+   "entity": "INDIRECT_ROLE",
+   "text": "the driver",
+   "score": 0.72,
+   "source": "quasi:role",
+   "context": "f a silver 2016 Nissan Altima struck on the driver side by a\u23ce   tractor-tra"
+  },
+  {
+   "doc": "01_discharge_summary_trauma",
+   "entity": "LICENSE_PLATE",
+   "text": "EBL 50",
+   "score": 0.96,
+   "source": "label:license_plate",
+   "context": "tal radius with volar locking\u23ce   plate. EBL 50 mL. Tolerated well. Neur"
+  },
+  {
+   "doc": "01_discharge_summary_trauma",
+   "entity": "PHONE",
+   "text": "2025-118842",
+   "score": 0.94,
+   "source": "libphonenumber",
+   "context": "on clinic referral placed (referral #RF-2025-118842).\u23ce   6. Outpatient behav"
+  },
+  {
+   "doc": "01_discharge_summary_trauma",
+   "entity": "ID_NUMBER",
+   "text": "20250318-DS-00917",
+   "score": 0.96,
+   "source": "label:id_number",
+   "context": "2025 13:57 / klm\u23ceJob # 4471982   Doc ID 20250318-DS-00917\u23ce\u23cecc:  Leticia Garza-Ybar"
+  },
+  {
+   "doc": "02_ed_physician_note",
+   "entity": "INDIRECT_ROLE",
+   "text": "Pt's child",
+   "score": 0.7,
+   "source": "quasi:named_relationship",
+   "context": "eceived fentanyl 100 mcg IV en route.\u23ce  Pt's child (rear seat passenger) tr"
+  },
+  {
+   "doc": "02_ed_physician_note",
+   "entity": "ADDRESS",
+   "text": "E4V5M6",
+   "score": 0.85,
+   "source": "pattern:ca_postcode",
+   "context": "tions, cap refill <2 s\u23ce  Neuro: GCS 15 (E4V5M6), CN II-XII intact, stre"
+  },
+  {
+   "doc": "02_ed_physician_note",
+   "entity": "LICENSE_PLATE",
+   "text": "238",
+   "score": 0.92,
+   "source": "label:license_plate",
+   "context": "C: WBC 13.2 / Hgb 11.4 / Hct 34.1 / Plt 238\u23ce  BMP: Na 139  K 3.6  Cl"
+  },
+  {
+   "doc": "03_psychiatric_evaluation",
+   "entity": "EMPLOYER",
+   "text": "patient authorizes HR contact Brittany Sato (214-555-0147",
+   "score": 0.94,
+   "source": "kv:employer",
+   "context": "I signed) and\u23ce     Dr. Ochoa. Employer: patient authorizes HR contact Brittany Sato (214-555-0147\u23ce     x 2210, bsato@tesse"
+  },
+  {
+   "doc": "04_sud_progress_note_part2",
+   "entity": "INDIRECT_ROLE",
+   "text": "her ex",
+   "score": 0.65,
+   "source": "quasi:relationship",
+   "context": "n two occasions, 09/20 and 09/21, after her ex-boyfriend\u23ce  \"Cody\" showe"
+  },
+  {
+   "doc": "05_obgyn_visit",
+   "entity": "LICENSE_PLATE",
+   "text": "241",
+   "score": 0.92,
+   "source": "label:license_plate",
+   "context": "S, antibody screen neg, Hgb 11.8,\u23ce  Plt 241, rubella immune, varicel"
+  },
+  {
+   "doc": "06_hiv_clinic_note",
+   "entity": "INDIRECT_LOCATION",
+   "text": "ID Clinic",
+   "score": 0.7,
+   "source": "quasi:named_venue",
+   "context": " Paso, TX 79905   Main (915) 532-0040   ID Clinic fax 915-532-0049\u23ceCONFIDE"
+  },
+  {
+   "doc": "06_hiv_clinic_note",
+   "entity": "INDIRECT_LOCATION",
+   "text": "ID Clinic",
+   "score": 0.7,
+   "source": "quasi:named_venue",
+   "context": "s.\u23ce\u23ce\fPASO DEL NORTE COMMUNITY HEALTH -- ID Clinic -- REYES, MARCUS A -- DO"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "entity": "PERSON",
+   "text": "DOB",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "025 10:31\u23ceBANKS, ROSE MARIE   F   70Y   DOB 02/14/1955   MRN H005193"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "entity": "PERSON",
+   "text": "DOB",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "r update; identity verified with\u23ce  pt's DOB and password \"bluejay55\""
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "entity": "PHONE",
+   "text": "16729-0172-01",
+   "score": 0.94,
+   "source": "libphonenumber",
+   "context": "AZODONE 50 MG TAB                       16729-0172-01   30    30   GARZA-YBARR"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "entity": "INDIRECT_ROLE",
+   "text": "the custodian",
+   "score": 0.57,
+   "source": "quasi:role",
+   "context": "AN\u23ce  I, Denise Okafor-Lyons, PharmD, am the custodian of records for Bluebonne"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "entity": "PERSON",
+   "text": "DOB",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "  Name: DELGADO-RUIZ, MARIA ELENA       DOB: 04-17-1986   Age: 38   "
+  },
+  {
+   "doc": "11_ems_run_report",
+   "entity": "SSN",
+   "text": "XXX-XX-1934",
+   "score": 0.98,
+   "source": "pattern:ssn_masked",
+   "context": " 78704\u23ce  Phone: 512-836-2290       SSN: XXX-XX-1934       Weight: 64 kg (est"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "entity": "INDIRECT_ROLE",
+   "text": "his father",
+   "score": 0.55,
+   "source": "quasi:relationship",
+   "context": " separately to Lone Oak Children's\u23ce  w/ his father, who arrived on scene. T"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "entity": "PERSON",
+   "text": "DOB",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "7-M14   Pt: DELGADO-RUIZ, MARIA ELENA   DOB 04-17-1986          Page"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "entity": "LICENSE_PLATE",
+   "text": "REL-25",
+   "score": 0.94,
+   "source": "pattern:plate_after_state",
+   "context": "LLC per HIPAA authorization. Release ID\u23ceREL-25-00912. Fee paid $25.00 ("
+  },
+  {
+   "doc": "12_independent_medical_exam",
+   "entity": "CLAIM_NUMBER",
+   "text": "HBP 40177-022",
+   "score": 0.96,
+   "source": "label:claim_number",
+   "context": "ounty, Texas\u23ce          Your File:       HBP 40177-022\u23ce          Carrier Claim:"
+  },
+  {
+   "doc": "12_independent_medical_exam",
+   "entity": "PERSON",
+   "text": "Ben White",
+   "score": 0.94,
+   "source": "propagate:full",
+   "context": "n arrow from S. Congress onto eastbound Ben White, her car was struck on\u23cet"
+  },
+  {
+   "doc": "12_independent_medical_exam",
+   "entity": "INDIRECT_ROLE",
+   "text": "her employer",
+   "score": 0.55,
+   "source": "quasi:relationship",
+   "context": "has not returned to her job. She states her employer has held the position op"
+  },
+  {
+   "doc": "12_independent_medical_exam",
+   "entity": "PHYSICAL_DESCRIPTOR",
+   "text": "5'4",
+   "score": 0.5,
+   "source": "quasi:height_weight",
+   "context": "st injury.\u23ce\u23cePHYSICAL EXAMINATION\u23ceHeight 5'4\". Weight 139 lb. BP 122/"
+  },
+  {
+   "doc": "12_independent_medical_exam",
+   "entity": "PERSON",
+   "text": "R. Tinel",
+   "score": 0.91,
+   "source": "ner:gliner:last name",
+   "context": "   discrimination 7 mm L index vs. 4 mm R. Tinel's at L carpal tunnel: po"
+  },
+  {
+   "doc": "12_independent_medical_exam",
+   "entity": "PERSON",
+   "text": "Phalen",
+   "score": 0.91,
+   "source": "ner:gliner:last name",
+   "context": ". Tinel's at L carpal tunnel: positive. Phalen's: positive\u23ce   at 40 sec"
+  },
+  {
+   "doc": "12_independent_medical_exam",
+   "entity": "INDIRECT_ROLE",
+   "text": "Her husband",
+   "score": 0.55,
+   "source": "quasi:relationship",
+   "context": "ted it without prompting once reminded. Her husband stated\u23ceshe \"hasn't been "
+  },
+  {
+   "doc": "12_independent_medical_exam",
+   "entity": "PHYSICAL_DESCRIPTOR",
+   "text": "lifts their youngest or braids",
+   "score": 0.9,
+   "source": "quasi:physical",
+   "context": "t been the same\" and that she no longer lifts their youngest or braids their\u23cedaughter's hair. I"
+  },
+  {
+   "doc": "12_independent_medical_exam",
+   "entity": "INDIRECT_ROLE",
+   "text": "their\ndaughter",
+   "score": 0.55,
+   "source": "quasi:relationship",
+   "context": "o longer lifts their youngest or braids their\u23cedaughter's hair. I note that hypo"
+  },
+  {
+   "doc": "12_independent_medical_exam",
+   "entity": "INDIRECT_LOCATION",
+   "text": "Registered Dental",
+   "score": 0.6,
+   "source": "quasi:named_venue",
+   "context": ": mdelgado.ruiz86@gmail.com\u23ceOccupation: Registered Dental Hygienist (RDH lic. # 06"
+  },
+  {
+   "doc": "12_independent_medical_exam",
+   "entity": "PERSON",
+   "text": "Ben White",
+   "score": 0.96,
+   "source": "ner:spacy:PERSON",
+   "context": " run, sleep through the night, drive on Ben White\"\u23ceSignature: Maria Delgad"
+  },
+  {
+   "doc": "12_independent_medical_exam",
+   "entity": "PHONE",
+   "text": "2025-0812-07",
+   "score": 0.94,
+   "source": "libphonenumber",
+   "context": "                        Invoice No. GRF-2025-0812-07\u23ce\u23ce   Records review (1,41"
+  },
+  {
+   "doc": "13_life_care_plan_excerpt",
+   "entity": "INDIRECT_LOCATION",
+   "text": "A.A.S. Dental",
+   "score": 0.6,
+   "source": "quasi:named_venue",
+   "context": "ateo (6)\u23ceEducation .................... A.A.S. Dental Hygiene, Austin Communit"
+  },
+  {
+   "doc": "13_life_care_plan_excerpt",
+   "entity": "INDIRECT_LOCATION",
+   "text": "Registered Dental",
+   "score": 0.75,
+   "source": "quasi:named_venue",
+   "context": "e (2014)\u23ceOccupation (pre-injury) ...... Registered Dental Hygienist, Southpark Fam"
+  },
+  {
+   "doc": "13_life_care_plan_excerpt",
+   "entity": "LICENSE_PLATE",
+   "text": "20680",
+   "score": 0.96,
+   "source": "label:license_plate",
+   "context": "64721\u23ceRemoval of volar plate            20680   1x (prob. 30%) -- not "
+  },
+  {
+   "doc": "13_life_care_plan_excerpt",
+   "entity": "SCHOOL",
+   "text": "International Academy",
+   "score": 0.85,
+   "source": "quasi:school",
+   "context": "t with the standards of practice of the International Academy of\u23ceLife Care Planners (S"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "entity": "PERSON",
+   "text": "HILL",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": ": WEST / BEAT 6230     SECTOR: PROSPECT HILL SUBSTATION\u23ce\u23ceLOCATION OF "
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "entity": "INDIRECT_ROLE",
+   "text": "The neighbor",
+   "score": 0.57,
+   "source": "quasi:role",
+   "context": "r a male voice yelling from inside 12B. The neighbor, later\u23ceidentified as W1 "
+  },
+  {
+   "doc": "16_police_crash_report",
+   "entity": "INDIRECT_ROLE",
+   "text": "her son",
+   "score": 0.55,
+   "source": "quasi:relationship",
+   "context": " truck came out of nowhere.\" She stated her son was in\u23ce  the back seat. "
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "entity": "EMPLOYER",
+   "text": "retired -- f0rmerly USAA c1aims dept",
+   "score": 0.95,
+   "source": "kv:employer+ocr",
+   "context": "-----     (cell) 2l0-455-09l2\u23ceEmpl0yer: retired -- f0rmerly USAA c1aims dept.\u23ce\u23ceI, R0salind Pham, havi"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "entity": "INDIRECT_ROLE",
+   "text": "her b0yfriend",
+   "score": 0.52,
+   "source": "quasi:relationship+ocr",
+   "context": " live in apt 12C next d00r t0 Grace and her b0yfriend Darek. I d0nt kn0w his l"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "entity": "EMPLOYER",
+   "text": "Bexar County District Attorney",
+   "score": 0.91,
+   "source": "ner:gliner:employer",
+   "context": "ETWORK -- CALL TRANSCRIPT (Prepared for Bexar County District Attorney)\u23ceTranscribed by: Alyssa "
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "entity": "EMPLOYER",
+   "text": "Records & Quality Assurance",
+   "score": 0.85,
+   "source": "ner:gliner:employer",
+   "context": "orney)\u23ceTranscribed by: Alyssa Mendiola, Records & Quality Assurance, 210-207-7700   Date pre"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "entity": "INDIRECT_ROLE",
+   "text": "her boyfriend",
+   "score": 0.55,
+   "source": "quasi:relationship",
+   "context": "\u23ce00:47  C:   Grace -- Grace Hill -- and her boyfriend, Darek. And their little"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "entity": "PHYSICAL_DESCRIPTOR",
+   "text": "FAR\nSCARS",
+   "score": 0.95,
+   "source": "quasi:physical",
+   "context": "GT: 215   HAIR: BLN   EYES: BLU   SKIN: FAR\u23ceSCARS/MARKS/TATTOOS:\u23ce   TAT NE"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "entity": "PHYSICAL_DESCRIPTOR",
+   "text": "TATTOOS",
+   "score": 0.95,
+   "source": "quasi:physical",
+   "context": "BLN   EYES: BLU   SKIN: FAR\u23ceSCARS/MARKS/TATTOOS:\u23ce   TAT NECK L -- SCORPI"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "entity": "PHONE",
+   "text": "2508-17-0144",
+   "score": 0.94,
+   "source": "libphonenumber",
+   "context": " reported.\u23ce\u23cePROPERTY INVENTORY (bag # P-2508-17-0144)\u23ce  1  Wallet, brown leat"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "entity": "DEVICE_ID",
+   "text": "25-1182",
+   "score": 0.89,
+   "source": "table:device_id",
+   "context": "ROR before block applied (see IA ticket 25-1182).  07:15 to +48 512 774 "
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "entity": "DEVICE_ID",
+   "text": "25-0817-0144-01",
+   "score": 0.89,
+   "source": "table:device_id",
+   "context": "S: front/profile + 4 SMT images (DIMS # 25-0817-0144-01..06)\u23ceFINGERPRINTS: Lives"
+  },
+  {
+   "doc": "20_probable_cause_affidavit",
+   "entity": "EMPLOYER",
+   "text": "San Antonio Police Department",
+   "score": 0.9,
+   "source": "quasi:employer",
+   "context": "(TCOLE PID 0718244) and employed by the San Antonio Police Department, badge\u23ce    #4127, assign"
+  },
+  {
+   "doc": "20_probable_cause_affidavit",
+   "entity": "INDIRECT_ROLE",
+   "text": "The complainant",
+   "score": 0.57,
+   "source": "quasi:role",
+   "context": "r holding her neck and crying.\u23ce\u23ce    c.  The complainant stated that she and the "
+  },
+  {
+   "doc": "20_probable_cause_affidavit",
+   "entity": "INDIRECT_ROLE",
+   "text": "the\n       complainant",
+   "score": 0.57,
+   "source": "quasi:role",
+   "context": "oad, San Antonio, Texas 78229, and from the\u23ce       complainant's place of employment, C"
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "entity": "INDIRECT_ROLE",
+   "text": "Respondent's\n        brother",
+   "score": 0.7,
+   "source": "quasi:named_relationship",
+   "context": "rectly or through any person (including Respondent's\u23ce        brother, Marek Kowalczyk, and Re"
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "entity": "INDIRECT_ROLE",
+   "text": "Respondent's friend",
+   "score": 0.7,
+   "source": "quasi:named_relationship",
+   "context": "s\u23ce        brother, Marek Kowalczyk, and Respondent's friend Tomek Zielinski) except "
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "entity": "INDIRECT_ROLE",
+   "text": "Applicant's sister",
+   "score": 0.95,
+   "source": "quasi:named_relationship",
+   "context": "r on Wurzbach Rd), and the residence of Applicant's sister\u23ce        (Hannah Hill) in"
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "entity": "PERSON",
+   "text": "U.S.",
+   "score": 0.92,
+   "source": "rule:minor_initials",
+   "context": "s, and applying for a Polish\u23ce        or U.S. passport for the child;\u23ce"
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "entity": "MINOR",
+   "text": "U.S.",
+   "score": 0.85,
+   "source": "rule:minor_initials",
+   "context": "s, and applying for a Polish\u23ce        or U.S. passport for the child;\u23ce"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "entity": "INDIRECT_ROLE",
+   "text": "Petitioner's employer",
+   "score": 0.7,
+   "source": "quasi:named_relationship",
+   "context": "covered by health\u23ce    insurance through Petitioner's employer, Hill Country Electric C"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "entity": "PERSON",
+   "text": "Amma",
+   "score": 0.84,
+   "source": "ner:gliner:first name",
+   "context": " from me I'll take them home to\u23ce        Amma and you'll never see the"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "entity": "INDIRECT_ROLE",
+   "text": "Respondent's mother",
+   "score": 0.7,
+   "source": "quasi:named_relationship",
+   "context": "       Amma and you'll never see them.\" Respondent's mother, Lakshmi Raman, resides "
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "entity": "INDIRECT_ROLE",
+   "text": "State Department's Children",
+   "score": 0.7,
+   "source": "quasi:named_relationship",
+   "context": "children's names be entered in the U.S. State Department's Children's Passport Issuance\u23ce    "
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "entity": "INDIRECT_LOCATION",
+   "text": "lot at Inks Lake",
+   "score": 0.95,
+   "source": "quasi:place_at_street",
+   "context": "oner claims as separate property a lake lot at Inks Lake inherited from his fathe"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "entity": "INDIRECT_ROLE",
+   "text": "his father",
+   "score": 0.7,
+   "source": "quasi:relationship",
+   "context": " a lake lot at Inks Lake inherited from his father in 2019.\u23ce\u23ce13. Request fo"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "entity": "INDIRECT_LOCATION",
+   "text": "Brushy Creek Road",
+   "score": 0.86,
+   "source": "quasi:lives_on_street",
+   "context": "ved out on August 9 to an apartment off Brushy Creek Road. On August 11 she sent m"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "entity": "INDIRECT_LOCATION",
+   "text": "Registered\n        Dental",
+   "score": 0.6,
+   "source": "quasi:named_venue",
+   "context": "gress Ave., Ste. 140, Austin, TX 78745; Registered\u23ce        Dental Hygienist; June 2, 2016 "
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "entity": "INDIRECT_ROLE",
+   "text": "my son",
+   "score": 0.85,
+   "source": "quasi:relationship",
+   "context": "ima north on\u23ceSouth Congress Avenue with my son, M.A.R., age 6, in his b"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "entity": "INDIRECT_ROLE",
+   "text": "My husband",
+   "score": 0.55,
+   "source": "quasi:relationship",
+   "context": "aughter's soccer team at Garrison\u23cePark. My husband has had to take unpaid t"
+  },
+  {
+   "doc": "24_rfp_response",
+   "entity": "INDIRECT_ROLE",
+   "text": "Plaintiff's spouse",
+   "score": 0.7,
+   "source": "quasi:named_relationship",
+   "context": "er, with the Social Security\u23cenumbers of Plaintiff's spouse (Ji-eun Park) and minor "
+  },
+  {
+   "doc": "24_rfp_response",
+   "entity": "INDIRECT_ROLE",
+   "text": "Plaintiff's spouse",
+   "score": 0.7,
+   "source": "quasi:named_relationship",
+   "context": "d. See PLPROD 000202-000231.\u23ceThe W-2 of Plaintiff's spouse from Brightline CPA Grou"
+  },
+  {
+   "doc": "25_deposition_excerpt_wells",
+   "entity": "PERSON",
+   "text": "Meridian",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "s (SWIFT 000901-000906)   77\u23ce25   15    Meridian Wireless call detail rec"
+  },
+  {
+   "doc": "25_deposition_excerpt_wells",
+   "entity": "PERSON",
+   "text": "Meridian",
+   "score": 0.93,
+   "source": "qa:person",
+   "context": "e carrier on that phone?\u23ce16        A.   Meridian. It's on my wife's plan."
+  },
+  {
+   "doc": "25_deposition_excerpt_wells",
+   "entity": "USERNAME",
+   "text": "Facebook",
+   "score": 0.86,
+   "source": "qa:username",
+   "context": "a Facebook or Instagram?\u23ce18        A.   Facebook. It's \"Hunter Wells Lock"
+  },
+  {
+   "doc": "25_deposition_excerpt_wells",
+   "entity": "LICENSE_PLATE",
+   "text": "1188",
+   "score": 0.96,
+   "source": "label:license_plate",
+   "context": "tal City Court Reporters, Firm Reg. No. 1188\u23ce23                     P"
+  },
+  {
+   "doc": "26_recorded_statement_transcript",
+   "entity": "INDIRECT_ROLE",
+   "text": "My wife",
+   "score": 0.55,
+   "source": "quasi:relationship",
+   "context": "maybe fifty thousand, after everything. My wife\u23ce      has a regular job."
+  },
+  {
+   "doc": "26_recorded_statement_transcript",
+   "entity": "INDIRECT_LOCATION",
+   "text": "Restaurant Depot",
+   "score": 0.7,
+   "source": "quasi:named_venue",
+   "context": "und 7:40 in the morning, going to\u23ce      Restaurant Depot for supplies. Traffic st"
+  },
+  {
+   "doc": "26_recorded_statement_transcript",
+   "entity": "INDIRECT_ROLE",
+   "text": "my wife",
+   "score": 0.55,
+   "source": "quasi:relationship",
+   "context": " in 2019 to start the truck, we were on my wife's plan,\u23ce      but it got"
+  },
+  {
+   "doc": "27_adjuster_claim_notes",
+   "entity": "ADDRESS",
+   "text": "Travis Co 345th",
+   "score": 0.86,
+   "source": "ner:gliner:street address",
+   "context": "     Suit          Suit filed 05/02/25, Travis Co 345th, D-1-GN-25-002918.\u23ce     "
+  },
+  {
+   "doc": "27_adjuster_claim_notes",
+   "entity": "PERSON",
+   "text": "Rec'd Stowers",
+   "score": 0.94,
+   "source": "propagate:token",
+   "context": "9/03/25 15:15     KB      Demand        Rec'd Stowers demand from R. Kim dated"
+  },
+  {
+   "doc": "27_adjuster_claim_notes",
+   "entity": "PERSON",
+   "text": "Stowers",
+   "score": 0.97,
+   "source": "ner:gliner:last name",
+   "context": "                                        Stowers deadline 10/02/2025 5:00"
+  },
+  {
+   "doc": "29_employer_wage_verification",
+   "entity": "SSN",
+   "text": "XXX-XX-1934",
+   "score": 0.98,
+   "source": "pattern:ssn_masked",
+   "context": "Ruiz\u23ce    Employee ID: SFD-0117     SSN: XXX-XX-1934\u23ce\u23ceTo Whom It May Concern:"
+  },
+  {
+   "doc": "29_employer_wage_verification",
+   "entity": "INDIRECT_LOCATION",
+   "text": "Registered Dental",
+   "score": 0.6,
+   "source": "quasi:named_venue",
+   "context": "formation:\u23ce\u23ce  Position:                 Registered Dental Hygienist (full-time, no"
+  },
+  {
+   "doc": "30_payroll_stub",
+   "entity": "SSN",
+   "text": "XXX-XX-7735",
+   "score": 0.98,
+   "source": "pattern:ssn_masked",
+   "context": "   1507 KESTREL HOLLOW DR          SSN: XXX-XX-7735     Pay Period: 06/01/25"
+  },
+  {
+   "doc": "30_payroll_stub",
+   "entity": "BANK_ACCOUNT",
+   "text": "******4093",
+   "score": 0.96,
+   "source": "label:bank_account",
+   "context": "ral Credit Union   RTN 366043837   ACCT ******4093   885.98 |\u23ce+------------"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "entity": "INDIRECT_LOCATION",
+   "text": "H-E-B",
+   "score": 0.59,
+   "source": "quasi:business",
+   "context": "       -85O.OO\u23ce  O4/O4   CHECKCARD 04O3 H-E-B #O7l5 AUSTlN TX  card .."
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "entity": "SSN",
+   "text": "***-**-O927",
+   "score": 0.97,
+   "source": "pattern:ssn_masked+ocr",
+   "context": "  ACH lRS USATAXPYMT 2O25 Q1 EST -- SSN ***-**-O927       -3,2OO.OO\u23ce  O4/29 "
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "entity": "ID_NUMBER",
+   "text": "4O8812",
+   "score": 0.98,
+   "source": "label:id_number",
+   "context": "7.\u23ce\u23ce  Capital Hill Community Bank NMLS #4O8812.  Statement ID 2O25O43O-"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "entity": "MRN",
+   "text": "2O25O43O-B-OOl",
+   "score": 0.96,
+   "source": "label:mrn",
+   "context": "munity Bank NMLS #4O8812.  Statement ID 2O25O43O-B-OOl.\u23ce## END OCR -- confidenc"
+  },
+  {
+   "doc": "32_tax_return_excerpt",
+   "entity": "SSN",
+   "text": "***-**-0927",
+   "score": 0.98,
+   "source": "pattern:ssn_masked",
+   "context": "2024) -- PARK, HYUN WOO & JI EUN -- SSN ***-**-0927                         "
+  },
+  {
+   "doc": "33_school_records_iep",
+   "entity": "PERSON",
+   "text": "Wilson",
+   "score": 0.97,
+   "source": "ner:spacy:PERSON",
+   "context": "----\u23ce  Specialized reading instruction (Wilson)  Resource room         "
+  },
+  {
+   "doc": "33_school_records_iep",
+   "entity": "INDIRECT_ROLE",
+   "text": "the counselor",
+   "score": 0.57,
+   "source": "quasi:role",
+   "context": "ed with Jaylen's\u23ce  middle school beyond the counselor -- committee agreed; not"
+  },
+  {
+   "doc": "34_dmv_driving_record",
+   "entity": "PERSON",
+   "text": "HARRIS",
+   "score": 0.85,
+   "source": "ner:gliner:last name",
+   "context": "-------------\u23ce  07/04/2025  20631187    HARRIS    FATAL (K) -- pedestri"
+  },
+  {
+   "doc": "35_medical_records_request",
+   "entity": "CLAIM_NUMBER",
+   "text": "25-0318-PI",
+   "score": 0.96,
+   "source": "label:claim_number",
+   "context": "to present\u23ce           Our File:         25-0318-PI\u23ce\u23ceDear Custodian of Recor"
+  },
+  {
+   "doc": "38_demand_letter",
+   "entity": "INDIRECT_ROLE",
+   "text": "her son",
+   "score": 0.55,
+   "source": "quasi:relationship",
+   "context": "uiz, individually and as next friend\u23ceof her son, M.A.R., age 6, for inju"
+  },
+  {
+   "doc": "38_demand_letter",
+   "entity": "MINOR",
+   "text": "G.A.",
+   "score": 0.85,
+   "source": "rule:minor_initials",
+   "context": " policy limits, made in accordance with G.A. Stowers Furniture\u23ceCo. v."
+  },
+  {
+   "doc": "38_demand_letter",
+   "entity": "INDIRECT_ROLE",
+   "text": "the driver",
+   "score": 0.87,
+   "source": "quasi:role",
+   "context": "vard and South Congress Avenue and into the driver's door of\u23ceMs. Delgado-Ru"
+  },
+  {
+   "doc": "38_demand_letter",
+   "entity": "INDIRECT_ROLE",
+   "text": "Her employer",
+   "score": 0.55,
+   "source": "quasi:relationship",
+   "context": "She has not worked since the collision. Her employer of nine years, Southpark"
+  },
+  {
+   "doc": "38_demand_letter",
+   "entity": "PASSWORD",
+   "text": "ned",
+   "score": 0.75,
+   "source": "pattern:secret",
+   "context": "edical Center. He watched his mother pinned and screaming. Since the"
+  },
+  {
+   "doc": "38_demand_letter",
+   "entity": "PASSWORD",
+   "text": "provided",
+   "score": 0.75,
+   "source": "pattern:secret",
+   "context": "on the accompanying USB drive (password provided separately by phone) are"
+  }
+ ]
+}

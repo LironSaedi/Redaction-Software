@@ -1,0 +1,108 @@
+[[ORGANIZATION?|COMMENCEMENT BAY COUNSELING GROUP, PLLC]]
+[[ADDRESS?|2715 N. Proctor Street, Suite 204]], [[ADDRESS?|Tacoma, WA 98407]]   Tel [[PHONE|253-761-0948]]   Fax [[PHONE|253-761-0950]]
+
+COMPREHENSIVE DIAGNOSTIC ASSESSMENT -- ADULT OUTPATIENT INTAKE
+*** Psychotherapy record. Protected under 42 CFR Part 2 (substance use content) and RCW 70.02. ***
+
+Client:          [[PERSON|Nadia Arevik Petrosyan-Hale]]        Preferred name: "[[PERSON|Nadia]]"   Pronouns: she/her
+DOB:             [[DATE_OF_BIRTH|09/23/1991]]   Age: [[AGE|34]]         Client ID: [[MRN|CBC-22817]]
+Address:         [[ADDRESS|5511 N. 46th Street, Unit B]], [[ADDRESS|Tacoma, WA 98407]]
+Phone:           [[PHONE|(253) 509-3361]] (cell; OK to leave msg)    Email: [[EMAIL|nadia.ph91@protonmail.com]]
+Insurance:       [[ORGANIZATION?|Premera Blue Cross]]  Subscriber ID [[HEALTH_PLAN_ID|PRB884102933]]  Group [[HEALTH_PLAN_ID|0071552]]
+Referral source: Attorney -- [[PERSON|Garrett Ishikawa]], [[ORGANIZATION?|Ishikawa & Dunleavy]] (personal injury matter)
+Emergency:       [[PERSON|Lusine Petrosyan]] (sister) [[PHONE|(206) 448-2075]]
+Date of service: [[DATE|08/04/2026]]   CPT 90791   Duration 75 min   Clinician: [[PERSON|Ruth Okafor-Lindqvist]], LMHC
+
+REASON FOR REFERRAL / CHIEF COMPLAINT
+"I can't drive over the Narrows Bridge anymore and I'm drinking every night so I can sleep."
+Client was referred by her attorney following a [[DATE|03/11/2026]] collision in which her car was rear-ended
+and pushed into a concrete barrier on [[INDIRECT_LOCATION?|SR-16 near the Jackson Ave exit]]. She reports [[MENTAL_HEALTH|intrusive images
+of the crash, startle when hearing brakes, nightmares 4-5 nights/week, and avoidance of highways]].
+
+HISTORY OF PRESENT PROBLEM
+Since the collision client has driven only surface streets, adding 40 minutes to her commute to
+[[EMPLOYER|Puget Sound Freight Logistics]] in Fife, where she works as [[INDIRECT_ROLE|the only overnight load dispatcher for
+the Fife yard]]. She has used FMLA intermittently since April and was written up in June by her
+supervisor, [[PERSON|Brent Kowalczyk]], for late arrivals. She describes [[MENTAL_HEALTH|panic attacks (racing heart,
+tingling hands, "like I'm going to die") 2-3 times weekly]], typically in traffic. Sleep 3-4 hrs/night.
+Appetite decreased; reports 12 lb weight loss. Concentration poor. Denies hallucinations.
+
+TRAUMA HISTORY
+- Childhood: Witnessed father's [[MENTAL_HEALTH?|violent outbursts]]; father [[CRIMINAL_HISTORY|convicted of assault in 2002]] (per client).
+  Family emigrated from Yerevan when client was 6; parents divorced when she was 11.
+- Age 19: [[SEXUAL_REPRODUCTIVE_HEALTH|sexual assault by an acquaintance at a party in Bellingham]]; never reported;
+  saw a campus counselor at [[SCHOOL|Western Washington University]] ~6 sessions.
+- 2026: MVC described above.
+PCL-5 total today: 52 (probable PTSD threshold 31-33).
+
+SUBSTANCE USE HISTORY
+  Substance        Onset   Current pattern                                  Last use
+  ---------------  ------  -----------------------------------------------  -----------
+  Alcohol          16      [[SUBSTANCE_USE|4-6 drinks nightly (vodka/seltzer) since April]]    [[DATE|08/03/2026]]
+  Cannabis         17      [[SUBSTANCE_USE|vape pen most evenings, "to come down"]]           [[DATE|08/03/2026]]
+  Opioids          24      [[SUBSTANCE_USE|misused oxycodone ~2015-2017 after ankle surgery]]; none since
+  Nicotine         15      [[SUBSTANCE_USE|1/2 ppd cigarettes]]                               today
+  Stimulants       --      denies                                            --
+AUDIT-C: 10. No withdrawal seizures or DTs. One prior attempt at cutting down ([[DATE?|2018]]) via
+[[SUBSTANCE_USE|AA]] meetings in [[INDIRECT_LOCATION|the basement of St. Brendan's on S. Yakima Ave, Thursday nights]].
+Client reports she typically drinks at [[INDIRECT_LOCATION|the Rusty Anchor on Ruston Way]] after her shift ends
+at 6 a.m. ("the only bar open that early that the night crew uses"), then buys more at
+[[INDIRECT_LOCATION|the Safeway on 6th Ave by the Jackson Hall]]. [[CRIMINAL_HISTORY|DUI arrest 2017 (Pierce Co.), deferred
+prosecution completed 2019]].
+
+PSYCHIATRIC HISTORY
+[[MENTAL_HEALTH|Major depressive episode 2017]] treated by PCP with [[MEDICATION|sertraline]] (stopped after 8 months, "felt
+flat"). No psychiatric hospitalizations. [[MENTAL_HEALTH|One episode of self-harm (cutting) at age 15]]; no
+suicide attempts. Currently prescribed [[MEDICATION|hydroxyzine]] 25 mg PRN by PCP Dr. [[PERSON|Imelda Santiago-Brook]] at
+[[ORGANIZATION?|MultiCare Proctor Clinic]]. Previously took [[MEDICATION|trazodone]] 50 mg for sleep (2017).
+
+MEDICAL HISTORY
+[[MEDICAL_CONDITION?|Cervical strain and post-concussive headaches]] since MVC (followed by [[ORGANIZATION?|Tacoma Spine & Rehab]]);
+[[MEDICAL_CONDITION?|left ankle ORIF 2015]]; [[MEDICAL_CONDITION?|migraine]]. [[SEXUAL_REPRODUCTIVE_HEALTH|Nexplanon implant (placed 2024)]]. NKDA.
+
+FAMILY HISTORY
+Father: [[MENTAL_HEALTH?|alcohol use disorder]], deceased 2020 (cirrhosis). Mother: [[MENTAL_HEALTH?|depression]]. Maternal uncle:
+[[MENTAL_HEALTH?|completed suicide]] (1998, Armenia).
+
+SOCIAL / RELATIONAL
+Lives with partner [[PERSON|Joelle Vandermeer]] (together 4 years) and client's son, [[PERSON MINOR|Aram]] ([[AGE|9]]), who attends
+[[SCHOOL|Narrows View Elementary]]. Son's father, [[PERSON|Kyle Hale]], lives in Spanaway; shared custody, "high-conflict
+but no violence." Client walks her dog daily on [[INDIRECT_LOCATION|the Five Mile Drive loop at Point Defiance, usually
+by the Owen Beach stairs around 2 p.m.]] Spends Sundays at [[INDIRECT_LOCATION|her mother's condo at the Stadium
+District high-rise on N. E St]]. Finances strained: [[FINANCIAL_INFO|about $9,400 in medical bills and a $612/month car
+payment on the totaled vehicle]].
+
+LEGAL: Pending PI claim. DUI as above. No current charges.
+
+MENTAL STATUS EXAMINATION
+Appearance:   [[PHYSICAL_DESCRIPTOR|Slender woman with teal-dyed shoulder-length hair, koi-fish sleeve tattoo on the left
+              forearm, healed 3 cm scar at the left eyebrow (from the crash)]]; casually dressed, mild body odor.
+Behavior:     Cooperative, fidgeting, good eye contact. Speech: rapid, normal volume.
+Mood/Affect:  "Exhausted." Affect anxious, tearful when describing crash; congruent.
+Thought:      Linear, goal-directed. No delusions. Perception: no AH/VH.
+Cognition:    Alert, oriented x4; attention mildly impaired (serial 7s, 3 errors).
+Insight/Judgment: Fair / fair.
+
+RISK ASSESSMENT
+C-SSRS screen: [[MENTAL_HEALTH|passive death wish ("sometimes I wish I hadn't woken up after the crash")]], no
+intent, no plan, no recent behavior. Protective factors: son, partner, job, dog. Firearms: partner owns a
+handgun stored in a lockbox; client agreed to partner holding the key. Risk: low-moderate.
+Safety plan completed; 988 and Pierce County crisis line reviewed.
+
+DIAGNOSTIC IMPRESSION (DSM-5-TR)
+  F43.10   [[MENTAL_HEALTH|Posttraumatic stress disorder]]
+  F10.20   [[SUBSTANCE_USE|Alcohol use disorder, moderate]]
+  F12.10   [[SUBSTANCE_USE|Cannabis use disorder, mild]]
+  F41.0    [[MENTAL_HEALTH|Panic disorder]]
+  F17.210  [[SUBSTANCE_USE|Nicotine dependence, cigarettes]]
+
+PLAN
+1. Individual therapy weekly; begin Cognitive Processing Therapy after 2-3 stabilization sessions.
+2. Referral to psychiatry (Dr. [[PERSON|Arjun Mehta-Rosen]], PMHNP) for medication evaluation; consider [[MEDICATION|prazosin]]
+   for nightmares. Client consents to coordination with PCP.
+3. Substance use: MI-based; offered IOP referral to [[ORGANIZATION?|Tacoma Treatment Solutions]] -- client declined for now.
+4. ROI signed for attorney [[PERSON|G. Ishikawa]] (limited to dx, dates of service, and treatment plan; NO SUD records).
+5. Next appointment [[DATE|08/11/2026]] 4:00 p.m.
+
+Electronically signed: [[PERSON|Ruth Okafor-Lindqvist]], MA, LMHC   WA License [[ID_NUMBER?|LH60812274]]   [[DATE|08/04/2026]] 19:47
+Supervisor review: [[PERSON|D. Haverkamp]], PhD   [[DATE|08/06/2026]]

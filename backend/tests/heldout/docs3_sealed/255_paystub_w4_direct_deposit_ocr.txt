@@ -1,0 +1,160 @@
+[OCR TEXT LAYER -- personnel file scan, 3 pp. Source: HR_Payroll_[[PERSON|Thibodeaux]]_[[ID_NUMBER|E104417]].pdf  Engine confidence 88% / 74% / 69%]
+
+[[ORGANIZATION?|BRIGHTWATER LOGISTICS, INC.]]                                          EARNINGS STATEMENT
+[[ADDRESS?|4500 Almonaster Ave]]                                                   Advice No.   [[ID_NUMBER?|DD-0081442]]
+[[ADDRESS?|New 0rleans, LA 70126]]                                                 Pay Date     [[DATE?|10/02/2026]]
+Payroll questions: [[PHONE?|(504) 555-0150]]  FEIN [[EIN|72-1184093]]                      Period       [[DATE?|09/14/2026]] - [[DATE?|09/27/2026]]
+
+  Ernp1oyee:   [[PERSON|JASMINE R THIBODEAUX]]                  Emp1oyee ID:  [[ID_NUMBER|E104417]]
+               [[ADDRESS|2210 ELYSIAN FIELDS AVE APT 3]]          SSN:          XXX-XX-[[SSN|2093]]
+               [[ADDRESS|NEW ORLEANS LA 70117]]                   Dept:         Dispatch - Night 0ps (D-220)
+                                                       Job:          Load P1anner II        Rate:  [[MONEY|24.85]]
+  Federal: Head of Household, Step 3 $4,400, Extra [[MONEY|$25]]     State LA: Exemptions 1 / Dependents 2
+
+  EARNINGS               Rate        Hours        Current            YTD
+  ---------------------  ---------   ---------    -----------        -----------
+  Regu1ar                [[MONEY|24.85]]       80.0         [[MONEY|1,988.00]]           [[MONEY|35,784.00]]
+  0vertime 1.5x          37.275      6.5            [[MONEY|242.29]]            [[MONEY|2,982.11]]
+  Shift Diff (nights)    [[MONEY|1.50]]        40.0            [[MONEY|60.00]]            [[MONEY|1,080.00]]
+  Ho1iday                [[MONEY|24.85]]       0.0              [[MONEY|0.00]]              [[MONEY|397.60]]
+  ---------------------                           -----------        -----------
+  Gross Pay                                       [[MONEY|2,290.29]]           [[MONEY|40,243.71]]
+
+  PRE-TAX DEDUCTIONS                              Current            YTD
+  401(k) 6%                                         [[MONEY|137.42]]            [[MONEY|2,414.62]]
+  Medica1 PPO EE+Chi1d(ren)                         [[MONEY|118.40]]            [[MONEY|2,131.20]]
+  Denta1 EE+Ch                                       [[MONEY|14.20]]              [[MONEY|255.60]]
+  Tota1 Pre-Tax                                     [[MONEY|270.02]]            [[MONEY|4,801.42]]
+
+  TAXES                                           Current            YTD
+  Federa1 Withho1ding                               [[MONEY|168.55]]            [[MONEY|2,861.30]]
+  Socia1 Security                                   [[MONEY|133.78]]            [[MONEY|2,354.73]]
+  Medicare                                           [[MONEY|31.29]]              [[MONEY|550.71]]
+  LA State Income Tax                                [[MONEY|59.40]]            [[MONEY|1,013.86]]
+
+  AFTER-TAX DEDUCTIONS                            Current            YTD
+  Chi1d Support - LA DCFS Case [[CASE_NUMBER|0417-226-3381]]      [[MONEY|184.62]]            [[MONEY|3,323.16]]
+     (lncome withho1ding order rec'd [[DATE?|03/27/2026]]; remit to LA SCDU, FIPS 22071)
+  Union Dues - Teamsters Loca1 270                   [[MONEY|38.00]]              [[MONEY|684.00]]
+
+  NET PAY                                         [[MONEY|1,404.63]]           [[MONEY|25,151.35]] *
+     * YTD net excludes [[DATE?|03/20/2026]] paper check (pre-direct-deposit).
+
+  NET PAY DISTRIBUTION
+  [[ORGANIZATION?|Pe1ican State Bank & Trust]]   Savings   XXXXX[[BANK_ACCOUNT|8205]]       Flat amount     [[MONEY|150.00]]
+  [[ORGANIZATION?|Gu1f South FCU]]               Checking  XXXXXX[[BANK_ACCOUNT|7716]]      Net remainder [[MONEY|1,254.63]]
+
+  TIME OFF            Begin      Accrued    Used      Ba1ance
+  Vacation            41.8       4.6        0.0       46.4 hrs
+  Sick                22.0       2.3        8.0       16.3 hrs   (used [[DATE|09/22/2026]] - [[MEDICAL_CONDITION|migraine]], note on fi1e)
+
+  Hire date: [[DATE?|03/09/2026]]     Pay frequency: Biweek1y     Next review: [[DATE?|03/09/2027]]
+
+THIS IS N0T A CHECK -- NON-NEG0TIABLE
+--- Page 2 ---
+Form  W-4                      Emp1oyee's Withho1ding Certificate                         OMB No. 1545-0074
+Department of the Treasury     Comp1ete Form W-4 so that your emp1oyer can withho1d the            2026
+Internal Revenue Service       correct federa1 income tax from your pay.
+                               Give Form W-4 to your emp1oyer.
+                               Your withho1ding is subject to review by the IRS.
+
+Step 1:      (a) First name and midd1e initia1         Last name                     (b) Socia1 security number
+Enter          [[PERSON|Jasmine R.]]                         [[PERSON|Thib0deaux]]                       [[SSN|438-7l-2O93]]
+Persona1     Address
+Information    [[ADDRESS|22l0 E1ysian Fie1ds Ave Apt 3]]                     Does your name match the
+             City or town, state, and ZIP code                          name on your socia1 security
+               [[ADDRESS|New 0r1eans LA 7O117]]                                    card? If not, to ensure you
+                                                                        get credit for your earnings,
+             (c) [ ] Sing1e or Married fi1ing separate1y                 contact SSA at [[PHONE?|800-772-1213]]
+                 [ ] Married fi1ing joint1y or Qua1ifying surviving spouse    or go to www.ssa.gov.
+                 [X] Head of househo1d (Check on1y if you're unmarried and pay more than ha1f the
+                     costs of keeping up a home for yourse1f and a qua1ifying individua1.)
+
+TIP: Consider using the estimator at www.irs.gov/W4App to determine the most accurate withho1ding for
+the rest of the year if you: are comp1eting this form after the beginning of the year; expect to work
+on1y part of the year; or have changes during the year in your marita1 status, number of jobs for you
+(and/or your spouse if married fi1ing joint1y), dependents, other income (not from jobs), deductions, or
+credits.
+
+Step 2:      Comp1ete this step if you (1) ho1d more than one job at a time, or (2) are married fi1ing
+Mu1tip1e     joint1y and your spouse a1so works.          (c) [ ]   <- not checked
+Jobs or
+Spouse
+Works
+
+Step 3:      If your tota1 income wi11 be [[MONEY|$200,000]] or 1ess ([[MONEY|$400,000]] or 1ess if married fi1ing joint1y):
+C1aim          Mu1tip1y the number of qua1ifying chi1dren under age 17 by [[MONEY|$2,200]]    __2__   $ 4,4OO
+Dependent      Mu1tip1y the number of other dependents by [[MONEY|$500]] ......................  __0__   $ ___0___
+and Other      Add the amounts above for qua1ifying chi1dren and other dependents ...........  3  $ 4,4OO
+Credits        [handwritten in margin: "[[MINOR|Kaylee]] [[AGE|8]] + [[MINOR|Mason]] [[AGE|5]]"]
+
+Step 4       (a) Other income (not from jobs) ................................  4(a) $ ___0___
+(optiona1):  (b) Deductions ..................................................  4(b) $ ___0___
+Other        (c) Extra withho1ding. Enter any additiona1 tax you want withhe1d    4(c) $ __25__
+Adjustments      each pay period.
+
+Step 5:      Under pena1ties of perjury, I dec1are that this certificate, to the best of my know1edge
+Sign         and be1ief, is true, correct, and comp1ete.
+Here
+             [[SIGNATURE|Jasmine R Thib0deaux]]                                         [[DATE?|3/O9/2026]]
+             Emp1oyee's signature (This form is not va1id un1ess you sign it.)      Date
+
+Emp1oyers    Emp1oyer's name and address                         First date of        Emp1oyer identification
+On1y         [[ORGANIZATION?|Brightwater Logistics, Inc.]]                         emp1oyment           number (EIN)
+             [[ADDRESS?|4500 A1monaster Ave, New 0r1eans LA 70126]]          [[DATE?|O3/09/2026]]           [[EIN|72-ll84O93]]
+
+For Privacy Act and Paperwork Reduction Act Notice, see page 3.      Cat. No. 10220Q      Form W-4 (2026)
+
+[HR stamp, lower right:]  RECEIVED [[DATE?|MAR 09 2026]]  BWL HUMAN RES0URCES
+    I-9 docs: LA DL # [[DRIVERS_LICENSE|0O9418827]] exp [[DATE?|11/2029]]; SS card sighted.  -- [[PERSON|dmf]]
+    Note: EE says ex is [[PERSON|Brandon Theriot]], chi1d supp order pending -- watch for IWO.
+--- Page 3 ---
+                         [[ORGANIZATION?|BRIGHTWATER L0GISTICS, INC.]] -- HUMAN RES0URCES
+                  DIRECT DEP0SIT AUTH0RIZATI0N / CHANGE F0RM            Form HR-114 (rev 08/2023)
+
+  [X] New     [ ] Change     [ ] Cance1                                  Effective with pay date: [[DATE?|04/03/2026]]
+
+  Emp1oyee Narne  [[PERSON|Jasrnine R. Thib0deaux]]                 Emp1oyee ID  [[ID_NUMBER|E1O4417]]     Last 4 SSN [[SSN|2O93]]
+  Phone [[PHONE|(5O4) 555-Ol86]]                    E-mai1  [[EMAIL|jthib0deaux.n0la@gmai1.com]]
+  Hom e Address  [[ADDRESS|22l0 Elysian Fie1ds Ave #3, New 0rleans 7O117]]
+
+  ACC0UNT 1 (prirnary)
+    Financia1 Institution  [[ORGANIZATION?|Gu1f S0uth Federa1 Credit Uni0n]]
+    Routing Nurnber (9 digits)  [[ROUTING_NUMBER|2 6 5 4 7 7 7 1 1]]
+    Account Nurnber             [[BANK_ACCOUNT|0 4 4 7 7 1 6 2 3 0]]
+    Account Type   [X] Checking   [ ] Savings          Arnount   [X] Net rernainder   [ ] $______   [ ] ___%
+
+  ACC0UNT 2
+    Financia1 Institution  [[ORGANIZATION?|Pe1ican State Bank & Trust]]
+    Routing Nurnber (9 digits)  [[ROUTING_NUMBER|O 6 5 4 9 4 5 8 3]]
+    Account Nurnber             [[BANK_ACCOUNT|3 0 0 2 l 8 2 0 5]]
+    Account Type   [ ] Checking   [X] Savings          Arnount   [X] $ 15O.OO    [ ] ___%
+
+  I authorize [[ORGANIZATION?|Brightwater Logistics, Inc.]] and its payro11 processor to deposit my pay to the accounts
+  above and, if necessary, to debit entries made in error. This authority remains in effect unti1 HR receives
+  written notice from me in such time and manner as to afford a reasonab1e opportunity to act on it.
+
+  Emp1oyee Signature  [[SIGNATURE|Jasrnine R Thibodeaux]]                                  Date  [[DATE?|3/09/26]]
+
+  ATTACH V0IDED CHECK F0R ACC0UNT 1 (deposit s1ips not accepted)
+  .............................................................................................
+  :  [[PERSON|JASMINE R THIB0DEAUX]]                                                    1047          :
+  :  [[ADDRESS|2210 ELYSIAN FIELDS AVE APT 3]]                                                     :
+  :  [[ADDRESS|NEW 0RLEANS LA 70ll7]]                               DATE _____________              :
+  :                                                               [[ROUTING_NUMBER?|84-7711/2654]]          :
+  :  PAY T0 THE                                                                               :
+  :  0RDER 0F ___________________________________________________   $ [          ]              :
+  :                                                                                           :
+  :  ____________________ V   0   I   D ____________________________________ D0LLARS          :
+  :                                                                                           :
+  :  [[ORGANIZATION?|GULF S0UTH]]                                                                                :
+  :  [[ORGANIZATION?|FEDERAL CREDIT UNI0N]]       [[URL?|gu1fsouthfcu.org]]                                                     :
+  :  [[LOCATION?|New Or1eans, Louisiana]]                                                                  :
+  :  MEM0 _______________________          ______________________________________             :
+  :                                                                                           :
+  :  |:[[ROUTING_NUMBER|2654777l1]]|:  [[BANK_ACCOUNT|O4477l623O]]||'  l047                                                    :
+  :...........................................................................................:
+
+  HR USE ONLY   Entered by [[PERSON|D. F0nten0t]] [[DATE?|03/11/26]]   Prenote sent [[DATE?|03/12/26]]   Live [[DATE?|04/03/26]]
+                Verified acct 1 by voided check; acct 2 by bank letter from [[ORGANIZATION?|Pe1ican State]] dated [[DATE?|3/1O/26]]
+                (acct ho1ders: [[PERSON|Jasmine Thibodeaux]] & [[PERSON|Gera1dine Thib0deaux]], P0D [[MINOR|Kay1ee Theri0t]])

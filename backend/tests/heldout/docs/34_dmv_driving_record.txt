@@ -1,0 +1,56 @@
+TEXAS DEPARTMENT OF PUBLIC SAFETY -- DRIVER LICENSE DIVISION
+CERTIFIED ABSTRACT OF COMPLETE DRIVING RECORD (TYPE 3AR)               Order # DR3-2509-0088417
+[[ADDRESS?|P.O. Box 149008, Austin, TX 78714-9008]]                                 Run date: [[DATE|09/12/2025]]  10:22:41
+Requestor: [[ORGANIZATION?|NNAMDI PIERCE TRIAL LAWYERS, PLLC]] -- DPPA permissible use: (b)(4) litigation   Fee paid: [[MONEY?|$20.00]]
+======================================================================================================
+NAME:            [[PERSON|PRUITT, KEVIN LEE]]
+DL NUMBER:       [[DRIVERS_LICENSE|27880415]]        CLASS: C        TYPE: DL        AUDIT #: [[ID_NUMBER?|0471182339917]]
+DOB:             [[DATE_OF_BIRTH|05/11/1990]]        SEX: M          HT: [[PHYSICAL_DESCRIPTOR?|5-11]]        WT: [[PHYSICAL_DESCRIPTOR?|230]]       EYES: [[PHYSICAL_DESCRIPTOR?|HAZ]]
+ADDRESS:         [[ADDRESS|6402 HOLLOW OAKS LN]]
+                 [[ADDRESS|KATY TX 77449-5210]]
+ISSUED:          [[DATE|06/02/2021]]        EXPIRES: [[DATE|05/11/2029]]   (renewal by mail)
+RESTRICTIONS:    B (corrective lenses); P (ignition interlock -- see below)
+ENDORSEMENTS:    none
+ORGAN DONOR:     Y          VETERAN: Y          CDL HISTORY: none
+CURRENT STATUS:  *** SUSPENDED ***  (ALR -- breath test failure, offense date [[DATE|07/04/2025]])
+                 Suspension effective [[DATE|08/03/2025]] through [[DATE|08/02/2026]] (365 days -- prior alcohol contact)
+SR-22 REQUIRED:  Y -- through [[DATE|08/02/2028]]   Insurer on file: [[ORGANIZATION?|KEYSTONE COUNTY MUTUAL]] -- policy [[POLICY_NUMBER|KCM-TX-9902814]]
+                 *** SR-26 CANCELLATION RECEIVED [[DATE|09/05/2025]] -- coverage terminated ***
+======================================================================================================
+
+CONVICTIONS / ADJUDICATIONS (most recent first)
+  Viol Date   Conv Date   Offense                                   Court / ORI         Citation #       Pts
+  ----------  ----------  ----------------------------------------  ------------------  ---------------  ---
+  [[DATE|01/14/2024]]  [[DATE|03/02/2024]]  SPEEDING 74/60 (I-10 Katy Fwy)             HCJP 5-1  TX1010500  [[LAW_ENFORCEMENT_ID|HC24-0011873]]     --*
+  [[DATE|09/03/2022]]  [[DATE|11/18/2022]]  FAIL TO MAINTAIN FIN RESP (NO INS)        HOUSTON MUNI        [[LAW_ENFORCEMENT_ID|M22-4471902]]      --*
+  [[CRIMINAL_HISTORY|04/27/2019  10/10/2019  DWI 1ST OFFENSE (TPC 49.04) -- CONVICTED  FT BEND CCL #2      2019-CCR-01184]]      --*
+        Sentence: 180 days jail probated 12 mo, [[MONEY?|$1,000]] fine, DWI education, interlock 6 mo
+  [[DATE|04/27/2019]]  --          ALR SUSPENSION -- refusal               DPS ADMIN           ALR [[LAW_ENFORCEMENT_ID|19-0488102]]      --
+  [[DATE|06/30/2017]]  [[DATE|08/11/2017]]  SPEEDING 49/35 (school zone)               KATY MUNI           [[LAW_ENFORCEMENT_ID|K17-118204]]       --*
+  * Points no longer assessed under repeal of Driver Responsibility Program (eff. [[DATE?|9/1/2019]]).
+
+CRASH INVOLVEMENT (CR-3 reportable)
+  Crash Date  Crash ID    County    Severity               Fault indicated   Citation
+  ----------  ----------  --------  ---------------------  ----------------  --------------------------------
+  [[DATE|07/04/2025]]  [[LAW_ENFORCEMENT_ID|20631187]]    HARRIS    FATAL (K) -- pedestrian  Y                 TPC 49.08 (arrest -- intox mansl.)
+  [[DATE|02/11/2022]]  [[LAW_ENFORCEMENT_ID|19044718]]    HARRIS    POSSIBLE INJURY (C)    Y                 FTYROW
+  [[DATE|04/27/2019]]  [[LAW_ENFORCEMENT_ID|17702291]]    FT BEND   PROPERTY DAMAGE ONLY   Y                 DWI (see above)
+
+PENDING ACTIONS / NOTICES
+  [[DATE|07/05/2025]]  Notice of Suspension (DIC-25) served by HPD Ofc. [[PERSON|A. Rosales]] #[[LAW_ENFORCEMENT_ID|10441]]; temporary permit 40 days
+  [[DATE|07/11/2025]]  ALR hearing requested -- SOAH Docket [[CASE_NUMBER|405-25-18844.ALR]]; hearing [[DATE|07/30/2025]]; suspension SUSTAINED
+  [[DATE|07/09/2025]]  Bond condition: ignition interlock device (Smart Start, device [[DEVICE_ID|SS-4471-88209]]) on
+              any vehicle operated -- 351st Dist. Ct., Cause [[CASE_NUMBER|1854472]]
+  [[DATE|08/22/2025]]  Occupational license petition -- DENIED (Harris Co. CCL #6)
+
+PRIOR LICENSES / OTHER STATES
+  LA DL [[DRIVERS_LICENSE|008821476]] (surrendered [[DATE?|2012]])     Name variants: [[PERSON|KEVIN L PRUITT]]; [[PERSON|KEVIN PRUITT JR]]
+
+PHOTO / SIGNATURE on file: Y     Last photo date [[DATE|06/02/2021]]
+======================================================================================================
+CERTIFICATION: I certify that this is a true and correct abstract of the driving record of the person
+named above, as maintained by the Texas Department of Public Safety (Tex. Transp. Code § 521.045). This
+record is confidential under the Driver's Privacy Protection Act, 18 U.S.C. § 2721 et seq., and Tex. Transp.
+Code ch. 730, and may be used only for the permissible purpose stated.
+                                   [seal]   [[PERSON|Shirley Okonjo-Pratt]], Custodian of Records     [[DATE|09/12/2025]]
+Page 1 of 1    Control # 2509120088417A

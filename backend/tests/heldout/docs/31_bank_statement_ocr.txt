@@ -1,0 +1,67 @@
+## OCR EXTRACT -- PLPROD 000318-000320 -- scanned at 300dpi -- CONFIDENTIAL UNDER PROTECTIVE ORDER ##
+
+[[ORGANIZATION?|CAPITAL HlLL COMMUNlTY BANK]]                                Member FDIC
+[[ADDRESS?|P.0. Box 2O418]] * [[ADDRESS?|Austin TX 78768]] * 24/7 Banking [[PHONE|1-8OO-3l8-2245]] * capitalhillcb.com
+
+                         BUSlNESS CHECKlNG STATEMENT
+
+  [[EMPLOYER|SE0UL F00D ATX LLC]]                                Statement Period: [[DATE|O4/Ol/2O25]] - [[DATE|O4/3O/2O25]]
+  [[PERSON|HYUN W00 PARK]] MBR                                  Account Number:   [[BANK_ACCOUNT|884l-OO2-3318]]
+  [[ADDRESS|45l2 AVENUE F]]                                     Routing (ABA):    [[ROUTING_NUMBER|l32874926]]
+  [[ADDRESS|AUSTlN TX 7875l-23O4]]                               Page 1 of 3
+
+  ACCOUNT SUMMARY
+  Beginning Balance  [[DATE|O4/Ol]]                  [[FINANCIAL_INFO|$l4,2O6.l8]]
+  Deposits & Credits (37)                   [[FINANCIAL_INFO|$3l,884.9O]]
+  Withdrawals & Debits (62)                 [[MONEY?|-$29,4l7.33]]
+  Service Charges                               [[MONEY?|-$l5.OO]]
+  Ending Balance  [[DATE|O4/3O]]                    [[FINANCIAL_INFO|$l6,658.75]]
+
+  DEPOSlTS AND CREDlTS
+  Date    Description                                              Amount
+  [[DATE|O4/O2]]   SQUARE INC DES:2O25O4O1 ID:[[ID_NUMBER?|T3MLX9C3TQ1]] SE0UL F00D           [[FINANCIAL_INFO|l,O22.4O]]
+  [[DATE|O4/O3]]   SQUARE lNC DES:2O25O4O2 lD:[[ID_NUMBER?|T3MLX9C3TQ1]] SE0UL F00D           [[FINANCIAL_INFO|886.l5]]
+  [[DATE|O4/O7]]   SQUARE lNC DES:2O25O4O6 lD:[[ID_NUMBER?|T3MLX9C3TQ1]] SE0UL F00D           [[FINANCIAL_INFO|3,4l9.8O]]
+  [[DATE|O4/O8]]   M0BlLE DEP0SlT CHK #2O9l -- [[ORGANIZATION?|MUELLER LAKE HOA]] catering        [[FINANCIAL_INFO|2,4OO.OO]]
+  [[DATE|O4/l4]]   SQUARE lNC DES:2O25O4l3 lD:[[ID_NUMBER?|T3MLX9C3TQ1]] SE0UL F00D           [[FINANCIAL_INFO|4,ll7.25]]
+  [[DATE|O4/l5]]   ZELLE FR0M [[PERSON|JI EUN PARK]] C0NF# Q8RT2271X                   [[MONEY?|5OO.OO]]
+  [[DATE|O4/2l]]   SQUARE lNC DES:2O25O42O lD:[[ID_NUMBER?|T3MLX9C3TQ1]] SE0UL F00D           [[FINANCIAL_INFO|3,9O8.6O]]
+  [[DATE|O4/22]]   LAKESH0RE GEN lNS CLAlM PMT [[CLAIM_NUMBER|LG25Ol223O4l8]] PD                 [[MONEY?|6,8l2.44]]
+  [[DATE|O4/28]]   SQUARE lNC DES:2O25O427 lD:[[ID_NUMBER?|T3MLX9C3TQ1]] SE0UL F00D           [[FINANCIAL_INFO|4,6OO.l3]]
+  ... (28 additional Square deposits, see pg 2)
+
+## OCR page 2 ##
+  [[ORGANIZATION?|CAPITAL HlLL COMMUNlTY BANK]]   Acct ending [[BANK_ACCOUNT|3318]]   [[EMPLOYER|SE0UL F00D ATX LLC]]   Page 2 of 3
+
+  WlTHDRAWALS AND DEBlTS
+  Date    Description                                              Amount
+  [[DATE|O4/Ol]]   P0S PURCHASE RESTAURANT DEP0T #6O7 AUSTlN TX              [[MONEY?|-l,884.l2]]
+  [[DATE|O4/O2]]   ACH TXGAS PR0PANE C0 lNV 22l8                           [[MONEY?|-4l2.OO]]
+  [[DATE|O4/O4]]   ZELLE T0 [[PERSON|JAE SUNG KlM]] -- "wk 3/3l lift+grill"          [[MONEY?|-85O.OO]]
+  [[DATE|O4/O4]]   CHECKCARD 04O3 H-E-B #O7l5 AUSTlN TX  card ...[[CREDIT_CARD|7719]]     [[MONEY?|-3l2.9O]]
+  [[DATE|O4/O7]]   ACH ENTERPRlSE RENT-A-CAR  RA#447l-ENT-Ol25                [[MONEY?|-896.OO]]
+  [[DATE|O4/O8]]   CHECK #lO44 -- [[ORGANIZATION?|LYLE FAMlLY CHlR0]]                              [[MONEY?|-O.OO]] VOID
+  [[DATE|O4/ll]]   ZELLE T0 [[PERSON|JAE SUNG KlM]] -- "wk 4/7 heavy stuff"           [[MONEY?|-85O.OO]]
+  [[DATE|O4/l5]]   ACH CITY 0F AUSTlN M0BlLE F00D PERMlT [[ID_NUMBER?|MFV-2O25-OO881]]        [[MONEY?|-7l5.OO]]
+  [[DATE|O4/l8]]   ZELLE T0 [[PERSON|JAE SUNG KlM]] -- "wk 4/l4"                       [[MONEY?|-85O.OO]]
+  [[DATE|O4/22]]   0NLlNE TRANSFER T0 CHK ...[[BANK_ACCOUNT|O47l]] (PERS0NAL)                 [[MONEY?|-4,OOO.OO]]
+  [[DATE|O4/25]]   ZELLE T0 [[PERSON|JAE SUNG KlM]] -- "wk 4/2l"                       [[MONEY?|-85O.OO]]
+  [[DATE|O4/28]]   ACH lRS USATAXPYMT 2O25 Q1 EST -- SSN ***-**-[[SSN|O927]]       [[MONEY?|-3,2OO.OO]]
+  [[DATE|O4/29]]   CARDlNAL C0LLlSl0N lNV 88l2 -- van repair                      [[MONEY?|-6,8l2.44]]
+  [[DATE|O4/3O]]   SERVlCE CHARGE -- ANALYSlS                                    [[MONEY?|-l5.OO]]
+  ... (48 additional debits)
+
+  DAlLY BALANCE (selected)
+  [[DATE|O4/O4]] [[FINANCIAL_INFO|l2,ll9.O3]]   [[DATE|O4/ll]] [[FINANCIAL_INFO|l4,8O2.66]]   [[DATE|O4/22]] [[FINANCIAL_INFO|2O,9l4.37]]   [[DATE|O4/29]] [[FINANCIAL_INFO|l2,O58.62]]
+
+## OCR page 3 ##
+  [[ORGANIZATION?|CAPITAL HlLL COMMUNlTY BANK]]   Acct ending [[BANK_ACCOUNT|3318]]   Page 3 of 3
+  CHECK lMAGES
+   #2O9l  Payor: [[ORGANIZATION?|MUELLER LAKE HOA]] -- signed [[PERSON|D. Ferrante]], Treas.  Memo "Spring Fling catering"  [[MONEY?|$2,4OO.OO]]
+   #lO44  Payee: [[ORGANIZATION?|Lyle Family Chiro]] -- VOID -- "LOP - do not pay"  signed [[PERSON|Hyun-woo Park]]
+
+  lMP0RTANT: ln case of errors or questions about your electronic transfers, call [[PHONE|1-8OO-3l8-2245]]
+  or write [[ADDRESS?|P.0. Box 2O418, Austin TX 78768]]. Overdraft protection linked to savings ...[[BANK_ACCOUNT|2207]].
+
+  [[ORGANIZATION?|Capital Hill Community Bank]] NMLS #4O8812.  Statement ID 2O25O43O-B-OOl.
+## END OCR -- confidence 0.81 -- 6 low-confidence tokens flagged ##

@@ -1,0 +1,194 @@
+CLIENT COPY -- PREPARED BY [[ORGANIZATION?|BLUEBONNET TAX & BOOKKEEPING]] -- RETAIN FOR YOUR RECORDS
+
+Form 1040   Department of the Treasury--Internal Revenue Service
+            U.S. Individual Income Tax Return   2025      OMB No. 1545-0074   IRS Use Only--Do not write or staple in this space.
+For the year Jan. 1-Dec. 31, 2025, or other tax year beginning ________, 2025, ending ________, 20__   See separate instructions.
+----------------------------------------------------------------------------------------------------------------
+Your first name and middle initial  Last name                               Your social security number
+[[PERSON|YESENIA M]]                           [[PERSON|CARRASQUILLO-PAINE]]                      [[SSN|461 58 0937]]
+If joint return, spouse's first name and middle initial   Last name         Spouse's social security number
+[[PERSON|AUGUSTUS W]]                          [[PERSON|PAINE]]                                   [[SSN|627 14 3380]]
+Home address (number and street). If you have a P.O. box, see instructions.     Apt. no.
+[[ADDRESS|1907 MESQUITE HOLLOW DR]]
+City, town, or post office. If you have a foreign address, also complete spaces below.   State   ZIP code
+[[ADDRESS|ROUND ROCK]]                                                                                [[ADDRESS?|TX]]      [[ZIP_CODE|78665]]
+Presidential Election Campaign: Check here if you, or your spouse if filing jointly, want $3 to go to this fund.  [ ] You [ ] Spouse
+
+Filing Status   [ ] Single   [X] Married filing jointly (even if only one had income)   [ ] Married filing separately (MFS)
+                [ ] Head of household (HOH)   [ ] Qualifying surviving spouse (QSS)
+
+Digital Assets  At any time during 2025, did you: (a) receive (as a reward, award, or payment for property or services); or
+                (b) sell, exchange, or otherwise dispose of a digital asset (or a financial interest in a digital asset)?  [X] Yes [ ] No
+
+Standard Deduction  Someone can claim: [ ] You as a dependent  [ ] Your spouse as a dependent  [ ] Spouse itemizes on a separate return
+Age/Blindness   You: [ ] Were born before January 2, 1961  [ ] Are blind    Spouse: [ ] Was born before January 2, 1961  [ ] Is blind
+
+Dependents (see instructions)      (2) Social security     (3) Relationship   (4) Check the box if qualifies for
+(1) First name     Last name           number                  to you             Child tax credit   Credit for other dependents
+[[PERSON MINOR|LUCIANA]]            [[PERSON MINOR|PAINE]]            [[SSN|643 29 1188]]             DAUGHTER           [X]                [ ]
+[[PERSON MINOR|ROMAN]]              [[PERSON MINOR|PAINE]]            [[SSN|643 29 4417]]             SON                [X]                [ ]
+[[PERSON|GRACIELA]]           [[PERSON|CARRASQUILLO]]     [[SSN|452 07 6631]]             PARENT             [ ]                [X]
+[[PERSON MINOR|DIEGO]]              [[PERSON MINOR|CARRASQUILLO-RUIZ]] [[ITIN|912 78 4416]]            NEPHEW             [ ]                [X]
+
+Income   1a  Total amount from Form(s) W-2, box 1 (see instructions)                                      [[MONEY|71,250]]
+         1b  Household employee wages not reported on Form(s) W-2                                              0
+         1z  Add lines 1a through 1h                                                                      [[MONEY|71,250]]
+         2a  Tax-exempt interest .......  2a       0     b  Taxable interest                    2b           [[MONEY|188]]
+         3a  Qualified dividends .......  3a       0     b  Ordinary dividends                  3b             0
+         7   Capital gain or (loss). Attach Schedule D if required                              7          [[MONEY|(214)]]
+         8   Additional income from Schedule 1, line 10                                         8         [[MONEY|41,236]]
+         9   Add lines 1z, 2b, 3b, 4b, 5b, 6b, 7, and 8. This is your total income              9        [[MONEY|112,460]]
+        10   Adjustments to income from Schedule 1, line 26                                     10         [[MONEY|2,913]]
+        11   Subtract line 10 from line 9. This is your adjusted gross income                   11       [[MONEY|109,547]]
+        12   Standard deduction or itemized deductions (from Schedule A)                        12        31,500
+        13   Qualified business income deduction from Form 8995 or Form 8995-A                  13         [[MONEY|7,665]]
+        15   Taxable income. Subtract line 14 from line 11. If zero or less, enter -0-          15        [[MONEY|70,382]]
+For Disclosure, Privacy Act, and Paperwork Reduction Act Notice, see separate instructions.   Cat. No. 11320B   Form 1040 (2025)
+
+                                                                                                    Page 1 of 5
+
+--- Page 2 ---
+
+Form 1040 (2025)                                                                                    Page 2
+Tax and  16  Tax (see instructions). Check if any from Form(s): 1 [ ] 8814  2 [ ] 4972  3 [ ] ___ 16       [[MONEY|7,969]]
+Credits  18  Add lines 16 and 17                                                                18         [[MONEY|7,969]]
+         19  Child tax credit or credit for other dependents from Schedule 8812                 19         [[MONEY|5,400]]
+         20  Amount from Schedule 3, line 8 (Form 2441 child & dependent care)                  20           [[MONEY|600]]
+         22  Subtract line 21 from line 18. If zero or less, enter -0-                          22         [[MONEY|1,969]]
+         23  Other taxes, including self-employment tax, from Schedule 2, line 21               23         [[MONEY|5,827]]
+         24  Add lines 22 and 23. This is your total tax                                        24         [[MONEY|7,796]]
+Payments 25a Form(s) W-2                                        25a              [[MONEY|6,920]]
+         26  2025 estimated tax payments and amount applied from 2024 return                    26         [[MONEY|5,200]]
+         33  Add lines 25d, 26, and 32. These are your total payments                           33        [[MONEY|12,120]]
+Refund   34  If line 33 is more than line 24, subtract line 24 from line 33. This is the amount you overpaid 34 [[MONEY|4,324]]
+         35a Amount of line 34 you want refunded to you. If Form 8888 is attached, check here [ ] 35a      [[MONEY|3,824]]
+Direct deposit?  b Routing number  [[ROUTING_NUMBER|1 1 2 2 6 1 6 0 1]]        c Type: [X] Checking [ ] Savings
+See instructions.  d Account number  [[BANK_ACCOUNT|4 4 7 1 0 0 9 8 2 2 1 6]]
+         36  Amount of line 34 you want applied to your 2026 estimated tax 36      [[MONEY|500]]
+Amount   37  Subtract line 33 from line 24. This is the amount you owe                          37             0
+You Owe  38  Estimated tax penalty (see instructions)           38                   0
+
+Third Party Designee  Do you want to allow another person to discuss this return with the IRS? See instructions  [X] Yes  [ ] No
+                      Designee's name [[PERSON?|Rosalind Achterberg]]   Phone no. [[PHONE?|512-555-0177]]   Personal identification number (PIN) [[PASSWORD|30418]]
+
+Sign Here  Under penalties of perjury, I declare that I have examined this return and accompanying schedules and statements,
+           and to the best of my knowledge and belief, they are true, correct, and complete.
+           Your signature  [[SIGNATURE|/s/ Yesenia M. Carrasquillo-Paine]]   Date [[DATE?|03/02/2026]]   Your occupation  DENTAL HYGIENIST
+           If the IRS sent you an Identity Protection PIN, enter it here (see inst.)  [[PASSWORD|482917]]
+           Spouse's signature  [[SIGNATURE|/s/ Augustus W. Paine]]   Date [[DATE?|03/02/2026]]   Spouse's occupation  DRONE SURVEYOR
+           If the IRS sent your spouse an Identity Protection PIN, enter it here (see inst.)  [ ][ ][ ][ ][ ][ ]
+           Phone no. [[PHONE|(512) 555-0294]]     Email address [[EMAIL|yesi.carrasquillo.paine@outlook.com]]
+
+Paid       Preparer's name  [[PERSON?|Rosalind Achterberg, EA]]   Preparer's signature [[SIGNATURE?|/s/ R. Achterberg]]   Date [[DATE?|03/02/2026]]
+Preparer   PTIN [[ID_NUMBER?|P01884217]]   Check if self-employed [ ]
+Use Only   Firm's name  [[ORGANIZATION?|Bluebonnet Tax & Bookkeeping LLC]]                Phone no. [[PHONE?|512-555-0177]]
+           Firm's address  [[ADDRESS?|401 W Main St Ste 210, Round Rock, TX 78664]]  Firm's EIN [[EIN?|82-1170449]]
+Go to www.irs.gov/Form1040 for instructions and the latest information.                         Form 1040 (2025)
+
+                                                                                                    Page 2 of 5
+
+--- Page 3 ---
+
+SCHEDULE C          Profit or Loss From Business                                OMB No. 1545-0074
+(Form 1040)         (Sole Proprietorship)                                       2025
+Department of the Treasury    Attach to Form 1040, 1040-SR, 1040-SS, 1040-NR, or 1041;   Attachment Sequence No. 09
+Name of proprietor                                                      Social security number (SSN)
+[[PERSON|AUGUSTUS W PAINE]]                                                        [[SSN|627-14-3380]]
+A  Principal business or profession, including product or service       B  Enter code from instructions
+   AERIAL DRONE MAPPING / PHOTOGRAMMETRY FOR SURVEY FIRMS                  541370
+C  Business name. If no separate business name, leave blank.            D  Employer ID number (EIN)
+   [[EMPLOYER|HILL COUNTRY AERIAL MAPPING]]                                             [[EIN|87-3361904]]
+E  Business address (including suite or room no.)  [[ADDRESS|1907 MESQUITE HOLLOW DR (HOME OFFICE)]]
+   City, town or post office, state, and ZIP code  [[ADDRESS|ROUND ROCK, TX 78665]]
+F  Accounting method:  (1) [X] Cash  (2) [ ] Accrual  (3) [ ] Other
+G  Did you "materially participate" in the operation of this business during 2025?  [X] Yes [ ] No
+I  Did you make any payments in 2025 that would require you to file Form(s) 1099?  [X] Yes [ ] No
+J  If "Yes," did you or will you file required Form(s) 1099?  [X] Yes [ ] No
+Part I   Income
+  1   Gross receipts or sales (incl. Form 1099-K from Square, 1099-NEC x4)                1           [[MONEY|68,400]]
+  4   Cost of goods sold (from line 42)                                                   4                0
+  7   Gross income. Add lines 5 and 6                                                     7           [[MONEY|68,400]]
+Part II  Expenses. Enter expenses for business use of your home only on line 30.
+  8   Advertising                         8          412   18  Office expense             18             388
+  9   Car and truck expenses              9        6,377   20b Rent - other business property 20b          0
+ 11   Contract labor (1099-NEC)          11        4,800   21  Repairs and maintenance    21           1,140
+ 13   Depreciation / sec. 179            13        7,920   22  Supplies                   22             926
+ 15   Insurance (other than health)      15        1,684   23  Taxes and licenses         23             275
+ 17   Legal and professional services    17          950   24a Travel                     24a              0
+                                                       27a Other expenses (from line 48)  27a          1,692
+ 28   Total expenses before expenses for business use of home                             28          [[MONEY|26,564]]
+ 30   Expenses for business use of your home (simplified method: 200 sq ft)               30           1,000
+ 31   Net profit or (loss). Subtract line 30 from line 29.                                31          [[MONEY|41,236]]
+Part IV  Information on Your Vehicle
+ 43   When did you place your vehicle in service for business purposes?  [[DATE?|03/14/2023]]
+      Vehicle: [[VEHICLE_DESCRIPTION?|2023 FORD F-150 XLT, WHITE]]   Texas plate [[LICENSE_PLATE|SRV-4417]]
+ 44   Business 9,240 mi   b Commuting 0 mi   c Other 7,108 mi   (9,240 x $0.70 = $6,468; 6,377 after personal-use adj.)
+Part V   Other Expenses
+      FAA Part 107 remote pilot recert. + Remote ID modules                                  388
+      Drone liability/hull insurance -- [[ORGANIZATION?|SkyGuard Aviation Ins.]] policy [[POLICY_NUMBER|SKY-77412-TX]]         1,044
+      Pix4D / DroneDeploy software subscriptions                                             260
+ 48   Total other expenses                                                                 1,692
+For Paperwork Reduction Act Notice, see the separate instructions.   Cat. No. 11334P   Schedule C (Form 1040) 2025
+
+                                                                                                    Page 3 of 5
+
+--- Page 4 ---
+
+Form 2441 (2025) -- Child and Dependent Care Expenses (excerpt)
+Part I  Persons or Organizations Who Provided the Care
+  (a) Care provider's name            (b) Address                             (c) Identifying number (d) Amount paid
+  [[ORGANIZATION?|LITTLE SPROUTS MONTESSORI]]           [[ADDRESS?|2200 Sam Bass Rd, Round Rock TX]]         [[EIN?|74-2918836]]               2,100
+  [[PERSON|MARIBEL QUINTANILLA]]                 [[ADDRESS|611 Creek Bend Cv, Round Rock TX 78681]]  [[SSN|XXX-XX-7712]]              1,900
+Part II  Credit for Child and Dependent Care Expenses
+  2  (a) Qualifying person's name             (b) SSN           (c) Qualified expenses
+     [[PERSON MINOR|ROMAN PAINE]]                              [[SSN|643-29-4417]]                      3,000
+
+Schedule 8812 (2025) -- Credits for Qualifying Children and Other Dependents (excerpt)
+  4  Number of qualifying children under age 17 with the required SSN:  2  x $2,200        4,400
+  6  Number of other dependents, including any qualifying children who are not under age 17 or who do not have the
+     required SSN:  2  x $500.  (Do not include yourself, your spouse, or anyone who is not a U.S. citizen, U.S. national,
+     or U.S. resident alien.)                                                              1,000
+
+Schedule SE (2025) -- Self-Employment Tax (excerpt)   Name of person with self-employment income: [[PERSON|Augustus W. Paine]]
+  2  Net profit from Schedule C, line 31                                                  41,236
+  4a Multiply line 3 by 92.35% (0.9235)                                                   38,081
+ 12  Self-employment tax                                                                   5,827
+ 13  Deduction for one-half of self-employment tax (to Schedule 1, line 15)                2,913
+
+Form 8949 (excerpt) -- Digital assets, Box I (short-term, no 1099-DA)
+  (a) Description   (b) Acquired   (c) Sold     (d) Proceeds   (e) Basis   (h) Gain/(loss)
+  0.0193 BTC        [[DATE?|01/08/2025]]     [[DATE?|06/30/2025]]   1,622         1,836         (214)
+  Wallet: self-custody, address [[CRYPTO_WALLET|bc1qzcef8tu8gcgutsfhlxph03rdwu0hkcuwr5p62m]] (client-provided)
+
+                                                                                                    Page 4 of 5
+
+--- Page 5 ---
+
+PREPARER INTAKE WORKSHEET -- NOT FILED WITH IRS -- CONFIDENTIAL
+Client #: [[ID_NUMBER|BTB-2025-0388]]     Return ID: 2025-1040-MFJ-0388     Reviewer: [[PERSON?|R.A.]]
+
+Household
+  Taxpayer:  [[PERSON|Yesenia M. Carrasquillo-Paine]]   DOB [[DATE_OF_BIRTH|05/09/1988]]   TX DL [[DRIVERS_LICENSE|31182046]] exp [[DATE?|05/09/2029]]
+             Employer: [[EMPLOYER|Brushy Creek Family Dental]], [[INDIRECT_LOCATION|the dental office in the HEB shopping center on University Blvd]]
+  Spouse:    [[PERSON|Augustus W. ("Gus") Paine]]   DOB [[DATE_OF_BIRTH|10/27/1985]]   TX DL [[DRIVERS_LICENSE|29014473]]
+             Self-employed (Sch. C). FAA remote pilot cert. no. [[ID_NUMBER|4471029]]
+  Dependents:
+    [[PERSON MINOR|Luciana Paine]] -- DOB [[DATE_OF_BIRTH|02/17/2016]] ([[AGE|9]] at 12/31/25), 4th grade, [[SCHOOL|Forest Creek Elementary]]
+    [[PERSON MINOR|Roman Paine]] -- DOB [[DATE_OF_BIRTH|08/03/2019]], [[AGE|six]] years old, pre-K at Little Sprouts + after-care w/ [[PERSON|Maribel]]
+    [[PERSON|Graciela Carrasquillo]] (Yesenia's mother) -- DOB [[DATE_OF_BIRTH|12/01/1951]], [[AGE|seventy-four]], lives with family since [[DATE?|2022]];
+        SSA-1099 benefits $14,218 (under gross income test? -- no: SS not counted; support test met, see support worksheet)
+    [[PERSON MINOR|Diego Carrasquillo-Ruiz]] (nephew) -- DOB [[DATE_OF_BIRTH|11/23/2010]], [[AGE|fifteen]], ITIN [[ITIN|912-78-4416]] (renewed [[DATE?|2024]]),
+        lived with taxpayers all 12 months; attends [[SCHOOL|Cedar Ridge High School]]; parents in [[LOCATION?|Monterrey, N.L.]]
+
+Refund / payments
+  Direct deposit:  [[ORGANIZATION?|Texas Hill Federal Credit Union]] checking, RTN [[ROUTING_NUMBER|112261601]], acct [[BANK_ACCOUNT|4471-0098-2216]]
+  ES payments 2025:  4 x $1,300 via EFTPS (EFTPS PIN on file: NO -- client keeps)    2026 ES: $1,300/qtr + $500 applied
+  IRS online account user: [[USERNAME|gus.paine.maps]]  (client said "same password as ID.me" -- did NOT record)
+
+Notes
+  - 1099-K (Square) $18,400 included in gross receipts; reconciled to Square payout acct ****[[BANK_ACCOUNT|8890]].
+  - Contract labor $4,800 paid to [[PERSON|Kenji Abernathy-Soto]] (visual observer) -- 1099-NEC issued, his SSN on W-9 in file.
+  - Digital asset: one BTC sale at a loss; client confirmed no staking rewards. See Form 8949 above.
+  - Next year: Gus wants to buy a second drone (~$9k) -- discuss sec. 179 vs. bonus.
+
+                                                                                                    Page 5 of 5

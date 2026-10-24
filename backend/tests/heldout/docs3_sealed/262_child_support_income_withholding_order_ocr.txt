@@ -1,0 +1,176 @@
+[FAX RECEIVED -- OCR TEXT, 4 pp. Image quality: fair. Uncorrected.]
+[[DATE?|SEP-18-2026]] 10:42  FR0M:GA DCSS GWINNETT  [[PHONE?|77O5550142]]   T0:[[PHONE?|177O5550199]]                         P.1/4
+
+            [[ORGANIZATION?|GE0RGIA DEPARTMENT 0F HUMAN SERVICES]]
+            DIVISI0N 0F CHILD SUPP0RT SERVICES  --  Gwinnett County 0ffice
+            [[ADDRESS?|75 Langley Dr, Lawrencevi1le, GA 3OO46]]     Ph [[PHONE?|(770) 555-0141]]   Fax [[PHONE?|(77O) 555-O142]]
+
+                              FACSIMILE TRANSMITTAL -- C0NFIDENTIAL
+
+  T0:    Payro11 Departrnent, [[EMPLOYER|Peachstate Precision Fabrication, lnc.]]
+         Attn: [[PERSON|Bonnie Jo Kess1er]], Payro11 Manager           Fax: [[PHONE?|(77O) 555-0199]]
+  FR0M:  [[PERSON|Latrice M. 0dum-Banks]], Chi1d Support Agent II      Direct: [[PHONE?|(77O) 555-O147]]
+  RE:    lncome Withho1ding for Support -- Ernp1oyee [[PERSON|R0JAS-VILLAT0R0, EDGAR A]]
+         DCSS Case [[CASE_NUMBER|OO4O771882]]
+  Pages: 4 (inc1uding cover)
+
+  Our records show that the above emp1oyee was reported to the Georgia New Hire Registry by your cornpany on
+  [[DATE?|O8/27/2O26]]. P1ease irnp1ernent the attached lncorne Withho1ding for Support (IW0) beginning with the first pay
+  period that occurs 14 days after [[DATE?|O9/18/2O26]]. A Nationa1 Medica1 Support Notice wi11 fo11ow under separate cover.
+
+  CASE SUMMARY (for emp1oyer reference -- do not provide to ernp1oyee)
+    N0ncustodia1 parent:   [[PERSON|EDGAR ANT0NI0 R0JAS-VILLAT0R0]]   D0B [[DATE_OF_BIRTH|O5/3O/1988]]   SSN [[SSN|258-4l-7O93]]
+                           Ernp1oyee # [[ID_NUMBER|PPF-1O442]]  (per New Hire report)   Rate reported: [[MONEY|23.10]]/hr
+    Custodia1 parent:      [[PERSON|MARISELA G0MEZ PINEDA]]   ITIN [[ITIN|9l2-81-33O7]]
+                           FVI = Y  (Fami1y Vio1ence lndicator -- CP address is C0NFIDENTIAL and is not printed)
+    Chi1dren:              [[MINOR|ANDREA S0FIA R0JAS G0MEZ]]  (age [[AGE|11]])     [[MINOR|DIEG0 ALEJANDR0 R0JAS G0MEZ]]  (age [[AGE|7]])
+    Arrears ba1ance:       [[FINANCIAL_INFO?|$14,22O.37]] as of [[DATE?|O8/31/2O26]] (fu11y certified)
+    Prior emp1oyer:        [[EMPLOYER|Gwinnett Metal R0ofing C0.]] ([[LOCATION?|N0rcross]]) -- IW0 terminated [[DATE?|O7/31/2O26]], NCP separated
+
+  Questions: contact the undersigned. Do not ca11 the custodia1 parent. Do not re1ease this fax to the emp1oyee.
+
+  This facsirni1e may contain confidentia1 inforrnation protected by 42 U.S.C. 654(26) and O.C.G.A. 19-11-30.
+  If you received this in error, notify the sender at [[PHONE?|(77O) 555-0141]] and destroy a11 copies.
+[[DATE?|SEP-18-2026]] 10:43  FR0M:GA DCSS GWINNETT  [[PHONE?|77O5550142]]   T0:[[PHONE?|177O5550199]]                         P.2/4
+--- Page 2 ---
+                          lNC0ME WITHH0LDING F0R SUPP0RT                            0MB 0970-0154
+  [X] 0RIGINAL lNC0ME WITHH0LDING 0RDER/N0TICE F0R SUPP0RT (IW0)
+  [ ] AMENDED IW0
+  [ ] 0NE-TIME 0RDER/N0TICE F0R LUMP SUM PAYMENT
+  [ ] TERMINATI0N 0F IW0                                                 Date: [[DATE?|O9/18/2026]]
+  [X] Chi1d Support Enforcernent (CSE) Agency  [ ] Court  [ ] Attorney  [ ] Private lndividua1/Entity (Check one)
+
+  NOTE: This IW0 rnust be regu1ar on its face. Under certain circurnstances you rnust reject this IW0 and return it to
+  the sender (see IW0 instructions http://www.acf.hhs.gov/css/resource/incorne-withho1ding-for-support-instructions).
+  lf you receive this docurnent frorn sorneone other than a State or Tribal CSE agency or a Court, a copy of the
+  underlying order rnust be attached.
+
+  State/Tribe/Territory  GE0RGIA                           Remittance ldentifier (inc1ude w/payrnent)  [[ID_NUMBER|77OO418822]]
+  City/County/Dist./Tribe  GWINNETT                        0rder ldentifier  [[CASE_NUMBER|2O24-DR-OO881-3]]
+  Private lndividua1/Entity   N/A                          Case ldentifier  [[CASE_NUMBER|OO4O771882]]
+
+  [[EMPLOYER|PEACHSTATE PRECISI0N FABRICATI0N, lNC.]]                        RE:  [[PERSON|R0JAS-VILLAT0R0, EDGAR ANT0NI0]]
+  Ernp1oyer/lncorne Withho1der's Narne                                    Ernp1oyee/0b1igor's Narne (Last, First, Midd1e)
+  [[ADDRESS?|44O0 Sat e11ite B1vd, Bldg C]]                                   [[SSN|258-41-7093]]
+  Ernp1oyer/lncorne Withho1der's Address                                Ernp1oyee/0b1igor's Socia1 Security Nurnber
+  [[ADDRESS?|Du1uth GA 3OO96]]                                                [[DATE_OF_BIRTH|O5/30/l988]]
+                                                                        Ernp1oyee/0b1igor's Date of Birth
+  [[EIN|58-221O447]]                                                     [[PERSON|G0MEZ PINEDA, MARISELA]]
+  Ernp1oyer/lncorne Withho1der's FEIN                                    Custodia1 Party/0b1igee's Narne (Last, First, Midd1e)
+
+  Chi1d(ren)'s Narne(s) (Last, First, Midd1e)            Chi1d(ren)'s Birth Date(s)
+  [[MINOR|R0JAS G0MEZ, ANDREA S0FIA]]                             [[DATE_OF_BIRTH|O2/17/2O15]]
+  [[MINOR|R0JAS G0MEZ, DIEG0 ALEJANDR0]]                          [[DATE_OF_BIRTH|11/O3/2018]]
+
+  0RDER INF0RMATI0N: This docurnent is based on the support or withho1ding order frorn GE0RGIA (State/Tribe).
+  You are required by 1aw to deduct these arnounts frorn the ernp1oyee/ob1igor's incorne unti1 further notice.
+    $ 612.OO    Per rnonth   current chi1d support
+    $   O.OO    Per ______   past-due chi1d support - Arrears greater than 12 weeks?  [X] Yes  [ ] No
+    $  85.OO    Per rnonth   past-due chi1d support (arrears payrnent)
+    $   O.OO    Per ______   current cash rnedica1 support
+    $   O.OO    Per ______   past-due cash rnedica1 support
+    $   O.OO    Per ______   current spousa1 support
+    $   O.OO    Per ______   past-due spousa1 support
+    $   O.OO    Per ______   other (rnust specify) ____________
+  for a Tota1 Arnount to Withho1d of $ 697.OO per rnonth.
+
+  AM0UNTS T0 WITHH0LD: You do not have to vary your pay cyc1e to be in cornp1iance with the 0rder lnforrnation.
+  lf your pay cyc1e does not rnatch the ordered payrnent cyc1e, withho1d one of the fo11owing arnounts:
+    [[MONEY|$ 160.85]]  per week1y pay period                  $ 348.5O  per serni-rnonth1y pay period (twice a rnonth)
+    [[MONEY|$ 321.69]]  per biweek1y pay period (every two weeks)  $ 697.OO  per rnonth1y pay period
+    $ ______  Lurnp surn payrnent: Do not stop any existing IW0 un1ess you receive a terrnination order.
+
+  REMITTANCE INF0RMATI0N: lf the ernp1oyee/ob1igor's principa1 p1ace of emp1oyrnent is GE0RGIA, begin withho1ding no
+  1ater than the first pay period that occurs 14 days after the date of [[DATE?|O9/18/2026]]. Send payrnent within 7 working
+  days of the pay date. lf you cannot withho1d the fu11 arnount of support for any or a11 orders for this
+  ernp1oyee/ob1igor, withho1d 5O% of disposab1e incorne for a11 orders.
+
+  Rernit payrnent to   [[ORGANIZATION?|Georgia Fami1y Support Registry]]       at   [[ADDRESS?|P0 B0x 1O2411, At1anta GA 3O368-2411]]
+                        (SDU/Tribal Order Payee)                                (SDU/Tribal Payee Address)
+  [X] Return to Sender [Cornp1eted by Ernp1oyer/lncorne Withho1der]. Payrnent rnust be directed to an SDU in
+  accordance with 42 USC 666(b)(5) and (b)(6) or Tribal Payee (see Payrnents to SDU be1ow).
+
+  Inc1ude the Rernittance ID [[ID_NUMBER|77OO4l8822]] with the payrnent and if necessary this FIPS code: 13135OO
+
+  Signature of Judge/lssuing 0fficia1 (if Required by State or Tribal Law): [[SIGNATURE|Latrice M 0durn-Banks]]
+  Print Narne of Judge/lssuing 0fficia1: [[PERSON|Latrice M. Odurn-Banks]]
+  Tit1e of Judge/lssuing 0fficia1: Chi1d Support Agent II, DCSS
+  Date of Signature: [[DATE?|O9/18/2026]]
+
+  lf the ernp1oyee/ob1igor works in a State or for a Tribe that is different frorn the State or Tribe that issued
+  this order, a copy of this IW0 rnust be provided to the ernp1oyee/ob1igor.
+  [X] lf checked, you are required to provide a copy of this forrn to the ernp1oyee/ob1igor.
+[[DATE?|SEP-18-2026]] 10:44  FR0M:GA DCSS GWINNETT  [[PHONE?|77O5550142]]   T0:[[PHONE?|177O5550199]]                         P.3/4
+--- Page 3 ---
+  Ernp1oyer's Narne: [[EMPLOYER|Peachstate Precision Fabrication, lnc.]]   Emp1oyer FEIN: [[EIN|58-2210447]]
+  Ernp1oyee/0b1igor's Narne: [[PERSON|Edgar Antonio Rojas-Vi11atoro]]
+  CSE Agency Case ldentifier: [[CASE_NUMBER|OO4O771882]]          0rder ldentifier: [[CASE_NUMBER|2O24-DR-OO881-3]]
+
+  ADDITI0NAL INF0RMATI0N F0R EMPL0YERS/INC0ME WITHH0LDERS
+  Priority: Withho1ding for support has priority over any other 1ega1 process under State 1aw against the sarne
+  incorne (42 USC 666(b)(7)). lf a federa1 tax 1evy is in effect, p1ease notify the sender.
+  Cornbining Payrnents: When rernitting payrnents to an SDU or Tribal CSE agency, you rnay cornbine withho1d arnounts
+  frorn rnore than one ernp1oyee/ob1igor's incorne in a sing1e payrnent. You rnust, however, separate1y identify each
+  ernp1oyee/ob1igor's portion of the payrnent.
+  Payrnents To SDU: You rnust send chi1d support payrnents payab1e by incorne withho1ding to the appropriate SDU or to
+  a Tribal CSE agency. lf this IW0 instructs you to send a payrnent to an entity other than an SDU (e.g., payab1e to
+  the custodia1 party, court, or attorney), you rnust check the box above and return this notice to the sender.
+  Reporting the Pay Date: You rnust report the pay date when sending the payrnent. The pay date is the date on which
+  the arnount was withhe1d frorn the ernp1oyee/ob1igor's wages.
+  Withho1ding Lirnits: You rnay not withho1d rnore than the 1ower of: (1) the arnounts a11owed by the Federa1 Consumer
+  Credit Protection Act (CCPA) (15 U.S.C. 1673(b)); or (2) the arnounts a11owed by the State of the ernp1oyee/
+  ob1igor's principa1 p1ace of ernp1oyrnent. The federa1 1irnit is 50% of the disposab1e incorne if the ob1igor is
+  supporting another farni1y and 60% if the ob1igor is not supporting another farni1y. However, those 1irnits
+  increase to 55% and 65% if the arrears are greater than 12 weeks.
+  Anti-discrirnination: You are subject to a fine deterrnined under State 1aw for discharging an ernp1oyee/ob1igor
+  frorn ernp1oyrnent, refusing to ernp1oy, or taking discip1inary action against an ernp1oyee/ob1igor because of this IW0.
+
+  N0TIFICATI0N 0F EMPL0YMENT TERMINATI0N 0R INC0ME STATUS: lf this ernp1oyee/ob1igor never worked for you or you are
+  no 1onger withho1ding incorne for this ernp1oyee/ob1igor, you rnust prornpt1y notify the CSE agency and/or the sender
+  by returning this forrn to the address 1isted in the contact inforrnation be1ow:
+     [X] This person has never worked for this ernp1oyer nor received periodic incorne.
+     [X] This person no 1onger works for this ernp1oyer nor receives periodic incorne.
+         [handwritten -- emp1oyer reply faxed [[DATE?|1O/14/26]]; first box crossed out]
+     Ernp1oyee's/0b1igor's Narne:  [[PERSON|EDGAR R0JAS-VILLAT0R0]]              Case ldentifier:  [[CASE_NUMBER|0040771882]]
+     Date of Separation frorn Ernp1oyer:  [[DATE?|1O/O9/2026]]   (vo1untary quit -- "rnoving to [[LOCATION?|Da1ton]] for his brother's job")
+     Last Known Hornephone Nurnber:  [[PHONE|(678) 555-Ol19]]       Last Known Ce11phone Nurnber: [[PHONE|(47O) 555-O186]]
+     Last Known Address:  [[ADDRESS|31O8 Lawrencevi11e Hwy Apt G4, Tucker GA 3OO84]]
+     Fina1 Payrnent Date to SDU/Tribal Payee:  [[DATE?|1O/16/2026]]      Fina1 Payrnent Arnount: [[MONEY|$ 321.69]]
+     New Ernp1oyer's Narne:  [[EMPLOYER|Car pet Capita1 Fu1fi11rnent]] (per co-worker -- not confirrned)
+     New Ernp1oyer's Address:  [[LOCATION?|Da1ton, GA]] -- "[[INDIRECT_LOCATION|the new DC off Wa1nut Ave]]"
+
+  C0NTACT INF0RMATI0N
+  T0 EMPL0YER/INC0ME WITHH0LDER: lf you have questions, contact [[PERSON|Latrice M. 0dum-Banks]] (issuer narne) by te1ephone:
+  [[PHONE?|(77O) 555-0147]], by fax: [[PHONE?|(770) 555-0142]], by ernai1 or website: [[EMAIL|1atrice.odurn-banks@dhs.ga.gov]] / [[URL?|childsupport.georgia.gov]]
+  Send terrnination/incorne status notice and other correspondence to: [[ADDRESS?|DCSS, 75 Lang1ey Dr, Lawrencevi11e GA 30046]]
+  T0 EMPL0YEE/0BLIG0R: lf the ernp1oyee/ob1igor has questions, contact [[ORGANIZATION?|DCSS Custorner Contact Center]] by te1ephone:
+  [[PHONE?|1-844-555-0177]] or website: [[URL?|childsupport.georgia.gov]]
+
+  lMP0RTANT: The person cornp1eting this forrn is advised that the inforrnation rnay be shared with the ernp1oyee/ob1igor.
+[[DATE?|SEP-18-2026]] 10:45  FR0M:GA DCSS GWINNETT  [[PHONE?|77O5550142]]   T0:[[PHONE?|177O5550199]]                         P.4/4
+--- Page 4 ---
+                     [[EMPLOYER|PEACHSTATE PRECISI0N FABRICATI0N, lNC.]] -- PAYR0LL
+                     IW0 CORRESP0NDENCE / RESP0NSE L0G (interna1)
+
+  Ernp1oyee:   [[PERSON|R0JAS-VILLAT0R0, EDGAR A]]       Emp # [[ID_NUMBER|PPF-10442]]     Dept: Weld Shop B, 2nd shift
+  Hire date:   [[DATE?|O8/18/2026]]        Separation: [[DATE?|1O/O9/2026]]       Pay freq: Biweek1y (Fri)
+  Direct dep:  [[ORGANIZATION?|Delta Cornrnunity CU]] ****[[BANK_ACCOUNT|5512]] (fina1 check rnai1ed instead -- acct c1osed per bank return R02)
+
+  Date      Action                                                                               By
+  --------  -----------------------------------------------------------------------------------  ----------
+  [[DATE?|O9/18/26]]  IW0 rec'd by fax (4 pp). Case [[CASE_NUMBER|OO4O771882]] / Rernit ID [[ID_NUMBER|77OO418822]] set up in ADP as             [[PERSON|BJK]]
+            deduction code CS1, [[MONEY|$321.69]] biweek1y, start pay date [[DATE?|1O/O2/26]].
+  [[DATE?|O9/22/26]]  Copy of IW0 hand-de1ivered to ernp1oyee per checkbox. EE upset; said CP "a1ready              [[PERSON|BJK]]
+            gets enough" and that he has "two rnore kids" with current partner [[PERSON|Yesenia]]. Advised
+            him to contact DCSS. EE asked if the cornpany cou1d pay hirn in cash "1ike the 1ast job."
+            Dec1ined.
+  [[DATE?|1O/O2/26]]  First deduction [[MONEY|$321.69]] rernitted to GA FSR via EFT/EDI (pay date [[DATE?|1O/O2/26]]).          [[PERSON|BJK]]
+  [[DATE?|1O/O9/26]]  EE quit (no notice). Supervisor [[PERSON|Terrence Akinyemi]] says EE "went to [[LOCATION?|Da1ton]],              [[PERSON|BJK]]
+            his brother [[PERSON|Ronal]] got hirn on at [[INDIRECT_LOCATION?|the carpet DC]]."
+  [[DATE?|1O/14/26]]  Terrnination notice (IW0 p.3) faxed to DCSS [[PHONE?|77O-555-0142]]; fax confirrnation 0K.          [[PERSON|BJK]]
+  [[DATE?|1O/16/26]]  Fina1 deduction [[MONEY|$321.69]] frorn fina1 check remitted to GA FSR.                              [[PERSON|BJK]]
+            Fina1 check #[[ID_NUMBER?|O48812]] rnai1ed to [[ADDRESS|31O8 Lawrencevi11e Hwy Apt G4, Tucker GA 3OO84]].
+
+  YTD support withhe1d: [[MONEY|$643.38]]          Garnishment adrnin fee (O.C.G.A. 19-6-32): [[MONEY|$0.00]] (waived)
+
+  [OCR: 2 handwritten annotations in right margin not recognized]

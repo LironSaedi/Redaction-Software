@@ -1,0 +1,74 @@
+[[ORGANIZATION?|GRANITE MUTUAL INSURANCE COMPANY]] -- COMMERCIAL AUTO CLAIMS                     ClaimCenter v10 -- Notes Export
+Claim #: [[CLAIM_NUMBER|GM-25-0314-88172]]      Policy: [[POLICY_NUMBER|CAP-7702-0982-21]] ([[ORGANIZATION?|Swiftline Freight LLC]])      DOL: [[DATE|03/14/2025]]
+Loss location: [[INDIRECT_LOCATION|E Ben White Blvd @ S Congress Ave]], [[LOCATION?|Austin]] TX      Loss cause: Intersection -- insured ran red
+Insured driver: [[PERSON|Wells, Hunter J.]]      Claimant(s): [[PERSON|Delgado-Ruiz, Maria E.]] (BI/PD); [[PERSON MINOR|Ruiz, Mateo A.]] (BI, minor)
+Adjuster: [[PERSON|Kyle Brandt]] (KB), Sr. Casualty -- [[PHONE|(800) 447-1250 ext. 6214]] -- [[EMAIL|kbrandt@granitemutual.com]]
+Supervisor: [[PERSON|Lorna Feeney]] (LF)        Export date: [[DATE|10/01/2025]]    Exported by: [[USERNAME|kbrandt]]
+----------------------------------------------------------------------------------------------------
+DATE/TIME          AUTHOR  TYPE          NOTE
+----------------------------------------------------------------------------------------------------
+[[DATE|03/14/25]] 19:02     SYS     FNOL          FNOL rec'd via carrier 24/7 line from insured safety dir
+                                         [[PERSON|G. Tolliver]] ([[PHONE|512-295-7700]]). Tractor-trailer v. passenger car,
+                                         intersection, clmt extricated, child in car. Possible
+                                         red light. Severity: HIGH. Assigned KB.
+[[DATE|03/15/25]] 08:40     KB      Contact       Called insured driver [[PERSON|Hunter Wells]] at [[PHONE|512-398-0047]].
+                                         Driver states light "turned yellow as I got there."
+                                         Admits was on headset w/ dispatch. Recorded stmt
+                                         scheduled [[DATE|3/17]]. Advised not to post on social media.
+[[DATE|03/15/25]] 09:15     KB      Coverage      Policy in force [[DATE|01/01/25]]-[[DATE|01/01/26]]. CSL [[MONEY?|$1,000,000]]; excess
+                                         layer w/ [[ORGANIZATION?|Ironclad Specialty]] [[MONEY?|$5M]] xs [[MONEY?|$1M]] -- notice sent.
+                                         Driver listed, MVR clear 3 yr. Unit scheduled.
+[[DATE|03/15/25]] 14:30     KB      Reserve       BI reserve [[MONEY?|$250,000]] (clmt 1), [[MONEY?|$25,000]] (minor). PD [[MONEY?|$18,500]].
+[[DATE|03/17/25]] 10:05     KB      RecStmt       R/S of insured driver taken by phone, 38 min. Summary:
+                                         on duty since 0312, load from [[INDIRECT_LOCATION|HEB DC San Marcos]], ~45
+                                         mph, glanced at phone map, "light was yellow." Denies
+                                         texting. CPAP compliant. Lives w/ wife [[PERSON|Tammy]] + son.
+[[DATE|03/17/25]] 15:50     KB      Liability     Obtained W1 dashcam via TikTok ([[USERNAME|@dcarter_atx]]) -- shows our
+                                         unit entering on red, approx 1.5-2 s after change.
+                                         Liability: 100% insured. Notified LF.
+[[DATE|03/18/25]] 11:20     KB      Claimant      Rec'd LOR from [[PERSON|Rachel Kim]], [[ORGANIZATION?|Kim & Abernathy PLLC]] for clmt
+                                         + minor. All contact through counsel. Fax [[PHONE|512-480-3399]].
+[[DATE|03/18/25]] 11:45     KB      ISO           ISO ClaimSearch on clmt [[PERSON|Maria Delgado-Ruiz]], DOB [[DATE_OF_BIRTH|4/17/86]],
+                                         SSN [[SSN|457-82-1934]] -- 1 prior: [[DATE?|08/2021]] PIP claim w/
+                                         [[ORGANIZATION?|Bluebonnet Casualty]], minor rear-end, [[MEDICAL_CONDITION|neck strain]], paid [[MONEY?|$3,850]]
+                                         med. FLAG for prior neck.
+[[DATE|03/18/25]] 11:52     KB      Medicare      Section 111 query (SSN/name/DOB/gender) -- result: NOT a
+                                         Medicare beneficiary. Minor: N/A.
+[[DATE|03/24/25]] 09:30     KB      PD            PD total loss clmt veh ([[VEHICLE_DESCRIPTION|2016 Altima]]). ACV [[MONEY?|$11,940]] +
+                                         TT&L. Paid to [[ORGANIZATION?|Ally Financial]] (lienholder) [[MONEY?|$8,712.40]], balance to
+                                         clmt [[MONEY?|$4,180.05]] -- check # 0041187.
+[[DATE|04/02/25]] 16:10     LF      Supervisor    Reviewed. Agree liab. Assign defense counsel ([[ORGANIZATION?|HBP]]) if
+                                         suit. Increase BI reserve to [[MONEY?|$450,000]] given ORIF +
+                                         spleen + possible cervical.
+[[DATE|05/06/25]] 13:00     KB      Suit          Suit filed [[DATE|05/02/25]], Travis Co 345th, [[CASE_NUMBER|D-1-GN-25-002918]].
+                                         Assigned [[PERSON|C. Ashford]], [[ORGANIZATION?|Holloway Brandt & Pierce]].
+[[DATE|05/14/25]] 10:20     KB      Social        SIU social media canvass of clmt: FB "[[URL|facebook.com/maria.delgado.ruiz.86]]"
+                                         (private), IG [[USERNAME|@mariaelena_rdh]] (public). [[DATE|4/26]] post: clmt at
+                                         son's T-ball game at [[INDIRECT_LOCATION|Dittmar Park]], wrist brace visible,
+                                         seated. Nothing inconsistent. Husband's FB [[USERNAME|arturo.ruiz.hvac]]
+                                         posted GoFundMe "Help [[PERSON|Maria]] heal" raised [[MONEY?|$6,215]].
+[[DATE|06/30/25]] 17:05     KB      Discovery     Clmt rog answers rec'd from HBP. Clmt admits [[DATE?|2021]] neck
+                                         strain, PT x6. Pre-existing [[MENTAL_HEALTH|anxiety/sertraline]].
+                                         Specials to date: [[MONEY?|$187,402.16]] billed.
+[[DATE|07/29/25]] 18:30     KB      Depo          Attended insd depo via Zoom. Driver poor witness --
+                                         admitted looking down, inward cam. Recommend early
+                                         mediation. Exposure est. [[MONEY?|$900K-$1.4M]] (verdict range,
+                                         Travis Co, see JVR comps: Ochoa v. Rapid Haul (2022)
+                                         [[MONEY?|$1.9M]]; Lindstrom v. Cen-Tex Ready Mix (2023) [[MONEY?|$740K]]).
+[[DATE|08/19/25]] 09:00     KB      IME           Rec'd Dr. [[PERSON|Fenwick]] IME: wrist 100% causal, cervical 70%.
+                                         Disputes ACDF probability. Arthroscopy reasonable.
+[[DATE|09/03/25]] 15:15     KB      Demand        Rec'd Stowers demand from [[PERSON|R. Kim]] dated [[DATE|9/2]]: policy
+                                         limits [[MONEY?|$1,000,000]] (clmt) + [[MONEY?|$75,000]] (minor), 30 days.
+                                         Stowers deadline [[DATE|10/02/2025]] 5:00 pm CT. ESCALATE.
+[[DATE|09/10/25]] 11:00     LF      Authority     Roundtable. Authority granted up to [[MONEY?|$1,000,000]] clmt +
+                                         [[MONEY?|$60,000]] minor (friendly suit req'd). Excess carrier
+                                         notified -- tender of limits recommended.
+[[DATE|09/26/25]] 16:40     KB      Settlement    Accepted demand for clmt [[MONEY?|$1,000,000]]; minor [[MONEY?|$65,000]]
+                                         (counter accepted). Release + friendly suit + guardian ad
+                                         litem ([[PERSON|Lucinda Paz]]). Medicaid/Medicare: N/A. ERISA lien
+                                         ([[ORGANIZATION?|BCBSTX]]) clmt's responsibility per release.
+[[DATE|09/30/25]] 10:00     KB      Payment       Check request [[MONEY?|$1,000,000.00]] payable "[[ORGANIZATION?|Kim & Abernathy PLLC]] IOLTA
+                                         f/b/o [[PERSON|Maria E. Delgado-Ruiz]]," W-9 rec'd (TIN [[ID_NUMBER?|87-4471902]]).
+                                         Minor's funds to registry of court per order.
+----------------------------------------------------------------------------------------------------
+END OF EXPORT -- 24 notes -- CONFIDENTIAL: Claim file materials prepared in anticipation of litigation.

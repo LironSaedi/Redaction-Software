@@ -1,0 +1,219 @@
+                              CAUSE NO. [[CASE_NUMBER|D-1-GN-25-002918]]
+
+[[PERSON|MARIA ELENA DELGADO-RUIZ]], Individually and as      §      IN THE DISTRICT COURT OF
+Next Friend of [[PERSON MINOR|M.A.R.]], a Minor,                    §
+     Plaintiff,                                     §
+v.                                                  §      [[LOCATION?|TRAVIS COUNTY]], TEXAS
+[[PERSON|HUNTER JAMES WELLS]] and                              §
+[[ORGANIZATION?|SWIFTLINE FREIGHT LLC]],                             §
+     Defendants.                                    §      345TH JUDICIAL DISTRICT
+
+         PLAINTIFF [[PERSON|MARIA ELENA DELGADO-RUIZ]]'S ANSWERS TO DEFENDANT [[ORGANIZATION?|SWIFTLINE FREIGHT LLC]]'S
+                             FIRST SET OF INTERROGATORIES
+
+TO:  Defendant [[ORGANIZATION?|Swiftline Freight LLC]], by and through its attorney of record, [[PERSON|Courtney Ashford]],
+     [[ORGANIZATION?|Holloway Brandt & Pierce LLP]], [[ADDRESS?|111 Congress Avenue, Suite 2700, Austin, Texas 78701]].
+
+     Plaintiff serves these Answers pursuant to Rules 192 and 197 of the Texas Rules of Civil
+Procedure. Plaintiff's general objections (served separately) are incorporated. Sensitive data
+is redacted in accordance with Tex. R. Civ. P. 21c.
+
+INTERROGATORY NO. 1: State your full name, any other names you have used, your date of birth,
+the last three digits of your driver's license and Social Security numbers, and your current
+residential address.
+
+ANSWER: [[PERSON|Maria Elena Delgado-Ruiz]] (maiden name: [[PERSON|Maria Elena Delgado]]). Date of birth: [[DATE_OF_BIRTH|April 17,
+1986]]. Driver's license last three digits: [[DRIVERS_LICENSE|207]]. SSN last three digits: [[SSN|934]]. Residence: [[ADDRESS|2209
+Bluebonnet Lane, Austin, Texas 78704]] (since 2018).
+
+INTERROGATORY NO. 2: List every address at which you have resided in the past ten years.
+
+ANSWER:
+     2018 - present    [[ADDRESS|2209 Bluebonnet Lane, Austin, TX 78704]]
+     2015 - 2018       [[ADDRESS|4410 S. 1st St., Apt. 318, Austin, TX 78745]] ([[INDIRECT_LOCATION|the Villas at Little Texas]])
+     2012 - 2015       [[ADDRESS|1302 W. Elizabeth Ave., Harlingen, TX 78550]] (with parents)
+
+INTERROGATORY NO. 3: Identify each employer for the past ten years, including dates, position,
+supervisor, and rate of pay.
+
+ANSWER:
+     a. [[EMPLOYER|Southpark Family Dental]], [[ADDRESS?|5700 S. Congress Ave., Ste. 140, Austin, TX 78745]]; Registered
+        Dental Hygienist; [[DATE|June 2, 2016]] to present (on medical leave since [[DATE|March 14, 2025]]);
+        supervisor Dr. [[PERSON|Neil Hartigan]], DDS; [[FINANCIAL_INFO|$31.40 per hour, approximately 37 hours per week,
+        plus quarterly production bonus averaging $1,150]].
+     b. [[EMPLOYER|Bright Smiles Pediatric Dentistry]], [[LOCATION?|Pflugerville]], TX; part-time RDH (Saturdays);
+        [[DATE?|2017]] to [[DATE?|2020]]; supervisor Dr. [[PERSON|Asha Venkatesh]]; [[FINANCIAL_INFO|$29.00 per hour]].
+     c. [[EMPLOYER|H-E-B]] Store [[INDIRECT_LOCATION|#044 (Harlingen)]]; pharmacy clerk; [[DATE?|2012]] to [[DATE?|2014]] (while in school).
+
+INTERROGATORY NO. 4: State the amount of income you have lost as a result of the occurrence and
+how it was calculated.
+
+ANSWER: Through [[DATE|June 30, 2025]]: 15.5 weeks x 37 hrs x [[MONEY?|$31.40]] = [[FINANCIAL_INFO|$18,008]], plus lost bonuses
+([[MONEY?|$2,300]]), for a total of [[FINANCIAL_INFO|$20,308]]. Short-term disability through [[ORGANIZATION?|Guardian]] paid
+[[FINANCIAL_INFO|$9,412.80]] (60% for 12 weeks). My 2024 W-2 wages were [[FINANCIAL_INFO|$58,412.17]]. Future lost earning
+capacity will be addressed by expert testimony.
+
+INTERROGATORY NO. 5: Describe each injury you claim to have suffered in the occurrence.
+
+ANSWER: [[MEDICAL_CONDITION|Fractured left wrist (distal radius) requiring surgery with a plate and screws; torn
+ligament (TFCC) in the left wrist; carpal tunnel syndrome in the left hand; two broken ribs;
+lacerated spleen; concussion with ongoing headaches; injury to my neck at C5-C6 with numbness
+into my left thumb and index finger]]; cuts to my face and arm leaving a [[PHYSICAL_DESCRIPTOR|1-inch scar on my left
+cheek]] and a [[PHYSICAL_DESCRIPTOR|3-inch scar on my left forearm]]; and [[MENTAL_HEALTH|post-traumatic stress disorder, with
+nightmares, panic when driving, and worsening of my anxiety]].
+
+INTERROGATORY NO. 6: Identify every health care provider who has treated you in the ten years
+before the occurrence, and the reason.
+
+ANSWER:
+     a. Dr. [[PERSON|Leticia Garza-Ybarra]], [[ORGANIZATION?|Southpark Primary Care]], [[ADDRESS?|2911 W. Slaughter Ln., Austin, TX 78748]] --
+        primary care since 2016, including [[MENTAL_HEALTH|anxiety]] (treated with [[MEDICATION|sertraline]] since 2019),
+        [[MEDICAL_CONDITION|thyroid]], annual exams, and a [[MEDICAL_CONDITION|neck strain]] in [[DATE?|2021]].
+     b. [[ORGANIZATION?|Lakeway Open MRI]] -- MRI of neck, [[DATE|August 9, 2021]].
+     c. [[ORGANIZATION?|ProMotion Physical Therapy]] -- 6 visits for [[MEDICAL_CONDITION|neck strain]], [[DATE?|August-September 2021]].
+     d. Dr. [[PERSON|Ramon Castillo]], OB/GYN, [[ORGANIZATION?|Women's Health of Central Texas]] -- [[SEXUAL_REPRODUCTIVE_HEALTH|prenatal care and
+        deliveries (2016, 2019); IUD placement (2020)]].
+     e. [[ORGANIZATION?|South Lamar Surgical Hospital]] -- [[MEDICAL_CONDITION|gallbladder removal]], [[DATE?|2017]].
+     f. [[ORGANIZATION?|MinuteMed Urgent Care]] -- [[MEDICAL_CONDITION|sinus infection]], [[DATE?|August 2024]].
+
+Plaintiff's Answers to First Interrogatories -- Cause No. [[CASE_NUMBER|D-1-GN-25-002918]]                     Page 2 of 5
+
+INTERROGATORY NO. 7: Have you ever been involved in any other motor vehicle accident or filed any
+other claim for personal injury? If so, describe.
+
+ANSWER: Yes. On or about [[DATE|July 24, 2021]], my car was rear-ended at low speed in the drive-through
+lane of [[INDIRECT_LOCATION|the Whataburger on William Cannon]]. I did not file a lawsuit. My insurer, [[ORGANIZATION?|Bluebonnet
+Casualty]], paid PIP benefits for the MRI and physical therapy (claim no. [[CLAIM_NUMBER|BC2107-31188]]). I previously
+answered that my 2021 [[MEDICAL_CONDITION|neck strain]] was from moving furniture; on reviewing my records, I believe
+both the furniture and the minor rear-end contributed. My neck symptoms resolved by [[DATE?|October
+2021]] and I had no neck treatment until this collision.
+
+INTERROGATORY NO. 8: Describe in detail how the occurrence happened.
+
+ANSWER: On [[DATE|March 14, 2025]], at about 5:38 p.m., I was driving my [[VEHICLE_DESCRIPTION|silver 2016 Nissan Altima]] north on
+South Congress Avenue with my son, [[PERSON MINOR|M.A.R.]], age [[AGE|6]], in his booster seat behind the front
+passenger seat. I was picking him up from [[INDIRECT_LOCATION|his after-school program at the YMCA on Ben White]]. I
+was in the left-turn lane at Ben White Boulevard. I waited for the green arrow, looked, and began
+my left turn. I saw a white truck to my right at the last second and heard a horn. The truck hit
+my door. I remember the airbag, glass, my son screaming, and a man talking to him through the
+window. I do not remember being taken out of the car.
+
+INTERROGATORY NO. 9: Identify all persons with knowledge of relevant facts.
+
+ANSWER: See Plaintiff's Rule 194 Required Disclosures, incorporated by reference, and in addition:
+     - [[PERSON|Arturo Ruiz Benavides]] (husband), c/o counsel -- damages, care provided.
+     - [[PERSON|Elena Delgado]] (mother), [[ADDRESS|1302 W. Elizabeth Ave., Harlingen, TX 78550]], [[PHONE|(956) 318-2207]] --
+       stayed with family [[DATE|3/18/25]] - [[DATE|5/2/25]] to provide care.
+     - [[PERSON|Deshawn Carter]], [[PHONE|737-302-6614]] -- eyewitness; dashcam.
+     - [[PERSON|Chloe Nguyen-Baker]], [[PHONE|512-731-0098]] -- witness.
+     - Dr. [[PERSON|Neil Hartigan]], DDS, and office manager [[PERSON|Yesenia Flores]], [[EMPLOYER|Southpark Family Dental]] --
+       employment, lost wages, inability to perform duties.
+     - [[PERSON MINOR|Sofia Ruiz]], [[INDIRECT_ROLE|our 9-year-old daughter]] -- changes at home (Plaintiff objects to any
+       deposition of the minor).
+     - [[PERSON|Karen Whitmore]], [[INDIRECT_ROLE|my next-door neighbor and carpool partner]] -- before/after condition.
+
+INTERROGATORY NO. 10: Identify each social media account you have used since [[DATE|January 1, 2022]],
+including usernames.
+
+ANSWER: Plaintiff objects that this interrogatory is overbroad (see In re Kuraray America, Inc.,
+656 S.W.3d 137 (Tex. 2022) (discovery must be proportional)). Subject to the objection: Facebook
+([[URL|facebook.com/maria.delgado.ruiz.86]]); Instagram ([[USERNAME|@mariaelena_rdh]]); TikTok ([[USERNAME|@mariaruiz_atx]], inactive);
+LinkedIn ([[URL|linkedin.com/in/maria-delgado-ruiz-rdh]]). I have not deleted any posts since the occurrence.
+
+INTERROGATORY NO. 11: Identify each cell phone number you used on the date of the occurrence, the
+carrier, and whether you were using the phone at the time of the collision.
+
+ANSWER: [[PHONE|(512) 836-2290]], [[ORGANIZATION?|Meridian Wireless]]. I was not using my phone. It was in my purse on the
+passenger floorboard. I will produce my call/text log for 5:00-6:00 p.m. on [[DATE|March 14, 2025]].
+
+Plaintiff's Answers to First Interrogatories -- Cause No. [[CASE_NUMBER|D-1-GN-25-002918]]                     Page 3 of 5
+
+INTERROGATORY NO. 12: Have you been convicted of a felony or a crime of moral turpitude within the
+last ten years?
+
+ANSWER: No.
+
+INTERROGATORY NO. 13: Identify all health insurance, disability, and government benefits that
+have paid any amount related to your injuries.
+
+ANSWER: [[ORGANIZATION?|Blue Cross and Blue Shield of Texas]] PPO through my employer, member ID [[HEALTH_PLAN_ID|XOD884417203]], group
+[[HEALTH_PLAN_ID|228174]]; [[ORGANIZATION?|Guardian]] short-term disability, claim [[CLAIM_NUMBER|STD-6620148]]; [[ORGANIZATION?|Bluebonnet Casualty]] PIP
+([[MONEY?|$2,500]] limit, exhausted), claim [[CLAIM_NUMBER|BC2503-77104]]. I am not a Medicare or Medicaid beneficiary.
+
+INTERROGATORY NO. 14: Itemize the medical expenses you claim.
+
+ANSWER (to date; see Section 18.001 affidavits served [[DATE|June 16, 2025]]):
+     Provider                                           Dates                    Billed
+     ---------------------------------------------      ---------------------    -------------
+     [[ORGANIZATION?|Austin-Travis County EMS]]                           [[DATE|03/14/2025]]               [[MONEY?|$2,184.00]]
+     [[ORGANIZATION?|Capitol Ridge Medical Center]] (facility)              [[DATE|3/14/25]]-[[DATE|3/18/25]]         [[MONEY?|$118,906.42]]
+     [[ORGANIZATION?|Capitol Ridge Emergency Physicians]]                  [[DATE|03/14/2025]]               [[MONEY?|$4,860.00]]
+     [[ORGANIZATION?|Capitol Ridge Imaging]] (professional)                [[DATE|3/14/25]]-[[DATE|3/21/25]]         [[MONEY?|$3,412.00]]
+     [[ORGANIZATION?|Capitol Ridge Orthopedics]] (Dr. [[PERSON|Venkataraman]])        [[DATE|3/14/25]]-[[DATE|7/10/25]]         [[MONEY?|$16,770.00]]
+     Dr. [[PERSON|Daniel Szymanski]] / Trauma Surgery Assoc.              [[DATE|3/14/25]]-[[DATE|4/1/25]]          [[MONEY?|$6,215.00]]
+     Dr. [[PERSON|Marcus Whitfield]] (Neurosurgery)                       [[DATE|4/15/25]]-[[DATE|6/13/25]]         [[MONEY?|$1,980.00]]
+     Dr. [[PERSON|Sunita Bhattacharya]] (EMG/NCS)                         [[DATE|5/29/25]]                [[MONEY?|$2,640.00]]
+     [[ORGANIZATION?|ProMotion Physical Therapy]]                           [[DATE|4/2/25]]-[[DATE|6/30/25]]          [[MONEY?|$9,880.00]]
+     [[ORGANIZATION?|Clearwater Counseling]] ([[PERSON|C. Abernathy]], PMHNP)             [[DATE|5/20/25]]-[[DATE|6/24/25]]         [[MONEY?|$1,375.00]]
+     [[INDIRECT_LOCATION|Bluebonnet Pharmacy #212]]                            [[DATE|3/18/25]]-[[DATE|6/19/25]]         [[MONEY?|$79.74]]
+                                                                          TOTAL    [[MONEY?|$168,302.16]]
+
+INTERROGATORY NO. 15: Describe how your injuries have affected your daily activities.
+
+ANSWER: I cannot work. I cannot lift my son, carry laundry, cook for long, or do my daughter's hair.
+I sleep 3-4 hours a night because of pain and [[MENTAL_HEALTH|nightmares]]. I do not drive on highways and I take
+the long way to avoid the intersection. I stopped coaching my daughter's soccer team at [[INDIRECT_LOCATION|Garrison
+Park]]. My husband has had to take unpaid time off from [[EMPLOYER|Cool Breeze Mechanical]]. My mother stayed with
+us for six weeks.
+
+Plaintiff's Answers to First Interrogatories -- Cause No. [[CASE_NUMBER|D-1-GN-25-002918]]                     Page 4 of 5
+
+                                    Respectfully submitted,
+
+                                    [[ORGANIZATION?|KIM & ABERNATHY PLLC]]
+                                    [[ADDRESS?|600 Congress Avenue, Suite 1450]]
+                                    [[ADDRESS?|Austin, Texas 78701]]
+                                    Tel. [[PHONE|(512) 480-3300]] / Fax [[PHONE|(512) 480-3399]]
+
+                                    By: /s/ [[PERSON|Rachel Kim]]
+                                        [[PERSON|Rachel Kim]]
+                                        State Bar No. [[ID_NUMBER|24078812]]
+                                        [[EMAIL|rkim@kimabernathy.com]]
+                                        [[PERSON|Jordan Abernathy]]
+                                        State Bar No. [[ID_NUMBER|24066150]]
+                                        [[EMAIL|jabernathy@kimabernathy.com]]
+                                    ATTORNEYS FOR PLAINTIFF
+
+                                  CERTIFICATE OF SERVICE
+
+     I certify that on [[DATE|June 30, 2025]], a true and correct copy of the foregoing was served on all
+counsel of record via the electronic filing manager pursuant to Tex. R. Civ. P. 21a:
+     [[PERSON|Courtney Ashford]] ([[EMAIL|cashford@hbplaw.com]]) and [[PERSON|Peter Nwachukwu]] ([[EMAIL|pnwachukwu@hbplaw.com]]),
+     [[ORGANIZATION?|Holloway Brandt & Pierce LLP]], counsel for Defendants.
+                                        /s/ [[PERSON|Rachel Kim]]
+
+Plaintiff's Answers to First Interrogatories -- Cause No. [[CASE_NUMBER|D-1-GN-25-002918]]                     Page 5 of 5
+
+                                       VERIFICATION
+
+STATE OF TEXAS          §
+                        §
+COUNTY OF TRAVIS        §
+
+     BEFORE ME, the undersigned notary, on this day personally appeared [[PERSON|Maria Elena Delgado-Ruiz]],
+who, being by me first duly sworn, upon her oath deposed and said that she is the Plaintiff in the
+above-entitled and numbered cause; that she has read the above and foregoing Answers to
+Interrogatories; and that every factual statement contained therein is within her personal
+knowledge and is true and correct.
+
+                                        /s/ [[PERSON|Maria E. Delgado-Ruiz]]
+                                        _________________________________
+                                        [[PERSON|MARIA ELENA DELGADO-RUIZ]]
+
+     SUBSCRIBED AND SWORN TO BEFORE ME on the [[DATE|27th day of June, 2025]], to certify which witness my
+hand and official seal.
+
+                                        /s/ [[PERSON|Destiny Vu]]
+                                        _________________________________
+                                        Notary Public, State of Texas
+                                        Notary ID # [[ID_NUMBER|133481207]]   Commission exp. [[DATE|01/14/2027]]

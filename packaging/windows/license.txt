@@ -1,0 +1,10 @@
+Obscura Redaction Studio - licence and third-party components
+
+Obscura is provided for use by your organisation. It processes documents locally; you remain responsible for
+reviewing every redaction before release.
+
+Obscura includes open-source software and models under their own licences, including: Python (PSF), PyTorch (BSD),
+spaCy and en_core_web_trf (MIT), GLiNER (Apache-2.0) with NVIDIA gliner-PII (NVIDIA Open Model License),
+faster-whisper / CTranslate2 (MIT) with OpenAI Whisper weights (MIT), M2M100 (MIT), WeSpeaker (Apache-2.0),
+Ultralytics YOLO (AGPL-3.0), OpenCV (Apache-2.0), Tesseract OCR (Apache-2.0), PyMuPDF (AGPL-3.0),
+Microsoft Presidio (MIT) and FastAPI (MIT). Full licence texts are in the "licenses" folder of the installation.

@@ -1,0 +1,74 @@
+%%OCR-EXPORT  src=scan_0825_0113.pdf  pages=2  engine=tess4  avg_conf=0.78%%
+
+[[ORGANIZATION?|MlSSION TRAIL MEDlCAL CENTER]] -- EMERGENCY DEPT                 PHYSlCIAN DOCUMENTATI0N
+[[ADDRESS?|5150 Medica1 Dr]] , [[ADDRESS?|San Ant0nio TX 78229]]                     Ph [[PHONE|(2l0) 575-4OOO]]
+
+PT: [[PERSON|HI1L, GRACE E]]           MRN: [[MRN|MT2O447918]]      ACCT: [[MRN|88O1129943]]
+D0B: [[DATE_OF_BIRTH|O9/O9/l993]]  AGE: [[AGE|3l]]  SEX: F      ARR: [[DATE|O8/17/2O25]] Ol:4O   M0DE: private vehic1e
+lNS: [[ORGANIZATION?|AETNA]] CH0ICE P0S II  lD# [[HEALTH_PLAN_ID|W2l9 884 1O73]]  GRP [[HEALTH_PLAN_ID|O8l4472-OO3]]
+EMPL0YER: [[EMPLOYER|CVS PHARMACY]] -- [[INDIRECT_LOCATION|ST0RE lO432]]      PCP: none
+ACC0MPANIED BY: sister ([[PERSON|Hannah Hi11]]) -- chi1d with sister in waiting r0om
+PR0VIDER: [[PERSON|Ade0la 0gunbiyi]], MD        F0RENSIC NURSE: [[PERSON|Kimber1y 0strowski]], RN, SANE-A
+RM: [[INDIRECT_LOCATION?|ED-l9]]   ESl: 2 (strangu1ation pr0tocol)
+
+CC: "my b0yfriend ch0ked me"
+
+HPl: [[AGE|3l]] y0 F presents ~2.5 h after rep0rted manual strangu1ation by intimate partner at
+appr0x 23:00 at h0me. Pt states partner ([[PERSON|Dariusz K0walczyk]], "[[PERSON|Darek]]") placed b0th hands
+ar0und her neck f0r ~lO-l5 sec. Rep0rts vision "went dark at the edges," p0ssib1e brief
+L0C (unsure), + urinary inc0ntinence, + h0arse v0ice, + pain with swa11owing, n0 dyspnea
+at rest, n0 str1dor. A1so pushed into wa11, struck L e1bow 0n f1oor. Den1es head strike.
+P01ice rep0rt made (SAPD, 0fc. [[PERSON|Castaneda]]), partner in cust0dy. Prior strangu1ation
+[[DATE?|Mar 2O25]] (n0t rep0rted). LMP [[DATE|O8/O2/2O25]].
+
+PMH: [[MENTAL_HEALTH|p0stpartum depressi0n]] (2O22) 0n [[MEDICATION|escita1opram]] lO mg. N0 bleeding dis0rder.
+PSH: [[SEXUAL_REPRODUCTIVE_HEALTH|C-secti0n 2O22]].  ALL: NKDA.
+S0CIAL: [[SUBSTANCE_USE?|Rare Et0H]]; n0 t0bacc0; n0 drugs. Lives with partner + [[INDIRECT_ROLE|3 y0 daughter]].
+
+EXAM: T 98.2  HR lO4  BP l38/86  RR l8  Sp02 99% RA
+ Gen: tearfu1, h0arse, c0nversant in fu11 sentences
+ HEENT: [[MEDICAL_CONDITION?|L sc1era1 petechiae]]; pa1ate with sca ttered petechiae (s0ft pa1ate);
+        n0 intra0ral 1aceration; tongue n0 bite
+ Neck: [[MEDICAL_CONDITION?|erythemat0us 1inear marks bi1at anteri0r/1ateral neck (L 3 marks 2-4 cm,
+       R 2 marks 3 cm)]]; [[MEDICAL_CONDITION?|submandibu1ar erythema]]; tender 1arynx; n0 crepitus; n0 bruit;
+       n0 st ridor; ph0nation h0arse
+ Chest: CTAB    CV: tachy, reg    Abd: s0ft, NT
+ Ext: [[MEDICAL_CONDITION?|abrasi0n L 0lecranon 2 x l.5 cm]]
+ Neur0: A0x4, CN ll-Xll intact, n0 f0cal deficit, n0 H0rner's
+
+%%OCR page 2/2%%
+PT: [[PERSON|HI1L, GRACE E]]   MRN [[MRN|MT2O447918]]   D0B [[DATE_OF_BIRTH|O9/O9/l993]]                           pg 2 0f 2
+
+MDM: Strangu1ation with high-risk features (vision change, p0ss L0C, inc0ntinence, petechiae,
+v0ice change) -> per Training lnstitute 0n Strangu1ation Preventi0n guide1ines, 0btain CTA
+neck. Urine hCG f0r c0ntrast safety.
+
+RESULTS:
+ [[SEXUAL_REPRODUCTIVE_HEALTH?|Urine hCG: NEGATlVE]]
+ CTA neck (O2:55, read Dr. [[PERSON|R. Ka1ra]] -> see be1ow): n0 carotid 0r verteb ral dissecti0n,
+   n0 intima1 f1ap; mi1d s0ft tissue edema anteri0r t0 1arynx; hy0id and thyr0id carti1age intact.
+ CBC/BMP: wn1
+
+DX: l. [[MEDICAL_CONDITION?|N0n-fata1 strangu1ation]] (T7l.l6lA -- asphyxiati0n due t0 being
+       strangled, assau1t) / [[MEDICAL_CONDITION?|1aryngeal c0ntusion]] (Sl0.OXXA)
+    2. [[MEDICAL_CONDITION?|Abrasi0n L e1bow]] (S5O.3l2A)
+    3. Adu1t physica1 abuse, c0nfirmed (T74.ll XA); Y07.O3 (perpetrat0r: ma1e partner)
+
+PLAN/DlSP0:
+ - 0bserved 4 h, n0 stridor, t0lerating P0. D/C h0me with sister ([[LOCATION?|New Braunfe1s]]) -- pt
+   wi11 N0T return t0 apartment t0night.
+ - F0rensic exam + ph0tos (32 images) by SANE [[PERSON|0strowski]]; evidence kit [[LAW_ENFORCEMENT_ID|MTMC-FNE-25-O3l8]]
+   (fingernai1 scrapings x2, neck swabs f0r DNA x2) -- chain 0f cust0dy t0 SAPD 0fc [[PERSON|M. D0yle]] #[[LAW_ENFORCEMENT_ID|339O]]
+   at O6:lO.
+ - Return precauti0ns: difficu1ty breathing/swa11owing, v0ice 1oss, ne ck swe11ing, ne w
+   neur0 sx, seizure -- de1ayed st roke risk up t0 72 h+ discussed.
+ - DV res0urces: Fami1y Justice Center [[PHONE|(2l0) 63l-Ol00]]; hot1ine [[PHONE|l-8OO-799-7233]]. Lethality
+   screen p0sitive. Safety p1an done with SW [[PERSON|T. Okeke]], LMSW.
+ - C0ntinue [[MEDICATION|escita1opram]]; f/u with 0B/PCP; c0unseling referra1.
+
+ [[PERSON|Ade0la 0gunbiyi]], MD   NPl [[NPI|l4l3lOOl85]]   sgnd [[DATE|O8/l7/25]] O7:O2
+ CTA read by: [[PERSON|R. Ka1ra]], MD (te1eradio1ogy)
+
+[handwritten in margin, partia11y 1egible:] "pt asked that partner n0t be t0ld she came here --
+he tracks her ph0ne (Life36O)" -- [[PERSON?|K0]]
+[stamp:] REC0RD COPY -- RELEASED T0 BEXAR CO DA PER SUBP0ENA [[CASE_NUMBER|2O25CRO11847]]  [[DATE|SEP O3 2O25]]

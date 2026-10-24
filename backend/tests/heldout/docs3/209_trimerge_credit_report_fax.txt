@@ -1,0 +1,118 @@
+OCT-08-2026 14:22   FROM: [[ORGANIZATION?|KEYSTONE CREDIT RPTG]]   [[PHONE?|3125550164]]        TO: [[PHONE?|17735550120]]        P.001/004
+
+              K E Y S T 0 N E   C R E D I T   R E P 0 R T I N G   S E R V I C E S
+                  MERGED INFI1E CREDIT REP0RT  -  EQUIFAX / EXPERIAN / TRANS UNI0N
+
+REP0RT #  [[ID_NUMBER|KCR-26100804471]]    DATE  [[DATE?|10/08/2026]]    TIME 14:19    REPOSITORIES: EFX XPN TU
+REQUESTED BY: [[ORGANIZATION?|LAKESH0RE AUT0 CREDIT C0RP]]   SUB C0DE 9921-0447   L0AN # [[BANK_ACCOUNT|LAC-2026-118804]]
+OPERAT0R: [[PERSON?|D. MARQUARDT]]          PERMISSIBLE PURPOSE: CREDIT TRANSACTI0N (APPL. INITIATED)
+
+APPLICANT                                         C0-APPLICANT
+NAME:  [[PERSON|ESPIN0ZA-QUILES, RAFAEL]]                    NAME:  N0NE
+SSN:   [[SSN|584-l1-9036]]                                
+D0B:   [[DATE_OF_BIRTH|O3/O9/1979]]   AGE: [[AGE|47]]                       
+AKA:   [[PERSON|RAFAEL ESPINOZA]]; [[PERSON|RAFAE1 E QUILES]]; [[PERSON|R ESPINOSA]]
+
+ADDRESSES                                                       REP0RTED BY    DATES
+  CURR  [[ADDRESS|4471 W FULLERT0N AVE APT 2R, CHICAG0 IL 60639]]           EFX XPN TU     [[DATE?|04/2022]]-[[DATE?|10/2026]]
+  F0RM  [[ADDRESS|1902 N KEDZIE AVE #3, CHICAGO IL 60647]]                  EFX TU         [[DATE?|07/2016]]-[[DATE?|03/2022]]
+  F0RM  [[ADDRESS|CALLE LUNA 214, SAN JUAN PR 00901]]                       XPN            [[DATE?|01/2009]]-[[DATE?|06/2016]]
+  F0RM  [[ADDRESS|PO BOX 19880, CAROLINA PR 00984]]                         XPN (mail drop)
+
+EMPL0YMENT
+  [[EMPLOYER|MIDWAY AIRP0RT C0NCESSI0NS LLC]]   P0SITI0N: RAMP SUPERVIS0R   VERIFIED [[DATE?|09/2026]]   EFX XPN
+  [[EMPLOYER|TRANSIT A11IANCE STAFFING]]        P0SITI0N: BAGGAGE HANDLER   REP0RTED [[DATE?|2019]]       TU
+  [[EMPLOYER|AER0SERVICI0S DEL CARIBE]] ([[LOCATION?|SJU]])                                       REP0RTED [[DATE?|2014]]       XPN
+
+----------------------------------------------------------------------------------------------------
+SC0RES        M0DEL            SC0RE   FACT0RS
+  EQUIFAX     BEAC0N 5.0 (F5)   655    00038 SERI0US DELINQ / 00010 PR0P 0F BAL T0 LIMIT / 00014 LEN 0F HIST
+  EXPERIAN    FIC0 II (F2)      641    38 SERI0US DELINQ, DER0G REC0RD 0R C0LL / 10 PR0P BAL T0 HIGH CRED
+  TRANS UNI0N CLASSIC 04 (F4)   628    039 SERI0US DELINQ / 018 NUMBER 0F ACCTS DELINQ / 010 PR0P BAL
+  MID SC0RE: 641         Score reason codes are model output; not consumer identifiers.
+
+ALERTS / MESSAGES
+  * FRAUD ALERT (EFX, extended 7-yr, placed [[DATE?|05/02/2023]]): C0NSUMER REQUESTS CALL AT [[PHONE|773-555-0193]]
+    BEF0RE EXTENDING CREDIT. "I was a victim of identity theft in 2022 -- [[PERSON|Rafael]]"
+  * HAWK/FACS+: SSN ISSUED 1995-1996, STATE: PR.   INPUT ADDRESS MATCHES FILE.   OFAC: N0 MATCH.
+  * XPN: SSN VARIATI0N ON FILE [[SSN|584-11-9063]] (transposition, reported by 1 creditor)
+
+                                                                                    P.001/004
+--- Page 2 ---
+OCT-08-2026 14:22   FROM: [[ORGANIZATION?|KEYSTONE CREDIT RPTG]]                                      P.002/004
+REP0RT #  [[ID_NUMBER|KCR-26100804471]]     [[PERSON|ESPIN0ZA-QUILES, RAFAEL]]
+
+TRADELINES
+CREDIT0R / ACC0UNT #                ECOA  0PENED   REPTD    HIGH CRED  BALANCE  PAST DUE  ST  24-M0 PATTERN
+----------------------------------------------------------------------------------------------------
+[[ORGANIZATION?|CAP1TAL 0NE BANK USA]]                 I    [[DATE?|06/2017]]  [[DATE?|09/2026]]     3,500    2,914       0   R1  111111111111111111111111
+  ACCT  [[CREDIT_CARD|4147 54XX XXXX 4158]]                REV CREDIT CARD  EFX XPN TU
+[[ORGANIZATION?|DISC0VER FIN SVCS]]                    I    [[DATE?|02/2021]]  [[DATE?|09/2026]]     6,000    5,847      83   R2  2111111111X1111111111111
+  ACCT  6011XXXXXXXX[[CREDIT_CARD|4418]]                   REV CREDIT CARD  EFX XPN TU
+[[ORGANIZATION?|ALLY FINANCIAL]]                       J    [[DATE?|11/2022]]  [[DATE?|09/2026]]    28,410   14,902       0   I1  111111111111111111111111
+  ACCT  [[BANK_ACCOUNT|2174 4771 30]]XX  AUT0 L0AN 72 M0 $512        C0-B0RR0WER: [[PERSON|Y0LANDA M ESPIN0ZA]]   EFX XPN TU
+[[ORGANIZATION?|NAVIENT / DEPT 0F ED]]                 I    [[DATE?|08/2008]]  [[DATE?|09/2026]]    17,250    9,118       0   I1  111111111111111111111111
+  ACCT  [[BANK_ACCOUNT|90000l4471]]XXXX  STUDENT L0AN  DEFERRED T0 IBR        EFX XPN TU
+[[ORGANIZATION?|SYNCB/AMAZ0N]]                         I    [[DATE?|03/2019]]  [[DATE?|08/2026]]     2,000    1,975     140   R3  3221111X1111111111111111
+  ACCT  ****[[CREDIT_CARD|6604]]                           CHARGE ACCT  XPN TU
+[[ORGANIZATION?|CREDIT 0NE BANK]]                      I    [[DATE?|01/2018]]  [[DATE?|04/2021]]       750        0       0   R9  CHARGED 0FF / S0LD T0 LVNV
+  ACCT  51XXXXXXXXXX[[CREDIT_CARD|8839]]                   PURCHASED BY ANOTHER LENDER  EFX XPN TU
+[[ORGANIZATION?|FIRST MIDWEST B4NK]]                   A    [[DATE?|05/2015]]  [[DATE?|09/2026]]     8,000    3,206       0   R1  111111111111111111111111
+  ACCT  x-[[CREDIT_CARD|7712]]   AUTH0RIZED USER 0N ACCT 0F [[PERSON|Y0LANDA ESPIN0ZA]]        EFX TU
+[[ORGANIZATION?|BAN C0 P0PULAR DE PR]]                 I    [[DATE?|04/2010]]  [[DATE?|06/2016]]    95,000        0       0   I1  PAID/CL0SED - M0RTGAGE
+  ACCT  [[BANK_ACCOUNT|0441-8812 20]]   REAL ESTATE MTG  PR0PERTY: [[ADDRESS|CALLE LUNA 214 SJ]]        XPN
+[[ORGANIZATION?|C0MED]]                                I    [[DATE?|04/2022]]  [[DATE?|09/2026]]        --      118       0   O1  UTILITY  ACCT #[[ID_NUMBER|0446 2241 77]]  XPN
+[[ORGANIZATION?|T-M0BILE]]                             I    [[DATE?|10/2020]]  [[DATE?|09/2026]]        --       96       0   O1  CELL  ACCT [[ID_NUMBER|9 6604 1182]]  TU
+
+SUMMARY   REV: 5 / INSTALL: 3 / MTG: 1 (CL0SED) / OPEN: 2      T0TAL BAL $38,176   T0TAL PMT $1,416/M0
+          30/60/90+ LATES (24 M0): 4 / 1 / 0      UTILIZATI0N (REV) 70.2%      0LDEST TRADE 08/2008
+
+                                                                                    P.002/004
+--- Page 3 ---
+OCT-08-2026 14:23   FROM: [[ORGANIZATION?|KEYSTONE CREDIT RPTG]]                                      P.003/004
+REP0RT #  [[ID_NUMBER|KCR-26100804471]]     [[PERSON|ESPIN0ZA-QUILES, RAFAEL]]
+
+C0LLECTI0NS
+AGENCY / 0RIG CREDIT0R                    ACC0UNT #           ASSIGNED  BAL       STATUS
+[[ORGANIZATION?|LVNV FUNDING LLC]] / CREDIT 0NE BANK        [[BANK_ACCOUNT|5l0418839]]XX         [[DATE?|06/2021]]   1,284     UNPAID   EFX XPN TU
+[[ORGANIZATION?|MIDWEST MEDICAL REC0VERY]]                  [[BANK_ACCOUNT|7712 0446]]           [[DATE?|11/2023]]     612     PAID     XPN
+  0RIG: LAKEFR0NT EMERGENCY PHYS. (MEDICAL - amount under $500 threshold rule N/A)
+[[ORGANIZATION?|ENHANCED REC0VERY C0]] / SPRINT             [[BANK_ACCOUNT|E R C-0044 1772]]     [[DATE?|02/2020]]     387     DISPUTED BY CONSUMER  TU
+  C0NSUMER STATEMENT: "N0T MINE - SEE FTC REP0RT [[ID_NUMBER|IDT-2022-0517-88214]]"
+
+PUBLIC REC0RDS
+  TYPE: CHAPTER 13 BANKRUPTCY   C0URT: US BKCY CT N.D. ILL. (CHICAG0)   D0CKET [[CASE_NUMBER|19-B-22817]]
+  FILED [[DATE?|08/06/2019]]   DISCHARGED [[DATE?|09/12/2024]]   ASSETS $14,200   LIAB $41,880   ATTY: [[PERSON?|N. P. KAMINSKI]]
+  REP0RTED BY: EFX XPN TU   PURGE DATE: [[DATE?|08/2026]] (XPN retained per 7-yr from filing -- see dispute)
+
+INQUIRIES (LAST 120 DAYS)
+  DATE        CREDIT0R                              TYPE   BUREAU
+  [[DATE?|10/08/2026]]  [[ORGANIZATION?|LAKESH0RE AUT0 CREDIT]] (this report)   AUT0   EFX XPN TU
+  [[DATE?|08/14/2026]]  [[ORGANIZATION?|CARMAX AUT0 FINANCE]]                   AUT0   XPN
+  [[DATE?|08/14/2026]]  [[ORGANIZATION?|WESTLAKE FINANCIAL]] via DEALERTRACK    AUT0   EFX
+  [[DATE?|07/02/2026]]  [[ORGANIZATION?|CREDIT KARMA]] (S0FT - n0t sh0wn t0 lenders) S0FT   TU
+  [[DATE?|06/19/2026]]  [[ORGANIZATION?|0PP L0ANS]]                             INST   TU
+
+DEM0GRAPHIC / 0THER
+  PH0NE NUMBERS REP0RTED: [[PHONE|(773) 555-0193]] (cell, XPN); [[PHONE|(787) 555-0148]] (old PR landline, XPN)
+  EMAIL (XPN): [[EMAIL|rafa.espinoza79@yahoo.com]]
+  DRIVER'S LIC (applicant supplied): IL [[DRIVERS_LICENSE|E215-4407-9036]]
+
+                                                                                    P.003/004
+--- Page 4 ---
+OCT-08-2026 14:23   FROM: [[ORGANIZATION?|KEYSTONE CREDIT RPTG]]                                      P.004/004
+REP0RT #  [[ID_NUMBER|KCR-26100804471]]
+
+L0AN 0FFICER WORKSHEET (handwritten on fax, scanned):
+  "spoke w/ [[PERSON|Rafael]] 10/8 -- says Discover late was when he got moved to [[INDIRECT_ROLE|overnight
+   ramp lead on the Southwest gates]], pay cut 2 mos. Wife [[PERSON|Yolanda]] co-signs? She works at [[EMPLOYER|Cook
+   County Health]]. Trade-in 2016 Civic VIN [[VIN|19XFC2F5XGE204418]] -- payoff Ally ~$14.9k (wrong, that's
+   the Equinox, see acct ...[[BANK_ACCOUNT|30]]XX). Call back [[PHONE|773 555 0l93]] after 6pm only."
+
+FCRA N0TICE: This rep0rt is furnished under 15 U.S.C. 1681b. The information herein was obtained from the
+national credit rep0sitories named above. Keystone Credit Reporting Services d0es n0t make the credit
+decision and cann0t explain why a decision was made. C0nsumer may obtain a free copy within 60 days at
+www.annualcreditreport.com. Equifax [[PHONE?|1-800-555-0101]]  Experian [[PHONE?|1-888-555-0102]]  TransUnion [[PHONE?|1-800-555-0103]]
+
+CERTIFICATI0N: Merged per Fannie Mae/Freddie Mac standards. Duplicate tradelines suppressed: 3.
+END 0F REP0RT -- [[ID_NUMBER|KCR-26100804471]] -- 4 PAGES

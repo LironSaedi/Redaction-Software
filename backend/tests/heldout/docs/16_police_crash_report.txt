@@ -1,0 +1,146 @@
+TEXAS PEACE OFFICER'S CRASH REPORT (Form CR-3 1/1/2024)                       Crash ID: [[LAW_ENFORCEMENT_ID|20518847]]
+Mail to: Texas Department of Transportation, Crash Data and Analysis, [[ADDRESS?|P.O. Box 15999, Austin, TX 78761]]
+Local Use: [[ORGANIZATION?|APD]] Case [[LAW_ENFORCEMENT_ID|25-0731188]]                                                  Page 1 of 4
+=====================================================================================================
+IDENTIFICATION & LOCATION
+  Crash Date: [[DATE|03/14/2025]]   Crash Time: 1738   Day: FRI   Case ID: [[LAW_ENFORCEMENT_ID|25-0731188]]
+  Reporting Agency: Austin Police Department -- Highway Enforcement   ORI: TX2270100
+  County: [[LOCATION?|TRAVIS]]   City: [[LOCATION?|AUSTIN]]   In city limits: Y
+  Rdwy Sys: SH   Hwy #: 71   Rdwy Part: Main/Proper Lane   Block #: 100   Street Prefix: E
+  Street Name: [[INDIRECT_LOCATION?|BEN WHITE BLVD]]   Street Suffix: BLVD
+  Intersecting Rdwy: [[INDIRECT_LOCATION?|S CONGRESS AVE]]   Crash Occurred on a Private Drive or Rd: N
+  Latitude: [[GPS|30.216321]]   Longitude: [[GPS|-97.749614]]
+  Construction Zone: N   Speed Limit: 50   Wthr: CLEAR   Light: DAYLIGHT   Surf: DRY
+
+UNIT 1 -- Motor Vehicle (TRUCK-TRACTOR / SEMI-TRAILER)
+  Unit Desc: 1   Parked: N   Hit/Run: N
+  LP State: TX   LP #: [[LICENSE_PLATE|1PW4728]]   VIN: [[VIN|3AKJHHDR5LSKA4471]]
+  Veh Year/Make/Model/Color: [[VEHICLE_DESCRIPTION|2020 FREIGHTLINER CASCADIA, WHI]]   Body Style: TT
+  Trailer: [[VEHICLE_DESCRIPTION|2019 UTILITY 53' REEFER]]   Trailer LP: TX [[LICENSE_PLATE|4PK8813]]
+  Commercial Motor Vehicle: Y   GVWR 80,000   Carrier: [[EMPLOYER|SWIFTLINE FREIGHT LLC]]   USDOT # 3318852
+  Carrier Address: [[ADDRESS?|9900 Industrial Oaks Blvd, Buda TX 78610]]
+  Fin Resp Type: INSURANCE   Fin Resp Name: [[ORGANIZATION?|GRANITE MUTUAL INSURANCE CO]]   Policy #: [[POLICY_NUMBER|CAP-7702-0982-21]]
+  Fin Resp Phone: [[PHONE|800-447-1250]]
+  Vehicle Damage: FD-5, FC-5 (front)   Towed To: [[ORGANIZATION?|BIG TEX WRECKER]], [[ADDRESS?|7212 E BEN WHITE BLVD]]
+  Direction of Travel: W   Vehicle Movements/Maneuvers: STRAIGHT - FORWARD
+  Contributing Factors: 32 (DISREGARD STOP AND GO SIGNAL); 67 (DRIVER INATTENTION)
+  Possible: 74 (CELL/MOBILE DEVICE USE - OTHER)
+
+  DRIVER (Unit 1, Prsn 1)
+    Name (Last, First, Middle): [[PERSON|WELLS, HUNTER JAMES]]
+    Address: [[ADDRESS|3318 WAGON TRAIL RD]], [[ADDRESS|LOCKHART TX 78644]]   Phone: [[PHONE|512-398-0047]]
+    DL/ID Type: CDL   State: TX   DL/ID #: [[DRIVERS_LICENSE|28471936]]   Class: A   Endorsements: N,T
+    DOB: [[DATE_OF_BIRTH|11/02/1979]]   Age: [[AGE|45]]   Ethnicity: [[DEMOGRAPHIC|W]]   Sex: M
+    Seat Position: 1   Restraint: SHOULDER & LAP BELT   Airbag: NOT DEPLOYED   Injury Severity: N
+    Alcohol Result: N (PBT 0.000)   Drug Result: PENDING (DOT post-accident)
+    Ejected: N   Taken To: refused EMS (Medic 31)
+
+UNIT 2 -- Motor Vehicle (PASSENGER CAR, 4-DOOR)
+  LP State: TX   LP #: [[LICENSE_PLATE|MKD8862]]   VIN: [[VIN|1N4BL4BV4GC123847]]
+  Veh Year/Make/Model/Color: [[VEHICLE_DESCRIPTION|2016 NISSAN ALTIMA, SIL]]   Body Style: P4
+  Fin Resp Name: [[ORGANIZATION?|BLUEBONNET CASUALTY]]   Policy #: [[POLICY_NUMBER|BCX-55180247]]   Phone: [[PHONE|888-552-0910]]
+  Vehicle Damage: LD-7, LP-6 (left side, crush)   Towed To: [[ORGANIZATION?|BIG TEX WRECKER]]
+  Direction of Travel: N, turning W   Maneuvers: TURN LEFT
+  Contributing Factors: none
+
+CR-3   Crash ID [[LAW_ENFORCEMENT_ID|20518847]]   APD [[LAW_ENFORCEMENT_ID|25-0731188]]                                                Page 2 of 4
+=====================================================================================================
+  DRIVER (Unit 2, Prsn 1)
+    Name: [[PERSON|DELGADO-RUIZ, MARIA ELENA]]
+    Address: [[ADDRESS|2209 BLUEBONNET LN]], [[ADDRESS|AUSTIN TX 78704]]   Phone: [[PHONE|512-836-2290]]
+    DL/ID Type: DL   State: TX   DL/ID #: [[DRIVERS_LICENSE|31884207]]   Class: C
+    DOB: [[DATE_OF_BIRTH|04/17/1986]]   Age: [[AGE|38]]   Ethnicity: [[DEMOGRAPHIC|H]]   Sex: F
+    Seat Position: 1   Restraint: SHOULDER & LAP BELT   Airbag: DEPLOYED, FRONT & SIDE
+    Injury Severity: A (SUSPECTED SERIOUS INJURY)   Ejected: N   Extricated: Y
+    Taken To: [[ORGANIZATION?|CAPITOL RIDGE MED CTR]]   Taken By: ATCEMS MEDIC 14
+    Alcohol/Drug Specimen: NONE (not requested -- not at fault)
+
+  PERSON (Unit 2, Prsn 2) -- PASSENGER
+    Name: [[PERSON MINOR|RUIZ, MATEO A]]
+    Seat Position: 6 (2ND ROW, RIGHT)   Restraint: CHILD BOOSTER SEAT   Age: [[AGE|6]]   Sex: M   Eth: [[DEMOGRAPHIC|H]]
+    Injury Severity: B (SUSPECTED MINOR INJURY)   Taken To: [[ORGANIZATION?|LONE OAK CHILDREN'S MED CTR]]   By: ATCEMS M31
+
+CHARGES
+  Unit 1, Prsn 1 -- [[PERSON|WELLS, HUNTER JAMES]] -- DISREGARD TRAFFIC CONTROL DEVICE (RED LIGHT),
+    TRC 544.007(d) -- Citation # [[LAW_ENFORCEMENT_ID|AP2504118773]]
+
+DAMAGED PROPERTY OTHER THAN VEHICLES
+  Traffic signal cabinet NE corner (minor); median curb. Owner: City of Austin Transportation.
+
+WITNESSES
+  1. [[PERSON|CARTER, DESHAWN M]]   [[ADDRESS|1107 E OLTORF ST APT 233]], [[ADDRESS|AUSTIN TX 78704]]   [[PHONE|(737) 302-6614]]
+     Location at time: [[INDIRECT_LOCATION|SHELL STATION NE CORNER, PUMP 6]]; has dashcam video (provided via email)
+  2. [[PERSON|NGUYEN-BAKER, CHLOE]]   [[PHONE|512-731-0098]]   Driver, [[VEHICLE_DESCRIPTION|blue Subaru Outback]] stopped SB at light
+     (did not see impact, heard horn; states truck "never braked")
+
+INVESTIGATOR'S NARRATIVE OPINION OF WHAT HAPPENED
+  Unit 1 (tractor-semitrailer) was traveling westbound on E Ben White Blvd main lanes approaching
+  S Congress Ave. Unit 2 was northbound on S Congress Ave in the left turn lane, turning left
+  (west) onto Ben White Blvd on a protected green arrow. Unit 1 failed to stop for the steady red
+  signal for westbound traffic and struck Unit 2 on the left (driver) side in the intersection.
+  Unit 2 was pushed approx. 60 ft west and came to rest against the center median. Unit 1 came to
+  rest approx. 140 ft west of the area of impact.
+
+  Signal timing obtained from City of Austin (event log for signal #418): WB phase red for 6.8 s
+  at time of impact. W1 dashcam video (time-stamped 17:38:21) shows Unit 2 NB-to-WB arrow green and
+  Unit 1 entering the intersection after the WB signal displayed red. Unit 1's ECM/ELD data
+  requested from carrier (preservation letter sent [[DATE|03/17/2025]]). Unit 1 driver stated "the light was
+  yellow, I couldn't stop the load in time." Unit 1 driver stated he was talking to dispatch on a
+  hands-free headset; driver's phone was observed in a dash mount. Driver declined consent to
+  search phone.
+
+  Unit 2 driver was extricated by AFD and transported with serious injuries. Unit 2 child passenger
+  was transported with minor injuries and was in a properly installed booster seat.
+
+CR-3   Crash ID [[LAW_ENFORCEMENT_ID|20518847]]   APD [[LAW_ENFORCEMENT_ID|25-0731188]]                                                Page 3 of 4
+=====================================================================================================
+FIELD DIAGRAM (description of attached sketch -- not to scale)
+
+          N
+          ^          |  S CONGRESS  |
+                     |      |       |
+      ---------------+------+-------+----------------  E BEN WHITE BLVD (WB)  <-- Unit 1
+         [U2 final]  |  X (AOI)     |   <------ skid 0 ft (no pre-impact braking marks)
+      ===============#==============#================  median
+      ---------------+------+-------+----------------  E BEN WHITE BLVD (EB)
+                     |   ^  |       |    [Shell NE corner -- W1 location]
+                     |  U2  |       |
+                     | (NB LT lane) |
+
+  Measurements: AOI 18 ft W of E crosswalk line, 6 ft S of median nose. U2 final rest 61 ft W of
+  AOI. U1 final rest 142 ft W of AOI. Gouge marks 22-48 ft W of AOI. Photos: 64 (APD Evidence
+  [[LAW_ENFORCEMENT_ID|E-25-0731188-01]] through -64).
+
+FACTORS & CONDITIONS
+  Traffic Control: SIGNAL LIGHT   Roadway Alignment: STRAIGHT, LEVEL   Roadway Type: 4 OR MORE
+  LANES, DIVIDED   Intersection Related: INTERSECTION   Other Factors: 38 (DISREGARD SIGNAL)
+
+INVESTIGATOR
+  Name: Ofc. [[PERSON|R. OKAFOR]]   ID #: [[LAW_ENFORCEMENT_ID|8812]]   Service/Region/DA: APD HWY ENF
+  Report Date: [[DATE|03/16/2025]]   Supervisor: Cpl. [[PERSON|D. HENNESSY]] #[[LAW_ENFORCEMENT_ID|5207]]
+  Notified: 17:41  Arrived: 17:52  Cleared: 20:44   Case Status: CLOSED-CITED
+
+CR-3   Crash ID [[LAW_ENFORCEMENT_ID|20518847]]   APD [[LAW_ENFORCEMENT_ID|25-0731188]]                                                Page 4 of 4
+=====================================================================================================
+SUPPLEMENTAL NARRATIVE -- Ofc. [[PERSON|Rotimi Okafor]] #[[LAW_ENFORCEMENT_ID|8812]]
+
+  On [[DATE|03/14/2025]] at approx. 2005 hrs I responded to [[ORGANIZATION?|Capitol Ridge Medical Center]] to attempt
+  to obtain a statement from Unit 2 driver [[PERSON|Delgado-Ruiz]]. She was being treated in Trauma Bay 2.
+  She stated she had a green arrow and "the truck came out of nowhere." She stated her son was in
+  the back seat. Blood specimen was not requested (Unit 2 driver not suspected of intoxication).
+
+  On [[DATE|03/15/2025]] at 1015 hrs I received by email ([[EMAIL|deshawn.carter.atx@gmail.com]]) a 2-minute dashcam
+  clip from W1 [[PERSON|Carter]]. W1 stated by phone that he was at [[INDIRECT_LOCATION|pump 6 of the Shell station on the
+  northeast corner]] and that his [[DEVICE_ID?|Vantrue N4 dashcam (S/N VT4N2208841)]] records continuously. The
+  clip was uploaded to Evidence.com. W1 also stated the video "is already on TikTok" ([[USERNAME|@dcarter_atx]]);
+  W1 was asked not to repost.
+
+  On [[DATE|03/17/2025]] I contacted the carrier's safety director, [[PERSON|Gina Tolliver]] ([[PHONE|512-295-7700 x 114]],
+  [[EMAIL|gtolliver@swiftlinefreight.com]]), and requested preservation of ELD, ECM, inward/outward camera
+  (Lytx) video, and dispatch call logs. Ms. [[PERSON|Tolliver]] stated Unit 1 driver was on hour 10 of his
+  14-hour window and that the DOT post-accident drug test was collected at 2048 hrs at [[ORGANIZATION?|WorkWell
+  Occupational Health]].
+
+  Report supplemented [[DATE|03/18/2025]].  -- [[PERSON|R. Okafor]] #[[LAW_ENFORCEMENT_ID|8812]]
+
+  [Purchase copy: TxDOT CRIS -- requestor [[ORGANIZATION?|Kim & Abernathy PLLC]], order # CR3-77310482, [[DATE|03/24/2025]]]

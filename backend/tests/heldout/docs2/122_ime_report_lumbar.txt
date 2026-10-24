@@ -1,0 +1,99 @@
+[[ORGANIZATION?|CENTRAL MASSACHUSETTS MEDICAL EVALUATIONS, P.C.]]
+[[ADDRESS?|100 Front Street, Suite 1520]]  *  [[ADDRESS?|Worcester, MA 01608]]  *  Tel [[PHONE|(508) 791-4410]]  *  Fax [[PHONE|(508) 791-4419]]
+
+                         INDEPENDENT MEDICAL EXAMINATION
+                    (M.G.L. c. 152, s. 45 -- Insurer's Examination)
+
+Date of examination:  [[DATE|August 18, 2026]]                 Date of report: [[DATE|August 25, 2026]]
+Examinee:             [[PERSON|Kwame Asante Mensah]]                    DOB: [[DATE_OF_BIRTH|04/09/1980]]   Age: [[AGE|46]]
+Employer:             [[EMPLOYER|Blackstone Valley Beverage Distributors, Inc.]] (route delivery driver)
+Date of injury:       [[DATE|January 22, 2026]]
+DIA Board No.:        [[CASE_NUMBER|04418-26]]      Insurer claim no.: [[CLAIM_NUMBER|BAY-WC-26-118204]]
+Requested by:         [[PERSON|Colleen Fitzgerald-Arroyo]], Claims Specialist, [[ORGANIZATION?|Bay Colony Mutual]]
+Examinee's counsel:   [[PERSON|Hiroshi Banerjee-Walsh]], Esq. (copy)
+Examiner:             [[PERSON|Gregory P. Dunleavy]], MD, Board Certified Orthopaedic Surgery
+Interpreter:          None (examinee fluent in English; also speaks Twi)
+Chaperone:            [[PERSON|Mariel Santos]], MA
+
+The examinee was advised that no doctor-patient relationship exists and that this report will be
+provided to the requesting party. Identity confirmed with Massachusetts driver's license
+[[DRIVERS_LICENSE|S41187720]].
+
+HISTORY OF INJURY
+Mr. [[PERSON|Mensah]] reports that on [[DATE|1/22/26]] at approximately 10:30 a.m., while making a delivery to
+[[INDIRECT_LOCATION|the loading dock behind Ciccone's Package Store on Shrewsbury Street]], he was hand-trucking four half-
+barrel kegs (approx. 160 lb each, two at a time) down a snow-covered ramp. The hand truck slipped; he
+attempted to hold the load and felt a "pop" in his low back with immediate pain radiating into the left
+buttock and posterior thigh. He finished two more stops and reported the injury to his route supervisor,
+[[PERSON|Paul Ostrowski]], by phone. He was seen that evening at [[ORGANIZATION?|UMass Memorial]] Urgent Care.
+
+TREATMENT TO DATE
+  - [[DATE|01/22/26]] Urgent care: [[MEDICAL_CONDITION?|lumbar strain]]; [[MEDICATION?|cyclobenzaprine]], [[MEDICATION?|naproxen]]; off work 1 wk.
+  - [[DATE|02/05/26]] PCP Dr. [[PERSON|Abena Owusu-Kline]], [[ORGANIZATION?|Fallon Health]] -- persistent L leg pain; PT ordered.
+  - [[DATE|02/12/26]] - [[DATE|04/30/26]] Physical therapy, [[ORGANIZATION?|Excel Rehab Worcester]], 24 visits; minimal improvement.
+  - [[DATE|03/09/26]] MRI lumbar spine: [[MEDICAL_CONDITION|L4-5 left paracentral disc extrusion with caudal migration contacting
+    the traversing left L5 nerve root]]; mild L5-S1 facet arthropathy.
+  - [[DATE|04/16/26]] and [[DATE|06/04/26]] L4-5 transforaminal epidural steroid injections, Dr. [[PERSON|Ramesh Iyengar]]
+    ([[ORGANIZATION?|Reliant Pain Management]]), ~40% relief x 3 weeks each.
+  - [[DATE|07/14/26]] Spine surgery consult, Dr. [[PERSON|Elena Vasquez-Tran]]: candidate for L4-5 microdiscectomy;
+    examinee undecided.
+
+CURRENT COMPLAINTS
+Constant low back pain 6/10, left leg pain to the lateral calf and dorsum of the foot 5/10, numbness
+of the left great toe. Pain worse with sitting > 20 minutes and driving. Sleeps 4 hours. He has been
+unable to coach [[INDIRECT_ROLE|his son's U-12 team at Worcester Youth Soccer]] this season.
+
+PAST MEDICAL HISTORY
+[[MEDICAL_CONDITION?|Hypertension]]; [[MEDICAL_CONDITION?|sickle cell trait]]. Prior injuries: [[MEDICAL_CONDITION|low back strain after a motor vehicle
+collision in 2018]] (Auburn, MA), treated with 6 weeks of chiropractic care, full resolution per examinee;
+no lost time. Right ACL reconstruction 2004 (college soccer, [[SCHOOL|Worcester State]]). No prior WC claims.
+Medications: [[MEDICATION?|gabapentin]] 300 mg TID, [[MEDICATION?|meloxicam]] 15 mg daily, [[MEDICATION?|amlodipine]] 5 mg, [[MEDICATION|duloxetine]] 30 mg
+(started by PCP in June for [[MENTAL_HEALTH|depressed mood related to pain and loss of work]]). [[SUBSTANCE_USE?|Alcohol socially]]; no
+tobacco; denies other substances.
+
+SOCIAL HISTORY
+Married to [[PERSON|Abena]] (not the PCP), three children ages [[AGE|15]], [[AGE|11]], and [[AGE|7]]. Lives in a second-floor walk-up at
+[[ADDRESS|18 Gates Street]], [[ADDRESS?|Worcester, MA 01610]]. Employed 9 years by [[EMPLOYER|Blackstone Valley Beverage]]; [[FINANCIAL_INFO|average weekly
+wage $1,340 per the insurer's file]]. Currently receiving s. 34 benefits.
+
+PHYSICAL EXAMINATION
+Height [[PHYSICAL_DESCRIPTOR?|6'0"]]; weight [[PHYSICAL_DESCRIPTOR?|238 lb]]; BMI 32.3. BP 142/88. He arrived ambulating with a
+slightly antalgic gait favoring the left, without assistive device. He changed position frequently
+while seated during the 40-minute history. [[PHYSICAL_DESCRIPTOR|Well-healed 9 cm anterior incision over the right knee]];
+[[PHYSICAL_DESCRIPTOR|tribal scarification marks (three short parallel lines) at both cheeks]]; [[PHYSICAL_DESCRIPTOR|tattoo of an Adinkra
+"Gye Nyame" symbol on the left upper arm]].
+
+Lumbar spine: Normal lordosis. Paraspinal muscle spasm L > R at L4-S1. Tenderness to palpation over the
+left L4-5 and L5-S1 facets; no midline step-off. Flexion 40 degrees (fingertips to mid-shin), extension
+10 degrees with pain, lateral bending 20/25. Modified Schober's test: 3.5 cm excursion.
+Neurological: Straight leg raise positive on the left at 45 degrees reproducing radicular pain below the
+knee; crossed SLR negative. Lasègue's sign positive on the left; Bragard's sign positive. Slump test
+positive left. Femoral nerve stretch test negative. Motor 5/5 bilaterally except left EHL 4/5 and left
+ankle dorsiflexion 4+/5. Heel walking mildly impaired on left. Sensation diminished to light touch over
+the left L5 dermatome. Reflexes: patellar 2+ symmetric; Achilles 2+ right, 1+ left. Babinski sign
+absent bilaterally; no clonus. Hoffmann's sign negative. Romberg negative.
+Sacroiliac / hip: Patrick's (FABER) test negative bilaterally; Gaenslen's test negative; hip ROM full.
+Nonorganic signs: Waddell's signs 0/5 (no superficial or nonanatomic tenderness, no overreaction,
+negative simulation with axial loading and rotation, distraction SLR consistent).
+Oswestry Disability Index (completed in office): 48% (severe disability).
+
+DIAGNOSES
+  1. [[MEDICAL_CONDITION|L4-5 left paracentral disc extrusion with left L5 radiculopathy]] (M51.16), causally related.
+  2. [[MEDICAL_CONDITION?|Lumbar facet arthropathy L5-S1]], pre-existing, not causally related, not aggravated.
+  3. [[MENTAL_HEALTH|Adjustment disorder with depressed mood]], per records -- deferred to treating provider.
+
+OPINIONS
+1. Causation: Within a reasonable degree of medical certainty, the [[DATE|1/22/26]] work incident is a major but not
+   necessarily predominant cause of the L4-5 disc extrusion and radiculopathy. The 2018 strain resolved.
+2. Treatment to date has been reasonable and necessary. Microdiscectomy is reasonable if he elects it.
+3. Disability: Partial. Sedentary to light work, no lifting > 20 lb, no commercial driving, alternate
+   sitting/standing every 30 minutes. He cannot return to his pre-injury job as a route driver.
+4. MMI: Not reached. Anticipate MMI 3-4 months post-surgery or 3 months from today if non-operative.
+5. Permanent impairment: Premature; if MMI were assumed, Lumbar Spine DRE Category III (AMA Guides 5th ed.).
+
+I declare that the history above was obtained from the examinee and the records listed, and the
+opinions are my own.
+
+_____________________________
+[[PERSON|Gregory P. Dunleavy]], MD     MA License [[ID_NUMBER?|MD-218804]]      NPI [[ID_NUMBER?|1720448193]]
+cc: [[PERSON|C. Fitzgerald-Arroyo]] (Bay Colony Mutual); [[PERSON|H. Banerjee-Walsh]], Esq.; Department of Industrial Accidents

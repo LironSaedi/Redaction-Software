@@ -1,0 +1,177 @@
+                                  [[ORGANIZATION?|KIM & ABERNATHY PLLC]]
+                                    TRIAL LAWYERS
+                   [[ADDRESS?|600 Congress Avenue, Suite 1450]]  *  [[ADDRESS?|Austin, Texas 78701]]
+               Tel [[PHONE|512.480.3300]]  *  Fax [[PHONE|512.480.3399]]  *  www.kimabernathy.com
+
+[[PERSON|RACHEL KIM]]
+Board Certified -- Personal Injury Trial Law, Texas Board of Legal Specialization
+Direct: [[PHONE|512.480.3311]]  |  [[EMAIL|rkim@kimabernathy.com]]
+
+                                          [[DATE|September 2, 2025]]
+
+VIA EMAIL ([[EMAIL|kbrandt@granitemutual.com]]) AND CERTIFIED MAIL, RRR No. 9589 0710 5270 1184 4417 25
+Mr. [[PERSON|Kyle Brandt]], Senior Casualty Claims Specialist
+[[ORGANIZATION?|Granite Mutual Insurance Company]]
+[[ADDRESS?|P.O. Box 660112]]
+[[ADDRESS?|Dallas, Texas 75266-0112]]
+
+     Re:   STOWERS DEMAND -- TIME-LIMITED OFFER TO SETTLE WITHIN POLICY LIMITS
+           Your Insured:      [[ORGANIZATION?|Swiftline Freight LLC]] / [[PERSON|Hunter James Wells]]
+           Policy No.:        [[POLICY_NUMBER|CAP-7702-0982-21]]
+           Claim No.:         [[CLAIM_NUMBER|GM-25-0314-88172]]
+           Our Clients:       [[PERSON|Maria Elena Delgado-Ruiz]] (DOB [[DATE_OF_BIRTH|04/17/1986]]); and
+                              [[PERSON MINOR|M.A.R.]], a minor (DOB [[DATE_OF_BIRTH|10/08/2018]])
+           Date of Loss:      [[DATE|March 14, 2025]]
+           Lawsuit:           Cause No. [[CASE_NUMBER|D-1-GN-25-002918]]; 345th District Court, [[LOCATION?|Travis County]]
+
+     *** THIS OFFER EXPIRES AT 5:00 P.M. CENTRAL TIME ON [[DATE|THURSDAY, OCTOBER 2, 2025]] ***
+
+Dear Mr. [[PERSON|Brandt]]:
+
+     As you know, this firm represents [[PERSON|Maria Elena Delgado-Ruiz]], individually and as next friend
+of her son, [[PERSON MINOR|M.A.R.]], age [[AGE|6]], for injuries sustained when your insured's tractor-trailer ran a
+red light and struck Ms. [[PERSON|Delgado-Ruiz]]'s vehicle broadside. This letter is an offer to settle
+both claims within your insured's policy limits, made in accordance with G.A. Stowers Furniture
+Co. v. American Indemnity Co., 15 S.W.2d 544 (Tex. Comm'n App. 1929, holding approved), and its
+progeny, including American Physicians Insurance Exchange v. Garcia, 876 S.W.2d 842 (Tex. 1994),
+and In re Farmers Texas County Mutual Insurance Co., 621 S.W.3d 261 (Tex. 2021).
+
+I.  LIABILITY IS CLEAR
+
+     On [[DATE|March 14, 2025]], at 5:38 p.m., [[PERSON|Hunter Wells]], driving within the course and scope of his
+employment with [[EMPLOYER|Swiftline Freight LLC]], drove a fully-loaded [[VEHICLE_DESCRIPTION|2020 Freightliner Cascadia]] through
+a red light at [[INDIRECT_LOCATION|East Ben White Boulevard and South Congress Avenue]] and into the driver's door of
+Ms. [[PERSON|Delgado-Ruiz]]'s [[VEHICLE_DESCRIPTION|silver 2016 Nissan Altima]], which was turning on a protected green arrow. The
+evidence is undisputed:
+
+     -  APD Officer [[PERSON|Rotimi Okafor]] cited Mr. [[PERSON|Wells]] for disregarding a traffic signal (Citation
+        [[LAW_ENFORCEMENT_ID|AP2504118773]]); Mr. [[PERSON|Wells]] paid the citation on [[DATE|April 21, 2025]].
+     -  Independent witness [[PERSON|Deshawn Carter]]'s dashcam video shows the westbound signal red for
+        approximately 1.8 seconds before the tractor entered the intersection.
+     -  [[ORGANIZATION?|Swiftline]]'s own Lytx inward-facing camera shows Mr. [[PERSON|Wells]] looking down at his phone for
+        3.2 seconds immediately before impact (SWIFT 000901-000906).
+     -  Mr. [[PERSON|Wells]] testified he "might have glanced at the map" and that his eyes were "looking
+        down, probably the phone." ([[PERSON|Wells]] Dep. 63:19; 64:1-3.)
+     -  Your own claim file -- produced in the related coverage dispute -- reflects a liability
+        determination of 100% on your insured as of [[DATE|March 17, 2025]].
+
+     Exemplary damages are also in play. Mr. [[PERSON|Wells]] was in hour 14 of his duty window, [[ORGANIZATION?|Swiftline]]
+knew of his [[MEDICAL_CONDITION|obstructive sleep apnea]], and its phone-use policy was unenforced. See Tex. Civ.
+Prac. & Rem. Code § 41.003; Mobil Oil Corp. v. Ellender, 968 S.W.2d 917 (Tex. 1998).
+
+II.  MS. [[PERSON|DELGADO-RUIZ]]'S INJURIES
+
+     Ms. [[PERSON|Delgado-Ruiz]] was trapped in her car for 22 minutes while firefighters cut the door away.
+She was taken by ambulance to [[ORGANIZATION?|Capitol Ridge Medical Center]], where she was admitted to Trauma
+Surgery for four days. Her injuries include:
+
+     1.  [[MEDICAL_CONDITION|Comminuted intra-articular fracture of the left distal radius]], surgically repaired
+         ([[DATE|3/15/25]]) with a volar locking plate and 9 screws, with [[MEDICAL_CONDITION|ulnar styloid nonunion and TFCC tear]]
+         requiring a second surgery (arthroscopy, recommended by Dr. [[PERSON|Venkataraman]] and agreed to by
+         your own IME physician);
+     2.  [[MEDICAL_CONDITION|Post-traumatic carpal tunnel syndrome]] confirmed on EMG/NCS;
+     3.  [[MEDICAL_CONDITION|Grade II splenic laceration]] and [[MEDICAL_CONDITION|fractures of the left 7th and 8th ribs]];
+     4.  [[MEDICAL_CONDITION|Concussion with post-concussive headaches]];
+     5.  [[MEDICAL_CONDITION|C5-C6 disc protrusion with annular fissure and left C6 radiculopathy]] -- new compared
+         with her 2021 MRI (see radiology addendum of Dr. [[PERSON|Hyejin Cho]], [[DATE|3/21/25]]); Dr. [[PERSON|Whitfield]] opines
+         that an anterior cervical discectomy and fusion is more likely than not;
+     6.  [[MENTAL_HEALTH|Post-traumatic stress disorder]], diagnosed by [[PERSON|Claire Abernathy]], PMHNP, with nightmares,
+         driving avoidance and panic attacks, for which she now takes [[MEDICATION|prazosin]] and [[MEDICATION|trazodone]]; and
+     7.  Permanent [[PHYSICAL_DESCRIPTOR|scarring of the left cheek (1 inch) and left forearm (3 inches)]] and a
+         [[PHYSICAL_DESCRIPTOR|7 cm surgical scar on the volar wrist]].
+
+[[PERSON|Kyle Brandt]] -- Granite Mutual -- Claim [[CLAIM_NUMBER|GM-25-0314-88172]]
+[[DATE|September 2, 2025]] -- Page 2
+
+     Ms. [[PERSON|Delgado-Ruiz]] is a [[AGE|39]]-year-old mother of two and a registered dental hygienist who
+loved her job. She has not worked since the collision. Her employer of nine years, [[EMPLOYER|Southpark
+Family Dental]], held her position open through [[DATE|August 31]], but has now hired a replacement. Her
+hands are her livelihood: a hygienist holds a mirror in the non-dominant hand for six to eight
+hours a day. Ms. [[PERSON|Delgado-Ruiz]] cannot hold a mirror for more than ten minutes.
+
+     Your IME doctor, Dr. [[PERSON|Gerald Fenwick]], found her credible, found "no signs of symptom
+magnification," attributed her wrist injury 100% to the collision, agreed that further wrist
+surgery is reasonable, and assigned a provisional 10% whole-person impairment.
+
+III.  DAMAGES
+
+     A.  Past medical expenses (Tex. Civ. Prac. & Rem. Code § 18.001 affidavits served; no
+         controverting affidavits filed):
+
+         Provider                                               Billed           Paid/Incurred
+         -----------------------------------------------------  ---------------  ---------------
+         [[ORGANIZATION?|Austin-Travis County EMS]]                               [[MONEY?|$2,184.00]]        [[MONEY?|$1,212.40]]
+         [[ORGANIZATION?|Capitol Ridge Medical Center]]                           [[MONEY?|$118,906.42]]      [[MONEY?|$41,617.25]]
+         [[ORGANIZATION?|Capitol Ridge Emergency Physicians]]                     [[MONEY?|$4,860.00]]        [[MONEY?|$1,458.00]]
+         [[ORGANIZATION?|Capitol Ridge Imaging]]                                  [[MONEY?|$3,412.00]]        [[MONEY?|$1,024.00]]
+         [[ORGANIZATION?|Capitol Ridge Orthopedics]]                              [[MONEY?|$21,340.00]]       [[MONEY?|$7,469.00]]
+         Trauma Surgery Associates                              [[MONEY?|$6,215.00]]        [[MONEY?|$2,175.25]]
+         Dr. [[PERSON|M. Whitfield]] (Neurosurgery)                           [[MONEY?|$2,640.00]]        [[MONEY?|$924.00]]
+         Dr. [[PERSON|S. Bhattacharya]] (EMG/NCS)                             [[MONEY?|$2,640.00]]        [[MONEY?|$1,056.00]]
+         [[ORGANIZATION?|ProMotion Physical Therapy]] (31 visits)                 [[MONEY?|$13,640.00]]       [[MONEY?|$13,640.00]] (LOP)
+         [[ORGANIZATION?|Clearwater Counseling]]                                  [[MONEY?|$3,850.00]]        [[MONEY?|$3,850.00]] (LOP)
+         [[INDIRECT_LOCATION|Bluebonnet Pharmacy #212]]                               [[MONEY?|$112.29]]          [[MONEY?|$112.29]]
+                                                     TOTAL      [[MONEY?|$179,799.71]]      [[MONEY?|$74,538.19]]
+
+     B.  Future medical care: [[MONEY?|$626,233]] (Life Care Plan of [[PERSON|Linda Marquez-Ochoa]], RN, CLCP), reduced
+         to present value of [[MONEY?|$512,400]] by economist Dr. [[PERSON|Thaddeus Moyer]].
+     C.  Past lost wages: [[FINANCIAL_INFO|$31,284]] (through [[DATE|8/31/25]]; employer verification enclosed).
+     D.  Lost earning capacity: [[MONEY?|$418,000 - $702,000]] (present value; Dr. [[PERSON|Moyer]]).
+     E.  Physical pain, mental anguish, physical impairment, and disfigurement, past and future.
+     F.  Loss of household services: [[MONEY?|$180,128]] (LCP § 4.7).
+
+IV.  [[PERSON MINOR|M.A.R.]]'S CLAIM
+
+     [[PERSON MINOR|M.A.R.]], then [[AGE|six]], was restrained in a booster seat on the passenger side. He sustained a
+[[MEDICAL_CONDITION|forehead laceration (repaired with 5 sutures)]], a [[MEDICAL_CONDITION|seat-belt abrasion]], and was observed overnight at
+[[ORGANIZATION?|Lone Oak Children's Medical Center]]. He watched his mother pinned and screaming. Since the collision he
+has had [[MENTAL_HEALTH|nightmares, bedwetting, and separation anxiety]], and is in play therapy with Dr. [[PERSON|Ifeoma Chukwu]],
+PsyD (12 sessions to date). His [[INDIRECT_ROLE|first-grade teacher]] at [[SCHOOL|Galindo Elementary]] reports he
+startles at loud noises. His medical expenses are [[MONEY?|$7,941.30]].
+
+V.  THE OFFER
+
+     Plaintiffs offer to fully release [[ORGANIZATION?|Swiftline Freight LLC]] and [[PERSON|Hunter James Wells]] in exchange for
+payment of:
+     (a) [[MONEY?|$1,000,000.00]] -- the per-occurrence combined single limit available under Policy
+         [[POLICY_NUMBER|CAP-7702-0982-21]] -- for the claims of [[PERSON|Maria Elena Delgado-Ruiz]], individually; and
+     (b) [[MONEY?|$75,000.00]] for the claims of [[PERSON MINOR|M.A.R.]], subject to court approval in a friendly suit with
+         appointment of a guardian ad litem, with the minor's funds to be placed in the registry of
+         the Court or a structured annuity.
+
+[[PERSON|Kyle Brandt]] -- Granite Mutual -- Claim [[CLAIM_NUMBER|GM-25-0314-88172]]
+[[DATE|September 2, 2025]] -- Page 3
+
+     We understand the excess carrier, [[ORGANIZATION?|Ironclad Specialty]], has been placed on notice. To be clear,
+the offer at (a) is within your primary limit; acceptance does not require any contribution
+from the excess carrier. The terms of the offer are:
+
+     1.  Payment within 30 days of acceptance, by check payable to "[[ORGANIZATION?|Kim & Abernathy PLLC]] IOLTA
+         Trust Account" (W-9 enclosed);
+     2.  Release limited to your insureds; no confidentiality provision; no indemnity for liens
+         other than an agreement that Plaintiff will satisfy valid liens from the proceeds;
+     3.  Ms. [[PERSON|Delgado-Ruiz]] is not, and has never been, a Medicare beneficiary; she has not applied for
+         SSDI. Her health plan, [[ORGANIZATION?|BCBSTX]] (ERISA self-funded, member ID [[HEALTH_PLAN_ID|XOD884417203]]), has asserted
+         a lien of [[MONEY?|$71,402.88]], which Plaintiff will resolve;
+     4.  Acceptance must be in writing and received by this office by the deadline above. This
+         offer may not be accepted by conduct or by a counteroffer.
+
+     Enclosed on the accompanying USB drive (password provided separately by phone) are: medical
+records and bills (Bates KA-MED 000001-001412); the crash report; Mr. [[PERSON|Carter]]'s declaration and
+dashcam video; photographs; the Life Care Plan; the economist's report; the employer's wage
+verification; [[PERSON MINOR|M.A.R.]]'s records; and the transcript of Mr. [[PERSON|Wells]]'s deposition.
+
+     A jury in [[LOCATION?|Travis County]] will see a [[AGE|six]]-year-old describing the "big white truck," a mother
+who can no longer do her daughter's hair, and a professional driver who looked at his phone
+through a red light. This offer will not be repeated.
+
+                                          Very truly yours,
+
+                                          /s/ [[PERSON|Rachel Kim]]
+
+                                          [[PERSON|Rachel Kim]]
+
+Enclosures (USB, 1)
+cc:   [[PERSON|Courtney Ashford]], [[ORGANIZATION?|Holloway Brandt & Pierce LLP]] (via email, w/o enclosures)
+      [[ORGANIZATION?|Ironclad Specialty Insurance Co.]], Excess Claims, attn: [[PERSON|Morgan Pryce-Whitley]]
+      Client

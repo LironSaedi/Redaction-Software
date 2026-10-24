@@ -1,0 +1,2456 @@
+{
+ "recall": 0.7901572112098428,
+ "precision": 0.9855272226051,
+ "f1": 0.8770944059153521,
+ "per_type": {
+  "PHONE": {
+   "gold": 134,
+   "caught": 134
+  },
+  "PERSON": {
+   "gold": 752,
+   "caught": 486
+  },
+  "MRN": {
+   "gold": 36,
+   "caught": 36
+  },
+  "DATE_OF_BIRTH": {
+   "gold": 71,
+   "caught": 66
+  },
+  "INDIRECT_LOCATION": {
+   "gold": 60,
+   "caught": 55
+  },
+  "INDIRECT_ROLE": {
+   "gold": 12,
+   "caught": 10
+  },
+  "EMPLOYER": {
+   "gold": 48,
+   "caught": 25
+  },
+  "USERNAME": {
+   "gold": 23,
+   "caught": 21
+  },
+  "ADDRESS": {
+   "gold": 67,
+   "caught": 64
+  },
+  "SCHOOL": {
+   "gold": 11,
+   "caught": 11
+  },
+  "EMAIL": {
+   "gold": 40,
+   "caught": 40
+  },
+  "ID_NUMBER": {
+   "gold": 37,
+   "caught": 37
+  },
+  "HEALTH_PLAN_ID": {
+   "gold": 17,
+   "caught": 17
+  },
+  "PHYSICAL_DESCRIPTOR": {
+   "gold": 16,
+   "caught": 16
+  },
+  "PASSWORD": {
+   "gold": 10,
+   "caught": 10
+  },
+  "MEDICARE_ID": {
+   "gold": 1,
+   "caught": 1
+  },
+  "DRIVERS_LICENSE": {
+   "gold": 19,
+   "caught": 19
+  },
+  "GPS": {
+   "gold": 7,
+   "caught": 6
+  },
+  "SSN": {
+   "gold": 20,
+   "caught": 20
+  },
+  "CLAIM_NUMBER": {
+   "gold": 19,
+   "caught": 19
+  },
+  "CREDIT_CARD": {
+   "gold": 4,
+   "caught": 4
+  },
+  "CARD_EXPIRY": {
+   "gold": 2,
+   "caught": 2
+  },
+  "CVV": {
+   "gold": 2,
+   "caught": 2
+  },
+  "LICENSE_PLATE": {
+   "gold": 10,
+   "caught": 10
+  },
+  "VIN": {
+   "gold": 6,
+   "caught": 6
+  },
+  "DEVICE_ID": {
+   "gold": 5,
+   "caught": 5
+  },
+  "POLICY_NUMBER": {
+   "gold": 8,
+   "caught": 8
+  },
+  "IBAN": {
+   "gold": 1,
+   "caught": 1
+  },
+  "BANK_ACCOUNT": {
+   "gold": 16,
+   "caught": 16
+  },
+  "PASSPORT": {
+   "gold": 3,
+   "caught": 3
+  },
+  "NATIONAL_ID": {
+   "gold": 2,
+   "caught": 2
+  },
+  "ROUTING_NUMBER": {
+   "gold": 4,
+   "caught": 4
+  }
+ },
+ "misses": [
+  {
+   "doc": "01_discharge_summary_trauma",
+   "value": "Ronda Felts",
+   "coverage": 0.0,
+   "context": "      Physical Medicine & Rehab; Case Management (Ronda Felts, RN, CCM)\u23ce-------------------",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "01_discharge_summary_trauma",
+   "value": "Ronda Felts",
+   "coverage": 0.0,
+   "context": "rtraline.\u23ce   Social work consulted -- see note by Ronda Felts, RN, CCM.\u23ce\u23ce   03/18/2025 -- A",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "01_discharge_summary_trauma",
+   "value": "Elena Delgado",
+   "coverage": 0.0,
+   "context": "\u23ce   file: Arturo Ruiz (husband) 512-836-4471; alt Elena Delgado (mother)\u23ce   +1 (956) 318-2207",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "02_ed_physician_note",
+   "value": "Delgado-Ruiz, Maria Elena",
+   "coverage": 0.0,
+   "context": "=================================================\u23ceDelgado-Ruiz, Maria Elena          MRN: 00847721      E",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "02_ed_physician_note",
+   "value": "Courtney Blevins",
+   "coverage": 0.0,
+   "context": "ent: Joel Abernathy-Stokes, DO (PGY-2)\u23ceTriage RN: Courtney Blevins, RN        Acuity: ESI 2     ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "02_ed_physician_note",
+   "value": "Delgado-Ruiz, Maria Elena",
+   "coverage": 0.0,
+   "context": "k\u23ce  Psych: anxious affect, tearful, appropriate\u23ce\u23ce\fDelgado-Ruiz, Maria Elena   MRN 00847721   DOB 4/17/198",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "02_ed_physician_note",
+   "value": "Venkataraman",
+   "coverage": 0.0,
+   "context": "lush; no ICH; no c-spine fx.\u23ce  19:05  Ortho hand (Venkataraman) consulted. Hematoma block, c",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "02_ed_physician_note",
+   "value": "Delgado-Ruiz, Maria Elena",
+   "coverage": 0.0,
+   "context": " Trauma Surgery, step-down. Condition: guarded.\u23ce\u23ce\fDelgado-Ruiz, Maria Elena   MRN 00847721   DOB 4/17/198",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "02_ed_physician_note",
+   "value": "Arturo",
+   "coverage": 0.0,
+   "context": "PD case no. 25-0731188 noted for chart.\u23ce  Husband Arturo at bedside 20:15, cell 512 83",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "03_psychiatric_evaluation",
+   "value": "HADDAD, Ahmed K.",
+   "coverage": 0.86,
+   "context": "H HOSPITAL   Initial Psychiatric Evaluation   Pt: HADDAD, Ahmed K.   MR# TB-0331907\u23ceDOB 06/30/19",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "03_psychiatric_evaluation",
+   "value": "Leila",
+   "coverage": 0.0,
+   "context": "nnual salary approximately\u23ce  $118,000. Ex-fiancee Leila ended relationship 05/11/2025",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "03_psychiatric_evaluation",
+   "value": "HADDAD, Ahmed K.",
+   "coverage": 0.86,
+   "context": "H HOSPITAL   Initial Psychiatric Evaluation   Pt: HADDAD, Ahmed K.   MR# TB-0331907\u23ceDOB 06/30/19",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "03_psychiatric_evaluation",
+   "value": "Brittany Sato",
+   "coverage": 0.0,
+   "context": "r. Ochoa. Employer: patient authorizes HR contact Brittany Sato (214-555-0147\u23ce     x 2210, bs",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "04_sud_progress_note_part2",
+   "value": "Cody",
+   "coverage": 0.0,
+   "context": "sions, 09/20 and 09/21, after her ex-boyfriend\u23ce  \"Cody\" showed up at her mother's ho",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "04_sud_progress_note_part2",
+   "value": "Ashley Rinehart",
+   "coverage": 0.0,
+   "context": "a CPS safety plan; DFPS case 46281937; caseworker Ashley Rinehart.\u23ce  Next family visitation sch",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "04_sud_progress_note_part2",
+   "value": "Cody",
+   "coverage": 0.0,
+   "context": "tion worksheet: \"people, places, things\" -- block Cody's number and\u23ce     Facebook (c",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "04_sud_progress_note_part2",
+   "value": "Luis Ybarra",
+   "coverage": 0.0,
+   "context": "counselor.\u23ce  4. Refer to HCV treatment navigator (Luis Ybarra, CHW) -- client consents.\u23ce  5",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "04_sud_progress_note_part2",
+   "value": "R. Castellanos",
+   "coverage": 0.0,
+   "context": ": 10/02/2025  15:20\u23ce  Clinical supervisor review: R. Castellanos, LCSW-S, LCDC   10/03/2025\u23ce\u23ce ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "05_obgyn_visit",
+   "value": "Tran",
+   "coverage": 0.0,
+   "context": "ge: 31          Language: Vietnamese (interpreter Tran, ID V-2231, in person)\u23ceVisit ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "05_obgyn_visit",
+   "value": "B\u00f9i Quang Huy",
+   "coverage": 0.0,
+   "context": " Medicaid / CHIP Perinatal  ID 523118974\u23cePartner: B\u00f9i Quang Huy (present for visit), cell 832",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "05_obgyn_visit",
+   "value": "B\u1ea3o Ng\u1ecdc",
+   "coverage": 0.0,
+   "context": "cial: lives with partner and 5-year-old daughter, B\u1ea3o Ng\u1ecdc, in an apartment at\u23ce  8100 Co",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "05_obgyn_visit",
+   "value": "B\u00f9i",
+   "coverage": 0.0,
+   "context": "rier screening: Hgb electrophoresis + CBC for Mr. B\u00f9i ordered today; if\u23ce    partner",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "05_obgyn_visit",
+   "value": "Tran Minh Chau",
+   "coverage": 0.0,
+   "context": "namese\u23ce  and Vietnamese to English accurately. -- Tran Minh Chau, CHI   ID V-2231\u23ce\u23cecc: Patient",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "06_hiv_clinic_note",
+   "value": "Lupe Saucedo",
+   "coverage": 0.0,
+   "context": "r ........ Gabriela Ontiveros, MD (ID)        RN: Lupe Saucedo\u23ce\u23ceSUBJECTIVE\u23ce  38 y/o gay Lati",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "06_hiv_clinic_note",
+   "value": "Daniel Osei",
+   "coverage": 0.0,
+   "context": "amous relationship x 2 years with male partner,\u23ce  Daniel Osei (34), who is HIV-negative and",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "06_hiv_clinic_note",
+   "value": "Iv\u00e1n Prieto",
+   "coverage": 0.0,
+   "context": "n, moderate -- warm handoff to behavioral health (Iv\u00e1n Prieto, LCSW)\u23ce     completed today; ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "07_radiology_mri_cspine",
+   "value": "Thomas Ebersole",
+   "coverage": 0.0,
+   "context": "ft temporal scalp soft tissue\u23ceswelling.\u23ce\u23ceRead by: Thomas Ebersole, MD    NPI 2046934990    Sign",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "08_lab_report",
+   "value": "Ruth Anne Calloway",
+   "coverage": 0.0,
+   "context": "geline Pkwy, Austin, TX 78731       Lab Director: Ruth Anne Calloway, MD, PhD\u23ceClient Services 1-80",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "08_lab_report",
+   "value": "K. Ramaswamy",
+   "coverage": 0.0,
+   "context": "9, C25077-00244\u23ceReported by: D. Vu, MLS(ASCP)  /  K. Ramaswamy, MT     Verified 03/18/2025 0",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "value": "BANKS, ROSE MARIE",
+   "coverage": 0.67,
+   "context": "HEET -- 24 HOUR          Printed 05/22/2025 10:31\u23ceBANKS, ROSE MARIE   F   70Y   DOB 02/14/1955   ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "value": "Earl",
+   "coverage": 0.0,
+   "context": "ntion; pulling at NC; calling for\u23ce       husband \"Earl\" (pt widowed per daughter). M",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "value": "D. Kirkpatrick",
+   "coverage": 0.0,
+   "context": "m precautions; 1:1 sitter requested 20:15 (sitter D. Kirkpatrick\u23ce       arrived 21:00). No res",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "value": "BANKS, ROSE MARIE",
+   "coverage": 0.67,
+   "context": "AYS REGIONAL MEDICAL CENTER   NURSING FLOWSHEET   BANKS, ROSE MARIE   DOB 02/14/1955   MRN H00519",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "value": "BANKS, ROSE MARIE",
+   "coverage": 0.67,
+   "context": "AYS REGIONAL MEDICAL CENTER   NURSING FLOWSHEET   BANKS, ROSE MARIE   DOB 02/14/1955   MRN H00519",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "value": "Lorraine Banks-Whitaker",
+   "coverage": 0.0,
+   "context": "when she can go home \"to feed my dog.\" Daughter\u23ce  Lorraine Banks-Whitaker (MPOA, cell (512) 787-0316) c",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "value": "Amanda K. Mireles",
+   "coverage": 0.0,
+   "context": "mily communication preference. Update given.\u23ce  -- Amanda K. Mireles, RN\u23ce05/04/25 13:20 -- Case mg",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "value": "T. Galvan",
+   "coverage": 0.0,
+   "context": "manda K. Mireles, RN\u23ce05/04/25 13:20 -- Case mgmt (T. Galvan, RN) at bedside discussing SN",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "value": "A. Mireles",
+   "coverage": 0.0,
+   "context": " 38841920711. 3-day qualifying stay met 05/05. -- A. Mireles, RN\u23ce05/04/25 20:00 -- Pt conf",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "value": "J. Romero-Ortiz",
+   "coverage": 0.0,
+   "context": ", CBC, BMP, CXR ordered; low-grade temp 100.2. -- J. Romero-Ortiz, RN\u23ce05/04/25 22:15 -- Haloper",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "value": "J. Romero-Ortiz",
+   "coverage": 0.0,
+   "context": " bedside. Pt resting with eyes\u23ce  closed 22:45. -- J. Romero-Ortiz, RN\u23ce05/05/25 02:40 -- Bladder",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "value": "J. Romero-Ortiz",
+   "coverage": 0.0,
+   "context": "n-and-out cath 650 mL clear yellow.\u23ce  UA sent. -- J. Romero-Ortiz, RN\u23ce05/05/25 05:30 -- AM labs",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "value": "J. Romero-Ortiz",
+   "coverage": 0.0,
+   "context": " intermittently. Handoff to day RN via SBAR.\u23ce  -- J. Romero-Ortiz, RN\u23ce\u23ceSIGNATURE LEGEND\u23ceAKM = A",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "value": "Amanda K. Mireles",
+   "coverage": 0.0,
+   "context": "\u23ce  -- J. Romero-Ortiz, RN\u23ce\u23ceSIGNATURE LEGEND\u23ceAKM = Amanda K. Mireles, RN (07-19)     JRO = Jes\u00fas R",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "value": "Jes\u00fas Romero-Ortiz",
+   "coverage": 0.0,
+   "context": "END\u23ceAKM = Amanda K. Mireles, RN (07-19)     JRO = Jes\u00fas Romero-Ortiz, RN (19-07)\u23ceCharge RN: P. Nak",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "09_nursing_flowsheet",
+   "value": "P. Nakamura",
+   "coverage": 0.0,
+   "context": "  JRO = Jes\u00fas Romero-Ortiz, RN (19-07)\u23ceCharge RN: P. Nakamura, RN\u23ce\u23ceIncident report (pre-adm",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "DELGADO RUIZ, MARIA",
+   "coverage": 0.65,
+   "context": " 06/30/2025 16:02  RPh: D. Okafor-Lyons\u23ce\u23cePATIENT: DELGADO RUIZ, MARIA        DOB: 04-17-1986       ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "GARZA-YBARRA, L",
+   "coverage": 0.0,
+   "context": "G TAB                  68180-0352-09   30    30   GARZA-YBARRA, L               CAREMARK  $0.00",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "GARZA-YBARRA, L",
+   "coverage": 0.0,
+   "context": "CG TAB                 00378-1807-01   90    90   GARZA-YBARRA, L               CAREMARK  $4.00",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "GARZA-YBARRA, L",
+   "coverage": 0.0,
+   "context": "G TAB                  68180-0352-09   30    30   GARZA-YBARRA, L               CAREMARK  $0.00",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "GARZA-YBARRA, L",
+   "coverage": 0.0,
+   "context": "G TAB                  68180-0352-09   30    30   GARZA-YBARRA, L               CAREMARK  $0.00",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "GARZA-YBARRA, L",
+   "coverage": 0.0,
+   "context": "G TAB                  68180-0352-09   30    30   GARZA-YBARRA, L               CAREMARK  $0.00",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "GARZA-YBARRA, L",
+   "coverage": 0.0,
+   "context": "MG TAB                 0591-5522-01    30    15   GARZA-YBARRA, L               CAREMARK  $1.85",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "GARZA-YBARRA, L",
+   "coverage": 0.0,
+   "context": "CG TAB                 00378-1807-01   90    90   GARZA-YBARRA, L               CAREMARK  $4.00",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "GARZA-YBARRA, L",
+   "coverage": 0.0,
+   "context": "G TAB                  68180-0352-09   30    30   GARZA-YBARRA, L               CAREMARK  $0.00",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "GARZA-YBARRA, L",
+   "coverage": 0.0,
+   "context": "G TAB                  68180-0352-09   30    30   GARZA-YBARRA, L               CAREMARK  $0.00",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "GARZA-YBARRA, L",
+   "coverage": 0.0,
+   "context": "G TAB                  68180-0352-09   90    90   GARZA-YBARRA, L               CAREMARK  $0.00",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "PHAM, TUAN",
+   "coverage": 0.0,
+   "context": "G TAB (Z-PAK)          59762-3220-01   6     5    PHAM, TUAN PA-C               CAREMARK  ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "GARZA-YBARRA, L",
+   "coverage": 0.0,
+   "context": "CG TAB                 00378-1807-01   90    90   GARZA-YBARRA, L               CAREMARK  $4.00",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "GARZA-YBARRA, L",
+   "coverage": 0.0,
+   "context": "G TAB                  68180-0352-09   90    90   GARZA-YBARRA, L               CAREMARK  $0.00",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "GARZA-YBARRA, L",
+   "coverage": 0.0,
+   "context": "G TAB                  68180-0352-09   90    90   GARZA-YBARRA, L               CAREMARK  $0.00",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "GARZA-YBARRA, L",
+   "coverage": 0.0,
+   "context": "CG TAB                 00378-1807-01   90    90   GARZA-YBARRA, L               CAREMARK  $4.00",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "SZYMANSKI, DANIEL",
+   "coverage": 0.0,
+   "context": "5 MG TAB  C-II         0406-0512-01    20    5    SZYMANSKI, DANIEL             CAREMARK  $6.40\u23ce0",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "SZYMANSKI, DANIEL",
+   "coverage": 0.0,
+   "context": "MG TAB                 29300-0414-01   14    14   SZYMANSKI, DANIEL             CAREMARK  $2.25\u23ce0",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "SZYMANSKI, DANIEL",
+   "coverage": 0.0,
+   "context": "                       OTC             15    15   SZYMANSKI, DANIEL             CASH      $12.99\u23ce",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "VENKATARAMAN, ANIL",
+   "coverage": 0.0,
+   "context": "5 MG TAB  C-II         0406-0512-01    15    5    VENKATARAMAN, ANIL            CAREMARK  $5.10\u23ce04",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "WHITFIELD, MARCUS",
+   "coverage": 0.0,
+   "context": "CAP                    69097-0938-07   90    30   WHITFIELD, MARCUS             CAREMARK  $3.60\u23ce0",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "GARZA-YBARRA, L",
+   "coverage": 0.0,
+   "context": "G TAB                  68180-0352-09   90    90   GARZA-YBARRA, L               CAREMARK  $0.00",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "GARZA-YBARRA, L",
+   "coverage": 0.0,
+   "context": "                       16729-0172-01   30    30   GARZA-YBARRA, L               CAREMARK  $1.20",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "WHITFIELD, MARCUS",
+   "coverage": 0.0,
+   "context": "CAP                    69097-0938-07   90    30   WHITFIELD, MARCUS             CAREMARK  $3.60\u23ce0",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "WHITFIELD, MARCUS",
+   "coverage": 0.0,
+   "context": "B                      29300-0125-10   30    30   WHITFIELD, MARCUS             CAREMARK  $1.00\u23ce0",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "ABERNATHY, CLAIRE",
+   "coverage": 0.0,
+   "context": "                       0093-4067-01    30    30   ABERNATHY, CLAIRE PMHNP          CAREMARK  $2.7",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "WHITFIELD, MARCUS",
+   "coverage": 0.0,
+   "context": "CAP                    69097-0938-07   90    30   WHITFIELD, MARCUS             CAREMARK  $3.60\u23ce0",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "ABERNATHY, CLAIRE",
+   "coverage": 0.0,
+   "context": "                       0093-4068-01    30    30   ABERNATHY, CLAIRE PMHNP          CAREMARK  $2.7",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "DELGADO RUIZ, MARIA",
+   "coverage": 0.65,
+   "context": ".75\u23ce\u23ce\fBLUEBONNET PHARMACY #212 -- FILL HISTORY -- DELGADO RUIZ, MARIA -- DOB 04-17-1986 -- Page 2 o",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "GARZA-YBARRA, LETICIA",
+   "coverage": 0.0,
+   "context": "04-17-1986 -- Page 2 of 2\u23ce\u23cePRESCRIBER DIRECTORY\u23ce  GARZA-YBARRA, LETICIA MD        NPI 1541348961   DE",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "PHAM, TUAN",
+   "coverage": 0.0,
+   "context": "  NPI 1541348961   DEA BG4729159   512-467-2200\u23ce  PHAM, TUAN PA-C                  NPI 283",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "SZYMANSKI, DANIEL",
+   "coverage": 0.0,
+   "context": "-          512-462-9900 (MinuteMed Urgent Care)\u23ce  SZYMANSKI, DANIEL MD             NPI 1839067919",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "VENKATARAMAN, ANIL",
+   "coverage": 0.0,
+   "context": "  NPI 1839067919   DEA MS3396997   512-434-7700\u23ce  VENKATARAMAN, ANIL MD            NPI 1814789693 ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "WHITFIELD, MARCUS",
+   "coverage": 0.0,
+   "context": "  NPI 1814789693   DEA AV3188605   512-434-7850\u23ce  WHITFIELD, MARCUS MD             NPI 2545610364",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "ABERNATHY, CLAIRE",
+   "coverage": 0.0,
+   "context": "  NPI 2545610364   DEA FW6204933   512-434-7902\u23ce  ABERNATHY, CLAIRE PMHNP-BC       NPI 1261049021",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "ARTURO RUIZ",
+   "coverage": 0.4,
+   "context": " & counseling)\u23ce  03/18/2025 18:44   Picked up by: ARTURO RUIZ (spouse)   ID: TX DL ****8826",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "ARTURO RUIZ",
+   "coverage": 0.4,
+   "context": "   Sig on file\u23ce  03/27/2025 13:02   Picked up by: ARTURO RUIZ (spouse)   ID: TX DL ****8826",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "value": "Tyler Reese",
+   "coverage": 0.0,
+   "context": "LF      Employer: SOUTHPARK FAMILY DENTAL\u23ce\u23ceCREW\u23ce  Tyler Reese, Paramedic (Lead)         TX ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "value": "Ana Luc\u00eda Moreno",
+   "coverage": 0.0,
+   "context": "ese, Paramedic (Lead)         TX Cert # 1184407\u23ce  Ana Luc\u00eda Moreno, EMT-A (Driver)       TX Cert",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "value": "Reese",
+   "coverage": 0.0,
+   "context": " c-spine stabilization; c-collar (adj) applied -- Reese\u23ce  17:58  Rapid extrication as",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "value": "Reese",
+   "coverage": 0.0,
+   "context": "g L AC... unsuccessful (swelling); IV 18g R AC -- Reese -- success\u23ce  18:02  Fentanyl ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "value": "Reese",
+   "coverage": 0.0,
+   "context": " Reese -- success\u23ce  18:02  Fentanyl 100 mcg IV -- Reese\u23ce  18:04  L wrist splinted in ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "value": "Moreno",
+   "coverage": 0.0,
+   "context": " wrist splinted in position found (SAM splint) -- Moreno\u23ce  18:05  O2 2 L NC\u23ce  18:09  N",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "value": "Mateo",
+   "coverage": 0.0,
+   "context": "he red, I had the green\u23ce  arrow.\" Pt's 6 y/o son (Mateo) was in a rear booster seat b",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "value": "C. Blevins",
+   "coverage": 0.0,
+   "context": "improved after fentanyl. Care and report given to C. Blevins RN\u23ce  and Dr. Nair in Trauma B",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "value": "Courtney Blevins",
+   "coverage": 0.0,
+   "context": " hospital 18:40)  M. Delgado-Ruiz\u23ce  Receiving RN: Courtney Blevins RN   03/14/2025 18:24\u23ce  Crew:",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "value": "T. Reese",
+   "coverage": 0.0,
+   "context": "N: Courtney Blevins RN   03/14/2025 18:24\u23ce  Crew: T. Reese, NRP / A. L. Moreno, EMT\u23ce\u23ceBil",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "value": "A. L. Moreno",
+   "coverage": 0.0,
+   "context": "ins RN   03/14/2025 18:24\u23ce  Crew: T. Reese, NRP / A. L. Moreno, EMT\u23ce\u23ceBilling: ALS1-Emergency",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "value": "L. Okonjo",
+   "coverage": 0.0,
+   "context": "25 21:37 by treese1184.\u23ceQA reviewed 03/17/2025 -- L. Okonjo, Clinical Specialist.\u23ce\u23ceCopy r",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "12_independent_medical_exam",
+   "value": "Destiny Vu",
+   "coverage": 0.0,
+   "context": "nd by a nurse observer from her counsel's office, Destiny Vu, LVN. The\u23ceexamination was aud",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "12_independent_medical_exam",
+   "value": "C. Abernathy",
+   "coverage": 0.0,
+   "context": "earwater Counseling intake and treatment summary (C. Abernathy, PMHNP), 5/20/25\u23ce   12. Pharm",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "13_life_care_plan_excerpt",
+   "value": "Maria Elena Delgado-Ruiz",
+   "coverage": 0.77,
+   "context": " LIFE CARE PLAN\u23ce                    Prepared for: Maria Elena Delgado-Ruiz\u23ce            Prepared at the r",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "13_life_care_plan_excerpt",
+   "value": "Rachel Kim",
+   "coverage": 0.0,
+   "context": "gado-Ruiz\u23ce            Prepared at the request of: Rachel Kim, Esq., Kim & Abernathy PLLC\u23ce ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "13_life_care_plan_excerpt",
+   "value": "Maria Elena Delgado-Ruiz",
+   "coverage": 0.77,
+   "context": "==================\u23ceName ......................... Maria Elena Delgado-Ruiz\u23ceDate of birth ...............",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "13_life_care_plan_excerpt",
+   "value": "Arturo",
+   "coverage": 0.0,
+   "context": ", no rail)\u23ceHousehold .................... Spouse (Arturo, 41, HVAC technician with Coo",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "13_life_care_plan_excerpt",
+   "value": "Sofia",
+   "coverage": 0.0,
+   "context": "hanical);\u23ce                               daughter Sofia (9); son Mateo (6)\u23ceEducation ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "13_life_care_plan_excerpt",
+   "value": "C. Abernathy",
+   "coverage": 0.0,
+   "context": "d (neurosurgery); Dr. S. Bhattacharya (PM&R/EMG); C. Abernathy, PMHNP;\u23ceProMotion PT; telepho",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "13_life_care_plan_excerpt",
+   "value": "M. E. Delgado-Ruiz",
+   "coverage": 0.88,
+   "context": " generalized anxiety disorder\u23ce\u23ce\fLIFE CARE PLAN -- M. E. Delgado-Ruiz -- DOB 04/17/1986            ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "13_life_care_plan_excerpt",
+   "value": "M. E. Delgado-Ruiz",
+   "coverage": 0.88,
+   "context": "                        95910\u23ce\u23ce\fLIFE CARE PLAN -- M. E. Delgado-Ruiz -- DOB 04/17/1986            ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "13_life_care_plan_excerpt",
+   "value": "Ray Dominguez",
+   "coverage": 0.0,
+   "context": "===========\u23ceSECTION 7 -- VOCATIONAL SUMMARY (from Ray Dominguez, MS, CRC -- separate report)\u23ce",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "13_life_care_plan_excerpt",
+   "value": "Sofia",
+   "coverage": 0.0,
+   "context": "ients a day. Now I can't hold the\u23cemirror for one. Sofia does her own hair now and she",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "14_chiropractic_notes",
+   "value": "Kristen Ashby-Lyle",
+   "coverage": 0.0,
+   "context": "3 -- fax (512) 458-2279\u23ceBrandon T. Lyle, D.C.  |  Kristen Ashby-Lyle, D.C.\u23ce\u23ceDAILY TREATMENT NOTES ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "14_chiropractic_notes",
+   "value": "K. Ashby-Lyle",
+   "coverage": 0.0,
+   "context": "- 98941, 97140, 97110 x1                          K. Ashby-Lyle, DC\u23ceS: Neck 6/10, LBP 5/10, H",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "14_chiropractic_notes",
+   "value": "HYUN W PARK",
+   "coverage": 0.44,
+   "context": " 382\u23ce             billing ZIP 78751 -- cardholder HYUN W PARK\u23ce  DL: TX 40921187\u23ce\u23ceI certify ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "DAREK",
+   "coverage": 0.0,
+   "context": " ARRESTED\u23ce  Name: KOWALCZYK, DARIUSZ PIOTR   AKA \"DAREK\"     DOB: 12/01/1988   Age: 3",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "DOYLE, MEGAN",
+   "coverage": 0.45,
+   "context": "NG OFFICER: CASTANEDA, JAVIER #4127    ASSISTING: DOYLE, MEGAN #3390\u23ceSUPERVISOR: Sgt. WHITLO",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "WHITLOW, TREMAINE",
+   "coverage": 0.44,
+   "context": "   ASSISTING: DOYLE, MEGAN #3390\u23ceSUPERVISOR: Sgt. WHITLOW, TREMAINE #2218     FOLLOW-UP: FAMILY V",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "K. Ostrowski",
+   "coverage": 0.0,
+   "context": "bilateral neck, under jaw. Forensic nurse exam\u23ceby K. Ostrowski, RN, SANE-A, records requeste",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "Omar Lucero",
+   "coverage": 0.0,
+   "context": " Bexar County DA -- Family Violence Division, ADA Omar Lucero; accepted for\u23cefelony prosecut",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "16_police_crash_report",
+   "value": "CARTER, DESHAWN M",
+   "coverage": 0.0,
+   "context": "r: City of Austin Transportation.\u23ce\u23ceWITNESSES\u23ce  1. CARTER, DESHAWN M   1107 E OLTORF ST APT 233, A",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "16_police_crash_report",
+   "value": "NGUYEN-BAKER, CHLOE",
+   "coverage": 0.0,
+   "context": "MP 6; has dashcam video (provided via email)\u23ce  2. NGUYEN-BAKER, CHLOE   512-731-0098   Driver, blue",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "16_police_crash_report",
+   "value": "Carter",
+   "coverage": 0.0,
+   "context": ".atx@gmail.com) a 2-minute dashcam\u23ce  clip from W1 Carter. W1 stated by phone that he w",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "R0salind Thi Pham",
+   "coverage": 0.0,
+   "context": ": Apt l2C, Pinecrest Apts (breezeway)\u23ce\u23ceMy name is R0salind Thi Pham                    I am 64 ye",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "R0salind Pham",
+   "coverage": 0.0,
+   "context": "pl0yer: retired -- f0rmerly USAA c1aims dept.\u23ce\u23ceI, R0salind Pham, having been first du1y sw0rn",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "Grace",
+   "coverage": 0.0,
+   "context": "depose and state:\u23ce\u23ceI live in apt 12C next d00r t0 Grace and her b0yfriend Darek. I d0",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "K0wa1-chick",
+   "coverage": 0.0,
+   "context": "nt kn0w his last name it\u23ceis P0lish s0mething like K0wa1-chick. They have a 1itt1e gir1 Li1y",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "Li1y",
+   "coverage": 0.0,
+   "context": "mething like K0wa1-chick. They have a 1itt1e gir1 Li1y wh0 is 3. T0night ar0und\u23ce1050",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "Darek",
+   "coverage": 0.0,
+   "context": " It is a thin\u23cewa11 our bedr00ms share it. I heard Darek ye11ing ab0ut her ph0ne and \"",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "Grace",
+   "coverage": 0.0,
+   "context": " the wa11 very hard, 1ike a b0dy n0t a fist. Then Grace was screaming\u23ce\"st0p st0p I ca",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "Grace",
+   "coverage": 0.0,
+   "context": "n he c0mes h0me 1ate. In the spring (maybe Apri1) Grace came t0 my d00r\u23ceat night cryi",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "Li1y",
+   "coverage": 0.0,
+   "context": "n when he\u23cedrinks and she was afraid he w0u1d take Li1y t0 P0land. She asked me n0t t",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "Li1y",
+   "coverage": 0.0,
+   "context": "the c0de f0r her d00r\u23ce1ock (4471) because I watch Li1y s0metimes when she w0rks 1ate",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "Darek",
+   "coverage": 0.0,
+   "context": " she w0rks 1ate at the CVS.\u23ce\u23ceWhen the p01ice came Darek 0pened the d00r and t01d the ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "Grace",
+   "coverage": 0.0,
+   "context": "01d the 0fficer every thing was fine. I c0uld\u23cesee Grace 0n the f100r in the kitchen h",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "Grace",
+   "coverage": 0.0,
+   "context": "y\" in the parking\u23ce1ot when I said g00d m0rning t0 Grace.\u23ce\u23ce\f[OCR page 2 of 2]\u23ce\u23ceCase N0",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "R. Pham",
+   "coverage": 0.0,
+   "context": "2 of 2]\u23ce\u23ceCase N0. SAPD-25-l87734    Statement 0f: R. Pham    Page 2 0f 2\u23ce\u23ceI have read t",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "R0sa1ind T. Pham",
+   "coverage": 0.0,
+   "context": "\u00a7 37.08.\u23ce\u23ceSignature 0f pers0n giving statement:   R0sa1ind T. Pham      Date: 8/l6/25\u23ce\u23ceWitness: ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "D. Garza",
+   "coverage": 0.0,
+   "context": "2025 23:09:41        Position: 14     Call-taker: D. Garza, ID TC-2271\u23ce  Class of servic",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "Grace",
+   "coverage": 0.0,
+   "context": "y cell.\u23ce00:45  CT:  Who lives in 12B?\u23ce00:47  C:   Grace -- Grace Hill -- and her boyf",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "Grace Hill",
+   "coverage": 0.0,
+   "context": "0:45  CT:  Who lives in 12B?\u23ce00:47  C:   Grace -- Grace Hill -- and her boyfriend, Darek. ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "Kowalczyk",
+   "coverage": 0.0,
+   "context": "s last name?\u23ce00:55  C:   Kowal-something. Polish. Kowalczyk? He's a big guy, blond, with ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "Grace",
+   "coverage": 0.0,
+   "context": "re any weapons in the apartment?\u23ce01:05  C:   I -- Grace told me one time he has a gun",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "Lily",
+   "coverage": 0.0,
+   "context": "ld in danger right now?\u23ce01:54  C:   I don't know. Lily's in the back bedroom I think",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "Grace",
+   "coverage": 0.0,
+   "context": "at's where the crying is.\u23ce02:00  CT:  Ma'am, does Grace have any medical problems tha",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "Grace",
+   "coverage": 0.0,
+   "context": "hey put him in handcuffs. Oh thank God. I can see Grace, she's on the\u23ce            flo",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "value": "DARIUS KOWALCZYK",
+   "coverage": 0.6,
+   "context": "K, DARIUSZ PIOTR\u23ceAKA/ALIASES:    DAREK KOWALCZYK; DARIUS KOWALCZYK; D. KOWALCZYK-NOWAK\u23ceDOB:     ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "value": "D. KOWALCZYK-NOWAK",
+   "coverage": 0.65,
+   "context": "KA/ALIASES:    DAREK KOWALCZYK; DARIUS KOWALCZYK; D. KOWALCZYK-NOWAK\u23ceDOB:            12-01-1988   ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "value": "KOWALCZYK, MAREK",
+   "coverage": 0.6,
+   "context": "L:        SINGLE    DEPENDENTS: 1\u23ceEMERG CONTACT:  KOWALCZYK, MAREK (BROTHER) -- +48 512 774 093 ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "value": "NOWAK, ELZBIETA",
+   "coverage": 0.57,
+   "context": "  KOWALCZYK, MAREK (BROTHER) -- +48 512 774 093 / NOWAK, ELZBIETA (MOTHER)\u23ce\u23ceARREST INFORMATION\u23ce",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "value": "DOYLE, M",
+   "coverage": 0.0,
+   "context": "ing Officer: CASTANEDA, J #4127     Transporting: DOYLE, M #3390\u23ce  Arrest Date/Time: 08/",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "value": "J. Whitfield-Ross",
+   "coverage": 0.0,
+   "context": "ecks pending MH eval.\u23ce  MH eval 08/17/2025 10:30 (J. Whitfield-Ross, LPC): adjustment disorder w/",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "value": "NOWAK ELZBIETA",
+   "coverage": 0.62,
+   "context": "  9  Wire transfer receipt (mBank) to beneficiary NOWAK ELZBIETA, IBAN PL82 1140 2004 0000 330",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "value": "KOWALCZYK, MAREK",
+   "coverage": 0.6,
+   "context": "om: none.  Gang: none known.\u23ce  Approved visitors: KOWALCZYK, MAREK; NOWAK, ELZBIETA; LISOWSKI, T",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "value": "NOWAK, ELZBIETA",
+   "coverage": 0.57,
+   "context": "one known.\u23ce  Approved visitors: KOWALCZYK, MAREK; NOWAK, ELZBIETA; LISOWSKI, TOMASZ (attorney, ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "value": "LISOWSKI, TOMASZ",
+   "coverage": 0.0,
+   "context": "oved visitors: KOWALCZYK, MAREK; NOWAK, ELZBIETA; LISOWSKI, TOMASZ (attorney, Bar # 24091186)\u23ce  ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "20_probable_cause_affidavit",
+   "value": "DARIUSZ PIOTR KOWALCZYK",
+   "coverage": 0.0,
+   "context": "  OF\u23ce                                           \u00a7\u23ceDARIUSZ PIOTR KOWALCZYK                    \u00a7         ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "20_probable_cause_affidavit",
+   "value": "DARIUSZ PIOTR KOWALCZYK",
+   "coverage": 0.0,
+   "context": " day of August, 2025,\u23ce    in Bexar County, Texas, DARIUSZ PIOTR KOWALCZYK, hereinafter called \"Defendan",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "20_probable_cause_affidavit",
+   "value": "GRACE ELIZABETH HILL",
+   "coverage": 0.0,
+   "context": ", knowingly, or recklessly cause bodily injury to GRACE ELIZABETH HILL,\u23ce    a member of the Defendan",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "20_probable_cause_affidavit",
+   "value": "GRACE ELIZABETH HILL",
+   "coverage": 0.0,
+   "context": "rmal breathing or circulation of the\u23ce    blood of GRACE ELIZABETH HILL by applying pressure to her t",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "20_probable_cause_affidavit",
+   "value": "Rosalind Pham",
+   "coverage": 0.0,
+   "context": "ar Metro 911 Network received a call from\u23ce        Rosalind Pham, who reported hearing a woman",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "20_probable_cause_affidavit",
+   "value": "Grace Hill",
+   "coverage": 0.0,
+   "context": "oor of Apartment 12B. I observed the complainant, Grace Hill, seated on the kitchen\u23ce      ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "20_probable_cause_affidavit",
+   "value": "Rosalind Pham",
+   "coverage": 0.0,
+   "context": "o\u23ce        drinking \"four or five\" beers.\u23ce\u23ce    g.  Rosalind Pham provided a written statement ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "20_probable_cause_affidavit",
+   "value": "GRACE ELIZABETH HILL",
+   "coverage": 0.0,
+   "context": "ction be issued under art. 17.292\u23ce    designating GRACE ELIZABETH HILL and L.R.K. as protected perso",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "20_probable_cause_affidavit",
+   "value": "DARIUSZ PIOTR KOWALCZYK",
+   "coverage": 0.0,
+   "context": " exists\u23cefor the arrest and continued detention of DARIUSZ PIOTR KOWALCZYK for the offense of Assault --",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "20_probable_cause_affidavit",
+   "value": "Grace Elizabeth Hill",
+   "coverage": 0.0,
+   "context": "ions:\u23ce  (1)  No contact, direct or indirect, with Grace Elizabeth Hill or L.R.K. (minor);\u23ce  (2)  Sta",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "20_probable_cause_affidavit",
+   "value": "Tomasz Lisowski",
+   "coverage": 0.0,
+   "context": "urt-appointed counsel: [ ] YES  [X] NO (retained: Tomasz Lisowski, SBN 24091186,\u23ce210-555-0166).",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "20_probable_cause_affidavit",
+   "value": "Maribel Cantu",
+   "coverage": 0.0,
+   "context": ". Villalobos); Defense; Victim Services\u23ce(contact: Maribel Cantu, mcantu.vsu@bexar-da-vsu.org)",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "value": "GRACE ELIZABETH HILL",
+   "coverage": 0.5,
+   "context": "                 \u00a7          IN THE DISTRICT COURT\u23ceGRACE ELIZABETH HILL,                     \u00a7\u23ce     A",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "value": "GRACE ELIZABETH HILL",
+   "coverage": 0.5,
+   "context": " 85)\u23ce\u23ceTO THE HONORABLE JUDGE OF SAID COURT:\u23ce\u23ce     GRACE ELIZABETH HILL (\"Applicant\") files this Appl",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "value": "GRACE ELIZABETH HILL",
+   "coverage": 0.5,
+   "context": " of 3\u23ce\u23ce                              AFFIDAVIT OF GRACE ELIZABETH HILL\u23ce\u23ce     My name is Grace Elizab",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "value": "Darek",
+   "coverage": 0.0,
+   "context": "ersonal knowledge and are true and correct.\u23ce\u23ce     Darek and I met in 2020 at a friend",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "value": "Darek",
+   "coverage": 0.0,
+   "context": "th\u23cepostpartum depression and I take escitalopram. Darek calls me \"crazy\" and tells pe",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "value": "Darek",
+   "coverage": 0.0,
+   "context": "polar, which is not true.\u23ce\u23ce     In December 2024, Darek came home drunk from the iceh",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "value": "Darek",
+   "coverage": 0.0,
+   "context": "t it would be my fault.\u23ce\u23ce     On August 16, 2025, Darek came home after 10:30 p.m. He",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "value": "Darek",
+   "coverage": 0.0,
+   "context": "s and panic attacks.\u23ce\u23ce     After he was arrested, Darek sent me a message from jail s",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "value": "GRACE ELIZABETH HILL",
+   "coverage": 0.5,
+   "context": "Grace E. Hill\u23ce                                    GRACE ELIZABETH HILL, Affiant\u23ce\u23ceSWORN TO AND SUBSCR",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "WILLIAM THOMAS PRICE",
+   "coverage": 0.67,
+   "context": "E MARRIAGE OF                                   \u00a7\u23ceWILLIAM THOMAS PRICE                              ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "PRIYA RAMAN-PRICE",
+   "coverage": 0.0,
+   "context": "               \u00a7          395TH JUDICIAL DISTRICT\u23cePRIYA RAMAN-PRICE                              ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "Priya Raman-Price",
+   "coverage": 0.0,
+   "context": "Social Security number are 512.\u23ce    Respondent is Priya Raman-Price, who is 39 years of age, and ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "Rohan Thomas Price",
+   "coverage": 0.69,
+   "context": " 11     with Petitioner            Texas\u23ce         Rohan Thomas Price      M        11/23/2017     ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "Aanya",
+   "coverage": 0.0,
+   "context": "      7      with Petitioner            Texas\u23ce    Aanya attends 6th grade at Running ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "Rohan",
+   "coverage": 0.0,
+   "context": "attends 6th grade at Running Brook Middle School; Rohan attends 2nd grade at Westwood",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "Rohan",
+   "coverage": 0.0,
+   "context": "states:\u23ce    a.  On July 26, 2025, Respondent left Rohan, then 7, alone at the Cedar P",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "Aanya",
+   "coverage": 0.0,
+   "context": " Overseas Citizen of India application number for Aanya (OCIUSA2025-118804)\u23ce        w",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "Aanya",
+   "coverage": 0.0,
+   "context": "t the children's U.S. passports (No. A04418277 -- Aanya; No. A04418278 -- Rohan)\u23ce    ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "Rohan",
+   "coverage": 0.0,
+   "context": "ssports (No. A04418277 -- Aanya; No. A04418278 -- Rohan)\u23ce    be deposited with the Co",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "WILLIAM THOMAS PRICE",
+   "coverage": 0.67,
+   "context": "age 4 of 4\u23ce\u23ce                         AFFIDAVIT OF WILLIAM THOMAS PRICE IN SUPPORT OF TRO\u23ce\u23ce     My na",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "Priya",
+   "coverage": 0.0,
+   "context": "my personal knowledge and true and correct.\u23ce\u23ce     Priya and I have been married 14 ye",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "Aanya",
+   "coverage": 0.0,
+   "context": "ne-way tickets AUS-JFK-MAA held for October 17 in Aanya's and\u23ceRohan's names under con",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "Rohan",
+   "coverage": 0.0,
+   "context": "ts AUS-JFK-MAA held for October 17 in Aanya's and\u23ceRohan's names under confirmation co",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "Priya",
+   "coverage": 0.0,
+   "context": "en from their mother. I want them safe and I want Priya to get help.\u23ce\u23ce               ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "WILLIAM THOMAS PRICE",
+   "coverage": 0.67,
+   "context": "liam T. Price\u23ce                                    WILLIAM THOMAS PRICE\u23ce\u23ceSWORN TO AND SUBSCRIBED befo",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "HUNTER JAMES WELLS",
+   "coverage": 0.0,
+   "context": "                      \u00a7      TRAVIS COUNTY, TEXAS\u23ceHUNTER JAMES WELLS and                          ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "Courtney Ashford",
+   "coverage": 0.0,
+   "context": "eight LLC, by and through its attorney of record, Courtney Ashford,\u23ce     Holloway Brandt & Pierc",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "Arturo Ruiz Benavides",
+   "coverage": 0.0,
+   "context": "ncorporated by reference, and in addition:\u23ce     - Arturo Ruiz Benavides (husband), c/o counsel -- dam",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "Deshawn Carter",
+   "coverage": 0.0,
+   "context": "h family 3/18/25 - 5/2/25 to provide care.\u23ce     - Deshawn Carter, 737-302-6614 -- eyewitness; ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "Chloe Nguyen-Baker",
+   "coverage": 0.0,
+   "context": "rter, 737-302-6614 -- eyewitness; dashcam.\u23ce     - Chloe Nguyen-Baker, 512-731-0098 -- witness.\u23ce   ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "Yesenia Flores",
+   "coverage": 0.0,
+   "context": "     - Dr. Neil Hartigan, DDS, and office manager Yesenia Flores, Southpark Family Dental --\u23ce ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "Sofia Ruiz",
+   "coverage": 0.0,
+   "context": ", lost wages, inability to perform duties.\u23ce     - Sofia Ruiz, our 9-year-old daughter -- c",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "Karen Whitmore",
+   "coverage": 0.0,
+   "context": "ts to any\u23ce       deposition of the minor).\u23ce     - Karen Whitmore, my next-door neighbor and ca",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "C. Abernathy",
+   "coverage": 0.0,
+   "context": "25          $9,880.00\u23ce     Clearwater Counseling (C. Abernathy, PMHNP)             5/20/25-6",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "Jordan Abernathy",
+   "coverage": 0.0,
+   "context": "nathy.com\u23ce                                        Jordan Abernathy\u23ce                             ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "Courtney Ashford",
+   "coverage": 0.0,
+   "context": "ing manager pursuant to Tex. R. Civ. P. 21a:\u23ce     Courtney Ashford (cashford@hbplaw.com) and Pet",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "Peter Nwachukwu",
+   "coverage": 0.0,
+   "context": ":\u23ce     Courtney Ashford (cashford@hbplaw.com) and Peter Nwachukwu (pnwachukwu@hbplaw.com),\u23ce    ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "24_rfp_response",
+   "value": "Brent Garrison",
+   "coverage": 0.0,
+   "context": "Blaylock, by and through his attorneys of record, Brent Garrison and\u23ce     Alma Leal-Whitcomb, ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "24_rfp_response",
+   "value": "Alma Leal-Whitcomb",
+   "coverage": 0.0,
+   "context": " his attorneys of record, Brent Garrison and\u23ce     Alma Leal-Whitcomb, Garrison Leal LLP, 919 Congr",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "24_rfp_response",
+   "value": "Grace Kwon-Mitchell",
+   "coverage": 0.0,
+   "context": "intiff will produce the report of his CPA expert,\u23ceGrace Kwon-Mitchell, CPA/ABV, by the expert desig",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "24_rfp_response",
+   "value": "B. Nwosu-Clarke",
+   "coverage": 0.0,
+   "context": "r    A-C          Fee agreement\u23ce 3    03/12/2025  B. Nwosu-Clarke         H. Park              ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "24_rfp_response",
+   "value": "G. Kwon-Mitchell",
+   "coverage": 0.0,
+   "context": "C/WP       Treatment scheduling\u23ce 4    06/18/2025  G. Kwon-Mitchell        J. Abernathy          ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "25_deposition_excerpt_wells",
+   "value": "MARIA ELENA DELGADO-RUIZ",
+   "coverage": 0.0,
+   "context": "                  CAUSE NO. D-1-GN-25-002918\u23ce 2   MARIA ELENA DELGADO-RUIZ,   )    IN THE DISTRICT COURT",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "25_deposition_excerpt_wells",
+   "value": "Marco Ibarra",
+   "coverage": 0.0,
+   "context": " Safety Director, Swiftline Freight LLC\u23ce          Marco Ibarra, Videographer, Lone Star Lega",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "25_deposition_excerpt_wells",
+   "value": "Maria Delgado-Ruiz",
+   "coverage": 0.0,
+   "context": "ra, Videographer, Lone Star Legal Video\u23ce15        Maria Delgado-Ruiz (from 10:40 a.m.)\u23ce16\u23ce17      ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "25_deposition_excerpt_wells",
+   "value": "Colt",
+   "coverage": 0.0,
+   "context": "?\u23ce 8        A.   My wife, Tammy, and my youngest, Colt. He's 19. And my\u23ce 9   mother-",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "25_deposition_excerpt_wells",
+   "value": "Darnell",
+   "coverage": 0.0,
+   "context": "llision?\u23ce14        A.   Driving. I was talking to Darnell in dispatch on the\u23ce15   heads",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "25_deposition_excerpt_wells",
+   "value": "Darnell",
+   "coverage": 0.0,
+   "context": " call anybody before 911?\u23ce15        A.   I called Darnell back. Then my wife.\u23ce16       ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "26_recorded_statement_transcript",
+   "value": "Melissa Ortiz-Kang",
+   "coverage": 0.0,
+   "context": ". - 2:41 p.m. CST, by telephone\u23ceInterviewer:      Melissa Ortiz-Kang, Claims Representative II, ex",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "26_recorded_statement_transcript",
+   "value": "Melissa Ortiz-Kang",
+   "coverage": 0.0,
+   "context": "-------------------------------------------\u23ceMOK = Melissa Ortiz-Kang      HP = Hyun-woo Park\u23ce\u23ceMOK:",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "26_recorded_statement_transcript",
+   "value": "Melissa Ortiz-Kang",
+   "coverage": 0.0,
+   "context": "Ortiz-Kang      HP = Hyun-woo Park\u23ce\u23ceMOK:  This is Melissa Ortiz-Kang with Lakeshore General Insura",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "26_recorded_statement_transcript",
+   "value": "M. Ortiz-Kang",
+   "coverage": 0.0,
+   "context": "----------------\u23ceADJUSTER'S POST-STATEMENT NOTES (M. Ortiz-Kang, 01/28/2025 3:05 p.m.)\u23ce  - Li",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "27_adjuster_claim_notes",
+   "value": "Ruiz, Mateo A.",
+   "coverage": 0.0,
+   "context": "     Claimant(s): Delgado-Ruiz, Maria E. (BI/PD); Ruiz, Mateo A. (BI, minor)\u23ceAdjuster: Kyle Br",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "27_adjuster_claim_notes",
+   "value": "G. Tolliver",
+   "coverage": 0.0,
+   "context": "fety dir\u23ce                                         G. Tolliver (512-295-7700). Tractor-trail",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "27_adjuster_claim_notes",
+   "value": "Tammy",
+   "coverage": 0.0,
+   "context": "           texting. CPAP compliant. Lives w/ wife Tammy + son.\u23ce03/17/25 15:50     KB ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "27_adjuster_claim_notes",
+   "value": "Rachel Kim",
+   "coverage": 0.0,
+   "context": "25 11:20     KB      Claimant      Rec'd LOR from Rachel Kim, Kim & Abernathy PLLC for clm",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "27_adjuster_claim_notes",
+   "value": "C. Ashford",
+   "coverage": 0.0,
+   "context": "                                         Assigned C. Ashford, Holloway Brandt & Pierce.\u23ce05",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "27_adjuster_claim_notes",
+   "value": "R. Kim",
+   "coverage": 0.0,
+   "context": "  KB      Demand        Rec'd Stowers demand from R. Kim dated 9/2: policy\u23ce           ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "27_adjuster_claim_notes",
+   "value": "Lucinda Paz",
+   "coverage": 0.0,
+   "context": "d\u23ce                                         litem (Lucinda Paz). Medicaid/Medicare: N/A. ERI",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "28_workers_comp_first_report",
+   "value": "Bao Tran",
+   "coverage": 0.0,
+   "context": "t per site plan -- under review)\u23ce  37. Witnesses: Bao Tran (co-worker) 737-444-0219; Ric",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "28_workers_comp_first_report",
+   "value": "Ricardo \"Ricky\" Salinas",
+   "coverage": 0.0,
+   "context": "37. Witnesses: Bao Tran (co-worker) 737-444-0219; Ricardo \"Ricky\" Salinas (foreman) 512-801-3376\u23ce  38. ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "28_workers_comp_first_report",
+   "value": "R. Salinas",
+   "coverage": 0.0,
+   "context": "=========================\u23ceSUPERVISOR'S NARRATIVE (R. Salinas, foreman -- written 06/09/202",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "28_workers_comp_first_report",
+   "value": "Bao Tran",
+   "coverage": 0.0,
+   "context": "au chan\" [back pain, foot pain --\u23ce  translated by Bao Tran]. I called 911 at 10:22. Bao ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "28_workers_comp_first_report",
+   "value": "Bao",
+   "coverage": 0.0,
+   "context": "  translated by Bao Tran]. I called 911 at 10:22. Bao stayed with him. The plank on",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "29_employer_wage_verification",
+   "value": "Priscilla Oyelowo-Grant",
+   "coverage": 0.0,
+   "context": "FAMILY DENTAL, P.L.L.C.\u23ceNeil Hartigan, D.D.S.  *  Priscilla Oyelowo-Grant, D.M.D.\u23ce5700 S. Congress Ave.",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "29_employer_wage_verification",
+   "value": "Maria E. Delgado-Ruiz",
+   "coverage": 0.0,
+   "context": "TX 78701\u23ce\u23ceRE: EMPLOYMENT AND WAGE VERIFICATION -- Maria E. Delgado-Ruiz\u23ce    Employee ID: SFD-0117    ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "29_employer_wage_verification",
+   "value": "Maria",
+   "coverage": 0.0,
+   "context": ";\u23ce      we do not have those amounts.)\u23ce\u23ceComments: Maria was one of our most productiv",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "30_payroll_stub",
+   "value": "DeShonda Pryor",
+   "coverage": 0.38,
+   "context": "n CMS-1500 / UB-04 to P.O. Box 149010. Questions: DeShonda Pryor       |\u23ce| 1-888-746-6220 x331",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "HYUN W00 PARK",
+   "coverage": 0.36,
+   "context": "      Statement Period: O4/Ol/2O25 - O4/3O/2O25\u23ce  HYUN W00 PARK MBR                          ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "JAE SUNG KlM",
+   "coverage": 0.0,
+   "context": "                       -4l2.OO\u23ce  O4/O4   ZELLE T0 JAE SUNG KlM -- \"wk 3/3l lift+grill\"      ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "JAE SUNG KlM",
+   "coverage": 0.0,
+   "context": "                    -O.OO VOID\u23ce  O4/ll   ZELLE T0 JAE SUNG KlM -- \"wk 4/7 heavy stuff\"      ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "JAE SUNG KlM",
+   "coverage": 0.0,
+   "context": " MFV-2O25-OO881        -7l5.OO\u23ce  O4/l8   ZELLE T0 JAE SUNG KlM -- \"wk 4/l4\"                 ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "JAE SUNG KlM",
+   "coverage": 0.0,
+   "context": "NAL)                 -4,OOO.OO\u23ce  O4/25   ZELLE T0 JAE SUNG KlM -- \"wk 4/2l\"                 ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "D. Ferrante",
+   "coverage": 0.0,
+   "context": "MAGES\u23ce   #2O9l  Payor: MUELLER LAKE HOA -- signed D. Ferrante, Treas.  Memo \"Spring Fling c",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "32_tax_return_excerpt",
+   "value": "HYUN WOO PARK",
+   "coverage": 0.73,
+   "context": "iness (Sole Proprietorship)\u23ce  Name of proprietor: HYUN WOO PARK                              ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "32_tax_return_excerpt",
+   "value": "J. Kim",
+   "coverage": 0.0,
+   "context": "  27a Other expenses -- contract labor (1099-NEC: J. Kim) ......................... 27",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "32_tax_return_excerpt",
+   "value": "Henry",
+   "coverage": 0.0,
+   "context": "er workpaper note (T. Huang, 3/28/25): \"Ji-eun -- Henry's Sch C down ~$11k vs 2023 be",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "33_school_records_iep",
+   "value": "BANKS, JAYLEN MARCUS",
+   "coverage": 0.67,
+   "context": "---------------------------------\u23ceStudent:        BANKS, JAYLEN MARCUS                 Student ID (l",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "33_school_records_iep",
+   "value": "Tanisha L. Banks",
+   "coverage": 0.5,
+   "context": "ling consent on file 09/05/2024)\u23ceParent/Guardian: Tanisha L. Banks (mother)  -- 3805 Kenney Fort",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "33_school_records_iep",
+   "value": "Marcus D. Banks",
+   "coverage": 0.54,
+   "context": "nishabanks.rr@gmail.com\u23ceOther:          Father -- Marcus D. Banks -- currently incarcerated (TD",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "33_school_records_iep",
+   "value": "Ram\u00f3n Ibarra-Lynch",
+   "coverage": 0.0,
+   "context": "., Special Education Teacher       Diagnostician: Ram\u00f3n Ibarra-Lynch, LSSP\u23ce\u23ceELIGIBILITY (34 C.F.R.",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "33_school_records_iep",
+   "value": "BANKS, JAYLEN MARCUS",
+   "coverage": 0.67,
+   "context": "rogram at the Round Rock Public Library.\u23ce\u23ce\fIEP -- BANKS, JAYLEN MARCUS -- ID 2290417 -- DOB 03/12/20",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "33_school_records_iep",
+   "value": "BANKS, JAYLEN MARCUS",
+   "coverage": 0.67,
+   "context": "ement: break card, choice of task order.\u23ce\u23ce\fIEP -- BANKS, JAYLEN MARCUS -- ID 2290417 -- DOB 03/12/20",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "33_school_records_iep",
+   "value": "Tanisha L. Banks",
+   "coverage": 0.5,
+   "context": "gnature indicates participation, not agreement)\u23ce  Tanisha L. Banks .............. Parent (by pho",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "33_school_records_iep",
+   "value": "Mitchell Abara",
+   "coverage": 0.0,
+   "context": "...... Special Education Teacher (case manager)\u23ce  Mitchell Abara ................ General Educ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "33_school_records_iep",
+   "value": "Ram\u00f3n Ibarra-Lynch",
+   "coverage": 0.0,
+   "context": "...... General Education Teacher (Grade 5 ELAR)\u23ce  Ram\u00f3n Ibarra-Lynch ............ Educational Diag",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "33_school_records_iep",
+   "value": "Shaniqua Fortenberry",
+   "coverage": 0.0,
+   "context": "gnostician / LSSP (interpreter of eval results)\u23ce  Shaniqua Fortenberry .......... Dyslexia Therapist",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "33_school_records_iep",
+   "value": "Jaylen M. Banks",
+   "coverage": 0.85,
+   "context": "aige Reinholt ................ School Counselor\u23ce  Jaylen M. Banks ............... Student (atte",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "33_school_records_iep",
+   "value": "BANKS, JAYLEN MARCUS",
+   "coverage": 0.67,
+   "context": ".... Student (attended first 10 minutes)\u23ce\u23ce\fIEP -- BANKS, JAYLEN MARCUS -- ID 2290417 -- DOB 03/12/20",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "33_school_records_iep",
+   "value": "R. Ibarra-Lynch",
+   "coverage": 0.0,
+   "context": "------------------  ---------------\u23ce  04/23/2025  R. Ibarra-Lynch, LSSP (BCISD)                ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "33_school_records_iep",
+   "value": "D. Whitlock",
+   "coverage": 0.0,
+   "context": "PA 99.31(a)(2)\u23ce  06/18/2025  Whitlock Injury Law (D. Whitlock)                  Records req",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "34_dmv_driving_record",
+   "value": "KEVIN PRUITT JR",
+   "coverage": 0.85,
+   "context": "rendered 2012)     Name variants: KEVIN L PRUITT; KEVIN PRUITT JR\u23ce\u23cePHOTO / SIGNATURE on file: Y",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "34_dmv_driving_record",
+   "value": "Shirley Okonjo-Pratt",
+   "coverage": 0.0,
+   "context": "ated.\u23ce                                   [seal]   Shirley Okonjo-Pratt, Custodian of Records     09/",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "36_hipaa_authorization",
+   "value": "Claire Abernathy",
+   "coverage": 0.0,
+   "context": "roMotion Physical Therapy; Clearwater Counseling (Claire Abernathy, PMHNP);\u23ce      Bluebonnet Pha",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "36_hipaa_authorization",
+   "value": "Rachel Kim",
+   "coverage": 0.0,
+   "context": "TION C -- RECIPIENT\u23ce  Kim & Abernathy PLLC, attn. Rachel Kim, 600 Congress Ave., Ste. 1450",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "37_letter_of_protection",
+   "value": "Hyun-woo (\"Henry\") Park",
+   "coverage": 0.81,
+   "context": "PROTECTION\u23ce           Our client / your patient:  Hyun-woo (\"Henry\") Park\u23ce           Date of birth:    ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "38_demand_letter",
+   "value": "Hunter James Wells",
+   "coverage": 0.62,
+   "context": "       Your Insured:      Swiftline Freight LLC / Hunter James Wells\u23ce           Policy No.:       ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "38_demand_letter",
+   "value": "Maria Elena Delgado-Ruiz",
+   "coverage": 0.77,
+   "context": "   GM-25-0314-88172\u23ce           Our Clients:       Maria Elena Delgado-Ruiz (DOB 04/17/1986); and\u23ce       ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "38_demand_letter",
+   "value": "Maria Elena Delgado-Ruiz",
+   "coverage": 0.77,
+   "context": ". Brandt:\u23ce\u23ce     As you know, this firm represents Maria Elena Delgado-Ruiz, individually and as next fri",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "38_demand_letter",
+   "value": "Claire Abernathy",
+   "coverage": 0.0,
+   "context": " 6.  Post-traumatic stress disorder, diagnosed by Claire Abernathy, PMHNP, with nightmares,\u23ce    ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "38_demand_letter",
+   "value": "Linda Marquez-Ochoa",
+   "coverage": 0.0,
+   "context": " Future medical care: $626,233 (Life Care Plan of Linda Marquez-Ochoa, RN, CLCP), reduced\u23ce         ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "38_demand_letter",
+   "value": "Hunter James Wells",
+   "coverage": 0.62,
+   "context": " offer to fully release Swiftline Freight LLC and Hunter James Wells in exchange for\u23cepayment of:\u23ce ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "38_demand_letter",
+   "value": "Maria Elena Delgado-Ruiz",
+   "coverage": 0.77,
+   "context": "cy\u23ce         CAP-7702-0982-21 -- for the claims of Maria Elena Delgado-Ruiz, individually; and\u23ce     (b) $",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "38_demand_letter",
+   "value": "Courtney Ashford",
+   "coverage": 0.0,
+   "context": "            Rachel Kim\u23ce\u23ceEnclosures (USB, 1)\u23cecc:   Courtney Ashford, Holloway Brandt & Pierce LLP",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "value": "03/22/2022",
+   "coverage": 0.0,
+   "context": " Age\u23ce        L.R.K.                        F      03/22/2022        3\u23ce     The child resid",
+   "entity": "DATE_OF_BIRTH"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "02/07/2014",
+   "coverage": 0.0,
+   "context": "h state\u23ce         Aanya Raman Price       F        02/07/2014       11     with Petitioner ",
+   "entity": "DATE_OF_BIRTH"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "11/23/2017",
+   "coverage": 0.0,
+   "context": "  Texas\u23ce         Rohan Thomas Price      M        11/23/2017       7      with Petitioner ",
+   "entity": "DATE_OF_BIRTH"
+  },
+  {
+   "doc": "25_deposition_excerpt_wells",
+   "value": "November 2nd, '79",
+   "coverage": 0.73,
+   "context": "And your date of birth, Mr. Wells?\u23ce 4        A.   November 2nd, '79.\u23ce 5        Q.   Where do you ",
+   "entity": "DATE_OF_BIRTH"
+  },
+  {
+   "doc": "26_recorded_statement_transcript",
+   "value": "October 5th, 1982",
+   "coverage": 0.0,
+   "context": "all me Henry.\u23ceMOK:  And your date of birth?\u23ceHP:   October 5th, 1982.\u23ceMOK:  Your address?\u23ceHP:   45",
+   "entity": "DATE_OF_BIRTH"
+  },
+  {
+   "doc": "10_pharmacy_fill_history",
+   "value": "BLUEBONNET PHARMACY #212",
+   "coverage": 0.82,
+   "context": "BERNATHY, CLAIRE PMHNP          CAREMARK  $2.75\u23ce\u23ce\fBLUEBONNET PHARMACY #212 -- FILL HISTORY -- DELGADO RU",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "STORE #10432, FREDERICKSBURG RD @ WURZBACH",
+   "coverage": 0.0,
+   "context": " Cell: (210) 614-3378\u23ce  Employer: CVS PHARMACY -- STORE #10432, FREDERICKSBURG RD @ WURZBACH (pharmacy tech)\u23ce  DL: TX 3612",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "the H-E-B at Bandera and 1604",
+   "coverage": 0.71,
+   "context": "\"for a second\"\u23cein the truck in the parking lot of the H-E-B at Bandera and 1604, and in December 2024 he\u23cepunc",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "the Pinecrest",
+   "coverage": 0.75,
+   "context": " CT:  7420 Callaghan Road, apartment 12B. Is that the Pinecrest?\u23ce00:12  C:   Yes, Pinecrest, ",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "value": "the H-E-B at Bandera\nand Loop 1604",
+   "coverage": 0.61,
+   "context": "ur daughter. In March 2025, in the parking lot of the H-E-B at Bandera\u23ceand Loop 1604, he grabbed my throat in the ",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "journeyman lineman with a standard 7:00 a.m. -- 3:30 p.m. schedule",
+   "coverage": 0.0,
+   "context": " no report to any agency.\u23ce    d.  Petitioner is a journeyman lineman with a standard 7:00 a.m. -- 3:30 p.m. schedule and on-call storm\u23ce        rot",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "my next-door neighbor and carpool partner",
+   "coverage": 0.0,
+   "context": " deposition of the minor).\u23ce     - Karen Whitmore, my next-door neighbor and carpool partner -- before/after condition.\u23ce\u23ceI",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "01_discharge_summary_trauma",
+   "value": "Southpark Family Dental",
+   "coverage": 0.0,
+   "context": " full\u23ce   time as a registered dental hygienist at Southpark Family Dental (right-hand\u23ce   dominant). Occ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "03_psychiatric_evaluation",
+   "value": "Tessellate Payments",
+   "coverage": 0.0,
+   "context": "ing Muslim, employed as a senior\u23ce  QA engineer at Tessellate Payments in Deep Ellum, who lives alon",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "04_sud_progress_note_part2",
+   "value": "Heritage Oaks Nursing & Rehab",
+   "coverage": 0.76,
+   "context": "nt continues working overnight shifts as a CNA at Heritage Oaks Nursing & Rehab\u23ce  in Kyle (Sun-Wed, 10p-6a). ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "06_hiv_clinic_note",
+   "value": "The Rusty Anchor",
+   "coverage": 0.79,
+   "context": "day.\u23ce\u23ce  Social/financial: Works as a bartender at The Rusty Anchor (the bar on Cincinnati Ave\u23ce  ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "12_independent_medical_exam",
+   "value": "Southpark Family Dental",
+   "coverage": 0.0,
+   "context": "-dominant woman employed as a dental\u23cehygienist at Southpark Family Dental for nine years. She states th",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "13_life_care_plan_excerpt",
+   "value": "Cool Breeze Mechanical",
+   "coverage": 0.0,
+   "context": "........ Spouse (Arturo, 41, HVAC technician with Cool Breeze Mechanical);\u23ce                           ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "13_life_care_plan_excerpt",
+   "value": "Southpark Family Dental",
+   "coverage": 0.0,
+   "context": " (pre-injury) ...... Registered Dental Hygienist, Southpark Family Dental, 36-38 hrs/wk\u23cePre-injury earn",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "USAA",
+   "coverage": 0.0,
+   "context": "(cell) 2l0-455-09l2\u23ceEmpl0yer: retired -- f0rmerly USAA c1aims dept.\u23ce\u23ceI, R0salind Pha",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "21_protective_order_petition",
+   "value": "Alamo Steel Fabricators",
+   "coverage": 0.0,
+   "context": "or, if released, at his\u23ce     place of employment, Alamo Steel Fabricators, 4300 SW Military Dr., San An",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "Southpark Family Dental",
+   "coverage": 0.0,
+   "context": "on,\u23cesupervisor, and rate of pay.\u23ce\u23ceANSWER:\u23ce     a. Southpark Family Dental, 5700 S. Congress Ave., Ste. ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "Bright Smiles Pediatric Dentistry",
+   "coverage": 0.0,
+   "context": "rterly production bonus averaging $1,150.\u23ce     b. Bright Smiles Pediatric Dentistry, Pflugerville, TX; part-time ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "Southpark Family Dental",
+   "coverage": 0.0,
+   "context": "Hartigan, DDS, and office manager Yesenia Flores, Southpark Family Dental --\u23ce       employment, lost wa",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "Cool Breeze Mechanical",
+   "coverage": 0.0,
+   "context": ". My husband has had to take unpaid time off from Cool Breeze Mechanical. My mother stayed with\u23ceus for",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "24_rfp_response",
+   "value": "Seoul Food ATX LLC",
+   "coverage": 0.0,
+   "context": "N NO. 5: Point-of-sale (Square) sales reports for Seoul Food ATX LLC, 2023 to present.\u23ceRESPONSE: S",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "25_deposition_excerpt_wells",
+   "value": "Hill Country Aggregates",
+   "coverage": 0.0,
+   "context": "t out of San Marcos about eleven\u23ce 3   years. Then Hill Country Aggregates, dump truck, two years. I sta",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "26_recorded_statement_transcript",
+   "value": "Seoul Food",
+   "coverage": 0.0,
+   "context": "t. The plate is SFD 4417 -- it's a vanity plate, \"Seoul Food.\"\u23ceMOK:  Anyone with you?\u23ceHP: ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "29_employer_wage_verification",
+   "value": "SOUTHPARK FAMILY DENTAL",
+   "coverage": 0.0,
+   "context": "SOUTHPARK FAMILY DENTAL, P.L.L.C.\u23ceNeil Hartigan, D.D.",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "30_payroll_stub",
+   "value": "RIDGEWAY BUILDERS, INC.",
+   "coverage": 0.0,
+   "context": "----------------------------------------------+\u23ce| RIDGEWAY BUILDERS, INC.                              ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "SE0UL F00D ATX LLC",
+   "coverage": 0.0,
+   "context": "                   BUSlNESS CHECKlNG STATEMENT\u23ce\u23ce  SE0UL F00D ATX LLC                              ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "SE0UL F00D ATX LLC",
+   "coverage": 0.0,
+   "context": " CAPITAL HlLL COMMUNlTY BANK   Acct ending 3318   SE0UL F00D ATX LLC   Page 2 of 3\u23ce\u23ce  WlTHDRAWALS ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "32_tax_return_excerpt",
+   "value": "BRIGHTLINE CPA GROUP LLC",
+   "coverage": 0.0,
+   "context": "ate 03/30/2025   [ ] Self-employed\u23ce  Firm's name: BRIGHTLINE CPA GROUP LLC          Firm's EIN 82-447109",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "32_tax_return_excerpt",
+   "value": "BRIGHTLINE CPA GROUP LLC",
+   "coverage": 0.0,
+   "context": " c  Employer's name, address, and ZIP code\u23ce       BRIGHTLINE CPA GROUP LLC\u23ce       9600 GREAT HILLS TRL S",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "38_demand_letter",
+   "value": "Southpark\nFamily Dental",
+   "coverage": 0.0,
+   "context": " since the collision. Her employer of nine years, Southpark\u23ceFamily Dental, held her position open throu",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "inmate account DKOWALCZYK0098812",
+   "coverage": 0.57,
+   "context": "(sent via jail tablet? -- follow up with BCADC\u23ceon inmate account DKOWALCZYK0098812): \"you know what you did. dro",
+   "entity": "USERNAME"
+  },
+  {
+   "doc": "25_deposition_excerpt_wells",
+   "value": "Hunter Wells Lockhart",
+   "coverage": 0.58,
+   "context": "book or Instagram?\u23ce18        A.   Facebook. It's \"Hunter Wells Lockhart,\" I think. I don't really\u23ce19 ",
+   "entity": "USERNAME"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "7420 Callaghan",
+   "coverage": 0.0,
+   "context": "ddress of your emergency?\u23ce00:03  C:   Yes, I'm at 7420 Callaghan, apartment -- it's next door,",
+   "entity": "ADDRESS"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "2209\nBluebonnet Lane, Austin, Texas 78704",
+   "coverage": 0.58,
+   "context": "gits: 207. SSN last three digits: 934. Residence: 2209\u23ceBluebonnet Lane, Austin, Texas 78704 (since 2018).\u23ce\u23ceINTERROGATORY ",
+   "entity": "ADDRESS"
+  },
+  {
+   "doc": "32_tax_return_excerpt",
+   "value": "4512 AVENUE F",
+   "coverage": 0.0,
+   "context": "reet)                                    Apt. no.\u23ce4512 AVENUE F\u23ceCity, town, or post office   ",
+   "entity": "ADDRESS"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "LAT +29.502288  LON -098.571934",
+   "coverage": 0.78,
+   "context": " 6100 CALLAGHAN RD S/E sector\u23ce  Phase II:         LAT +29.502288  LON -098.571934  Uncertainty 9 m  Confidence ",
+   "entity": "GPS"
+  }
+ ],
+ "false_positives": [
+  {
+   "doc": "04_sud_progress_note_part2",
+   "entity": "INDIRECT_ROLE",
+   "text": "her ex-boyfriend",
+   "score": 0.65,
+   "source": "quasi:relationship",
+   "context": "n two occasions, 09/20 and 09/21, after her ex-boyfriend\u23ce  \"Cody\" showed up at he"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "entity": "SSN",
+   "text": "XXX-XX-1934",
+   "score": 0.98,
+   "source": "pattern:ssn_masked",
+   "context": " 78704\u23ce  Phone: 512-836-2290       SSN: XXX-XX-1934       Weight: 64 kg (est"
+  },
+  {
+   "doc": "12_independent_medical_exam",
+   "entity": "INDIRECT_LOCATION",
+   "text": "eastbound Ben White",
+   "score": 0.7,
+   "source": "quasi:travel_location",
+   "context": " on a green arrow from S. Congress onto eastbound Ben White, her car was struck on\u23cet"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "entity": "INDIRECT_LOCATION",
+   "text": "12B",
+   "score": 0.75,
+   "source": "propagate:core",
+   "context": "d hear a male voice yelling from inside 12B. The neighbor, later\u23ceide"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "entity": "INDIRECT_LOCATION",
+   "text": "12B",
+   "score": 0.75,
+   "source": "propagate:core",
+   "context": " outside her door at 12C and\u23cepointed at 12B. I knocked and announced"
+  },
+  {
+   "doc": "16_police_crash_report",
+   "entity": "PERSON",
+   "text": "BLVD",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "t Name: BEN WHITE BLVD   Street Suffix: BLVD\u23ce  Intersecting Rdwy: S C"
+  },
+  {
+   "doc": "16_police_crash_report",
+   "entity": "PERSON",
+   "text": "Ben White Blvd",
+   "score": 0.94,
+   "source": "propagate:full",
+   "context": "mitrailer) was traveling westbound on E Ben White Blvd main lanes approaching\u23ce "
+  },
+  {
+   "doc": "16_police_crash_report",
+   "entity": "PERSON",
+   "text": "White Blvd",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "rn lane, turning left\u23ce  (west) onto Ben White Blvd on a protected green arr"
+  },
+  {
+   "doc": "16_police_crash_report",
+   "entity": "PERSON",
+   "text": "BEN WHITE BLVD",
+   "score": 0.94,
+   "source": "propagate:full",
+   "context": "----+------+-------+----------------  E BEN WHITE BLVD (WB)  <-- Unit 1\u23ce       "
+  },
+  {
+   "doc": "16_police_crash_report",
+   "entity": "PERSON",
+   "text": "BEN WHITE BLVD",
+   "score": 0.94,
+   "source": "propagate:full",
+   "context": "----+------+-------+----------------  E BEN WHITE BLVD (EB)\u23ce                   "
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "entity": "INDIRECT_LOCATION",
+   "text": "lot at Inks Lake",
+   "score": 0.95,
+   "source": "quasi:place_at_street",
+   "context": "oner claims as separate property a lake lot at Inks Lake inherited from his fathe"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "entity": "INDIRECT_LOCATION",
+   "text": "Brushy Creek Road",
+   "score": 0.75,
+   "source": "quasi:lives_on_street",
+   "context": "ved out on August 9 to an apartment off Brushy Creek Road. On August 11 she sent m"
+  },
+  {
+   "doc": "29_employer_wage_verification",
+   "entity": "SSN",
+   "text": "XXX-XX-1934",
+   "score": 0.98,
+   "source": "pattern:ssn_masked",
+   "context": "Ruiz\u23ce    Employee ID: SFD-0117     SSN: XXX-XX-1934\u23ce\u23ceTo Whom It May Concern:"
+  },
+  {
+   "doc": "30_payroll_stub",
+   "entity": "SSN",
+   "text": "XXX-XX-7735",
+   "score": 0.98,
+   "source": "pattern:ssn_masked",
+   "context": "   1507 KESTREL HOLLOW DR          SSN: XXX-XX-7735     Pay Period: 06/01/25"
+  },
+  {
+   "doc": "30_payroll_stub",
+   "entity": "BANK_ACCOUNT",
+   "text": "******4093",
+   "score": 0.96,
+   "source": "label:bank_account",
+   "context": "ral Credit Union   RTN 366043837   ACCT ******4093   885.98 |\u23ce+------------"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "entity": "INDIRECT_LOCATION",
+   "text": "H-E-B #O7l5 AUSTlN TX",
+   "score": 0.87,
+   "source": "quasi:merchant+ocr",
+   "context": "       -85O.OO\u23ce  O4/O4   CHECKCARD 04O3 H-E-B #O7l5 AUSTlN TX  card ...7719     -3l2.9"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "entity": "SSN",
+   "text": "***-**-O927",
+   "score": 0.97,
+   "source": "pattern:ssn_masked+ocr",
+   "context": "  ACH lRS USATAXPYMT 2O25 Q1 EST -- SSN ***-**-O927       -3,2OO.OO\u23ce  O4/29 "
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "entity": "ID_NUMBER",
+   "text": "4O8812",
+   "score": 0.85,
+   "source": "label:id_number",
+   "context": "7.\u23ce\u23ce  Capital Hill Community Bank NMLS #4O8812.  Statement ID 2O25O43O-"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "entity": "MRN",
+   "text": "2O25O43O-B-OOl",
+   "score": 0.98,
+   "source": "label:mrn",
+   "context": "munity Bank NMLS #4O8812.  Statement ID 2O25O43O-B-OOl.\u23ce## END OCR -- confidenc"
+  },
+  {
+   "doc": "32_tax_return_excerpt",
+   "entity": "SSN",
+   "text": "***-**-0927",
+   "score": 0.98,
+   "source": "pattern:ssn_masked",
+   "context": "2024) -- PARK, HYUN WOO & JI EUN -- SSN ***-**-0927                         "
+  },
+  {
+   "doc": "37_letter_of_protection",
+   "entity": "INDIRECT_LOCATION",
+   "text": "southbound Loop 1",
+   "score": 0.7,
+   "source": "quasi:travel_location",
+   "context": "hicle collision on January 22, 2025, on southbound Loop 1 (MoPac) in Austin. Mr. P"
+  }
+ ]
+}

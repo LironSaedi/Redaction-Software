@@ -1,0 +1,61 @@
+TEXAS DEPARTMENT OF INSURANCE, DIVISION OF WORKERS' COMPENSATION
+EMPLOYER'S WAGE STATEMENT (DWC Form-003)                                              Page 1 of 2
+
+PART I -- EMPLOYEE / EMPLOYER / CARRIER
+  1. Employee name:    [[PERSON|Thanh Van Nguyen]]              2. SSN (last 4): [[SSN|7735]]
+  3. Date of injury:   [[DATE|June 9, 2025]]                    4. DWC Claim #: [[CLAIM_NUMBER|25-412877]]
+  5. Employer:         [[EMPLOYER|Ridgeway Builders, Inc.]]      6. Employer FEIN: [[ID_NUMBER?|74-2918830]]
+  7. Employer address: [[ADDRESS?|12401 Research Blvd, Suite 300, Austin TX 78759]]
+  8. Carrier:          [[ORGANIZATION?|Pinnacle Workers' Compensation Assurance Co.]]   9. Carrier Claim #: [[CLAIM_NUMBER|TXWC-25-118734-01]]
+
+PART II -- WAGES FOR THE 13 WEEKS IMMEDIATELY PRECEDING THE INJURY
+  Employee worked substantially the whole of 13 weeks: [X] Yes  [ ] No
+  Week   Week ending      Hours (Reg/OT)     Gross wages       Notes
+  ----   --------------   ----------------   ---------------   -------------------------------------
+   1     [[DATE|03/15/2025]]       40.0 / 4.0         [[FINANCIAL_INFO|$1,138.50]]
+   2     [[DATE|03/22/2025]]       40.0 / 6.0         [[FINANCIAL_INFO|$1,212.75]]
+   3     [[DATE|03/29/2025]]       32.0 / 0.0         [[FINANCIAL_INFO|$792.00]]          rain days (2)
+   4     [[DATE|04/05/2025]]       40.0 / 8.5         [[FINANCIAL_INFO|$1,305.56]]
+   5     [[DATE|04/12/2025]]       40.0 / 7.0         [[FINANCIAL_INFO|$1,249.88]]
+   6     [[DATE|04/19/2025]]       40.0 / 5.5         [[FINANCIAL_INFO|$1,194.19]]
+   7     [[DATE|04/26/2025]]       40.0 / 9.0         [[FINANCIAL_INFO|$1,324.13]]
+   8     [[DATE|05/03/2025]]       40.0 / 6.0         [[FINANCIAL_INFO|$1,212.75]]
+   9     [[DATE|05/10/2025]]       40.0 / 10.0        [[FINANCIAL_INFO|$1,361.25]]
+  10     [[DATE|05/17/2025]]       40.0 / 7.5         [[FINANCIAL_INFO|$1,268.44]]
+  11     [[DATE|05/24/2025]]       40.0 / 6.0         [[FINANCIAL_INFO|$1,212.75]]
+  12     [[DATE|05/31/2025]]       32.0 / 4.0         [[FINANCIAL_INFO|$940.50]]          Memorial Day (holiday pd 8 hrs incl.)
+  13     [[DATE|06/07/2025]]       40.0 / 6.5         [[FINANCIAL_INFO|$1,231.31]]
+                                 TOTAL 13 WEEKS:   [[FINANCIAL_INFO|$15,444.01]]
+  Average weekly wage (total / 13): [[FINANCIAL_INFO|$1,188.00]]
+
+PART III -- NON-PECUNIARY WAGES (if discontinued after injury)
+  Health insurance (employer portion), [[ORGANIZATION?|UHC]] EE+Spouse ........ [[FINANCIAL_INFO|$26.96]]/wk -- continued through
+  [[DATE|08/31/2025]], then discontinued (employee did not elect COBRA). Include in AWW only after
+  discontinuation (28 TAC § 128.1(c)).
+  Per diem / meal allowance (reimbursement; not wages) ........................ excluded
+  Truck/vehicle allowance ............................................... none
+
+  Adjusted AWW (with health insurance after discontinuation): [[FINANCIAL_INFO|$1,214.96]]
+
+DWC Form-003 -- [[PERSON|Thanh Van Nguyen]] -- DWC # [[CLAIM_NUMBER|25-412877]]                                          Page 2 of 2
+
+PART IV -- OTHER EMPLOYMENT (concurrent employment, Tex. Lab. Code § 408.042)
+  Employee reports concurrent employment: [X] Yes  [ ] No
+  Employer: [[EMPLOYER|Pho Saigon Noodle House]] ([[INDIRECT_LOCATION|the restaurant on Dessau Rd owned by his brother-in-law]])
+  Duties: weekend dishwasher/prep, approx. 12 hrs/wk, [[FINANCIAL_INFO|$12.00/hr cash]] (no W-2; employee
+  states approx. [[FINANCIAL_INFO|$144/wk]]). Documentation requested from employee (affidavit from owner
+  [[PERSON|Quang Le]], [[PHONE|512-251-6680]]).
+
+PART V -- CERTIFICATION
+  I certify that the information on this form is true, correct, and complete to the best of my knowledge.
+  A person who makes a false or misleading statement to obtain or deny benefits commits a criminal
+  offense (Tex. Lab. Code § 418.001).
+
+  Name: [[PERSON|Patricia Venable]]                    Title: HR Manager
+  Signature: /s/ [[PERSON|Patricia Venable]]           Date: [[DATE|06/20/2025]]
+  Phone: [[PHONE|(512) 258-7400 ext. 205]]               Email: [[EMAIL|pvenable@ridgewaybuilders.com]]
+
+FOR CARRIER USE
+  Rec'd [[DATE|06/23/2025]] -- [[PERSON|D. Pryor]].  AWW used for TIBs: [[FINANCIAL_INFO|$1,214.96]] (with concurrent: [[FINANCIAL_INFO|$1,358.96]] pending docs).
+  Employee's attorney: [[PERSON|Minh-Anh Dao]], [[ORGANIZATION?|Dao Injury Law]] ([[PHONE|512-670-2210]]) -- DWC Form-150 filed [[DATE|06/27/2025]].
+  OIEC ombudsman assigned: [[PERSON|L. Huerta]].

@@ -1,0 +1,95 @@
+[[ORGANIZATION?|CAPITOL RIDGE IMAGING]] -- DIAGNOSTIC RADIOLOGY REPORT
+[[ADDRESS?|4100 Ridgeline Pkwy, Pavilion B]], [[ADDRESS?|Austin TX 78731]]   Ph [[PHONE|512-434-7760]]   Fax [[PHONE|512-434-7769]]
+
+NAME: [[PERSON|DELGADO-RUIZ, MARIA]]                  MRN: [[MRN|00847721]]
+DOB:  [[DATE_OF_BIRTH|1986-04-17]]    SEX: F               ACCESSION: [[MRN?|CRI-MR-25-0041877]]
+ORDERING: [[PERSON|SZYMANSKI, DANIEL]] MD          LOCATION: [[INDIRECT_LOCATION?|4W-418B]]
+EXAM DATE: [[DATE|2025-03-16]] 07:42             REPORT DATE: [[DATE|2025-03-16]] 09:05
+
+EXAM: MRI CERVICAL SPINE WITHOUT CONTRAST   (CPT 72141)
+
+CLINICAL INDICATION: [[AGE|38]] yo F s/p high-speed MVC [[DATE|3/14]], neck pain, L hand paresthesias.
+Eval disc/ligamentous injury. ICD-10: S13.4XXA, R20.2.
+
+COMPARISON: CT cervical spine [[DATE|03/14/2025]].
+
+TECHNIQUE: Multiplanar multisequence MRI of the cervical spine on a 3.0 T magnet:
+sagittal T1, T2, STIR; axial T2 and GRE. No IV contrast.
+
+FINDINGS:
+Alignment: Straightening of the normal cervical lordosis, may be positional or
+related to muscle spasm. No listhesis.
+
+Vertebral bodies: Normal height. No marrow edema on STIR to suggest acute fracture
+or bone contusion. No suspicious marrow lesion.
+
+Ligaments: Anterior and posterior longitudinal ligaments intact. No interspinous
+ligament edema. Ligamentum flavum intact. Mild prevertebral soft tissue edema
+C4-C6 measuring up to 4 mm, nonspecific, possibly post-traumatic.
+
+Cord: Normal caliber and signal from the craniocervical junction to T2. No
+syrinx. No cord compression.
+
+Level by level:
+  C2-C3: No disc herniation. Patent canal and foramina.
+  C3-C4: Minimal disc bulge. No stenosis.
+  C4-C5: Mild disc osteophyte complex. Canal AP 11 mm. Foramina patent.
+  C5-C6: Central to left paracentral disc protrusion measuring 3.8 mm AP x 7 mm
+         transverse, with annular fissure (high-intensity zone on T2). Mild
+         effacement of the ventral thecal sac without cord contact. Mild left
+         neural foraminal narrowing; contact of the exiting left C6 nerve root
+         cannot be excluded. Right foramen patent.
+  C6-C7: Small broad-based bulge. No significant stenosis.
+  C7-T1: Unremarkable.
+
+Paraspinal soft tissues: Mild T2 hyperintensity of the left paraspinal musculature
+(posterior cervical) consistent with strain.
+
+IMPRESSION:
+1. [[MEDICAL_CONDITION?|C5-C6 central/left paracentral disc protrusion with annular fissure]], mild left
+   foraminal narrowing with possible contact of the exiting left C6 nerve root.
+   Correlate for left C6 radiculopathy. The annular fissure and adjacent soft
+   tissue edema may be acute/subacute; however, age of disc pathology cannot be
+   definitively established by MRI.
+2. No acute fracture, ligamentous disruption, or cord signal abnormality.
+3. [[MEDICAL_CONDITION?|Left posterior paraspinal muscle strain]].
+
+Dictated by: [[PERSON|Hyejin Cho]], M.D., Neuroradiology   NPI [[NPI|2001782749]]
+Electronically signed [[DATE|03/16/2025]] 09:05 CDT
+
+[[ORGANIZATION?|CAPITOL RIDGE IMAGING]] -- DIAGNOSTIC RADIOLOGY REPORT (cont.)
+NAME: [[PERSON|DELGADO-RUIZ, MARIA]]    MRN: [[MRN|00847721]]    DOB: [[DATE_OF_BIRTH|1986-04-17]]
+
+ADDENDUM -- [[DATE|03/21/2025]] 16:40
+Report reviewed at the request of Dr. [[PERSON|M. Whitfield]] (Neurosurgery). Comparison made
+with outside MRI cervical spine performed at [[ORGANIZATION?|Lakeway Open MRI]] dated [[DATE|08/09/2021]]
+(images uploaded to PACS from patient CD, ref ext-21-77319). The 2021 study
+demonstrates a 1-2 mm broad-based disc bulge at C5-C6 without annular fissure or
+foraminal narrowing. The current C5-C6 protrusion (3.8 mm) with high-intensity
+zone is NEW compared with [[DATE|08/09/2021]].
+-- [[PERSON|H. Cho]], MD
+
+--------------------------------------------------------------------------------
+EXAM: CT HEAD WITHOUT CONTRAST   (CPT 70450)        ACCESSION: [[MRN?|CRI-CT-25-0041502]]
+EXAM DATE: [[DATE|03/14/2025]] 18:51
+
+INDICATION: Trauma activation, MVC, headache. Patient on no anticoagulants.
+
+TECHNIQUE: Axial helical CT from skull base to vertex with coronal and sagittal
+reformats. DLP 812 mGy-cm. CTDIvol 48.2 mGy.
+
+FINDINGS: No acute intracranial hemorrhage, mass effect, or midline shift. Gray-
+white differentiation preserved. Ventricles and sulci normal for age. Basal
+cisterns patent. No calvarial fracture. Small left temporal subgaleal soft tissue
+swelling. Paranasal sinuses and mastoid air cells clear. Orbits unremarkable.
+
+IMPRESSION: No acute intracranial abnormality. Left temporal scalp soft tissue
+swelling.
+
+Read by: [[PERSON|Thomas Ebersole]], MD    NPI [[NPI|2046934990]]    Signed [[DATE|3/14/2025]] 19:02
+Communicated to Dr. [[PERSON|P. Nair]] at 19:03 by phone (read-back confirmed).
+
+--------------------------------------------------------------------------------
+RADIATION DOSE SUMMARY: CT exams this encounter: 3. Cumulative DLP 2,914 mGy-cm.
+This report was generated by voice recognition software; minor transcription
+errors may be present. Page 2 of 2.

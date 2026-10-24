@@ -1,0 +1,94 @@
+                              CAUSE NO. [[CASE_NUMBER|D-1-GN-25-002918]]
+
+[[PERSON|MARIA ELENA DELGADO-RUIZ]], et al.,          §          IN THE DISTRICT COURT OF
+     Plaintiff,                             §
+v.                                          §          [[LOCATION?|TRAVIS COUNTY]], TEXAS
+[[PERSON|HUNTER JAMES WELLS]] and                     §
+[[ORGANIZATION?|SWIFTLINE FREIGHT LLC]],                    §
+     Defendants.                            §          345TH JUDICIAL DISTRICT
+
+                      SUBPOENA DUCES TECUM FOR PRODUCTION OF DOCUMENTS
+                   (Tex. R. Civ. P. 176 and 205 -- Non-Party Production)
+
+THE STATE OF TEXAS
+
+TO:   Custodian of Records
+      [[ORGANIZATION?|MERIDIAN WIRELESS, INC.]] -- Subpoena Compliance / Legal Demand Unit
+      [[ADDRESS?|4 Sylvan Way, Suite 300]]
+      [[ADDRESS?|Parsippany, NJ 07054]]
+      Fax [[PHONE|(973) 292-8601]]   Email [[EMAIL|subpoena.compliance@meridianwireless.com]]
+      c/o Registered Agent: [[ORGANIZATION?|CT Corporation System]], [[ADDRESS?|1999 Bryan St., Ste. 900]], [[ADDRESS?|Dallas, TX 75201]]
+
+YOU ARE COMMANDED to produce and permit inspection and copying of the documents and tangible
+things described in Exhibit "A" to this subpoena, in your possession, custody, or control, at
+the offices of [[ORGANIZATION?|Kim & Abernathy PLLC]], [[ADDRESS?|600 Congress Avenue, Suite 1450, Austin, Texas 78701]], on
+or before [[DATE|Monday, May 19, 2025]], at 10:00 a.m., or by delivering true and correct copies, together
+with the attached Business Records Affidavit, to the undersigned by that date. Electronic
+production in native or .CSV format to [[EMAIL|dvu@kimabernathy.com]] is acceptable.
+
+This subpoena is issued at the request of Plaintiff in the above case, in which a Notice of
+Intent to Serve Subpoena was served on all parties on [[DATE|April 21, 2025]] pursuant to Tex. R. Civ.
+P. 205.2. No party objected within ten days.
+
+DUTIES OF PERSON SERVED (Rule 176.8(a)): "Failure by any person without adequate excuse to obey
+a subpoena served upon that person may be deemed a contempt of the court from which the
+subpoena is issued or a district court in the county in which the subpoena is served, and may
+be punished by fine or confinement, or both."
+
+ISSUED on [[DATE|April 30, 2025]] by an attorney authorized to practice law in Texas, as an officer of
+the court, pursuant to Tex. R. Civ. P. 176.4(c).
+
+                                         /s/ [[PERSON|Rachel Kim]]
+                                         ______________________________________
+                                         [[PERSON|Rachel Kim]], State Bar No. [[ID_NUMBER|24078812]]
+                                         [[ORGANIZATION?|KIM & ABERNATHY PLLC]]
+                                         [[ADDRESS?|600 Congress Avenue, Suite 1450]]
+                                         [[ADDRESS?|Austin, Texas 78701]]
+                                         Tel. [[PHONE|512-480-3300]] | Fax [[PHONE|512-480-3399]]
+                                         [[EMAIL|rkim@kimabernathy.com]]
+                                         ATTORNEY FOR PLAINTIFF
+
+                                       EXHIBIT "A"
+
+DEFINITIONS
+  "Subscriber" means [[PERSON|HUNTER J. WELLS]] and/or [[PERSON|TAMMY L. WELLS]], [[ADDRESS|3318 Wagon Trail Road, Lockhart,
+  TX 78644]], account no. [[ID_NUMBER|448812093-00001]] (if known).
+  "Target Number" means [[PHONE|(512) 398-0047]].
+  "Target Device" means the handset associated with the Target Number on the Relevant Date,
+  believed to be an Apple iPhone 14 Pro, IMEI [[DEVICE_ID|353278071295401]], ICCID [[DEVICE_ID|8901260882299114571]].
+  "Relevant Period" means [[DATE|March 14, 2025]], 3:00 p.m. through 7:00 p.m. Central Daylight Time.
+
+DOCUMENTS TO BE PRODUCED
+  1.  Subscriber information for the Target Number on the Relevant Date: name(s), billing
+      address, account type, activation date, and authorized users. Do NOT produce the Subscriber's
+      Social Security number, date of birth, or financial account numbers; if your system prints
+      them, redact all but the last three digits (Tex. R. Civ. P. 21c).
+  2.  Call detail records (incoming and outgoing voice calls, including calls to and from
+      [[PHONE|512-295-7700]] and [[PHONE|1-866-401-7738]]) for the Relevant Period, showing date, time (to the
+      second, with time zone), duration, originating and terminating numbers, and call
+      disposition.
+  3.  SMS/MMS transactional records (NOT content) for the Relevant Period.
+  4.  Data session records (IP session start/stop times, bytes transferred, APN) for the
+      Relevant Period, including any session originating from assigned IP addresses (e.g.,
+      [[IP_ADDRESS|172.58.141.22]]) used by the Target Device.
+  5.  Cell site / sector information associated with each record in Requests 2-4, with a key
+      identifying tower location (latitude/longitude) and azimuth.
+  6.  Records reflecting any hands-free / Bluetooth / CarPlay connection, if maintained.
+
+  This subpoena does NOT seek the content of any communication. See 18 U.S.C. § 2702-2703; Tex.
+  Code Crim. Proc. art. 18B. Records of other subscribers on the account are not requested.
+
+                       BUSINESS RECORDS AFFIDAVIT (Tex. R. Evid. 902(10))
+
+BEFORE ME, the undersigned authority, personally appeared ____________________, who, being by me
+duly sworn, deposed as follows: My name is ____________________. I am the custodian of records of
+[[ORGANIZATION?|Meridian Wireless, Inc.]] Attached hereto are ____ pages of records ...
+
+                                 RETURN OF SERVICE
+Came to hand [[DATE|April 30, 2025]] at 2:15 p.m. Executed [[DATE|May 1, 2025]] at 11:02 a.m. by delivering to
+[[PERSON|Kayla Brightwater]], Legal Assistant for Registered Agent, at [[ADDRESS?|1999 Bryan St., Ste. 900, Dallas, TX]],
+a true copy of this subpoena, together with the witness fee of [[MONEY?|$10.00]].
+                                   /s/ [[PERSON|Alonzo Pettibone]]   PSC-[[ID_NUMBER|11893]], exp. [[DATE|10/31/2026]]
+                                   [[ORGANIZATION?|Lone Star Process Servers]] -- [[PHONE|214.555.0177]]
+
+cc:  [[PERSON|Courtney Ashford]], [[ORGANIZATION?|Holloway Brandt & Pierce LLP]] -- via eFileTexas ([[EMAIL|cashford@hbplaw.com]])

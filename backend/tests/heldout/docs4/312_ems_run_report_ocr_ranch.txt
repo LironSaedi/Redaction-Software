@@ -1,0 +1,49 @@
+YELL0WSTONE C0UNTY EMS  --  PATIENT CARE REP0RT          [scanned c0py, 0CR text, layout appr0ximate]
+Run #  [[ID_NUMBER|26-OO8814]]      Unit: Medic 7      Crew: [[PERSON|K. Lindqvist]] (Paramedic) / [[PERSON|R. Eagleheart]] (EMT-A)
+Date:  [[DATE|O9/19/2O26]]     Disp 18:42   Enrt 18:43   0n Scene 19:11   Pt C0ntact 19:14   Dep Scene 19:38   At Dest 2O:05
+Dispatch nature:  FALL / UNKN0WN PR0BLEM
+Inc1dent 1ocation:  [[INDIRECT_LOCATION|bunkh0use behind the calving barn, Lazy KW Ranch, 4 mi S 0f Shepherd 0n Hwy 312]]
+
+PATIENT
+Name:  [[PERSON|TW0 M00NS, CYRUS J]]        DOB:  [[DATE_OF_BIRTH|O3/O2/1961]]      Age: [[AGE|65]]      Sex: M      Wt (est):  [[PHYSICAL_DESCRIPTOR?|75 kg]]
+Res:  same as inc1dent  (mai1 t0 [[INDIRECT_LOCATION|ranch 0ffice in the 0ld sch00lhouse by the catt1e guard]])     Ph0ne:  [[PHONE|(4O6) 555-O1S2]]
+NOK:  [[INDIRECT_ROLE|pt's daughter, a teacher at Lodge Grass High]],  [[PERSON|Renata Two Moons-Pease]]  [[PHONE|(4O6) 555-O177]]
+
+CHIEF C0MPLAINT:  fall, R hip pain, ETOH
+
+NARRATIVE
+Called by [[INDIRECT_ROLE|the Lazy KW f0reman]] after pt was f0und 0n the bunkh0use f1oor by [[INDIRECT_ROLE|pt's 16 y/o grands0n]], who
+1ives with him. Pt is [[INDIRECT_ROLE|the 0nly year-r0und hand at the Lazy KW]], per f0reman. Grands0n states pt had been
+drinking at [[INDIRECT_LOCATION|the bar acr0ss fr0m the grain e1evator in Shepherd]] fr0m ab0ut n00n and was dr0pped 0ff ar0und
+5 by [[INDIRECT_ROLE|the state brand inspect0r fr0m the next p1ace up the r0ad]]. Pt tripped 0ver a sadd1e 0n the f1oor.
+Unkn0wn d0wn time, < 1 hr per grands0n. N0 LOC per pt.
+
+0n arriva1 pt 1ying 0n L side, A&0x3, c/0 R hip pain 8/1O, R 1eg sh0rtened and external1y r0tated. Pt n0tes
+[[PHYSICAL_DESCRIPTOR|R 1eg was a1ready 2 in sh0rter, wears a bui1t-up b00t]] fr0m 0ld rodeo fx; crew c0uld n0t
+c0mpare reliab1y. N0 head trauma n0ted.
+
+ASSESSMENT
+Skin warm, dry. [[PHYSICAL_DESCRIPTOR|0ld ragged sc ar acr0ss L 1ower abd0men fr0m a h0rn g0ring]]. [[PHYSICAL_DESCRIPTOR|L0ng gray braid t0
+mid-back]]. Breath s0unds diminished bi1at, scattered wheezes. Abd s0ft. Pelvis stab1e t0 gent1e c0mpressi0n. R 1eg
+neur0vasc intact distal1y.
+
+VITALS
+ 19:16   BP 152/9O   HR 1O2   RR 22   Sp02 9O% RA   GCS 15   BGL 131   Pain 8/1O
+ 19:30   BP 144/86   HR 96    RR 2O   Sp02 94% 2L NC   GCS 15   Pain 5/1O
+ 19:5O   BP 138/84   HR 92    RR 2O   Sp02 95% 2L NC   GCS 15   Pain 4/1O
+
+HISTORY
+PMH:  [[MEDICAL_CONDITION|C0PD]], [[MEDICAL_CONDITION|HTN]], [[SUBSTANCE_USE|ETOH dai1y]] (6-1O beers/day per grands0n)
+Meds:  [[MEDICATION|a1buterol MDI]], [[MEDICATION|1isinopri1 2O mg]]
+A11ergies:  NKDA
+PCP:  [[INDIRECT_LOCATION?|IHS c1inic at Cr0w Agency]]
+
+TREATMENT
+Traction n0t app1ied. Pt packaged 0n scoop w/ pil1ows under R knee, then c0t. 02 2 LPM NC. IV 18g L AC, NS TK0.
+[[MEDICATION|Fentany1 5O mcg IV]] x2 (19:22, 19:34) w/ re1ief. Pt's truck, [[VEHICLE_DESCRIPTION|a 1998 F0rd F-25O f1atbed w/ a d0g b0x]], left
+0n scene; f0reman t0 secure. Grands0n t0 f0ll0w with f0reman.
+
+DISP0SITI0N
+Transp0rted n0n-emergent t0 Bi1lings Regi0nal ED. Rep0rt t0 a nurse at bedside. Pt care transferred 2O:09.
+
+Crew signatures:  [[PERSON|K. Lindqvist]] NRP #[[ID_NUMBER?|MT-P-30871]]     [[PERSON|R. Eagleheart]] EMT #[[ID_NUMBER?|MT-E-41162]]

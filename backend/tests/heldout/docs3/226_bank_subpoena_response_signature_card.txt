@@ -1,0 +1,148 @@
+[OCR TEXT LAYER - scanned production, 5 pp., 200 dpi, Bates KHB-SUB-000001 - KHB-SUB-000005. Uncorrected.]
+
+[[ORGANIZATION?|KEYST0NE HERITAGE BANK, N.A.]]
+Legal 0rder Processing Department  ·  Mail Code PA-HB-0417
+[[ADDRESS?|2l5 Market Street, 9th F1oor, Harrisburg, PA 17101]]
+Te1. [[PHONE?|(717) 555-0166]]   Fax [[PHONE?|(717) 555-0168]]   [[EMAIL?|1egalorders@keystoneheritage.examp1e.com]]
+
+[[DATE?|0ctober 7, 2026]]
+
+VIA UPS NEXT DAY AIR  (Tracking [[ID_NUMBER?|1Z 4E8 802 03 4471 2290]])
+
+[[PERSON|Siobhan M. 0'Rourke-Patel]], Esquire
+[[ORGANIZATION?|Bradford, 0'Rourke & Lim, LLP]]
+[[ADDRESS?|1801 Harnilton Street, Suite 6OO]]
+[[ADDRESS?|A11entown, PA 181O4]]
+
+    Re:   Subpoena Duces Tecum dated [[DATE?|September 2, 2026]]
+          [[ORGANIZATION?|Lehigh Va11ey Roofing Supp1y, Inc.]] v. [[PERSON|Mark A. Kowa1czyk]] and [[PERSON|Dana L. Kowalczyk]]
+          Court of Common P1eas of Lehigh County, No. [[CASE_NUMBER|2026-C-l418]]
+          0ur Reference: [[ID_NUMBER?|L0P-26-09l8844]]
+
+Dear Ms. [[PERSON|0'Rourke-Patel]]:
+
+[[ORGANIZATION?|Keystone Heritage Bank, N.A.]] ("the Bank"), ABA [[ROUTING_NUMBER|031038326]], has comp1eted its search in response to
+the above-referenced subpoena. Based on the identifiers provided (narnes, SSNs ending [[SSN|7l20]] and [[SSN|3364]],
+and the address [[ADDRESS|4418 Hi11top Rd, Orefie1d PA 18069]]), the Bank located the fo11owing accounts:
+
+  Acct No.            Type                         Tit1e / 0wners                                 0pened      Status
+  ------------------  ---------------------------  ---------------------------------------------  ----------  ---------
+  [[BANK_ACCOUNT|0044 7l20 938l]]      Premier Checking             [[PERSON|MARK A K0WALCZYK]] 0R [[PERSON|DANA L K0WALCZYK]]       [[DATE?|O3/14/2016]]  0pen
+  [[BANK_ACCOUNT|0044-7l20-9446]]      Premier Savings              [[PERSON|MARK A KOWALCZYK]] OR [[PERSON|DANA L KOWALCZYK]]       [[DATE?|03/14/20l6]]  0pen
+  [[BANK_ACCOUNT|6620 1l84 07]]        Business Checking (DBA)      [[PERSON|MARK A KOWALCZYK]] DBA [[EMPLOYER|KOWALCZYK EXTERIORS]]         [[DATE?|ll/02/2021]]  Closed [[DATE?|O5/30/2026]]
+  [[BANK_ACCOUNT|7800 3364 l2]]        Ind. Checking                [[PERSON|DANA L KOWALCZYK]]                              [[DATE?|O6/12/2026]]  0pen
+  [[BANK_ACCOUNT|HL-0O9l77204]]        Home Equity Line of Credit   [[PERSON|MARK A KOWALCZYK]] & [[PERSON|DANA L KOWALCZYK]]        [[DATE?|O8/20/2019]]  0pen
+
+Enc1osed p1ease find, on the encrypted CD (KHB-SUB-000006 - KHB-SUB-004471):
+   1. Signature cards and account opening documents for each account (sample at Bates KHB-SUB-000004);
+   2. Monthly statements [[DATE?|January 2024]] through [[DATE?|August 2026]];
+   3. Images of paid checks and deposited items over $500.00 (front and back);
+   4. Incoming and outgoing wire transfer records (Fedwire), including the [[DATE?|04/02/2026]] wire of [[MONEY|$48,500.00]] to
+      [[ORGANIZATION?|Pocono Ridge Title Agency]] and the [[DATE?|05/28/2026]] wire of [[MONEY|$61,200.OO]] to [[PERSON|DANA L KOWALCZYK]],
+      beneficiary acct [[BANK_ACCOUNT|7800336412]] (book transfer);
+   5. Debit card ([[CREDIT_CARD|4400 0031 7167 1235]] and card ending [[CREDIT_CARD|8019]]) transaction logs.
+
+The CD is encrypted. The password wi11 be sent under separate cover by ernai1 to [[EMAIL|sorourke@borlaw.example.com]]
+and is: [[PASSWORD|Kh!2026-O9l8#cd]]
+
+The Bank did not locate any safe deposit box, brokerage or trust re1ationship. Records for the Bank's
+affiliate, [[ORGANIZATION?|Keystone Heritage Investrnent Services]], must be subpoenaed separate1y. Pursuant to the Right
+to Financial Privacy Act, 12 U.S.C. § 3401 et seq., and 42 Pa.C.S. § 5932, the Bank's research and reproduction
+charges are [[MONEY|$412.50]] (Invoice LOP-INV-26-8873). P1ease remit to the address above.
+
+Very tru1y yours,
+
+[[SIGNATURE|/s/ Tamara J. Wo jcik]]
+[[PERSON|Tamara J. Wojcik]]
+Lega1 0rder Specia1ist I1, Direct [[PHONE|(717) 555-0161]], [[EMAIL|tamara.wojcik@keystoneheritage.examp1e.com]]
+                                                                                    KHB-SUB-000001
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+                    CERTIFICATI0N 0F REC0RDS 0F REGULARLY C0NDUCTED ACTIVITY
+                        (Pa.R.E. 803(6), 902(11); 42 Pa.C.S. § 6108)
+
+C0MM0NWEALTH 0F PENNSYLVANIA     )
+                                 )  ss.
+C0UNTY 0F DAUPHIN                )
+
+I, [[PERSON|Tamara J. W0jcik]], being du1y sworn according to 1aw, depose and say:
+
+  1. I am ernp1oyed by [[ORGANIZATION?|Keystone Heritage Bank, N.A.]] as a Legal 0rder Specia1ist I1 and am a custodian
+     of records, or am otherwise qua1ified, with respect to the records described be1ow.
+  2. The records produced (Bates KHB-SUB-000001 through KHB-SUB-004471) re1ating to accounts ending
+     [[BANK_ACCOUNT|938l]], [[BANK_ACCOUNT|9446]], [[BANK_ACCOUNT|ll84 07]], [[BANK_ACCOUNT|3364 l2]] and [[BANK_ACCOUNT|l77204]] are true and comp1ete copies of records
+     made at or near the time of the acts and events recorded, by, or from inforrnation transmitted by,
+     persons with know1edge;
+  3. The records were kept in the course of the Bank's regu1ar1y conducted business activity; and
+  4. It was the regu1ar practice of that business activity to make the records.
+
+[[SIGNATURE|Tarnara J Wojcik]]
+_______________________________                      Sworn to and subscribed before me this
+[[PERSON|Tamara J. Wojcik]], Custodian of Records             [[DATE?|7th day of 0ctober, 2026]].
+Ernp1oyee ID [[ID_NUMBER|KHB-l04877]]
+                                                     [[SIGNATURE|Rena1do P. Castiglione]]
+                                                     ______________________________
+                                                     Notary Pub1ic
+
+    | C0MM0NWEALTH 0F PENNSYLVANIA - N0TARY SEAL                       |
+    | [[PERSON|RENALD0 P. CASTIGLI0NE]], Notary Pub1ic                           |
+    | Dauphin County                                                   |
+    | My Cornmission Expires [[DATE?|March l9, 2029]]                          |
+    | Cornmission Nurnber [[ID_NUMBER?|1288471]]                                     |
+                                                                                    KHB-SUB-000002
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[[ORGANIZATION?|KEYSTONE HERITAGE BANK]]   ACCOUNT INDEX / CHECK IMAGE L0G (excerpt)          KHB-SUB-000003
+
+ Seq#      Posted      Acct           Item          Arnount        Payee / Endorsement (as imaged)
+ -------   ---------   ------------   -----------   ------------   ----------------------------------------------------
+ 88410221  [[DATE?|O4/01/26]]    ...[[BANK_ACCOUNT|938l]]       Ck 1188       [[MONEY|4,2OO.OO]]       Pay to [[PERSON|Dana Kowa1czyk]] / "For dep0sit on1y acct [[BANK_ACCOUNT|7800 3364 12]]"
+ 88410977  [[DATE?|04/09/26]]    ...[[BANK_ACCOUNT|11 84 07]]     Ck 3021       [[MONEY|18,750.00]]      Pay to [[ORGANIZATION?|A11egheny Bui1ding Supp1y]] / stamp "[[ORGANIZATION?|ALLEGHENY BLDG SUPPLY]] - acct [[BANK_ACCOUNT|2291004417]]"
+ 88412003  [[DATE?|04/15/26]]    ...[[BANK_ACCOUNT|1184 O7]]     Dep           [[MONEY|22,400.OO]]      Ck #50417 drawn on [[ORGANIZATION?|Lehigh Va1ley Roofing Supply]]
+                                                              MICR on item:  ⑆[[ROUTING_NUMBER|036036404]]⑆ [[BANK_ACCOUNT|004418220]]⑈ 050417
+ 88412871  [[DATE?|04/22/26]]    ...[[BANK_ACCOUNT|9381]]       Ck 1191       [[MONEY|2,500.00]]       Pay to [[PERSON|Kyle Bernhardt-Sosa]] (memo: "[[INDIRECT_ROLE|dumpster guy - Fogelsville jobs]]")
+ 88415520  [[DATE?|05/02/26]]    ...[[BANK_ACCOUNT|938 1]]       Ck 1194       [[MONEY|9,000.00]]       Pay to Cash / endorsed [[PERSON|M Kowalczyk]] DL [[DRIVERS_LICENSE|28 4l7 O93]]
+ 88417706  [[DATE?|05/28/26]]    ...[[BANK_ACCOUNT|1184 07]]     W-0UT         [[MONEY|61,200.00]]      Book transfer to ...[[BANK_ACCOUNT|336412]] (memo "[[FINANCIAL_INFO?|separate property]]")
+
+ Starter check / deposit ticket image (acct [[BANK_ACCOUNT|0044 7120 9381]]):
+       [[PERSON|MARK A K0WALCZYK]]
+       [[PERSON|DANA L KOWALCZYK]]                                     1001
+       [[ADDRESS|4418 HILLT0P RD]]
+       [[ADDRESS|0REFIELD PA 18069-9112]]
+   :[[ROUTING_NUMBER|O3lO38326]]: [[BANK_ACCOUNT|OO447l2O938l]]" 1OO1
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+[[ORGANIZATION?|KEYSTONE HERITAGE BANK, N.A.]]            DEP0SIT ACC0UNT SIGNATURE CARD                    KHB-SUB-000004
+                                                    (Persona1 - Joint w/ Right of Survivorship)
+Account No.: [[BANK_ACCOUNT|0044 7l2O 938l]]      Product: Prernier Checking (P41)     Date 0pened: [[DATE?|O3/l4/20l6]]
+Branch: [[INDIRECT_LOCATION|A11entown - Ti1ghman St #044]]          0pened by: [[PERSON|J. Ferrar0]] (Emp [[ID_NUMBER|40877]])
+Ownership: [X] Joint - WROS   [ ] Individua1   [ ] Trust   [X] POD
+POD Beneficiary: [[MINOR|Emi1y R0se Kowa1czyk]]   Re1: daughter   DOB [[DATE_OF_BIRTH|O7/O2/2Ol2]]
+
+------------------------- SIGNER 1 -----------------------------------------------------------------------
+Narne:     [[PERSON|MARK ANTH0NY K0WALCZYK]]            Custorner (CIF) No.: [[ID_NUMBER|C1F 0O9 8812 204]]
+SSN/TIN:   [[SSN|l87-44-7l2O]]                       DOB: [[DATE_OF_BIRTH|11/23/l979]]   Citizenship: US
+ID:        PA DL [[DRIVERS_LICENSE|28 4l7 O93]]    Issued [[DATE?|O6/2O15]]   Exp [[DATE?|ll/24/2O19]]   (rescanned [[DATE?|2023]]: DL [[DRIVERS_LICENSE|28417093]] exp [[DATE?|11/24/2027]])
+Address:   [[ADDRESS|44l8 Hi11top Rd]], [[ADDRESS|0refie1d, PA 18O69-9112]]
+Phone:     Hm [[PHONE|(6l0) 555-Ol94]]   Ce11 [[PHONE|484-555-O172]]    Ernai1 [[EMAIL|mkowa1czyk.exteriors@exarnplemai1.com]]
+Ernp1oyer: Se1f - [[EMPLOYER|Kowa1czyk Exteriors]] (roofing/siding)     0ccupation: 0wner/contractor
+Security question: Mother's rnaiden name   Answer: [[PASSWORD|DZIEDZIC]]
+Te1ephone banking PIN set: Y  (PIN not displayed)
+Signature:  [[SIGNATURE|Mark A. Kowalczyk]]
+
+------------------------- SIGNER 2 -----------------------------------------------------------------------
+Narne:     [[PERSON|DANA LYNN K0WALCZYK]] (fka [[PERSON|DANA LYNN HUBER]])   Custorner (CIF) No.: [[ID_NUMBER|CIF 009 88l2 2ll]]
+SSN/TIN:   [[SSN|2l9-O6-3364]]                       DOB: [[DATE_OF_BIRTH|O4/O9/l98l]]   Citizenship: US
+ID:        US Passport [[PASSPORT|5O9 22l 847]]    Exp [[DATE?|O8/3O/2O24]]
+Address:   sarne as Signer 1
+Phone:     Ce11 [[PHONE|(484) 555-0l39]]    Ernai1 [[EMAIL|danakowalczyk81@exarnp1email.com]]
+Ernp1oyer: [[EMPLOYER|Saucon Va11ey Regiona1 Hea1th Netw0rk]]   0ccupation: [[INDIRECT_ROLE|RN, 3rd shift NICU charge nurse]]
+Security question: Narne of first pet   Answer: [[PASSWORD|R0cco]]
+Signature:  [[SIGNATURE|Dana L Kowalczyk]]
+
+TAXPAYER IDENTIFICATI0N CERTIFICATI0N (Form W-9 substitute): Under pena1ties of perjury, I certify that the
+nurnber shown on this forrn is rny correct taxpayer identification nurnber, and I am not subject to backup
+withho1ding.          Signer 1 [[SIGNATURE|MAK]]            Signer 2 [[SIGNATURE|DLK]]
+
+Changes: [[DATE?|O6/l2/2026]] - Signer 2 requested rernova1 frorn account; DENIED (joint ACH a gr eernent requires
+both signers). Note by [[PERSON|P. Nwachukwu-Hess]], Branch Mgr: "custorner states divorce pending, wants separate
+acct - opened [[BANK_ACCOUNT|7800 3364 l2]]."  0FAC check: no rnatch.  ChexSystems: [[ID_NUMBER?|CX-77l044]] - no record.
+                                                                                    KHB-SUB-000004
+[0CR confidence 74%; 2 regions unread (signature b1ocks); page KHB-SUB-000005 b1ank]

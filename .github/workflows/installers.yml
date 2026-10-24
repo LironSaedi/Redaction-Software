@@ -1,0 +1,86 @@
+# Build the macOS (.pkg) and Windows (.exe) installers. Run from the Actions tab ("Run workflow").
+# "with_models" downloads the AI models on the build machine (~4.6 GB) and bakes them into a full offline installer.
+name: installers
+on:
+  workflow_dispatch:
+    inputs:
+      with_models:
+        description: "Include the AI models (full offline installer)"
+        type: boolean
+        default: false
+permissions:
+  contents: read
+jobs:
+  macos:
+    runs-on: macos-14            # Apple Silicon
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - uses: astral-sh/setup-uv@v6
+      - run: brew install tesseract
+      - run: cd frontend && npm ci && npm run build
+      - name: models
+        if: ${{ inputs.with_models }}
+        run: |
+          uv venv --python 3.12 backend/.venv
+          cd backend && uv pip install --python .venv/bin/python -r requirements.txt --excludes requirements-exclude.txt
+          .venv/bin/python scripts/download_models.py
+      - run: packaging/macos/build_macos.sh ${{ inputs.with_models && '--with-models' || '' }}
+        env:
+          SIGN_APP: ${{ secrets.MAC_SIGN_APP }}
+          SIGN_PKG: ${{ secrets.MAC_SIGN_PKG }}
+      - uses: actions/upload-artifact@v4
+        with: { name: obscura-macos, path: dist/*.pkg, retention-days: 14 }
+  windows:
+    runs-on: windows-2022
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: 20 }
+      - uses: astral-sh/setup-uv@v6
+      - run: choco install innosetup --no-progress -y
+      - name: web interface
+        working-directory: frontend
+        run: |
+          npm ci
+          if ($LASTEXITCODE) { exit 1 }
+          npm run build
+      - name: models
+        if: ${{ inputs.with_models }}
+        working-directory: backend
+        run: |
+          uv venv --python 3.12 .venv
+          uv pip install --python .venv\Scripts\python.exe -r requirements.txt --excludes requirements-exclude.txt
+          if ($LASTEXITCODE) { exit 1 }
+          .venv\Scripts\python.exe scripts\download_models.py --skip-spacy
+      # Windows PowerShell 5.1, the same shell the build instructions use on a developer PC
+      - run: powershell -ExecutionPolicy Bypass -File packaging\windows\build_windows.ps1 ${{ inputs.with_models && '-WithModels' || '' }}
+      - uses: actions/upload-artifact@v4
+        with: { name: obscura-windows, path: "dist/Obscura-*-Windows*", retention-days: 14 }
+  # Install the built installer on fresh Windows machines and use it like a person would (packaging/windows/smoke_test.ps1):
+  # Start menu -> setup assistant -> analyze and export a PDF -> uninstall keeping data -> reinstall -> uninstall deleting data
+  windows-smoke-test:
+    needs: windows
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [windows-2022, windows-2025]   # Windows 10 / Windows 11 generation
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+        with: { sparse-checkout: packaging/windows }
+      - uses: actions/download-artifact@v4
+        with: { name: obscura-windows, path: dist }
+      - name: smoke test
+        shell: powershell
+        run: |
+          $exe = Get-ChildItem dist\Obscura-*-Windows*.exe | Select-Object -First 1
+          powershell -ExecutionPolicy Bypass -File packaging\windows\smoke_test.ps1 -Installer $exe.FullName -LogDir "$env:RUNNER_TEMP\obscura-smoke"
+          if ($LASTEXITCODE) { exit 1 }
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with: { name: "obscura-smoke-${{ matrix.os }}", path: "${{ runner.temp }}/obscura-smoke", retention-days: 14 }

@@ -1,0 +1,521 @@
+{
+ "recall": 0.9804432855280313,
+ "precision": 0.9886486486486487,
+ "f1": 0.9845288708870981,
+ "per_type": {
+  "PHONE": {
+   "gold": 134,
+   "caught": 134
+  },
+  "PERSON": {
+   "gold": 752,
+   "caught": 751
+  },
+  "MRN": {
+   "gold": 36,
+   "caught": 36
+  },
+  "DATE_OF_BIRTH": {
+   "gold": 71,
+   "caught": 71
+  },
+  "INDIRECT_LOCATION": {
+   "gold": 60,
+   "caught": 58
+  },
+  "INDIRECT_ROLE": {
+   "gold": 12,
+   "caught": 10
+  },
+  "EMPLOYER": {
+   "gold": 48,
+   "caught": 44
+  },
+  "USERNAME": {
+   "gold": 23,
+   "caught": 22
+  },
+  "LAW_ENFORCEMENT_ID": {
+   "gold": 71,
+   "caught": 52
+  },
+  "ADDRESS": {
+   "gold": 67,
+   "caught": 67
+  },
+  "SCHOOL": {
+   "gold": 11,
+   "caught": 11
+  },
+  "EMAIL": {
+   "gold": 40,
+   "caught": 40
+  },
+  "ID_NUMBER": {
+   "gold": 37,
+   "caught": 37
+  },
+  "HEALTH_PLAN_ID": {
+   "gold": 17,
+   "caught": 17
+  },
+  "PHYSICAL_DESCRIPTOR": {
+   "gold": 16,
+   "caught": 16
+  },
+  "PASSWORD": {
+   "gold": 10,
+   "caught": 10
+  },
+  "MEDICARE_ID": {
+   "gold": 1,
+   "caught": 1
+  },
+  "DRIVERS_LICENSE": {
+   "gold": 19,
+   "caught": 19
+  },
+  "GPS": {
+   "gold": 7,
+   "caught": 6
+  },
+  "SSN": {
+   "gold": 20,
+   "caught": 20
+  },
+  "CLAIM_NUMBER": {
+   "gold": 19,
+   "caught": 19
+  },
+  "CREDIT_CARD": {
+   "gold": 4,
+   "caught": 4
+  },
+  "CARD_EXPIRY": {
+   "gold": 2,
+   "caught": 2
+  },
+  "CVV": {
+   "gold": 2,
+   "caught": 2
+  },
+  "LICENSE_PLATE": {
+   "gold": 10,
+   "caught": 10
+  },
+  "VIN": {
+   "gold": 6,
+   "caught": 6
+  },
+  "DEVICE_ID": {
+   "gold": 5,
+   "caught": 5
+  },
+  "POLICY_NUMBER": {
+   "gold": 8,
+   "caught": 8
+  },
+  "IBAN": {
+   "gold": 1,
+   "caught": 1
+  },
+  "BANK_ACCOUNT": {
+   "gold": 16,
+   "caught": 16
+  },
+  "PASSPORT": {
+   "gold": 3,
+   "caught": 3
+  },
+  "NATIONAL_ID": {
+   "gold": 2,
+   "caught": 2
+  },
+  "ROUTING_NUMBER": {
+   "gold": 4,
+   "caught": 4
+  }
+ },
+ "misses": [
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "K0wa1-chick",
+   "coverage": 0.0,
+   "context": "nt kn0w his last name it\u23ceis P0lish s0mething like K0wa1-chick. They have a 1itt1e gir1 Li1y",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "the Pinecrest",
+   "coverage": 0.75,
+   "context": " CT:  7420 Callaghan Road, apartment 12B. Is that the Pinecrest?\u23ce00:12  C:   Yes, Pinecrest, ",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "#044 (Harlingen)",
+   "coverage": 0.27,
+   "context": "a Venkatesh; $29.00 per hour.\u23ce     c. H-E-B Store #044 (Harlingen); pharmacy clerk; 2012 to 2014",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "value": "journeyman lineman with a standard 7:00 a.m. -- 3:30 p.m. schedule",
+   "coverage": 0.0,
+   "context": " no report to any agency.\u23ce    d.  Petitioner is a journeyman lineman with a standard 7:00 a.m. -- 3:30 p.m. schedule and on-call storm\u23ce        rot",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "23_interrogatory_answers",
+   "value": "my next-door neighbor and carpool partner",
+   "coverage": 0.0,
+   "context": " deposition of the minor).\u23ce     - Karen Whitmore, my next-door neighbor and carpool partner -- before/after condition.\u23ce\u23ceI",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "24_rfp_response",
+   "value": "Seoul Food ATX LLC",
+   "coverage": 0.0,
+   "context": "N NO. 5: Point-of-sale (Square) sales reports for Seoul Food ATX LLC, 2023 to present.\u23ceRESPONSE: S",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "26_recorded_statement_transcript",
+   "value": "Seoul Food",
+   "coverage": 0.0,
+   "context": "t. The plate is SFD 4417 -- it's a vanity plate, \"Seoul Food.\"\u23ceMOK:  Anyone with you?\u23ceHP: ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "SE0UL F00D ATX LLC",
+   "coverage": 0.0,
+   "context": "                   BUSlNESS CHECKlNG STATEMENT\u23ce\u23ce  SE0UL F00D ATX LLC                              ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "value": "SE0UL F00D ATX LLC",
+   "coverage": 0.0,
+   "context": " CAPITAL HlLL COMMUNlTY BANK   Acct ending 3318   SE0UL F00D ATX LLC   Page 2 of 3\u23ce\u23ce  WlTHDRAWALS ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "inmate account DKOWALCZYK0098812",
+   "coverage": 0.57,
+   "context": "(sent via jail tablet? -- follow up with BCADC\u23ceon inmate account DKOWALCZYK0098812): \"you know what you did. dro",
+   "entity": "USERNAME"
+  },
+  {
+   "doc": "03_psychiatric_evaluation",
+   "value": "DPD-PR-25-118402",
+   "coverage": 0.0,
+   "context": "handgun and\u23ce     ammunition; DPD property receipt DPD-PR-25-118402 -- handgun was taken by\u23ce     ",
+   "entity": "LAW_ENFORCEMENT_ID"
+  },
+  {
+   "doc": "15_police_incident_report_dv",
+   "value": "E2025-0816-01177",
+   "coverage": 0.0,
+   "context": "----\u23ceREPORT #: SAPD-25-187734        CAD EVENT #: E2025-0816-01177       PAGE 1 OF 4\u23ceDATE/TIME R",
+   "entity": "LAW_ENFORCEMENT_ID"
+  },
+  {
+   "doc": "16_police_crash_report",
+   "value": "E-25-0731188-01",
+   "coverage": 0.67,
+   "context": "rks 22-48 ft W of AOI. Photos: 64 (APD Evidence\u23ce  E-25-0731188-01 through -64).\u23ce\u23ceFACTORS & COND",
+   "entity": "LAW_ENFORCEMENT_ID"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "4l27",
+   "coverage": 0.0,
+   "context": ". Pham      Date: 8/l6/25\u23ce\u23ceWitness: J. Castaneda #4l27                   Date: 8/l6/",
+   "entity": "LAW_ENFORCEMENT_ID"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "3390",
+   "coverage": 0.0,
+   "context": "               Date: 8/l6/2025\u23ceWitness: M. D0y1e #3390\u23ce\u23ce[margina1 n0te, different in",
+   "entity": "LAW_ENFORCEMENT_ID"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "value": "25187734",
+   "coverage": 0.0,
+   "context": "IVED  AUG 19 2025  SAPD RECORDS -- FVU\u23ce[barc0de:] 25187734-WS-01\u23ce",
+   "entity": "LAW_ENFORCEMENT_ID"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "E2025-0816-01177",
+   "coverage": 0.0,
+   "context": "Related SAPD report: SAPD-25-187734    CAD Event: E2025-0816-01177\u23ce-----------------------------",
+   "entity": "LAW_ENFORCEMENT_ID"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "E2025-0816-01177",
+   "coverage": 0.0,
+   "context": "e shirts.\u23ce\fBEXAR METRO 911 -- TRANSCRIPT -- Event E2025-0816-01177 -- Caller PHAM ROSALIND T -- ",
+   "entity": "LAW_ENFORCEMENT_ID"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "value": "4127",
+   "coverage": 0.0,
+   "context": "Agency: SAPD     Arresting Officer: CASTANEDA, J #4127     Transporting: DOYLE, M #3",
+   "entity": "LAW_ENFORCEMENT_ID"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "value": "3390",
+   "coverage": 0.0,
+   "context": "r: CASTANEDA, J #4127     Transporting: DOYLE, M #3390\u23ce  Arrest Date/Time: 08/17/202",
+   "entity": "LAW_ENFORCEMENT_ID"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "value": "P25-0816-3301",
+   "coverage": 0.0,
+   "context": "OT IN PROPERTY -- seized as evidence by SAPD (tag P25-0816-3301)\u23ce\u23ceCLASSIFICATION\u23ce  Objective ",
+   "entity": "LAW_ENFORCEMENT_ID"
+  },
+  {
+   "doc": "19_jail_booking_sheet",
+   "value": "TX2508170146B",
+   "coverage": 0.0,
+   "context": "# 25-0817-0144-01..06)\u23ceFINGERPRINTS: Livescan TCN TX2508170146B -- IDENT HIT (prior SID)\u23ce\u23ceInm",
+   "entity": "LAW_ENFORCEMENT_ID"
+  },
+  {
+   "doc": "34_dmv_driving_record",
+   "value": "HC24-0011873",
+   "coverage": 0.0,
+   "context": " (I-10 Katy Fwy)             HCJP 5-1  TX1010500  HC24-0011873     --*\u23ce  09/03/2022  11/18/2",
+   "entity": "LAW_ENFORCEMENT_ID"
+  },
+  {
+   "doc": "34_dmv_driving_record",
+   "value": "M22-4471902",
+   "coverage": 0.0,
+   "context": "TAIN FIN RESP (NO INS)        HOUSTON MUNI        M22-4471902      --*\u23ce  04/27/2019  10/10/",
+   "entity": "LAW_ENFORCEMENT_ID"
+  },
+  {
+   "doc": "34_dmv_driving_record",
+   "value": "19-0488102",
+   "coverage": 0.0,
+   "context": " -- refusal               DPS ADMIN           ALR 19-0488102      --\u23ce  06/30/2017  08/11/2",
+   "entity": "LAW_ENFORCEMENT_ID"
+  },
+  {
+   "doc": "34_dmv_driving_record",
+   "value": "K17-118204",
+   "coverage": 0.0,
+   "context": "5 (school zone)               KATY MUNI           K17-118204       --*\u23ce  * Points no longe",
+   "entity": "LAW_ENFORCEMENT_ID"
+  },
+  {
+   "doc": "34_dmv_driving_record",
+   "value": "20631187",
+   "coverage": 0.0,
+   "context": "-  --------------------------------\u23ce  07/04/2025  20631187    HARRIS    FATAL (K) -- ped",
+   "entity": "LAW_ENFORCEMENT_ID"
+  },
+  {
+   "doc": "34_dmv_driving_record",
+   "value": "19044718",
+   "coverage": 0.0,
+   "context": " TPC 49.08 (arrest -- intox mansl.)\u23ce  02/11/2022  19044718    HARRIS    POSSIBLE INJURY ",
+   "entity": "LAW_ENFORCEMENT_ID"
+  },
+  {
+   "doc": "34_dmv_driving_record",
+   "value": "17702291",
+   "coverage": 0.0,
+   "context": "URY (C)    Y                 FTYROW\u23ce  04/27/2019  17702291    FT BEND   PROPERTY DAMAGE ",
+   "entity": "LAW_ENFORCEMENT_ID"
+  },
+  {
+   "doc": "18_911_call_transcript",
+   "value": "LAT +29.502288  LON -098.571934",
+   "coverage": 0.78,
+   "context": " 6100 CALLAGHAN RD S/E sector\u23ce  Phase II:         LAT +29.502288  LON -098.571934  Uncertainty 9 m  Confidence ",
+   "entity": "GPS"
+  }
+ ],
+ "false_positives": [
+  {
+   "doc": "04_sud_progress_note_part2",
+   "entity": "INDIRECT_ROLE",
+   "text": "her ex-boyfriend",
+   "score": 0.65,
+   "source": "quasi:relationship",
+   "context": "n two occasions, 09/20 and 09/21, after her ex-boyfriend\u23ce  \"Cody\" showed up at he"
+  },
+  {
+   "doc": "11_ems_run_report",
+   "entity": "SSN",
+   "text": "XXX-XX-1934",
+   "score": 0.98,
+   "source": "pattern:ssn_masked",
+   "context": " 78704\u23ce  Phone: 512-836-2290       SSN: XXX-XX-1934       Weight: 64 kg (est"
+  },
+  {
+   "doc": "12_independent_medical_exam",
+   "entity": "INDIRECT_LOCATION",
+   "text": "eastbound Ben White",
+   "score": 0.77,
+   "source": "quasi:travel_location",
+   "context": " on a green arrow from S. Congress onto eastbound Ben White, her car was struck on\u23cet"
+  },
+  {
+   "doc": "16_police_crash_report",
+   "entity": "INDIRECT_LOCATION",
+   "text": "westbound on E Ben White Blvd",
+   "score": 0.58,
+   "source": "quasi:travel_location",
+   "context": "t 1 (tractor-semitrailer) was traveling westbound on E Ben White Blvd main lanes approaching\u23ce "
+  },
+  {
+   "doc": "16_police_crash_report",
+   "entity": "INDIRECT_LOCATION",
+   "text": "northbound on S Congress Ave",
+   "score": 0.58,
+   "source": "quasi:travel_location",
+   "context": "pproaching\u23ce  S Congress Ave. Unit 2 was northbound on S Congress Ave in the left turn lane, t"
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "entity": "LAW_ENFORCEMENT_ID",
+   "text": "Rep0rt N0",
+   "score": 0.95,
+   "source": "label:law_enforcement_id+ocr",
+   "context": "ARREST\u23ceForm SAPD-114 (Rev. 06/18)\u23ce\u23ceCase/Rep0rt N0. SAPD-25-l87734         "
+  },
+  {
+   "doc": "17_witness_statement_neighbor_ocr",
+   "entity": "EMPLOYER",
+   "text": "USAA c1aims dept",
+   "score": 0.95,
+   "source": "ner:gliner:employer",
+   "context": "-455-09l2\u23ceEmpl0yer: retired -- f0rmerly USAA c1aims dept.\u23ce\u23ceI, R0salind Pham, havi"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "entity": "INDIRECT_LOCATION",
+   "text": "lot at Inks Lake",
+   "score": 0.95,
+   "source": "quasi:place_at_street",
+   "context": "oner claims as separate property a lake lot at Inks Lake inherited from his fathe"
+  },
+  {
+   "doc": "22_divorce_custody_petition",
+   "entity": "INDIRECT_LOCATION",
+   "text": "an apartment off Brushy Creek Road",
+   "score": 0.92,
+   "source": "descriptor:dwelling",
+   "context": "ut of bed. She\u23cemoved out on August 9 to an apartment off Brushy Creek Road. On August 11 she sent m"
+  },
+  {
+   "doc": "26_recorded_statement_transcript",
+   "entity": "SCHOOL",
+   "text": "Texas A&M",
+   "score": 0.7,
+   "source": "ner:spacy:ORG",
+   "context": ".\" He was\u23ce      nice about it. He had a Texas A&M sticker.\u23ceMOK:  Did polic"
+  },
+  {
+   "doc": "29_employer_wage_verification",
+   "entity": "SSN",
+   "text": "XXX-XX-1934",
+   "score": 0.98,
+   "source": "pattern:ssn_masked",
+   "context": "Ruiz\u23ce    Employee ID: SFD-0117     SSN: XXX-XX-1934\u23ce\u23ceTo Whom It May Concern:"
+  },
+  {
+   "doc": "30_payroll_stub",
+   "entity": "SSN",
+   "text": "XXX-XX-7735",
+   "score": 0.98,
+   "source": "pattern:ssn_masked",
+   "context": "   1507 KESTREL HOLLOW DR          SSN: XXX-XX-7735     Pay Period: 06/01/25"
+  },
+  {
+   "doc": "30_payroll_stub",
+   "entity": "BANK_ACCOUNT",
+   "text": "******4093",
+   "score": 0.95,
+   "source": "pattern:partial_number",
+   "context": "ral Credit Union   RTN 366043837   ACCT ******4093   885.98 |\u23ce+------------"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "entity": "INDIRECT_LOCATION",
+   "text": "H-E-B #O7l5 AUSTlN TX",
+   "score": 0.87,
+   "source": "quasi:merchant+ocr",
+   "context": "       -85O.OO\u23ce  O4/O4   CHECKCARD 04O3 H-E-B #O7l5 AUSTlN TX  card ...7719     -3l2.9"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "entity": "SSN",
+   "text": "***-**-O927",
+   "score": 0.97,
+   "source": "pattern:ssn_masked+ocr",
+   "context": "  ACH lRS USATAXPYMT 2O25 Q1 EST -- SSN ***-**-O927       -3,2OO.OO\u23ce  O4/29 "
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "entity": "ID_NUMBER",
+   "text": "4O8812",
+   "score": 0.85,
+   "source": "label:id_number",
+   "context": "7.\u23ce\u23ce  Capital Hill Community Bank NMLS #4O8812.  Statement ID 2O25O43O-"
+  },
+  {
+   "doc": "31_bank_statement_ocr",
+   "entity": "MRN",
+   "text": "2O25O43O-B-OOl",
+   "score": 0.98,
+   "source": "label:mrn",
+   "context": "munity Bank NMLS #4O8812.  Statement ID 2O25O43O-B-OOl.\u23ce## END OCR -- confidenc"
+  },
+  {
+   "doc": "32_tax_return_excerpt",
+   "entity": "SSN",
+   "text": "***-**-0927",
+   "score": 0.98,
+   "source": "pattern:ssn_masked",
+   "context": "2024) -- PARK, HYUN WOO & JI EUN -- SSN ***-**-0927                         "
+  },
+  {
+   "doc": "33_school_records_iep",
+   "entity": "PERSON",
+   "text": "Wilson",
+   "score": 0.97,
+   "source": "ner:spacy:PERSON",
+   "context": "----\u23ce  Specialized reading instruction (Wilson)  Resource room         "
+  },
+  {
+   "doc": "34_dmv_driving_record",
+   "entity": "PERSON",
+   "text": "HARRIS",
+   "score": 0.85,
+   "source": "ner:gliner:last name",
+   "context": "-------------\u23ce  07/04/2025  20631187    HARRIS    FATAL (K) -- pedestri"
+  },
+  {
+   "doc": "37_letter_of_protection",
+   "entity": "INDIRECT_LOCATION",
+   "text": "southbound Loop 1",
+   "score": 0.77,
+   "source": "quasi:travel_location",
+   "context": "hicle collision on January 22, 2025, on southbound Loop 1 (MoPac) in Austin. Mr. P"
+  }
+ ]
+}

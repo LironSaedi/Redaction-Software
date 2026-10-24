@@ -1,0 +1,110 @@
+[[ORGANIZATION?|GOLDEN DELTA BANK]] -- FRAUD & DISPUTES OPERATIONS
+STATEMENT OF UNAUTHORIZED ELECTRONIC FUND TRANSFERS (Regulation E)        Form GDB-FD-210 (rev. 01/2026)
+
+Claim number      [[CLAIM_NUMBER|FD-26-1012-88417]]                      Date received   [[DATE?|10/12/2026]] 08:47 PT
+Customer name     [[PERSON|Beatriz N. Saldana-Whitlock]]           Customer ID     [[ID_NUMBER|CIF 0041887203]]
+Address           [[ADDRESS|5127 Riverbend Oaks Way]]               Date of birth   [[DATE_OF_BIRTH|09/14/1982]]
+                  [[ADDRESS|Sacramento, CA 95831]]                  SSN (last 4)    [[SSN|6627]]
+Daytime phone     [[PHONE|(916) 555-0273]]                        Alt phone       [[PHONE|(916) 555-0455]] (husband, [[PERSON|Colin Whitlock]])
+Email on file     [[EMAIL|bea.saldana.w@gmail.com]]  (changed [[DATE?|10/11/2026]] 23:58 to [[EMAIL|bsw.secure.mail@protonmail.com]] -- NOT BY CUSTOMER)
+Accounts affected Checking ...[[BANK_ACCOUNT|7704]] (full: [[BANK_ACCOUNT|3390-0217-7704]])   Savings ...[[BANK_ACCOUNT|7712]]   Debit card ending [[CREDIT_CARD|2291]]
+Online user ID    [[USERNAME|bsaldana_w82]]                          Card status     BLOCKED [[DATE?|10/12/2026]] 08:52, reissue ordered
+
+SECTION 1 -- TRANSACTIONS YOU ARE DISPUTING
+  Date              Type          Description                                       Amount
+  [[DATE?|10/12/2026]] 00:14  Online xfer   SAV ...[[BANK_ACCOUNT|7712]] to CHK ...[[BANK_ACCOUNT|7704]]                                    4,800.00
+  [[DATE?|10/12/2026]] 00:21  Zelle         To "[[PERSON|JORDAN K MILLER]]" token [[PHONE|(469) 555-0190]]                     2,500.00
+  [[DATE?|10/12/2026]] 00:26  Zelle         To "[[PERSON|J MILLER]]" token [[EMAIL|jkm.payments88@gmail.com]]                  2,000.00
+  [[DATE?|10/12/2026]] 00:40  Debit POS     APPLE PAY ...[[CREDIT_CARD|2291]] BEST BUY 00018804 ONLINE                    1,689.99
+  [[DATE?|10/12/2026]] 01:03  Debit POS     APPLE PAY ...[[CREDIT_CARD|2291]] COINFLIP BTC ATM DALLAS TX                    980.00
+  [[DATE?|10/12/2026]] 01:10  Wire (online) Attempted -- to [[PERSON|M. Okonjo]], [[ORGANIZATION?|Lone Prairie Bank]] ABA [[ROUTING_NUMBER|111390832]]
+                                    acct [[BANK_ACCOUNT|80044127719]] -- BLOCKED by velocity rule              (9,750.00)
+                                                                                    Total disputed [[MONEY|7,169.99]]
+
+SECTION 2 -- QUESTIONS
+  Did you authorize anyone to use your card, PIN, or online banking credentials?   [ ] Yes  [X] No
+  Do you still have your card in your possession?   [X] Yes   -- card is in my wallet
+  Did you receive any calls, texts or emails asking for codes before these transactions?   [X] Yes
+     Explain: "Around 11:40pm on 10/11 I got a text that looked like it came from Golden Delta saying a $1,200
+     Zelle was pending and to call. I called the number in the text, [[PHONE|(888) 555-0122]], and a man said he was
+     from the fraud department. He knew my name and the last four of my card. He said he would send a code to
+     'cancel' the payment and I read him the code. I think it was [[PASSWORD|418209]]. Then he asked for my online
+     password to 'secure' the account and I told him -- it was [[PASSWORD|Lagoon!Sac2024]] -- I know, I'm so stupid."
+  Have you filed a police report?   [X] Yes   Agency: Sacramento PD   Report no. [[CASE_NUMBER|26-288104]]
+  FTC IdentityTheft.gov report no. [[ID_NUMBER|FTC-152883017]]
+
+  Customer signature [[SIGNATURE|Beatriz N. Saldana-Whitlock]]            Date [[DATE?|10/12/2026]]
+
+                                                                                                Page 1 of 4
+
+--- Page 2 ---
+
+DIGITAL FORENSICS SUMMARY (auto-generated, Fraud Platform v7)       Claim [[CLAIM_NUMBER|FD-26-1012-88417]]
+  Session    Time (PT)              IP address            Geo (est.)            Device / fingerprint
+  ---------  ---------------------  --------------------  --------------------  -------------------------------------
+  Baseline   30-day pattern         [[IP_ADDRESS|76.103.42.181]]         [[LOCATION?|Sacramento CA]] (home)   [[DEVICE_ID|iPhone14,5 / GDB-DFP-3A91C0E2]]
+  Baseline   weekdays 12:00-13:00   [[IP_ADDRESS|204.118.30.77]]         [[LOCATION?|Sacramento CA]]          [[DEVICE_ID|Win10 Chrome / GDB-DFP-77D0B415]]
+  S-1        [[DATE?|10/11/2026]] 23:52    [[IP_ADDRESS|185.220.101.47]]        TOR exit node         [[DEVICE_ID|Android 13 SM-A536U / GDB-DFP-E5F0218C]]
+  S-2        [[DATE?|10/12/2026]] 00:09    [[IP_ADDRESS|2600:387:6:80d::a4]]   [[LOCATION?|Dallas TX]] (mobile)      [[DEVICE_ID|Android 13 SM-A536U / GDB-DFP-E5F0218C]]
+  Events (S-1/S-2): password reset via OTP to [[PHONE|(916) 555-0273]] 23:53; email changed 23:58; new device enrolled
+  as trusted 23:59; Zelle limit raised to $5,000 00:16; Apple Pay token provisioned to device [[DEVICE_ID|DPAN ...8817]] 00:31.
+  Note: baseline weekday IP [[IP_ADDRESS|204.118.30.77]] resolves to [[EMPLOYER|Delta Pines Unified School District]] -- customer's employer.
+
+  Receiving Zelle enrollment: [[PERSON|JORDAN K MILLER]], [[ORGANIZATION?|Lone Prairie Bank]] acct ...[[BANK_ACCOUNT|7719]] (same acct as wire beneficiary).
+  Mule-account alert sent to Lone Prairie Bank via Early Warning ([[ID_NUMBER?|EWS-RISK-26-55120]]).
+
+                                                                                                Page 2 of 4
+
+--- Page 3 ---
+
+CALL TRANSCRIPT (speech-to-text, QA-reviewed)  Call ID [[ID_NUMBER?|CC-20261012-0847-1182]]  Inbound from [[PHONE|(916) 555-0273]]
+Agent: [[PERSON?|Rashida M.]] (ID 44871)   Queue: Fraud-Urgent   Duration 23:14
+
+[00:00:04] AGENT: Thank you for calling Golden Delta fraud services, this is [[PERSON?|Rashida]]. May I have your name?
+[00:00:07] CALLER: [[PERSON|Beatriz Saldana-Whitlock]]. Somebody got into my account last night.
+[00:00:13] AGENT: I'm sorry to hear that. I'll need to verify you. Can you give me your date of birth?
+[00:00:16] CALLER: [[DATE_OF_BIRTH|September fourteenth, nineteen eighty-two]].
+[00:00:22] AGENT: Thank you. And the answer to your security question -- what was the name of your first pet?
+[00:00:26] CALLER: [[PASSWORD|Chorizo]]. C-H-O-R-I-Z-O.
+[00:00:31] AGENT: Thank you. And your mother's maiden name?
+[00:00:33] CALLER: [[PERSON|Villasenor]].
+[00:00:40] AGENT: You're verified. I see a password reset at 11:53 last night and a new Android device. Is that you?
+[00:00:46] CALLER: No! I have an iPhone. I'm a [[INDIRECT_ROLE|third-grade teacher at Pocket Elementary -- the only bilingual one]],
+           I was asleep by midnight. My husband [[PERSON|Colin]] saw the emails this morning.
+[00:01:02] AGENT: Okay. I'm going to block your debit card ending in [[CREDIT_CARD|2291]] and lock online banking. Did you
+           share a code with anyone?
+[00:01:09] CALLER: Yes, a guy who said he was you. He had my last four. Six digits... [[PASSWORD|four one eight two zero nine]].
+[00:01:20] AGENT: That's how they got in. We will never call you and ask for a code. I'm also going to remove the
+           trusted device and reset your user ID. Your old user ID was [[USERNAME|bsaldana_w82]], correct?
+[00:01:31] CALLER: Yes.
+[00:03:55] AGENT: For the new card, should we mail it to [[ADDRESS|5127 Riverbend Oaks Way]], or would you like to pick it up
+           at a branch?
+[00:04:02] CALLER: I'll pick it up at the [[INDIRECT_LOCATION|Greenhaven branch by my school]].
+[00:06:40] AGENT: I'm also seeing the voice-ID passphrase on your profile. Do you want to keep "[[PASSWORD|my voice is my
+           river password]]"?
+[00:06:48] CALLER: Change it. Make it -- I'll do it at the branch.
+[00:21:30] AGENT: Your claim number is [[CLAIM_NUMBER|FD-26-1012-88417]]. Provisional credit decision within 10 business days.
+[00:23:10] CALLER: Thank you. My cell is the same, [[PHONE|916-555-0273]].
+
+QA NOTE ([[PERSON?|S. Whitfield]], Supervisor): Agent read customer's security answers aloud in transcript; redact before any
+external production. Customer disclosed full online password and OTP on recorded line (see p. 1, Sec. 2).
+
+                                                                                                Page 3 of 4
+
+--- Page 4 ---
+
+CLAIM RESOLUTION WORKSHEET
+  Liability analysis (12 CFR 1005.6): Customer reported within 2 business days of learning of loss. Sharing of OTP
+  and password with an impostor does NOT make transfers "authorized" under Reg E (CFPB FAQ, EFT Error Resolution,
+  Q&A 6). Customer liability: $0 (reported same day; card in possession).
+  Provisional credit: [[MONEY|$7,169.99]] posted to CHK ...[[BANK_ACCOUNT|7704]] on [[DATE?|10/15/2026]] (business day 3).
+  Recovery: Zelle recall to Lone Prairie Bank -- $2,500.00 returned [[DATE?|10/14/2026]]; $2,000.00 unrecoverable.
+            Best Buy order #BBY01-80612044711 cancelled; $1,689.99 reversed [[DATE?|10/13/2026]].
+            Coin ATM $980.00 -- chargeback filed, reason code 10.4 (fraud -- card-absent), ref [[ID_NUMBER?|CB-26-44817]].
+  Final determination: CLAIM APPROVED -- [[DATE?|10/19/2026]] -- letter GDB-FD-301 mailed to customer at address on file.
+  Analyst: [[PERSON?|Dmitri Kowalczyk]], Fraud Ops Tier II.
+
+  Customer's new account numbers (issued [[DATE?|10/16/2026]]): checking [[BANK_ACCOUNT|3390-0219-1186]], savings [[BANK_ACCOUNT|3390-0219-1194]].
+  New debit card ending [[CREDIT_CARD|6638]], exp [[CARD_EXPIRY|10/30]]. New user ID: [[USERNAME|bnsw.delta.26]]. Security questions reset at branch.
+
+                                                                                                Page 4 of 4

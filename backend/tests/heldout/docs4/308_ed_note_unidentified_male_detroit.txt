@@ -1,0 +1,49 @@
+RIVER ROUGE GENERAL HOSPITAL -- EMERGENCY DEPARTMENT
+ED TRIAGE / PHYSICIAN NOTE / SOCIAL WORK ADDENDUM
+
+Patient (on arrival): TRAUMA, DOE ZULU -- unidentified adult male
+Name updated [[DATE?|10/15/2026]] 06:10: [[PERSON|AL-AMRI, KHALID NASSER]]     DOB [[DATE_OF_BIRTH|05/03/1979]]     Age [[AGE|47]]
+MRN: [[MRN|RRG-00418827]]      Encounter: [[ID_NUMBER?|E26-1015-0331]]      Arrival: [[DATE|10/15/2026]] 01:44 via Detroit EMS Medic 22
+
+TRIAGE (RN [[PERSON|M. Kowalski]], 01:49)
+Chief complaint: found down, head injury.   ESI 2.
+Unidentified male, appears 45-50, found by DPD on the sidewalk outside [[INDIRECT_LOCATION|the hookah lounge next to the Yemeni bakery
+on Conant]]. No wallet, keys, or phone on his person. Speaks some English, slurred; responds to Arabic.
+BP 168/94  HR 104  RR 18  SpO2 96% RA  T 36.4  Glucose 112  GCS 13 (E3 V4 M6)
+
+Identifying features documented for patient identification (photos in media tab):
+  - [[PHYSICAL_DESCRIPTOR|Healed burn scar, dorsum of R hand and wrist, shiny and hairless, approx 6 x 8 cm]]
+  - [[PHYSICAL_DESCRIPTOR|Tattoo L inner forearm, Arabic script, approx 10 cm, blue-black ink]]
+  - [[PHYSICAL_DESCRIPTOR|Gold crown on upper L canine]]
+  - [[PHYSICAL_DESCRIPTOR|Old amputation of distal phalanx, L ring finger]]
+  - [[PHYSICAL_DESCRIPTOR?|Hair black with gray, short beard]]; eyes brown
+  - Clothing: navy work pants with an embroidered "[[EMPLOYER|Dearborn Auto Glass]]" patch, steel-toe boots
+
+PHYSICIAN NOTE (Dr. [[PERSON|Priya Ramanathan]], 02:05)
+HPI: Unidentified male brought in by EMS after a witnessed fall. Per EMS, the bystander who called 911 was [[INDIRECT_ROLE|the
+overnight grill cook at the Coney Island on Conant]], who saw the patient "stumbling, then go down and hit the curb."
+No reported assault. Patient unable to give a reliable history; denies pain except "head."
+Exam: 4 cm stellate laceration R occiput, actively oozing. Pupils 3 mm, equal and reactive. Moves all extremities.
+Smells strongly of alcohol. No C-spine midline tenderness by exam once cooperative; CT obtained given intoxication.
+Studies: CT head -- small R frontal contusion, no midline shift. CT C-spine negative. Ethanol 214 mg/dL.
+Assessment: [[MEDICAL_CONDITION|traumatic R frontal contusion]]; [[MEDICAL_CONDITION|scalp laceration]]; [[SUBSTANCE_USE|acute alcohol intoxication]].
+Plan: Laceration repaired (7 staples). [[MEDICATION|Levetiracetam 1 g IV]] for seizure prophylaxis per neurosurgery. Repeat CT in
+6 hours. Admit to trauma observation. A security officer will hold the patient's clothing in the property room.
+
+SOCIAL WORK ADDENDUM ([[PERSON|Tariq Haddad]], LMSW, 06:10)
+Patient was identified when [[INDIRECT_ROLE|the day-shift foreman at Dearborn Auto Glass]] called the ED after the patient missed his
+5:00 a.m. start. The foreman recognized the description of the hand burn and the forearm tattoo, which he said the
+patient got "from the windshield furnace back home." Identity confirmed by the patient at 06:40 once more alert.
+
+Per the foreman and the patient: the patient lives alone in [[INDIRECT_LOCATION|the apartment over the Sana'a Sweets bakery on Conant]],
+entrance from the alley. [[INDIRECT_ROLE|His landlord, the owner of Sana'a Sweets]], has a spare key. The patient's wife and
+children live in Yemen; his only local family is [[INDIRECT_ROLE|his younger brother, a cab driver working out of DTW]], who has
+been notified and is on his way. The foreman says the patient spends most evenings playing cards at [[INDIRECT_LOCATION|the café with the green awning across
+from the masjid]]. The foreman also offered to inform [[INDIRECT_ROLE|the imam at the storefront masjid on Caniff]],
+whom the patient asked us to call.
+
+PMH per patient: [[MEDICAL_CONDITION|hypertension]] -- takes [[MEDICATION|amlodipine 10 mg]] "most days." No known allergies.
+Patient reports drinking "only on weekends" since his mother died this spring. Offered SBIRT; patient accepted the
+outpatient list. Interpreter used for this conversation (Arabic, ID [[ID_NUMBER?|ARB-2231]]).
+
+Disposition: admitted to trauma observation, bed pending. The charge nurse was updated.

@@ -1,0 +1,185 @@
+[[ORGANIZATION?|ALLEGHENY CREST BANK, N.A.]]                                          PERSONAL CHECKING STATEMENT
+[[ADDRESS?|PO Box 4410, Pittsburgh, PA 15230-4410]]                                    Member FDIC  |  Equal Housing Lender
+Customer Care [[PHONE?|1-800-555-0143]] (24/7)   TTY 711   www.allegheny-crest.example
+
+
+     [[PERSON|MARISOL T ECHEVARRIA-BRANDT]]                                  Statement Period
+     [[PERSON|DESMOND J BRANDT]]                                             [[DATE?|09/01/2026]] through [[DATE?|09/30/2026]]
+     [[ADDRESS|2217 FALLOWFIELD AVE]]
+     [[ADDRESS|PITTSBURGH PA 15216-2031]]                                    Account Number   [[BANK_ACCOUNT|0061-0422-8799]]
+                                                                     Routing (ABA)    [[ROUTING_NUMBER|041466438]]
+                                                                     Relationship ID  [[ID_NUMBER|77-0418827]]
+                                                                     Branch of Record DORMONT #112
+
+   *** IMPORTANT: Address change processed [[DATE?|09/12/2026]]. Future statements will be mailed to:
+       [[ADDRESS|418 PIONEER AVE APT 2]], [[ADDRESS|PITTSBURGH PA 15226]]. If you did not request this change,
+       call us immediately at the number above. ***
+
+ACCOUNT SUMMARY -- CREST REWARDS CHECKING (DDA)                     Joint Owners: 2
+-----------------------------------------------------------------------------------------------
+  Beginning Balance on [[DATE?|09/01/2026]]                                       [[MONEY|$4,218.63]]
+  Deposits and Other Credits (11)                                           [[MONEY|+$14,031.02]]
+  Withdrawals and Other Debits (36)                                          [[MONEY|-$8,161.28]]
+  Checks Paid (4)                                               (included in debits above)
+  Service Charges                                                                 $0.00
+  Ending Balance on [[DATE?|09/30/2026]]                                          [[MONEY|$10,088.37]]
+
+  Annual Percentage Yield Earned   0.05%        Interest Paid Year-to-Date        $3.62
+  Average Ledger Balance           [[MONEY|$5,204.18]]    Days in Statement Period          30
+
+LINKED ACCOUNTS / OVERDRAFT PROTECTION
+  Crest Savings Plus ...................... XXXXXX[[BANK_ACCOUNT|3381]]      Balance [[MONEY|$11,906.40]]
+  Crest Visa Signature (Primary: [[PERSON|M. ECHEVARRIA-BRANDT]]) ... ending [[CREDIT_CARD|9902]]   (statement mailed separately)
+  Debit Card ending [[CREDIT_CARD|7720]] issued to [[PERSON|MARISOL ECHEVARRIA-BRANDT]]   exp [[CARD_EXPIRY|08/29]]
+  Debit Card ending [[CREDIT_CARD|5106]] issued to [[PERSON|DESMOND BRANDT]]              exp [[CARD_EXPIRY|03/28]]
+  Overdraft transfers from savings this period: 0     Overdraft/NSF fees YTD: $0.00
+
+  Your Crest Rewards tier: GOLD (combined balances over $15,000). Rewards ID [[ID_NUMBER|CR-4418-20997]].
+
+                                                                          Page 1 of 5
+
+--- Page 2 ---
+
+[[ORGANIZATION?|ALLEGHENY CREST BANK, N.A.]]       Account ending [[BANK_ACCOUNT|8799]]       [[PERSON|MARISOL T ECHEVARRIA-BRANDT]] / [[PERSON|DESMOND J BRANDT]]
+TRANSACTION DETAIL
+
+DATE   DESCRIPTION                                                       WITHDRAWALS    DEPOSITS      BALANCE
+-----  --------------------------------------------------------------    -----------  ----------  -----------
+[[DATE?|09/01]]  BEGINNING BALANCE                                                                             4,218.63
+[[DATE?|09/01]]  ACH CREDIT [[EMPLOYER|MON VALLEY ORTHO ASSOC]] PAYROLL PPD                                    2,384.17     6,602.80
+         CO ID 1251187740 IND NAME [[PERSON|ECHEVARRIA-BRANDT M]]
+[[DATE?|09/01]]  ACH DEBIT [[ORGANIZATION?|KEYSTONE HOME LOANS]] MTG PYMT                               1,962.40                 4,640.40
+         LN [[BANK_ACCOUNT|0048821937]] PPD
+[[DATE?|09/02]]  POS PURCHASE GIANT EAGLE #0067 DORMONT PA                              143.82                 4,496.58
+         CARD [[CREDIT_CARD|7720]] AUTH 448211
+[[DATE?|09/02]]  ZELLE PAYMENT TO [[PERSON|PRIYA VENKATARAMAN]] CONF# [[ID_NUMBER?|ZP8KQ41T]]                      60.00                 4,436.58
+         MEMO: CARPOOL GAS AUG
+[[DATE?|09/03]]  ATM WITHDRAWAL [[LOCATION?|1600 E CARSON ST PITTSBURGH PA]]                          200.00                 4,236.58
+         ATM ID 4471 CARD [[CREDIT_CARD|5106]]
+[[DATE?|09/03]]  VENMO PAYMENT [[ID_NUMBER?|1043378212]] WEB ID 3264681992                              45.00                 4,191.58
+[[DATE?|09/04]]  ACH CREDIT [[EMPLOYER|KESTREL LOGISTICS INC]] DIR DEP PPD                                     1,906.55     6,098.13
+         IND ID [[ID_NUMBER|K-00731]] [[PERSON|BRANDT DESMOND J]]
+[[DATE?|09/04]]  CHECK 2214                                                             120.00                 5,978.13
+[[DATE?|09/05]]  POS DEBIT SHEETZ 0412 BRIDGEVILLE PA CARD [[CREDIT_CARD|5106]]                          58.31                 5,919.82
+[[DATE?|09/05]]  RECURRING CARD PURCHASE SPOTIFY USA NEW YORK NY                         16.99                 5,902.83
+         CARD [[CREDIT_CARD|7720]]
+[[DATE?|09/08]]  ACH DEBIT [[ORGANIZATION?|TRISTATE AUTO FIN]] AUTOPAY LN x-[[BANK_ACCOUNT|4417]]                          487.26                 5,415.57
+[[DATE?|09/08]]  ZELLE PAYMENT FROM [[PERSON|DANIELLE KRZYZEWSKI]]                                              85.00     5,500.57
+         MEMO: FOR [[PERSON MINOR|SOFIA]]S BDAY - LOVE AUNT [[PERSON|DANI]]
+[[DATE?|09/09]]  WEB PMT MYSCHOOLBUCKS [[SCHOOL|ST BEDE ELEM]] LUNCH                                50.00                 5,450.57
+         STUDENT [[PERSON MINOR|SOFIA B]] ID [[ID_NUMBER|SB-220417]]
+[[DATE?|09/09]]  POS PURCHASE CVS/PHARMACY #04418 PITTSBURGH PA                          34.17                 5,416.40
+[[DATE?|09/10]]  ONLINE TRANSFER TO SAV XXXXXX[[BANK_ACCOUNT|3381]] REF 0910-8812                        250.00                 5,166.40
+[[DATE?|09/10]]  ACH DEBIT [[ORGANIZATION?|LIBERTY BELL MUTUAL]] INS PREM                                 141.08                 5,025.32
+         POL [[POLICY_NUMBER|HO-7716-20-4492]]
+[[DATE?|09/11]]  ACH DEBIT [[ORGANIZATION?|ALLEGHENY POWER LIGHT]] ACCT [[ID_NUMBER|2209 1178 04]]                      163.55                 4,861.77
+
+                                                                          Page 2 of 5
+
+--- Page 3 ---
+
+[[ORGANIZATION?|ALLEGHENY CREST BANK, N.A.]]       Account ending [[BANK_ACCOUNT|8799]]       [[PERSON|MARISOL T ECHEVARRIA-BRANDT]] / [[PERSON|DESMOND J BRANDT]]
+TRANSACTION DETAIL (continued)
+
+DATE   DESCRIPTION                                                       WITHDRAWALS    DEPOSITS      BALANCE
+-----  --------------------------------------------------------------    -----------  ----------  -----------
+[[DATE?|09/11]]  VENMO PAYMENT TO [[PERSON|JOSEPH SANTORELLI]] WEB                                  32.00                 4,829.77
+[[DATE?|09/12]]  MOBILE DEPOSIT CHK #5520 REF 77120                                                 300.00     5,129.77
+[[DATE?|09/12]]  CARD PURCHASE AMAZON MKTPL*2K44R71Q0 AMZN.COM/BILL WA                   67.40                 5,062.37
+         CARD [[CREDIT_CARD|7720]]
+[[DATE?|09/14]]  ATM WITHDRAWAL [[LOCATION?|2100 WASHINGTON RD MT LEBANON PA]]                        100.00                 4,962.37
+         ATM ID 0219 CARD [[CREDIT_CARD|7720]]
+[[DATE?|09/15]]  ACH CREDIT [[EMPLOYER|MON VALLEY ORTHO ASSOC]] PAYROLL PPD                                    2,384.17     7,346.54
+         CO ID 1251187740 IND NAME [[PERSON|ECHEVARRIA-BRANDT M]]
+[[DATE?|09/15]]  ACH DEBIT PA 529 COLLEGE SVGS CONTRIB ACCT ENDING [[BANK_ACCOUNT|0961]]                 200.00                 7,146.54
+         BENE [[PERSON MINOR|S BRANDT]]
+[[DATE?|09/16]]  CHECK 2215                                                           1,150.00                 5,996.54
+[[DATE?|09/16]]  POS PURCHASE GIANT EAGLE #0067 DORMONT PA                              211.09                 5,785.45
+         CARD [[CREDIT_CARD|5106]]
+[[DATE?|09/17]]  ZELLE PAYMENT TO [[PERSON|THEODORA                                              140.00                 5,645.45
+         VASQUEZ-LINDQVIST]] MEMO: SEPT CLEANING 2X
+[[DATE?|09/18]]  ACH CREDIT [[EMPLOYER|KESTREL LOGISTICS INC]] DIR DEP PPD                                     1,906.55     7,552.00
+         IND ID [[ID_NUMBER|K-00731]] [[PERSON|BRANDT DESMOND J]]
+[[DATE?|09/18]]  ONLINE PAYMENT TO [[ORGANIZATION?|ALLEGHENY CREST]] VISA                                 600.00                 6,952.00
+         ACCT ENDING [[CREDIT_CARD|9902]] THANK YOU
+[[DATE?|09/19]]  POS DEBIT THE HOME DEPOT #4127 PITTSBURGH PA CARD [[CREDIT_CARD|5106]]                  89.66                 6,862.34
+[[DATE?|09/19]]  VENMO CASHOUT PPD ID 5264681992 [[PERSON|MARISOL ECHEVARRIA]]                                 120.00     6,982.34
+[[DATE?|09/21]]  ATM WITHDRAWAL 7-ELEVEN [[LOCATION?|3401 W LIBERTY AVE PITTSBURGH]]                   60.00                 6,922.34
+         NON-ACB ATM CARD [[CREDIT_CARD|5106]]
+[[DATE?|09/21]]  NON-NETWORK ATM FEE                                                      3.00                 6,919.34
+[[DATE?|09/22]]  CHECK 2216                                                              75.00                 6,844.34
+[[DATE?|09/22]]  ACH DEBIT [[ORGANIZATION?|VERIZON WIRELESS]] PAYMENTS ACCT [[ID_NUMBER|482117093-00001]]               189.43                 6,654.91
+[[DATE?|09/23]]  ZELLE PAYMENT FROM [[PERSON|PRIYA VENKATARAMAN]] CONF# [[ID_NUMBER?|ZP9MM20A]]                                60.00     6,714.91
+         MEMO: SPLIT - FIELD TRIP BUS
+[[DATE?|09/23]]  POS PURCHASE PANERA BREAD #601447 BETHEL PARK PA                        18.75                 6,696.16
+
+                                                                          Page 3 of 5
+
+--- Page 4 ---
+
+[[ORGANIZATION?|ALLEGHENY CREST BANK, N.A.]]       Account ending [[BANK_ACCOUNT|8799]]       [[PERSON|MARISOL T ECHEVARRIA-BRANDT]] / [[PERSON|DESMOND J BRANDT]]
+TRANSACTION DETAIL (continued)
+
+DATE   DESCRIPTION                                                       WITHDRAWALS    DEPOSITS      BALANCE
+-----  --------------------------------------------------------------    -----------  ----------  -----------
+[[DATE?|09/24]]  WIRE TRANSFER IN FED REF [[ID_NUMBER?|20260924B6B7HU1R004417]]                                  2,500.00     9,196.16
+         ORIG: [[PERSON|GRETCHEN A BRANDT]] [[ADDRESS|2611 POLY DR BILLINGS MT 59102]]
+         ORIG BK: [[ORGANIZATION?|FIRST INTERSTATE BK]] OBI: HAPPY [[AGE|40]]TH [[PERSON|DESI]]
+[[DATE?|09/24]]  INCOMING DOMESTIC WIRE FEE                                              15.00                 9,181.16
+[[DATE?|09/25]]  ACH DEBIT IRS USATAXPYMT 270626811944015 CCD                           850.00                 8,331.16
+         TAXPAYER [[PERSON|BRANDT DESMOND]] 1040ES Q3
+[[DATE?|09/25]]  POS PURCHASE SHEETZ 0412 BRIDGEVILLE PA CARD [[CREDIT_CARD|7720]]                       47.20                 8,283.96
+[[DATE?|09/26]]  CHECK 2217                                                             400.00                 7,883.96
+[[DATE?|09/28]]  ACH DEBIT [[ORGANIZATION?|PEOPLES GAS]] UTIL PMT ACCT [[ID_NUMBER|300 488 1921 7]]                      72.18                 7,811.78
+[[DATE?|09/28]]  RECURRING CARD PURCHASE NETFLIX.COM LOS GATOS CA                        22.99                 7,788.79
+         CARD [[CREDIT_CARD|7720]]
+[[DATE?|09/29]]  ZELLE PAYMENT TO [[PERSON|CHIDI OKONKWO]] MEMO: FF LEAGUE DUES                     35.00                 7,753.79
+[[DATE?|09/29]]  ACH DEBIT ST BEDE PARISH ONLINE GIVING WEB                              50.00                 7,703.79
+[[DATE?|09/30]]  ACH CREDIT [[EMPLOYER|MON VALLEY ORTHO ASSOC]] PAYROLL PPD                                    2,384.17    10,087.96
+         CO ID 1251187740 IND NAME [[PERSON|ECHEVARRIA-BRANDT M]]
+[[DATE?|09/30]]  INTEREST PAID THIS PERIOD                                                            0.41    10,088.37
+[[DATE?|09/30]]  MONTHLY MAINTENANCE FEE - WAIVED (DIR DEP >= $500)                                   0.00    10,088.37
+[[DATE?|09/30]]  ENDING BALANCE                                                                               10,088.37
+
+                                                                          Page 4 of 5
+
+--- Page 5 ---
+
+[[ORGANIZATION?|ALLEGHENY CREST BANK, N.A.]]       Account ending [[BANK_ACCOUNT|8799]]
+
+CHECKS PAID                       (* indicates a gap in check sequence)
+  Check No.   Date Paid   Amount      Payee (per image)                     Memo (per image)
+  2214        [[DATE?|09/04]]       120.00      [[PERSON|LUDMILA PETRENKO]]                      piano - [[PERSON MINOR|Sofia]] Sept
+  2215        [[DATE?|09/16]]     1,150.00      [[PERSON|ANNELIESE MORGENTHAU]]                  fall cleanup + mulch
+  2216        [[DATE?|09/22]]        75.00      PITTSBURGH YOUTH SOCCER ASSN          U10 fall reg - [[PERSON MINOR|Mateo]]
+  2217        [[DATE?|09/26]]       400.00      [[PERSON|MARCUS OYELARAN-PIKE]]                  deck repair deposit
+  Check images are available in Online Banking for 7 years. Image request fee waived for GOLD tier.
+
+DAILY ENDING BALANCE
+  [[DATE?|09/01]]     4,640.40    [[DATE?|09/10]]     5,025.32    [[DATE?|09/18]]     6,952.00    [[DATE?|09/26]]     7,883.96
+  [[DATE?|09/02]]     4,436.58    [[DATE?|09/11]]     4,829.77    [[DATE?|09/19]]     6,982.34    [[DATE?|09/28]]     7,788.79
+  [[DATE?|09/03]]     4,191.58    [[DATE?|09/12]]     5,062.37    [[DATE?|09/21]]     6,919.34    [[DATE?|09/29]]     7,703.79
+  [[DATE?|09/04]]     5,978.13    [[DATE?|09/14]]     4,962.37    [[DATE?|09/22]]     6,654.91    [[DATE?|09/30]]    10,088.37
+  [[DATE?|09/05]]     5,902.83    [[DATE?|09/15]]     7,146.54    [[DATE?|09/23]]     6,696.16
+  [[DATE?|09/08]]     5,500.57    [[DATE?|09/16]]     5,785.45    [[DATE?|09/24]]     9,181.16
+  [[DATE?|09/09]]     5,416.40    [[DATE?|09/17]]     5,645.45    [[DATE?|09/25]]     8,283.96
+  (Daily balances shown for business days with activity; figures are ledger balances.)
+
+MESSAGES FROM ALLEGHENY CREST
+  * Effective [[DATE?|11/15/2026]], the non-network ATM fee will increase from $3.00 to $3.50. See the
+    revised Personal Deposit Account Agreement (form ACB-DDA-114, rev. 10/2026) at any branch.
+  * Your joint account ownership is "JTWROS". To add a POD beneficiary, visit a branch or call us.
+  * We will never ask for your PIN, full card number or one-time passcode by phone, email or text.
+
+IN CASE OF ERRORS OR QUESTIONS ABOUT YOUR ELECTRONIC TRANSFERS
+Telephone us at [[PHONE?|1-800-555-0143]] or write us at [[ADDRESS?|Allegheny Crest Bank, Attn: Deposit Operations, PO Box
+4410, Pittsburgh, PA 15230-4410]] as soon as you can if you think your statement or receipt is wrong.
+We must hear from you no later than 60 days after we sent the FIRST statement on which the problem
+appeared. (1) Tell us your name and account number. (2) Describe the error or the transfer you are
+unsure about. (3) Tell us the dollar amount of the suspected error. We will investigate your complaint
+and will correct any error promptly. If we take more than 10 business days to do this, we will credit
+your account for the amount you think is in error (Regulation E, 12 CFR 1005.11).
+
+For direct deposit and ACH set-up, use routing number [[ROUTING_NUMBER?|041466438]]. Domestic wires: same ABA,
+reference your full account number. International wires: SWIFT [[SWIFT_BIC?|ACRBUS33]].
+ACB-STMT-07 (06/2025)                                                     Page 5 of 5

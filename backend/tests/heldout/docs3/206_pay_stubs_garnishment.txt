@@ -1,0 +1,143 @@
+[[EMPLOYER|DESERT BLOOM COMMUNITY HOSPITAL]]                                   EARNINGS STATEMENT
+[[ADDRESS?|19800 N 47th Ave, Glendale, AZ 85308]]                              Advice No. 0004418801
+Payroll Services [[PHONE?|623-555-0140]]   FEIN [[EIN?|86-0911427]]                   Pay Date  [[DATE?|10/02/2026]]
+                                                                  Period    [[DATE?|09/13/2026]] - [[DATE?|09/26/2026]]
+Employee                                        Employee ID   [[ID_NUMBER|DBH-118044]]
+  [[PERSON|FERNANDA L IBSEN-MWANGI]]                       Payroll ID    [[ID_NUMBER|PR-77-0418226]]
+  [[ADDRESS|4416 W PINNACLE VISTA DR]]                      SSN           XXX-XX-[[SSN|6024]]
+  [[ADDRESS|PHOENIX AZ 85083-2219]]                         Dept          7140 INPATIENT PHARMACY
+                                                Job           PHARMACIST II - NIGHT LEAD
+                                                Base Rate     $71.4000/hr   FT 0.9 FTE
+Fed W-4 (2020+): Single, Step 3 $0, Step 4(c) $0     AZ A-4: 2.0%     Hire date [[DATE?|04/11/2016]]
+
+EARNINGS                          HOURS       RATE      CURRENT           YTD
+REG   Regular                     72.00    71.4000     5,140.80              
+NDIF  Night Diff ($6.00/hr)       72.00                  432.00              
+OT    Overtime 1.5x                6.50   107.1000       696.15              
+PTO   Paid Time Off                8.00    71.4000       571.20              
+GROSS PAY                                              [[MONEY|6,840.15]]    [[MONEY|115,252.81]]
+
+PRE-TAX DEDUCTIONS                                      CURRENT
+  MED PPO                                                142.18
+  DENTAL                                                  18.40
+  VISION                                                   4.12
+  HSA EE                                                 125.00
+  403(B) 6%                                              410.41
+TAXES                                                   CURRENT
+  FED W/H                                                933.29
+  SOC SEC                                                406.13
+  MEDICARE                                                94.98
+  AZ STATE 2.0%                                          122.80
+AFTER-TAX DEDUCTIONS                                    CURRENT
+  403(B) LOAN #2                                         186.44
+  GARNISH-CRED                                           528.29
+  SUPP LIFE                                                9.80
+  UNITED WAY                                              10.00
+NET PAY                                                [[MONEY|3,848.31]]     [[MONEY|70,752.49]]
+
+DIRECT DEPOSIT DISTRIBUTION                       ABA / Routing     Account            Amount
+  [[ORGANIZATION?|Grand Canyon State CU]] - Savings (flat)        [[ROUTING_NUMBER|120397046]]         XXXXXX[[BANK_ACCOUNT|6604]]         [[MONEY|1,250.00]]
+  [[ORGANIZATION?|Sonoran Desert Bank]] - Checking (balance)      [[ROUTING_NUMBER|312775191]]         XXXXXXXX[[BANK_ACCOUNT|1188]]       [[MONEY|2,598.31]]
+  Total deposited                                                                       [[MONEY|3,848.31]]
+
+BENEFITS ENROLLED    Medical: [[ORGANIZATION?|Saguaro Health Plan]] PPO EE+Child   Member ID [[HEALTH_PLAN_ID|SHP-XJW884102231]]
+                     Dental: Desert Smiles DHMO   Vision: Basic   HSA: [[ORGANIZATION?|Summit HSA Trust]] acct ****[[BANK_ACCOUNT|3307]]
+                     Dependent on medical: [[PERSON MINOR|NIA IBSEN-MWANGI]] (child)
+
+TIME OFF BALANCES       Accrued YTD    Used YTD    Available
+  PTO                    188.40         96.00        92.40
+  Sick (AZ Fair Wages)    24.00          8.00        40.00
+
+GARNISHMENT DETAIL
+  Writ of Garnishment of Earnings (Non-Support), Maricopa County, [[ORGANIZATION?|Arrowhead Justice Court]]
+  Case No. [[CASE_NUMBER|CC2026-118044]]   Judgment creditor: [[ORGANIZATION?|Sonoran Recovery Partners LLC]]
+  Creditor ref. [[ID_NUMBER|SRP-55190-FIM]]   Judgment balance before this check [[MONEY|$1,097.90]]
+  Withheld this period [[MONEY|528.29]] (10% of disposable earnings, A.R.S. 12-1598.10)   Remaining [[MONEY|569.61]]
+
+MESSAGES
+  Open enrollment for 2027 benefits runs [[DATE?|10/19]] - [[DATE?|11/06]]. Questions? HR Business Partner
+  [[PERSON?|Todd Ferreira]], ext. 4471, or the Benefits Center.
+  Night Lead differential reflects your assignment as [[INDIRECT_ROLE|the sole overnight pharmacist covering
+  the ED and ICU]] (Sun-Wed, 1900-0730).
+
+                                                                           Page 1 of 3
+
+--- Page 2 ---
+
+[[EMPLOYER|DESERT BLOOM COMMUNITY HOSPITAL]]                                   EARNINGS STATEMENT
+[[ADDRESS?|19800 N 47th Ave, Glendale, AZ 85308]]                              Advice No. 0004419377
+Payroll Services [[PHONE?|623-555-0140]]   FEIN [[EIN?|86-0911427]]                   Pay Date  [[DATE?|10/16/2026]]
+                                                                  Period    [[DATE?|09/27/2026]] - [[DATE?|10/10/2026]]
+Employee                                        Employee ID   [[ID_NUMBER|DBH-118044]]
+  [[PERSON|FERNANDA L IBSEN-MWANGI]]                       Payroll ID    [[ID_NUMBER|PR-77-0418226]]
+  [[ADDRESS|4416 W PINNACLE VISTA DR]]                      SSN           XXX-XX-[[SSN|6024]]
+  [[ADDRESS|PHOENIX AZ 85083-2219]]                         Dept          7140 INPATIENT PHARMACY
+                                                Job           PHARMACIST II - NIGHT LEAD
+                                                Base Rate     $71.4000/hr   FT 0.9 FTE
+Fed W-4 (2020+): Single, Step 3 $0, Step 4(c) $0     AZ A-4: 2.0%     Hire date [[DATE?|04/11/2016]]
+
+EARNINGS                          HOURS       RATE      CURRENT           YTD
+REG   Regular                     80.00    71.4000     5,712.00              
+NDIF  Night Diff ($6.00/hr)       80.00                  480.00              
+HOL   Holiday Worked 1.5x                 107.1000         0.00              
+RETN  Retention Bonus (2 of 4)                         1,500.00              
+GROSS PAY                                              [[MONEY|7,692.00]]    [[MONEY|122,944.81]]
+
+PRE-TAX DEDUCTIONS                                      CURRENT
+  MED PPO                                                142.18
+  DENTAL                                                  18.40
+  VISION                                                   4.12
+  HSA EE                                                 125.00
+  403(B) 6%                                              461.52
+TAXES                                                   CURRENT
+  FED W/H                                              1,055.00
+  SOC SEC                                                458.94
+  MEDICARE                                               107.33
+  AZ STATE 2.0%                                          138.82
+AFTER-TAX DEDUCTIONS                                    CURRENT
+  403(B) LOAN #2                                         186.44
+  GARNISH-CRED                                           569.61
+  SUPP LIFE                                                9.80
+  UNITED WAY                                              10.00
+NET PAY                                                [[MONEY|4,404.84]]     [[MONEY|75,157.33]]
+
+DIRECT DEPOSIT DISTRIBUTION                       ABA / Routing     Account            Amount
+  [[ORGANIZATION?|Grand Canyon State CU]] - Savings (flat)        [[ROUTING_NUMBER|120397046]]         XXXXXX[[BANK_ACCOUNT|6604]]         [[MONEY|1,250.00]]
+  [[ORGANIZATION?|Sonoran Desert Bank]] - Checking (balance)      [[ROUTING_NUMBER|312775191]]         XXXXXXXX[[BANK_ACCOUNT|1188]]       [[MONEY|3,154.84]]
+  Total deposited                                                                       [[MONEY|4,404.84]]
+
+GARNISHMENT DETAIL
+  Case No. [[CASE_NUMBER|CC2026-118044]] -- FINAL DEDUCTION. Withheld this period [[MONEY|569.61]].
+  Judgment satisfied. Release of garnishment forwarded to court [[DATE?|10/16/2026]]; copy to employee.
+
+403(b) LOAN #2   Original [[MONEY|$8,000.00]]   Payment 186.44/period   Remaining principal [[MONEY|$3,912.07]]   Plan acct [[BANK_ACCOUNT|403B-DBH-0418226]]
+
+MESSAGES
+  Retention bonus installment 2 of 4 paid per agreement dated [[DATE?|03/01/2026]]. Installments 3 and 4 are
+  scheduled for [[DATE?|04/2027]] and [[DATE?|10/2027]].
+
+                                                                           Page 2 of 3
+
+--- Page 3 ---
+
+EMPLOYEE DIRECT DEPOSIT AUTHORIZATION (on file; reprinted at employee request)
+Employee name: [[PERSON|Fernanda L. Ibsen-Mwangi]]          Employee ID: [[ID_NUMBER|DBH-118044]]
+Home phone/cell: [[PHONE|(602) 555-0388]]               Personal email: [[EMAIL|fernanda.im.rph@gmail.com]]
+
+  Account 1  [X] Savings  [ ] Checking   Flat amount $1,250.00
+             Bank: [[ORGANIZATION?|Grand Canyon State Credit Union]]   Routing [[ROUTING_NUMBER|120397046]]   Account [[BANK_ACCOUNT|0000336604]]
+  Account 2  [ ] Savings  [X] Checking   Net balance
+             Bank: [[ORGANIZATION?|Sonoran Desert Bank]]   Routing [[ROUTING_NUMBER|312775191]]   Account [[BANK_ACCOUNT|7700 4120 1188]]
+             (voided check attached -- MICR: |:[[ROUTING_NUMBER|312775191]]|:  [[BANK_ACCOUNT|770041201188]]||'  2047)
+
+I authorize [[EMPLOYER|Desert Bloom Community Hospital]] to deposit my pay to the accounts above and to reverse
+erroneous entries. This authorization remains in effect until I give written notice.
+Signature: [[SIGNATURE|F. Ibsen-Mwangi]]                     Date: [[DATE?|02/14/2024]]
+
+Emergency contact (HR file): [[PERSON|Joseph Mwangi]] (ex-spouse) [[PHONE|(480) 555-0712]] -- for [[PERSON MINOR|Nia]] only.
+
+Form W-4 on file: Step 1(c) Single; Step 2 multiple jobs: no; Step 3 dependents: $0 (employee declined).
+AZ Form A-4: 2.0%.  Pay frequency: biweekly (26).  FLSA: exempt-eligible, paid hourly per CBA Art. 14.
+Payroll system ref: PR-SYS-UKG / co. code 0447 / batch 2026-20 and 2026-21.
+
+                                                                           Page 3 of 3

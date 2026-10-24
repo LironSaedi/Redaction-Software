@@ -1,0 +1,79 @@
+            AUTHORIZATION FOR USE AND DISCLOSURE OF PROTECTED HEALTH INFORMATION
+                    (45 C.F.R. § 164.508; Tex. Health & Safety Code § 181.154)
+
+SECTION A -- PATIENT INFORMATION
+  Patient name:      [[PERSON|DELGADO-RUIZ, MARIA ELENA]]
+  Other names used:  [[PERSON|Maria E. Delgado]]
+  Date of birth:     [[DATE_OF_BIRTH|04 / 17 / 1986]]         SSN: [[SSN|457 82 1934]]
+  Address:           [[ADDRESS|2209 Bluebonnet Ln]]                      Phone: [[PHONE|512.836.2290]]
+  City/State/ZIP:    [[ADDRESS|Austin, TX 78704]]
+  Email:             [[EMAIL|mdelgado.ruiz86@gmail.com]]
+
+SECTION B -- PERSON/ORGANIZATION AUTHORIZED TO RELEASE INFORMATION
+  [X] All health care providers who have treated me, including but not limited to:
+      [[ORGANIZATION?|Capitol Ridge Medical Center]]; [[ORGANIZATION?|Capitol Ridge Orthopedics]]; [[ORGANIZATION?|Capitol Ridge Imaging]];
+      [[ORGANIZATION?|Austin-Travis County EMS]]; [[ORGANIZATION?|Southpark Primary Care]] (Dr. [[PERSON|L. Garza-Ybarra]]);
+      [[ORGANIZATION?|ProMotion Physical Therapy]]; [[ORGANIZATION?|Clearwater Counseling]] ([[PERSON|Claire Abernathy]], PMHNP);
+      [[INDIRECT_LOCATION|Bluebonnet Pharmacy #212]]; [[ORGANIZATION?|Lakeway Open MRI]].
+  [X] My health plan: [[ORGANIZATION?|Blue Cross and Blue Shield of Texas]], ID [[HEALTH_PLAN_ID|XOD884417203]]
+
+SECTION C -- RECIPIENT
+  [[ORGANIZATION?|Kim & Abernathy PLLC]], attn. [[PERSON|Rachel Kim]], [[ADDRESS?|600 Congress Ave., Ste. 1450, Austin, TX 78701]]
+  Fax [[PHONE|512-480-3399]]
+
+SECTION D -- INFORMATION TO BE DISCLOSED
+  [X] Entire medical record, dates [[DATE|01/01/2015]] to present
+  [X] Billing / itemized statements / payment ledgers
+  [X] Radiology images and reports
+  Specifically authorized (initial each):
+     [[PERSON?|MDR]]  Mental health records (excluding psychotherapy notes)
+     [[PERSON?|MDR]]  Alcohol/drug abuse treatment records -- NOTE: records from a 42 C.F.R. Part 2
+           program require a separate Part 2-compliant consent
+     ____ HIV/AIDS test results or treatment -- NOT AUTHORIZED
+     [[PERSON?|MDR]]  Reproductive health / OB-GYN records
+     ____ Genetic testing information -- NOT AUTHORIZED
+     ____ Psychotherapy notes -- NOT AUTHORIZED (requires separate authorization)
+
+SECTION E -- PURPOSE
+  [X] At the request of the individual -- legal representation regarding motor vehicle collision
+      of [[DATE|03/14/2025]].
+
+SECTION F -- EXPIRATION
+  This authorization expires on [[DATE|03/19/2027]] or upon conclusion of the legal matter, whichever
+  occurs first.
+
+SECTION G -- MY RIGHTS
+  1. I may revoke this authorization at any time by written notice to the provider, except to the
+     extent action has already been taken in reliance on it.
+  2. Treatment, payment, enrollment, or eligibility for benefits will not be conditioned on my
+     signing this authorization.
+  3. Information disclosed may be subject to redisclosure by the recipient and may no longer be
+     protected by federal privacy regulations.
+  4. I am entitled to a copy of this authorization.
+
+HIPAA Authorization -- [[PERSON|Maria Elena Delgado-Ruiz]] -- DOB [[DATE_OF_BIRTH|04/17/1986]] -- page 2 of 2
+
+SECTION H -- SIGNATURE
+  /s/ [[PERSON|Maria E. Delgado-Ruiz]]                                     Date: [[DATE|3/19/2025]]
+  Signature of patient or legal representative
+
+  If signed by legal representative: Name __________________  Relationship __________________
+  Authority (attach documentation): ______________________________
+
+WITNESS (optional): /s/ [[PERSON|Destiny Vu]]                       Date: [[DATE|03/19/2025]]
+
+-------------------------------------------------------------------------------------------------
+            AUTHORIZATION FOR RELEASE OF A MINOR'S PROTECTED HEALTH INFORMATION
+  Minor patient:     [[PERSON MINOR|RUIZ, MATEO ARTURO]]        DOB: [[DATE_OF_BIRTH|10/08/2018]]     Age: [[AGE|6]]
+  Address:           same as above
+  Providers:         [[ORGANIZATION?|Lone Oak Children's Medical Center]]; [[ORGANIZATION?|Austin-Travis County EMS]] (Medic 31);
+                     [[ORGANIZATION?|Little Oaks Child Therapy]] (Dr. [[PERSON|Ifeoma Chukwu]], PsyD); [[ORGANIZATION?|Southpark Pediatrics]]
+                     (Dr. [[PERSON|Hoang Le]])
+  School (FERPA records, attendance/nurse/counselor): [[SCHOOL|Galindo Elementary School]], Austin ISD,
+                     Student ID [[ID_NUMBER|1188420]]
+  Information:       entire record [[DATE|03/14/2025]] to present, incl. [[MENTAL_HEALTH|mental health (play therapy)]]
+  Signed by parent/managing conservator:
+     /s/ [[PERSON|Maria E. Delgado-Ruiz]]  (mother)                        Date: [[DATE|3/19/2025]]
+
+-------------------------------------------------------------------------------------------------
+Form KA-HIPAA-02 (rev. 2023)                                      Copy provided to patient: [X]

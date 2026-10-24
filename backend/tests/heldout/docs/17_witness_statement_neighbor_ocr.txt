@@ -1,0 +1,58 @@
+[OCR TEXT LAYER -- scanned document, 2 pages, handwritten form, confidence 71%]
+
+SAN ANT0NIO P0LICE DEPARTMENT
+V0LUNTARY STATEMENT -- N0T UNDER ARREST
+Form SAPD-114 (Rev. 06/18)
+
+Case/Rep0rt N0. [[LAW_ENFORCEMENT_ID|SAPD-25-l87734]]          Date: [[DATE|8-l6-2025]]     Time: 2355 hrs
+Place statement taken: [[INDIRECT_LOCATION|Apt l2C, Pinecrest Apts]] (breezeway)
+
+My name is [[PERSON|R0salind Thi Pham]]                    I am [[AGE|64]] years of age.
+My date 0f birth is [[DATE_OF_BIRTH|4/30/l96l]]             My S5N / DL# is TX [[DRIVERS_LICENSE|0l99 4527]]
+My h0me address is [[ADDRESS|7420 Ca11aghan Rd #l2C]]  City [[ADDRESS|San Ant0ni0 TX 78229]]
+Ph0ne (h0me) ---------------     (cell) [[PHONE|2l0-455-09l2]]
+Empl0yer: retired -- f0rmerly [[EMPLOYER|USAA]] c1aims dept.
+
+I, [[PERSON|R0salind Pham]], having been first du1y sw0rn, depose and state:
+
+I live in [[INDIRECT_LOCATION|apt 12C]] next d00r t0 [[PERSON|Grace]] and her b0yfriend [[PERSON|Darek]]. I d0nt kn0w his last name it
+is [[DEMOGRAPHIC?|P0lish]] s0mething like [[PERSON|K0wa1-chick]]. They have a 1itt1e gir1 [[PERSON MINOR|Li1y]] wh0 is 3. T0night ar0und
+1050 PM I was watching the news (channe1 12) when I heard yel1ing thru the wa11. It is a thin
+wa11 our bedr00ms share it. I heard [[PERSON|Darek]] ye11ing ab0ut her ph0ne and "wh0 is he" and then
+s0mething hit the wa11 very hard, 1ike a b0dy n0t a fist. Then [[PERSON|Grace]] was screaming
+"st0p st0p I cant breathe". Then it was quiet f0r maybe 10 sec0nds and that scared me m0re
+than the screaming. Then the baby was crying Mama Mama. I ca11ed 911 0n my ce11 at 1109.
+
+This is n0t the first time. Since ab0ut Christmas I hear them fight maybe 1 time a m0nth,
+usua11y weekends when he c0mes h0me 1ate. In the spring (maybe Apri1) [[PERSON|Grace]] came t0 my d00r
+at night crying and she had a bruise 0n her arm 1ike fingers. She said he gets mean [[SUBSTANCE_USE?|when he
+drinks]] and she was afraid he w0u1d take [[PERSON MINOR|Li1y]] t0 [[LOCATION?|P0land]]. She asked me n0t t0 te11 anyb0dy
+because he c0u1d 1ose [[IMMIGRATION_STATUS|his green card]]. I to1d her ab0ut the W0men's she1ter my church supp0rts
+([[ORGANIZATION?|Fami1y Vi01ence Prevention Services]]). I gave her my spare key t0 my apt and t01d her
+she c0u1d c0me anytime. She has a spare key t0 mine and I have the c0de f0r her d00r
+1ock ([[PASSWORD|4471]]) because I watch [[PERSON MINOR|Li1y]] s0metimes when she w0rks 1ate at the [[EMPLOYER|CVS]].
+
+When the p01ice came [[PERSON|Darek]] 0pened the d00r and t01d the 0fficer every thing was fine. I c0uld
+see [[PERSON|Grace]] 0n the f100r in the kitchen h01ding her neck. Her v0ice s0unded l1ke she had a c01d.
+
+He drives a [[VEHICLE_DESCRIPTION|big gray F0rd truck]] and he has a [[PHYSICAL_DESCRIPTOR|sc0rpion tattoo 0n his neck]], y0u cant miss it.
+I am afraid 0f him. Last m0nth he t0ld me t0 "mind my 0wn business, 01d lady" in the parking
+1ot when I said g00d m0rning t0 [[PERSON|Grace]].
+
+[OCR page 2 of 2]
+
+Case N0. [[LAW_ENFORCEMENT_ID|SAPD-25-l87734]]    Statement 0f: [[PERSON|R. Pham]]    Page 2 0f 2
+
+I have read this statement c0nsisting 0f 2 pages and it is true and c0rrect t0 the best 0f my
+kn0w1edge. I give this statement free1y and v01untari1y with0ut any threats 0r pr0mises.
+I understand that making a fa1se statement t0 a peace 0fficer is a crime under Tex. Pena1
+C0de § 37.08.
+
+Signature 0f pers0n giving statement:   [[PERSON|R0sa1ind T. Pham]]      Date: [[DATE|8/l6/25]]
+
+Witness: [[PERSON|J. Castaneda]] #[[LAW_ENFORCEMENT_ID|4l27]]                   Date: [[DATE|8/l6/2025]]
+Witness: [[PERSON|M. D0y1e]] #[[LAW_ENFORCEMENT_ID|3390]]
+
+[margina1 n0te, different ink:] W1 interviewed again [[DATE|8/l8]] by Det. [[PERSON|Vi11al0b0s]] -- c0nsistent.
+[stamp:] RECEIVED  [[DATE|AUG 19 2025]]  SAPD RECORDS -- FVU
+[barc0de:] [[LAW_ENFORCEMENT_ID|25187734]]-WS-01

@@ -1,0 +1,77 @@
+                         IN THE COURT OF COMMON PLEAS
+                             CUYAHOGA COUNTY, OHIO
+
+[[PERSON|BERNADETTE A. KOVACIC]],                    )   CASE NO. [[CASE_NUMBER|CV-25-118843]]
+               Plaintiff,                      )
+       vs.                                     )   JUDGE [[PERSON|RONALD T. SPISAK]]
+[[ORGANIZATION?|LAKESHORE FRESH MARKETS, INC.]],             )
+               Defendant.                      )
+
+                        DEPOSITION OF [[PERSON|DESHAWN L. PRICE]]
+               Taken [[DATE|Wednesday, March 4, 2026]], beginning at 10:12 a.m.
+          at the offices of [[ORGANIZATION?|Feeney & Mraz LLC]], [[ADDRESS?|1300 E. Ninth St., Cleveland, Ohio]]
+                                   - - -
+APPEARANCES:  [[PERSON|Brendan Feeney]], Esq., on behalf of the Plaintiff
+              [[PERSON|Alicia Ward-Okafor]], Esq., on behalf of the Defendant
+                                   - - -
+                                                                        Page 37
+EXAMINATION (CONT'D) BY MR. [[PERSON|FEENEY]]:
+Q.  For the record, state your full name again.
+A.  [[PERSON|DeShawn Lamar Price]].
+Q.  Mr. [[PERSON|Price]], who is your employer?
+A.  [[EMPLOYER|Lakeshore Fresh Markets]].
+Q.  And what's your position?
+A.  I'm [[INDIRECT_ROLE|the overnight assistant manager at the Lorain Avenue store]]. Six years in December.
+Q.  Is that [[INDIRECT_LOCATION|the store across from the West Park rapid station]]?
+A.  Yes, sir.
+Q.  You were on duty the night of [[DATE|November 18, 2025]]?
+A.  I was.
+Q.  Who else was working?
+A.  Two stockers, [[INDIRECT_ROLE|our only overnight cashier]], and a guy from the floor-care contractor.
+Q.  Who is the guy from the floor-care contractor?
+A.  I don't know his last name. He's [[INDIRECT_ROLE|the older Ukrainian gentleman ServiceMaster sends on Tuesdays]].
+    Everybody calls him Uncle [[PERSON|Vasyl]].
+Q.  Is there anything about him that stands out?
+A.  He's [[PHYSICAL_DESCRIPTOR|missing the last two fingers on his left hand]], and he's got [[PHYSICAL_DESCRIPTOR|a white handlebar
+    mustache]]. You can't miss him.
+Q.  Where was he when she fell?
+A.  On his smoke break, I'm pretty sure. He always goes out to [[INDIRECT_LOCATION|the picnic table behind the bottle-return
+    room]] around three.
+Q.  Had he run the scrubber down aisle 7 before Ms. [[PERSON|Kovacic]] fell?
+A.  He did 6 and 7 maybe ten minutes before, yes.
+Q.  Was there a wet-floor sign out?
+A.  There was one at the end cap by the cereal. I don't know about the other end.
+Q.  Did you know Ms. [[PERSON|Kovacic]] before that night?
+A.  By sight. She comes in a lot around three in the morning. She's [[INDIRECT_ROLE|the night charge nurse at Brookpark
+    Manor across the street]]. She gets her coffee creamer and a newspaper on her break.
+Q.  How would you describe her?
+A.  She has [[PHYSICAL_DESCRIPTOR|a purple streak in her gray hair]]. She's short. And since the fall she [[PHYSICAL_DESCRIPTOR|walks with
+    a quad cane on her right side]]; before that she didn't use anything.
+Q.  Do you know where she lives?
+A.  Only because she told me once. She's in [[INDIRECT_LOCATION|the downstairs of the yellow double behind the Marathon at
+    Lorain and 117th]]. She walks over.
+Q.  Let me show you what's been marked Exhibit 4, the camera still at 03:14:22. Who is the person in the red jacket?
+A.  That's [[INDIRECT_ROLE|the Aunt Millie's bread driver for our route]]. He comes in the receiving door around then.
+Q.  Did he see her fall?
+A.  He told me he heard it. He's the one who called her son.
+Q.  Her son?
+A.  [[INDIRECT_ROLE|Her son the firefighter from Station 21 on Lorain]]. He came in his uniform maybe fifteen minutes later.
+Q.  Who did you report the incident to?
+A.  I did the incident report on the computer and emailed my district manager, [[PERSON|Gail Rusnak]], at
+    [[EMAIL|grusnak@lakeshorefresh.com]], before I left that morning.
+Q.  Where is the paper copy kept?
+A.  In the cash office, in the binder on the shelf.
+Q.  Did anyone from the company talk to the customer afterward?
+A.  The store director called her at home, I think. I wasn't part of that.
+Q.  Have you seen Ms. [[PERSON|Kovacic]] since the incident?
+A.  Once, in the spring, at [[INDIRECT_LOCATION|the Friday fish fry in the basement of St. Ignatius]]. We just said hello.
+Q.  Have you ever been disciplined at Lakeshore?
+A.  One write-up in 2023 for a register shortage. That's it.
+
+MS. [[PERSON|WARD-OKAFOR]]:  I'll note a standing objection to the questions about the floor contractor's employee.
+MR. [[PERSON|FEENEY]]:  Noted.
+                                   - - -
+                    (Excerpt ends at page 41, line 9.)
+
+Reporter: [[PERSON|Kathleen Dombrowski]], RPR, Notary Public, State of Ohio
+My commission expires [[DATE?|May 2, 2029]]

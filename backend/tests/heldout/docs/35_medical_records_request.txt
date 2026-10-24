@@ -1,0 +1,71 @@
+                                 [[ORGANIZATION?|KIM & ABERNATHY PLLC]]
+                   [[ADDRESS?|600 Congress Avenue, Suite 1450]]  |  [[ADDRESS?|Austin, Texas 78701]]
+                Phone [[PHONE|512-480-3300]]  |  Records Fax [[PHONE|512-480-3399]]  |  [[EMAIL|records@kimabernathy.com]]
+
+[[DATE|March 26, 2025]]
+
+VIA FAX: [[PHONE|(512) 434-7719]]  and  PORTAL UPLOAD (ROI request form CRMC-HIM-12)
+
+[[ORGANIZATION?|Capitol Ridge Medical Center]]
+Attn: Health Information Management / Release of Information
+[[ADDRESS?|4100 Ridgeline Parkway]]
+[[ADDRESS?|Austin, TX 78731]]
+
+     Re:   Request for Complete Medical and Billing Records
+           Patient:          [[PERSON|Maria Elena Delgado-Ruiz]]
+           Date of Birth:    [[DATE_OF_BIRTH|04/17/1986]]
+           SSN (last 4):     [[SSN|1934]]
+           MRN (if known):   [[MRN|00847721]]
+           Dates of Service: [[DATE|03/14/2025]] to present
+           Our File:         25-0318-PI
+
+Dear Custodian of Records:
+
+     This firm represents the above-named patient for injuries sustained in a motor vehicle
+collision on [[DATE|March 14, 2025]]. Enclosed is a HIPAA-compliant authorization signed by our client
+on [[DATE|March 19, 2025]] (45 C.F.R. § 164.508). Please provide the following:
+
+     1.  Complete medical records, including the emergency department record, trauma flowsheets,
+         H&P, progress notes, consults (orthopaedics, neurosurgery, PM&R, social work, case
+         management), operative and anesthesia records, nursing notes, MAR, discharge summary,
+         and patient instructions;
+     2.  All radiology reports AND images (CT head, CT C-spine, CT chest/abdomen/pelvis, MRI
+         C-spine, all wrist films) in DICOM format on CD or via secure link;
+     3.  Laboratory results, including toxicology and blood bank;
+     4.  Itemized billing statement (UB-04 and itemization by revenue code/CPT/HCPCS), including
+         all payments, adjustments, and write-offs, and the name of the payor(s);
+     5.  Any hospital lien filed under Tex. Prop. Code § 55.002, with the county clerk recording
+         information;
+     6.  An affidavit in the form prescribed by Tex. Civ. Prac. & Rem. Code § 18.001 for the
+         billing records, and a business records affidavit (Tex. R. Evid. 902(10)) for the
+         medical records.
+
+     Please also include the records of her son, [[PERSON MINOR|Mateo A. Ruiz]] (DOB [[DATE_OF_BIRTH|10/08/2018]]), ONLY if any
+care was provided to him at your facility on [[DATE|03/14/2025]] (we understand he was transported to
+[[ORGANIZATION?|Lone Oak Children's Medical Center]]; if no records exist, please so state). A separate authorization
+signed by his mother as parent and natural guardian is enclosed.
+
+     PLEASE DO NOT INCLUDE psychotherapy notes as defined by 45 C.F.R. § 164.501. Records of
+mental health treatment otherwise contained in the hospital chart may be included, as authorized.
+
+     Pursuant to Tex. Health & Safety Code § 241.154 and 25 Tex. Admin. Code § 133.1, please
+provide an invoice for the reasonable cost of copies. We will remit payment upon receipt. If the
+fee will exceed [[MONEY?|$150.00]], please call before processing. For fees under that amount you may charge
+the firm's card: Visa [[CREDIT_CARD|4748-5116-4371-2651]], exp. [[CARD_EXPIRY|03/2028]], security code [[CVV|917]], cardholder
+[[PERSON|Rachel Kim]], billing ZIP [[ADDRESS?|78701]].
+
+     Please direct any questions to my paralegal, [[PERSON|Destiny Vu]], at [[PHONE|512-480-3324]] or
+[[EMAIL|dvu@kimabernathy.com]].
+
+                                         Sincerely,
+
+                                         /s/ [[PERSON|Rachel Kim]]
+                                         [[PERSON|Rachel Kim]]
+
+Enclosures: HIPAA Authorization (patient); HIPAA Authorization (minor); Letter of Representation
+cc: Client (w/o encl.)
+
+-----------------------------------------------------------------------------------------------------
+[HIM USE ONLY]  Received [[DATE|03/27/2025]] 08:12 by [[USERNAME|jtorres3]]   ROI #: ROI-25-03391   Validated: Y
+Requestor type: ATTORNEY   Fee: [[MONEY?|$96.40]] (612 pp + CD)   Released [[DATE|04/02/2025]]   Invoice # HIM-4471-0402
+Notes: Minor's records -- none at CRMC; letter sent. Psych notes excluded per request.

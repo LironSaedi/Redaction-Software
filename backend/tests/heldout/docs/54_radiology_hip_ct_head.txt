@@ -1,0 +1,63 @@
+[[ORGANIZATION?|HAYS REGIONAL MEDICAL CENTER]] -- DEPARTMENT OF RADIOLOGY
+[[ADDRESS?|1301 Wonder World Dr]], [[ADDRESS?|San Marcos TX 78666]]   Reading Room [[PHONE|512.353.8070]]
+
+Patient: [[PERSON|Banks, Rose M]]          MRN: [[MRN|H00519344]]       DOB: [[DATE_OF_BIRTH|02/14/1955]] ([[AGE|70]])     Sex: F
+Ordering: [[PERSON|Kessler, Jonah]] DO (ED)     Location: ED-14          Visit: [[MRN|7720041986]]
+
+-------------------------------------------------------------------------------------------------
+EXAM:        XR PELVIS 1 VIEW AND XR HIP LEFT 2-3 VIEWS          CPT 72170, 73502
+ACCESSION:   [[MRN?|HRM-XR-25-0502-0188]]           DATE/TIME: [[DATE|05/02/2025]] 15:47
+HISTORY:     [[AGE|70]] yo F slip and fall on wet floor at store, L hip pain, unable to bear weight, L leg
+             shortened and externally rotated. W19.XXXA.
+COMPARISON:  None.
+FINDINGS:    Acute comminuted intertrochanteric fracture of the left proximal femur with varus angulation
+             and a separate lesser trochanter fragment. Mild proximal migration of the femoral shaft.
+             No dislocation. Femoral head sphericity maintained. Diffuse osteopenia. Mild bilateral hip
+             osteoarthritis. Pubic rami intact. SI joints unremarkable. Vascular calcifications.
+             Phleboliths. Surgical clips RLQ (prior surgery).
+IMPRESSION:  1. [[MEDICAL_CONDITION?|Acute comminuted, displaced intertrochanteric fracture, left femur]] (unstable pattern,
+                AO/OTA 31A2).
+             2. [[MEDICAL_CONDITION?|Osteopenia]].
+Read by:     [[PERSON|Alejandra Montemayor]], MD     Signed [[DATE|05/02/2025]] 16:02     Called to Dr. [[PERSON|Kessler]] 16:03
+
+-------------------------------------------------------------------------------------------------
+EXAM:        CT HEAD WITHOUT CONTRAST                            CPT 70450
+ACCESSION:   [[MRN?|HRM-CT-25-0502-0091]]           DATE/TIME: [[DATE|05/02/2025]] 15:58
+HISTORY:     Fall, struck head on freezer case per EMS, on aspirin 81 mg, age > 65. Canadian CT Head Rule
+             positive. Mild confusion per daughter.
+TECHNIQUE:   Axial 5 mm and 0.625 mm reconstructions. DLP 904 mGy*cm.
+FINDINGS:    No acute intracranial hemorrhage, mass effect or midline shift. Moderate periventricular and
+             subcortical white matter hypoattenuation, consistent with chronic small vessel ischemic disease.
+             Generalized parenchymal volume loss, mildly advanced for age, with disproportionate bilateral
+             hippocampal/temporal horn prominence. Old lacunar infarct, left caudate head. Left frontal
+             scalp hematoma 1.4 cm. No calvarial fracture. Partial opacification right maxillary sinus.
+IMPRESSION:  1. No acute intracranial abnormality. Left frontal scalp hematoma.
+             2. [[MEDICAL_CONDITION?|Chronic small vessel ischemic disease]]; [[MEDICAL_CONDITION?|old left caudate lacunar infarct]].
+             3. [[MEDICAL_CONDITION?|Volume loss with disproportionate mesial temporal atrophy]] -- correlate clinically
+                for neurodegenerative process (e.g., Alzheimer disease), if not already known.
+Read by:     [[PERSON|Alejandra Montemayor]], MD     Signed [[DATE|05/02/2025]] 16:15
+
+-------------------------------------------------------------------------------------------------
+EXAM:        XR HIP LEFT 2 VIEWS (POST-OP, PORTABLE)             CPT 73502
+ACCESSION:   [[MRN?|HRM-XR-25-0503-0207]]           DATE/TIME: [[DATE|05/03/2025]] 13:20
+HISTORY:     POD 0 s/p cephalomedullary nail, Dr. [[PERSON|B. Oyelaran]].
+FINDINGS:    Interval fixation of the intertrochanteric fracture with a long cephalomedullary nail and
+             single lag screw; tip-apex distance 21 mm. Distal interlocking screw. Near-anatomic alignment;
+             lesser trochanter fragment remains displaced 9 mm (expected). Skin staples. No hardware
+             complication.
+IMPRESSION:  Expected post-operative appearance after IM nail fixation of left intertrochanteric fracture.
+Read by:     [[PERSON|Raj Subramanian]], MD (teleradiology, [[ORGANIZATION?|NightHawk Partners]])  Signed [[DATE|05/03/2025]] 13:41
+
+-------------------------------------------------------------------------------------------------
+EXAM:        XR CHEST 1 VIEW (PORTABLE)                          CPT 71045
+ACCESSION:   [[MRN?|HRM-XR-25-0504-0311]]           DATE/TIME: [[DATE|05/04/2025]] 20:34
+HISTORY:     Fever 100.2, confusion, crackles R base.
+FINDINGS:    Low lung volumes. Patchy right basilar opacity. No pneumothorax. Small right effusion. Heart
+             size upper normal; aortic knob calcification.
+IMPRESSION:  [[MEDICAL_CONDITION?|Right basilar opacity -- atelectasis versus early aspiration pneumonia]].
+Read by:     [[PERSON|Raj Subramanian]], MD     Signed [[DATE|05/04/2025]] 20:58
+
+-------------------------------------------------------------------------------------------------
+RELEASE: Images (CD, 4 studies) and reports released [[DATE|05/21/2025]] to [[ORGANIZATION?|Whitlock Injury Law]], [[ADDRESS?|210 N. LBJ Dr,
+San Marcos TX 78666]], per authorization signed by [[PERSON|Lorraine Banks-Whitaker]] (MPOA). Fee [[MONEY?|$35.00]].
+Bates HRMC-RAD-000001 - 000004.  Page 1 of 1.

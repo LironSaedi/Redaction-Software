@@ -1,0 +1,37 @@
+GULF COAST RECOVERY SOLUTIONS, LLC -- ACCOUNT NOTES (COLLECTOR VIEW)
+Acct #: [[ID_NUMBER|GCR-5518-20447]]       Orig. creditor: [[ORGANIZATION?|Magnolia Furniture & Appliance]]       Orig. acct: [[ID_NUMBER|MFA-00731184]]
+Debtor: [[PERSON|PETTAWAY, LONNIE RAY]]       DOB: [[DATE_OF_BIRTH|11/22/1979]]       SSN: [[SSN|421-63-0958]]
+Last addr of record: [[ADDRESS|8810 Old Pascagoula Rd, Theodore, AL 36582]] (RTS -- moved, left no fwd)
+Balance: [[MONEY|$2,847.19]]       Placed: [[DATE|07/28/2026]]       Status: SKIP
+
+---- NOTES (newest last) ----
+[[DATE|08/04/26]] DMH  Skip. Ph on file [[PHONE|(251) 555-0109]] disconnected. Database hit: possible res w/ mother at
+            [[INDIRECT_LOCATION|the trailer behind the Piggly Wiggly in Grand Bay, the one w/ the wheelchair ramp]]. No street #.
+[[DATE|08/06/26]] DMH  Called store main # for location info only. Spoke to [[INDIRECT_ROLE|the night manager at the Grand Bay
+            Pig]], who said debtor's mother is [[INDIRECT_ROLE|the hot-food counter lady there]] and debtor "comes by for plate
+            lunches." Did not disclose debt. Left callback # only.
+[[DATE|08/11/26]] DMH  Public social media: debtor posts as "[[USERNAME|LonnieRay.Shrimps251]]". Recent pics on [[INDIRECT_LOCATION|the
+            Bayou La Batre shrimp dock behind Ladnier's ice house]]; caption says "back on the Miss Dorothy." Appears to be
+            [[INDIRECT_ROLE|the striker on the F/V Miss Dorothy]] this season. Pics also show [[PHYSICAL_DESCRIPTOR|a big crimson script A tattooed
+            on his right calf]] and [[PHYSICAL_DESCRIPTOR|a missing upper front tooth]] -- matches DL photo otherwise.
+[[DATE|08/19/26]] KTW  Called poss. employer [[EMPLOYER|Ladnier Seafood Co.]] for employment verification. Spoke w/
+            [[INDIRECT_ROLE|the dock boss's wife who keeps their books]]. Confirmed debtor works for them seasonally, paid by the
+            trip. Would not give schedule or confirm address. Wage garnishment not viable (1099 crew).
+[[DATE|08/22/26]] KTW  3rd-party location call to debtor's ex-wife, [[PERSON|Crystal Pettaway]], [[PHONE|(251) 555-0182]]. Phone answered
+            by [[INDIRECT_ROLE|her new husband]], who said debtor "stays on the boat" or at [[INDIRECT_LOCATION|his cousin's camp on Bayou
+            Coden past the oyster house]] when they're in. Said "don't call here again." Marked 3rd-party # DNC.
+[[DATE|08/29/26]] KTW  Sent validation notice c/o [[INDIRECT_LOCATION|General Delivery, Bayou La Batre post office]]. Not ideal.
+[[DATE|09/02/26]] DMH  INBOUND from debtor, [[PHONE|(251) 555-0147]] (new cell, updated). Mini-Miranda given. Debtor disputes
+            [[MONEY|$412]] in late fees, does not dispute the balance on the bedroom set. Says he is living in [[INDIRECT_LOCATION|the
+            camper next to the net shop on Shell Belt Rd]] until shrimp season ends. Mail OK c/o the net shop.
+            Offered PIF settlement [[MONEY|$1,600]]; debtor countered [[MONEY|$1,200]]. Approved [[MONEY|$1,400]] per mgr [[PERSON|R. Faircloth]].
+[[DATE|09/05/26]] DMH  Payment taken by phone check: routing [[ROUTING_NUMBER|062203751]], acct [[BANK_ACCOUNT|0049173352]] ([[ORGANIZATION?|Gulf Coast
+            Federal CU]]), [[MONEY|$700.00]] today and [[MONEY|$700.00]] post-dated [[DATE|10/03/2026]]. Recorded authorization. Confirmation
+            letter mailed c/o net shop.
+[[DATE|09/06/26]] SYS  Pmt 1 posted [[MONEY|$700.00]]. Balance in settlement: [[MONEY|$700.00]].
+[[DATE|10/03/26]] SYS  Pmt 2 returned NSF.
+[[DATE|10/06/26]] KTW  Called debtor cell -- vm full. Texted per consent on file: "Pls call GCRS re: your acct." No
+            response. Per [[INDIRECT_ROLE|ex-wife's husband]] (unsolicited callback, [[DATE?|10/06]]), debtor is "offshore till the 20th."
+[[DATE|10/14/26]] DMH  Debtor called back, says boat had engine trouble and no trip pay. Re-set pmt 2 for [[DATE|10/24/2026]]. Debtor
+            asked that we stop calling the Piggly Wiggly because "my mama could lose her job." Noted -- no further contact
+            to that location.

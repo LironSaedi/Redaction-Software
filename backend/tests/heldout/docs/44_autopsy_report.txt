@@ -1,0 +1,144 @@
+GULF COAST REGIONAL MEDICAL EXAMINER'S OFFICE
+[[ADDRESS?|1861 Old Spanish Trail]], [[ADDRESS?|Houston, Texas 77054]]  *  Main [[PHONE|(713) 796-9292]]  *  Records Fax [[PHONE|(713) 796-6844]]
+
+                               REPORT OF AUTOPSY
+
+ME CASE NO.:    [[CASE_NUMBER|ME25-03318]]                         DATE OF AUTOPSY:   [[DATE|07/05/2025]]  09:15
+DECEDENT:       [[PERSON|ADEYEMI, OLUMIDE BABATUNDE]]           AUTOPSY BY:        [[PERSON|Wen-Li Hsu]], M.D., Deputy Chief ME
+DOB:            [[DATE_OF_BIRTH|01/30/1968]]   AGE: [[AGE|57]]                ASSISTED BY:       [[PERSON|M. Castro-Ibarra]], Autopsy Tech
+SEX / RACE:     Male / [[DEMOGRAPHIC|Black (Nigerian-born)]]         INVESTIGATOR:      [[PERSON|Raymond Theriot]], ME Investigator #[[ID_NUMBER|114]]
+DATE OF DEATH:  [[DATE|07/04/2025]]  23:31 (pronounced)    PLACE OF DEATH:    [[ORGANIZATION?|Westchase General Hospital]], Trauma Bay 3
+DATE OF INJURY: [[DATE|07/04/2025]]  ~21:52                PLACE OF INJURY:   [[INDIRECT_LOCATION|Westheimer Rd at Fondren Rd]], eastbound lanes,
+                                                                              in marked crosswalk, [[LOCATION?|Houston]], [[LOCATION?|Harris County]]
+RESIDENCE:      [[ADDRESS|11823 Briar Forest Dr, Houston, TX 77077]]
+IDENTIFIED BY:  Visual (photo) by wife, [[PERSON|Funmilayo Adeyemi]], [[DATE|07/05/2025]] 01:40; confirmed by fingerprints
+                (TX DL [[DRIVERS_LICENSE|09184477]] / DPS AFIS) and loop recorder serial (see below).
+LAW ENFORCEMENT: [[ORGANIZATION?|Houston Police Department]], Vehicular Crimes Division -- Inv. [[PERSON|D. Abernathy-Cole]] #[[LAW_ENFORCEMENT_ID|71182]]
+                 HPD Incident # [[LAW_ENFORCEMENT_ID|0918844-25]]
+
+CAUSE OF DEATH:     [[MEDICAL_CONDITION?|BLUNT FORCE INJURIES OF HEAD, TORSO, AND EXTREMITIES]]
+MANNER OF DEATH:    ACCIDENT
+HOW INJURY OCCURRED: Pedestrian struck by motor vehicle (driver suspected intoxicated -- see HPD).
+OTHER SIGNIFICANT CONDITIONS: [[MEDICAL_CONDITION?|Atrial fibrillation on anticoagulation (apixaban)]]
+
+PATHOLOGIC DIAGNOSES
+  I.   Blunt force injuries of the head:
+       A. Comminuted fracture of the right temporoparietal skull extending into the middle cranial fossa
+       B. Acute subdural hemorrhage, right, 120 mL; diffuse subarachnoid hemorrhage
+       C. Cerebral contusions, right temporal and frontal lobes; contrecoup left frontal
+       D. Scalp lacerations (3) and abrasions, right
+  II.  Blunt force injuries of the torso:
+       A. Fractures of right ribs 3-9 (posterolateral, flail segment 5-8) and left ribs 4-6
+       B. Laceration of right lung, lower lobe; right hemothorax, 900 mL (status post chest tube)
+       C. Lacerations of liver, right lobe (two, up to 6 cm); hemoperitoneum, 650 mL
+       D. Open-book fracture of pelvis with right sacroiliac disruption; retroperitoneal hemorrhage
+  III. Blunt force injuries of the extremities:
+       A. "Bumper fractures": comminuted fractures of right tibia and fibula, 38-41 cm above right heel
+       B. Fracture, left femoral shaft
+       C. Abrasions and lacerations, bilateral upper and lower extremities
+  IV.  Other findings:
+       A. [[MEDICAL_CONDITION?|Cardiomegaly (480 g) with left ventricular hypertrophy (1.7 cm)]]
+       B. [[MEDICAL_CONDITION?|Moderate coronary atherosclerosis, LAD 50% stenosis]]
+       C. Implantable loop recorder, left parasternal subcutaneous tissue
+       D. [[MEDICAL_CONDITION?|Arterionephrosclerosis, mild]]
+       E. Therapeutic interventions: ETT, chest tube (R), pelvic binder, IO line L tibia, multiple IVs
+
+TOXICOLOGY (see attached report, [[ORGANIZATION?|Axis Forensic Toxicology]] lab #[[MRN?|2525-118844]])
+  Femoral blood: ethanol NONE DETECTED (<0.010 g/dL). Apixaban 148 ng/mL (therapeutic range 91-321).
+  Caffeine present. Lidocaine and fentanyl present (consistent with hospital administration).
+  Vitreous: Na 138, K 7.9, Cl 112, glucose <20 mg/dL, creatinine 1.1 mg/dL.
+
+ME CASE NO. [[CASE_NUMBER|ME25-03318]] -- [[PERSON|ADEYEMI, OLUMIDE BABATUNDE]]                                       Page 2 of 4
+
+INVESTIGATIVE SUMMARY (from ME Investigator [[PERSON|R. Theriot]] report)
+  The decedent, a [[DEMOGRAPHIC|57-year-old Black man]], was walking eastbound across Westheimer Rd in the
+  marked crosswalk at Fondren Rd with his wife and [[INDIRECT_ROLE|15-year-old daughter]] after watching fireworks at
+  [[INDIRECT_LOCATION|the church parking lot of Living Waters Parish on Fondren]]. Per HPD, a [[VEHICLE_DESCRIPTION|red 2021 Dodge Ram 1500
+  pickup]] traveling westbound failed to stop for the red signal and struck the decedent, who pushed his
+  daughter out of the vehicle's path. The decedent was thrown approximately 70 feet. The driver remained
+  at the scene. HPD reported the driver's breath test result as 0.168 g/210L at 23:05. EMS (HFD Medic 68)
+  found the decedent unresponsive, GCS 3, with agonal respirations; he was intubated and transported to
+  [[ORGANIZATION?|Westchase General Hospital]] where he arrived at 22:19 in hemorrhagic shock. Despite massive transfusion
+  (14 units PRBC), bilateral chest tubes, and preperitoneal packing, he died at 23:31.
+
+  Medical history (per wife and hospital records): [[MEDICAL_CONDITION?|hypertension]], [[MEDICAL_CONDITION?|paroxysmal atrial fibrillation]]
+  diagnosed 2022 (loop recorder placed 2023), on [[MEDICATION?|apixaban]] 5 mg BID and [[MEDICATION?|metoprolol]]. Primary care:
+  Dr. [[PERSON|Ngozi Eze-Lawson]]. Cardiology: Dr. [[PERSON|Rahul Bhatnagar]]. Nonsmoker, rare alcohol. Employed as a senior
+  reservoir engineer at [[EMPLOYER|Gulfstar Energy Services]]. Married, three children.
+
+EXTERNAL EXAMINATION
+  The body is received in a white body bag sealed with ME seal #[[ID_NUMBER?|0447182]], wearing a hospital gown. Clothing
+  received separately in paper bag: white agbada-style embroidered top (cut by EMS) with blood staining,
+  dark trousers with tire-pattern soiling on right leg, black leather loafers (right shoe absent --
+  recovered at scene by HPD), gold wedding band (removed, released to wife with property receipt
+  #PR-25-03318-01).
+  The body is that of a well-developed, well-nourished adult [[DEMOGRAPHIC|Black male]], 70 inches, 214 lb (BMI 30.7),
+  appearing consistent with the stated age of [[AGE|57]] years. Rigor is moderate in all extremities; livor is
+  posterior and fixed.
+  Identifying marks: [[PHYSICAL_DESCRIPTOR|Three short parallel horizontal scarification marks on each cheek (traditional
+  Yoruba facial marks)]]. [[PHYSICAL_DESCRIPTOR|Well-healed 4 cm scar, right lower quadrant (appendectomy)]].
+  Tattoo: none. [[PHYSICAL_DESCRIPTOR|Gap between upper central incisors; gold crown, lower left first molar]].
+  Hair: black and gray, short; [[PHYSICAL_DESCRIPTOR|gray goatee]]. Eyes: brown; petechiae absent.
+  Implanted device: Medtronic LINQ II insertable cardiac monitor, serial [[DEVICE_ID|RLB204471S]], recovered and
+  retained (interrogation requested from manufacturer).
+
+EVIDENCE OF INJURY -- EXTERNAL (summary)
+  Head: 7.5 cm curvilinear laceration of right parietal scalp; 3.2 cm and 2.1 cm lacerations right temporal;
+  abrasion of right forehead and cheek 9 x 6 cm overlying the facial marks.
+  Torso: patterned abrasion of right flank 22 x 14 cm with grille-like linear components spaced 1.8 cm;
+  abrasions left shoulder.
+  Extremities: 6 x 4 cm laceration of right anterior leg with protruding bone ends, 38-41 cm above the heel
+  (bumper impact level; consistent with a high-profile vehicle); abrasions both hands and knees.
+
+ME CASE NO. [[CASE_NUMBER|ME25-03318]] -- [[PERSON|ADEYEMI, OLUMIDE BABATUNDE]]                                       Page 3 of 4
+
+INTERNAL EXAMINATION (selected)
+  Head/CNS: as above. Brain 1,420 g. Uncal herniation, right. Duret hemorrhages pons.
+  Neck: hyoid and larynx intact. No cervical spine fracture; atlanto-occipital joint intact.
+  Cardiovascular: heart 480 g; LV wall 1.7 cm; septum 1.6 cm; RV 0.4 cm; valves unremarkable. Coronary
+    arteries: LAD 50%, RCA 30%, LCx 20% atherosclerotic stenosis. No acute thrombus. Aorta: intact.
+  Respiratory: right lung 780 g (lacerated, hemorrhagic); left 610 g; aspirated blood in airways.
+  Hepatobiliary: liver 1,940 g with lacerations as described; gallbladder unremarkable.
+  GU: kidneys 160 g / 150 g, finely granular surfaces. Prostate mildly enlarged.
+  Musculoskeletal: fractures as listed.
+
+MICROSCOPIC: Lung -- hemorrhage, early aspiration. Kidney -- arterionephrosclerosis. Heart -- myocyte
+  hypertrophy, mild interstitial fibrosis; no myocarditis or acute infarct. Brain -- acute contusion,
+  no neuronal necrosis (consistent with short survival interval, ~1.5 hours).
+
+OPINION
+  This [[AGE|57]]-year-old man died of blunt force injuries sustained when he was struck by a motor vehicle while
+  walking in a marked crosswalk. The injury pattern (right-sided bumper fractures at 38-41 cm, right flank
+  patterned abrasion, right-sided head impact) is consistent with a pedestrian struck on his right side by
+  a high-profile vehicle traveling at moderate to high speed. His therapeutic anticoagulation (apixaban)
+  likely accelerated hemorrhage but the head, chest, liver and pelvic injuries were each independently
+  potentially fatal. His [[MEDICAL_CONDITION?|hypertensive and atherosclerotic cardiovascular disease]] did not cause or contribute
+  to his death. The manner of death is classified as ACCIDENT under this office's conventions for vehicular
+  deaths; this classification does not address criminal responsibility, which is determined by law
+  enforcement and the courts (see Tex. Penal Code § 49.08).
+
+                                    /s/ [[PERSON|Wen-Li Hsu]], M.D.
+                                    [[PERSON|Wen-Li Hsu]], M.D., Deputy Chief Medical Examiner
+                                    Date signed: [[DATE|08/14/2025]]
+                                    Texas Medical License [[ID_NUMBER|N3301]]
+
+ME CASE NO. [[CASE_NUMBER|ME25-03318]] -- [[PERSON|ADEYEMI, OLUMIDE BABATUNDE]]                                       Page 4 of 4
+
+PROPERTY / RELEASE
+  Body released [[DATE|07/06/2025]] 14:20 to [[ORGANIZATION?|Bradshaw-Carter Funeral Home]] (FH license [[ID_NUMBER?|FH-1188]]) at the
+  request of next of kin [[PERSON|Funmilayo O. Adeyemi]] (wife), [[PHONE|281-596-4471]].
+  Personal effects released to wife: wedding band (gold); wallet with TX DL, [[ORGANIZATION?|Chase]] Visa ending [[CREDIT_CARD|5820]],
+  [[MONEY?|$43]] cash, church member ID card; Samsung Galaxy phone (IMEI [[DEVICE_ID|358786958874275]]) -- HPD retained
+  phone? NO (decedent's phone not evidence); keys.
+  Decedent's son [[PERSON|Tolulope Adeyemi]] ([[PHONE|+1 (206) 555-0190]]) requested copy of report ([[DATE|08/20/2025]]).
+
+DEATH CERTIFICATE
+  Certified by the ME [[DATE|07/07/2025]] (pending -> amended [[DATE|08/14/2025]]). State file no. [[ID_NUMBER?|142-25-118802]].
+  Informant: [[PERSON|Funmilayo O. Adeyemi]], wife. Decedent's SSN on certificate: [[SSN|453-71-8820]].
+  Decedent's father: [[PERSON|Babatunde Adeyemi]] (deceased). Mother: [[PERSON|Adunni Adeyemi]] (née [[PERSON|Akinola]]), [[LOCATION?|Lagos]].
+  Education: Master's degree. Usual occupation: petroleum engineer. Armed forces: No.
+  Birthplace: [[LOCATION?|Ibadan, Nigeria]]. Citizenship: [[IMMIGRATION_STATUS|U.S. (naturalized)]].
+
+Distribution: HPD VCD; [[LOCATION?|Harris County]] DA Vehicular Crimes (ADA [[PERSON|K. Mbeki-Lowe]]); next of kin (by request);
+[[ORGANIZATION?|Nnamdi Pierce Trial Lawyers]] (subpoena, [[DATE|09/02/2025]], fee [[MONEY?|$25]]).
+This report may be released only as permitted by Tex. Code Crim. Proc. art. 49.25 § 11 and Gov't Code ch. 552.

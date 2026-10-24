@@ -1,0 +1,71 @@
+[[ORGANIZATION?|BLUEBONNET PHARMACY]] -- PATIENT PRESCRIPTION PROFILE / FILL HISTORY
+[[INDIRECT_LOCATION|Store #212]] -- [[ADDRESS?|3601 S. Congress Ave]], [[ADDRESS?|Austin TX 78704]] -- Ph [[PHONE|512-442-0198]] -- Fax [[PHONE|512-442-0170]]
+NABP 4518823   NPI (store) [[NPI?|1922084471]]                      Run date: [[DATE|06/30/2025]] 16:02  RPh: [[PERSON|D. Okafor-Lyons]]
+
+PATIENT: [[PERSON|DELGADO RUIZ, MARIA]]        DOB: [[DATE_OF_BIRTH|04-17-1986]]        Gender: F
+ADDR:    [[ADDRESS|2209 BLUEBONNET LN]]  [[ADDRESS|AUSTIN TX 78704-3318]]                PH: [[PHONE|(512) 836-2290]]
+ALLERGIES: PENICILLINS; LATEX
+PRIMARY PLAN: [[ORGANIZATION?|CAREMARK]] -- BIN 004336  PCN ADV  GROUP [[HEALTH_PLAN_ID|RX4471]]  ID [[HEALTH_PLAN_ID|XOD884417203]]  PERSON CODE 01
+SECONDARY: none.    Date range requested: [[DATE|01/01/2024]] - [[DATE|06/30/2025]]
+Requested by: [[ORGANIZATION?|Holloway Brandt & Pierce LLP]] -- Subpoena served [[DATE|06/24/2025]] (Cause No. [[CASE_NUMBER|D-1-GN-25-002918]])
+
+FILL DATE   RX#         DRUG / STRENGTH                           NDC             QTY   DS   PRESCRIBER                    PAID BY   PT PAY
+----------  ----------  ----------------------------------------  --------------  ----  ---  ----------------------------  --------  -------
+[[DATE|01/08/2024]]  [[MRN?|6603318]]     [[MEDICATION|SERTRALINE HCL]] 50 MG TAB                  68180-0352-09   30    30   [[PERSON|GARZA-YBARRA, L]]               [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$0.00]]
+[[DATE|01/08/2024]]  [[MRN?|6603319]]     [[MEDICATION?|LEVOTHYROXINE]] 75 MCG TAB                 00378-1807-01   90    90   [[PERSON|GARZA-YBARRA, L]]               [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$4.00]]
+[[DATE|02/06/2024]]  [[MRN?|6603318]]-1   [[MEDICATION|SERTRALINE HCL]] 50 MG TAB                  68180-0352-09   30    30   [[PERSON|GARZA-YBARRA, L]]               [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$0.00]]
+[[DATE|03/07/2024]]  [[MRN?|6603318]]-2   [[MEDICATION|SERTRALINE HCL]] 50 MG TAB                  68180-0352-09   30    30   [[PERSON|GARZA-YBARRA, L]]               [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$0.00]]
+[[DATE|04/11/2024]]  [[MRN?|6603318]]-3   [[MEDICATION|SERTRALINE HCL]] 50 MG TAB                  68180-0352-09   30    30   [[PERSON|GARZA-YBARRA, L]]               [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$0.00]]
+[[DATE|04/11/2024]]  [[MRN?|6618807]]     [[MEDICATION|HYDROXYZINE HCL]] 25 MG TAB                 0591-5522-01    30    15   [[PERSON|GARZA-YBARRA, L]]               [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$1.85]]
+[[DATE|04/12/2024]]  [[MRN?|6603319]]-1   [[MEDICATION?|LEVOTHYROXINE]] 75 MCG TAB                 00378-1807-01   90    90   [[PERSON|GARZA-YBARRA, L]]               [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$4.00]]
+[[DATE|05/13/2024]]  [[MRN?|6603318]]-4   [[MEDICATION|SERTRALINE HCL]] 50 MG TAB                  68180-0352-09   30    30   [[PERSON|GARZA-YBARRA, L]]               [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$0.00]]
+[[DATE|06/14/2024]]  [[MRN?|6603318]]-5   [[MEDICATION|SERTRALINE HCL]] 50 MG TAB                  68180-0352-09   30    30   [[PERSON|GARZA-YBARRA, L]]               [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$0.00]]
+[[DATE|08/02/2024]]  [[MRN?|6641277]]     [[MEDICATION|SERTRALINE HCL]] 50 MG TAB                  68180-0352-09   90    90   [[PERSON|GARZA-YBARRA, L]]               [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$0.00]]
+[[DATE|08/02/2024]]  [[MRN?|6641278]]     [[MEDICATION?|AZITHROMYCIN]] 250 MG TAB (Z-PAK)          59762-3220-01   6     5    [[PERSON|PHAM, TUAN]] PA-C               [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$3.10]]
+[[DATE|10/21/2024]]  [[MRN?|6603319]]-2   [[MEDICATION?|LEVOTHYROXINE]] 75 MCG TAB                 00378-1807-01   90    90   [[PERSON|GARZA-YBARRA, L]]               [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$4.00]]
+[[DATE|10/30/2024]]  [[MRN?|6641277]]-1   [[MEDICATION|SERTRALINE HCL]] 50 MG TAB                  68180-0352-09   90    90   [[PERSON|GARZA-YBARRA, L]]               [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$0.00]]
+[[DATE|01/29/2025]]  [[MRN?|6641277]]-2   [[MEDICATION|SERTRALINE HCL]] 50 MG TAB                  68180-0352-09   90    90   [[PERSON|GARZA-YBARRA, L]]               [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$0.00]]
+[[DATE|01/29/2025]]  [[MRN?|6603319]]-3   [[MEDICATION?|LEVOTHYROXINE]] 75 MCG TAB                 00378-1807-01   90    90   [[PERSON|GARZA-YBARRA, L]]               [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$4.00]]
+--- [[DATE|03/14/2025]] MVC (per subpoena request -- annotation by requesting counsel, not pharmacy) ---
+[[DATE|03/18/2025]]  [[MRN?|6702214]]     [[MEDICATION?|OXYCODONE-APAP]] 5-325 MG TAB  C-II         0406-0512-01    20    5    [[PERSON|SZYMANSKI, DANIEL]]             [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$6.40]]
+[[DATE|03/18/2025]]  [[MRN?|6702215]]     [[MEDICATION?|CYCLOBENZAPRINE]] 5 MG TAB                 29300-0414-01   14    14   [[PERSON|SZYMANSKI, DANIEL]]             [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$2.25]]
+[[DATE|03/18/2025]]  [[MRN?|6702216]]     [[MEDICATION?|LIDOCAINE]] 4% PATCH                       OTC             15    15   [[PERSON|SZYMANSKI, DANIEL]]             CASH      [[MONEY?|$12.99]]
+[[DATE|03/27/2025]]  [[MRN?|6705530]]     [[MEDICATION?|OXYCODONE-APAP]] 5-325 MG TAB  C-II         0406-0512-01    15    5    [[PERSON|VENKATARAMAN, ANIL]]            [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$5.10]]
+[[DATE|04/15/2025]]  [[MRN?|6709981]]     [[MEDICATION?|GABAPENTIN]] 300 MG CAP                    69097-0938-07   90    30   [[PERSON|WHITFIELD, MARCUS]]             [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$3.60]]
+[[DATE|04/24/2025]]  [[MRN?|6641277]]-3   [[MEDICATION|SERTRALINE HCL]] 50 MG TAB                  68180-0352-09   90    90   [[PERSON|GARZA-YBARRA, L]]               [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$0.00]]
+[[DATE|04/24/2025]]  [[MRN?|6711402]]     [[MEDICATION|TRAZODONE]] 50 MG TAB                       16729-0172-01   30    30   [[PERSON|GARZA-YBARRA, L]]               [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$1.20]]
+[[DATE|05/14/2025]]  [[MRN?|6709981]]-1   [[MEDICATION?|GABAPENTIN]] 300 MG CAP                    69097-0938-07   90    30   [[PERSON|WHITFIELD, MARCUS]]             [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$3.60]]
+[[DATE|05/14/2025]]  [[MRN?|6716620]]     [[MEDICATION?|MELOXICAM]] 15 MG TAB                      29300-0125-10   30    30   [[PERSON|WHITFIELD, MARCUS]]             [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$1.00]]
+[[DATE|05/20/2025]]  [[MRN?|6717045]]     [[MEDICATION|PRAZOSIN]] 1 MG CAP                         0093-4067-01    30    30   [[PERSON|ABERNATHY, CLAIRE]] PMHNP          [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$2.75]]
+[[DATE|06/13/2025]]  [[MRN?|6709981]]-2   [[MEDICATION?|GABAPENTIN]] 300 MG CAP                    69097-0938-07   90    30   [[PERSON|WHITFIELD, MARCUS]]             [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$3.60]]
+[[DATE|06/19/2025]]  [[MRN?|6717045]]-1   [[MEDICATION|PRAZOSIN]] 2 MG CAP                         0093-4068-01    30    30   [[PERSON|ABERNATHY, CLAIRE]] PMHNP          [[ORGANIZATION?|CAREMARK]]  [[MONEY?|$2.75]]
+
+[[INDIRECT_LOCATION|BLUEBONNET PHARMACY #212]] -- FILL HISTORY -- [[PERSON|DELGADO RUIZ, MARIA]] -- DOB [[DATE_OF_BIRTH|04-17-1986]] -- Page 2 of 2
+
+PRESCRIBER DIRECTORY
+  [[PERSON|GARZA-YBARRA, LETICIA]] MD        NPI [[NPI|1541348961]]   DEA [[DEA_NUMBER|BG4729159]]   [[PHONE|512-467-2200]]
+  [[PERSON|PHAM, TUAN]] PA-C                  NPI [[NPI|2837064080]]   DEA --          [[PHONE|512-462-9900]] ([[ORGANIZATION?|MinuteMed Urgent Care]])
+  [[PERSON|SZYMANSKI, DANIEL]] MD             NPI [[NPI|1839067919]]   DEA [[DEA_NUMBER|MS3396997]]   [[PHONE|512-434-7700]]
+  [[PERSON|VENKATARAMAN, ANIL]] MD            NPI [[NPI|1814789693]]   DEA [[DEA_NUMBER|AV3188605]]   [[PHONE|512-434-7850]]
+  [[PERSON|WHITFIELD, MARCUS]] MD             NPI [[NPI|2545610364]]   DEA [[DEA_NUMBER|FW6204933]]   [[PHONE|512-434-7902]]
+  [[PERSON|ABERNATHY, CLAIRE]] PMHNP-BC       NPI [[NPI|1261049021]]   DEA [[DEA_NUMBER|MA2571380]]   [[PHONE|737-205-3381]] ([[ORGANIZATION?|Clearwater Counseling]])
+
+CONTROLLED SUBSTANCE SUMMARY (TX PMP cross-check performed [[DATE|06/30/2025]])
+  C-II fills in date range: 2   Total MME: 75 + 56.25   Pharmacies used: 1   Prescribers: 2
+  Early refill attempts: none.  PMP alerts: none.
+
+PICKUP / SIGNATURE LOG (controlled & counseling)
+  [[DATE|03/18/2025]] 18:44   Picked up by: [[PERSON|ARTURO RUIZ]] (spouse)   ID: TX DL ****[[DRIVERS_LICENSE|8826]]   Sig on file
+  [[DATE|03/27/2025]] 13:02   Picked up by: [[PERSON|ARTURO RUIZ]] (spouse)   ID: TX DL ****[[DRIVERS_LICENSE|8826]]   Sig on file
+  [[DATE|05/20/2025]] 17:30   Picked up by: patient                     Counseling accepted (prazosin -- orthostasis)
+
+NOTES
+  [[DATE|04/24/2025]] -- Pt asked RPh about interaction trazodone + sertraline; counseled on serotonin
+  syndrome symptoms. Pt mentioned she is "seeing a counselor for the accident nightmares."
+  -- [[PERSON|D. Okafor-Lyons]], PharmD
+
+CERTIFICATION OF RECORDS CUSTODIAN
+  I, [[PERSON|Denise Okafor-Lyons]], PharmD, am the custodian of records for [[ORGANIZATION?|Bluebonnet Pharmacy]] [[INDIRECT_LOCATION|Store
+  #212]]. The foregoing 2 pages are true and correct copies of records kept in the regular course of
+  business. Tex. R. Evid. 902(10).        /s/ [[PERSON|Denise Okafor-Lyons]]        [[DATE|July 1, 2025]]
+  Invoice #BP212-25-0614  Copy fee [[MONEY?|$15.00]].   Bates HBP-RX 000001-000002

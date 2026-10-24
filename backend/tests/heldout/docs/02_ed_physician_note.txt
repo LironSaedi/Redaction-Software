@@ -1,0 +1,131 @@
+[[ORGANIZATION?|Capitol Ridge Medical Center]] - Emergency Department                    ED Provider Note
+================================================================================
+[[PERSON|Delgado-Ruiz, Maria Elena]]          MRN: [[MRN|00847721]]      Enc #: [[MRN|9100234587]]
+DOB: [[DATE_OF_BIRTH|4/17/1986]]  ([[AGE|38 y.o.]] F)        Arrival: [[DATE|3/14/2025]] 18:21   Mode: ALS ambulance
+Attending: [[PERSON|Priyanka Nair]], MD             Resident: [[PERSON|Joel Abernathy-Stokes]], DO (PGY-2)
+Triage RN: [[PERSON|Courtney Blevins]], RN        Acuity: ESI 2      Trauma level: II
+Room: [[INDIRECT_LOCATION?|TRAUMA BAY 2]]
+================================================================================
+
+CHIEF COMPLAINT
+  MVC -- "my wrist is broken and I can't breathe deep"
+
+HPI
+  [[AGE|38 y.o.]] female, right-hand dominant, BIBA as restrained driver in a T-bone
+  collision with an 18-wheeler at approx 1740 today. Front and side curtain airbags
+  deployed. Driver door intrusion ~12 inches per EMS. Extricated by AFD Engine 22.
+  Pt reports her car was "pushed sideways into the median." She denies LOC but
+  says she felt "foggy" for several minutes. Reports L wrist pain 9/10, L-sided
+  chest wall pain with inspiration, posterior neck pain, generalized headache, mild
+  nausea without emesis. Denies abdominal pain at this time, denies vision change,
+  denies numbness at time of arrival. Received fentanyl 100 mcg IV en route.
+  Pt's child (rear seat passenger) transported by separate unit; pt very anxious
+  about him and asking repeatedly for updates.
+
+  LMP: [[DATE|02/26/2025]]. Pt states she [[SEXUAL_REPRODUCTIVE_HEALTH?|has an IUD]].
+
+ROS
+  Constitutional: neg fever/chills. Eyes: neg. ENT: neg. CV: neg chest pressure.
+  Resp: + pleuritic pain L. GI: + nausea. GU: neg hematuria. MSK: + L wrist, + neck.
+  Neuro: + HA, neg weakness. Psych: + anxious. All other systems reviewed and neg.
+
+PMH / PSH / MEDS / ALLERGIES
+  [[MENTAL_HEALTH|Anxiety]] -- [[MEDICATION|sertraline]] 50 mg daily
+  [[MEDICAL_CONDITION?|Hypothyroid]] -- [[MEDICATION?|levothyroxine]] 75 mcg
+  Lap chole (2017)
+  ALLERGIES: PCN (hives), latex
+  Tdap: unknown -- given today
+
+SOCIAL
+  Married, 2 kids. Dental hygienist. Nonsmoker. EtOH socially. No drugs.
+
+PHYSICAL EXAM
+  Vitals: T 98.9  HR 112  BP 132/88  RR 22  SpO2 96% RA  Wt 64 kg  Pain 9/10
+  General: anxious, tearful, c-collar in place, on backboard (removed on arrival)
+  Head: 2 cm abrasion L temporal region, no hematoma, no Battle sign
+  Eyes: PERRL 3 mm, EOMI, no nystagmus
+  Neck: c-collar maintained; midline tenderness C5-C6 on palpation under collar
+  Chest: seat-belt sign R shoulder to L lower chest; point tenderness L lateral
+         ribs 7-8; no crepitus; breath sounds equal bilaterally
+  Abd: soft, mild LUQ tenderness, no guarding, no rebound
+  Pelvis: stable
+  Back: no step-off T/L spine
+  Ext: L wrist dinner-fork deformity, swelling, skin intact, radial pulse 2+,
+       sensation intact median/ulnar/radial distributions, cap refill <2 s
+  Neuro: GCS 15 (E4V5M6), CN II-XII intact, strength 5/5 except L grip (pain-limited)
+  Skin: multiple superficial glass lacerations L forearm and L cheek
+  Psych: anxious affect, tearful, appropriate
+
+[[PERSON|Delgado-Ruiz, Maria Elena]]   MRN [[MRN|00847721]]   DOB [[DATE_OF_BIRTH|4/17/1986]]                 Page 2 of 3
+--------------------------------------------------------------------------------
+
+ED COURSE / MDM
+  18:24  Trauma team at bedside. Primary survey intact. 2 large-bore IVs.
+  18:31  eFAST: + free fluid LUQ (perisplenic). No pericardial effusion, no PTX.
+  18:40  Trauma surgery (Dr. [[PERSON|Szymanski]]) at bedside; pt to CT.
+  18:58  CT head/C-spine/CAP completed -- prelim read: L rib fx 7-8, splenic lac
+         grade II w/o blush; no ICH; no c-spine fx.
+  19:05  Ortho hand ([[PERSON|Venkataraman]]) consulted. Hematoma block, closed reduction,
+         sugar-tong splint. Post-reduction films adequate.
+  19:20  Morphine 4 mg IV, ondansetron 4 mg IV. Pain 6/10.
+  19:35  Lacerations irrigated; L forearm 3.5 cm simple repair with 5-0 nylon x 6;
+         L cheek 1.2 cm Dermabond.
+  19:44  Pt informed her son is being evaluated at the children's hospital and is
+         "awake and talking." Pt calmer.
+  19:52  Admitted to Trauma, step-down.
+
+  Differential considered: splenic injury with risk of delayed rupture, pulmonary
+  contusion, hemo/pneumothorax, blunt cerebrovascular injury (no CTA criteria met),
+  TBI, c-spine ligamentous injury, distal radius fx w/ median nerve compromise.
+
+  Critical care time: 34 minutes exclusive of procedures (CPT 99291).
+  Procedures: closed reduction w/ manipulation (25605) -- by Ortho; laceration
+  repair intermediate 3.5 cm (12032); FAST (76705-26).
+
+LABS (resulted in ED)
+  CBC: WBC 13.2 / Hgb 11.4 / Hct 34.1 / Plt 238
+  BMP: Na 139  K 3.6  Cl 104  CO2 21  BUN 14  Cr 0.71  Glu 162
+  Lactate 2.4   INR 1.0   Lipase 28   EtOH <10   UDS negative
+  [[SEXUAL_REPRODUCTIVE_HEALTH?|UPT negative]]   Type & screen: O POS, antibody screen neg
+
+IMAGING
+  XR L wrist 3 views: comminuted intra-articular distal radius fx with dorsal
+  angulation 28 deg, ulnar styloid fx.
+  CT head w/o: no acute intracranial abnormality.
+  CT C-spine w/o: no fx/malalignment. Loss of normal lordosis.
+  CT CAP w/: as above. No free air.
+
+DIAGNOSES
+  1. [[MEDICAL_CONDITION?|Closed displaced intra-articular fx L distal radius]] (S52.572A)
+  2. [[MEDICAL_CONDITION?|Splenic laceration, grade II]] (S36.032A)
+  3. [[MEDICAL_CONDITION?|Closed fx of multiple ribs, L]] (S22.42XA)
+  4. [[MEDICAL_CONDITION?|Concussion w/o LOC]] (S06.0X0A)
+  5. [[MEDICAL_CONDITION?|Cervical strain]] (S16.1XXA)
+  6. [[MEDICAL_CONDITION?|Lacerations L forearm and face]] (S51.812A, S01.81XA)
+  External cause: V43.52XA (car driver injured in collision w/ heavy transport)
+
+DISPOSITION: Admit -- Trauma Surgery, step-down. Condition: guarded.
+
+[[PERSON|Delgado-Ruiz, Maria Elena]]   MRN [[MRN|00847721]]   DOB [[DATE_OF_BIRTH|4/17/1986]]                 Page 3 of 3
+--------------------------------------------------------------------------------
+
+POLICE / CONTACTS
+  [[ORGANIZATION?|APD]] Ofc. [[PERSON|R. Okafor]] (badge [[LAW_ENFORCEMENT_ID|8812]]) at bedside 20:05 requesting
+  blood alcohol result -- informed release requires warrant/consent; pt not a
+  suspect; pt declined. APD case no. [[LAW_ENFORCEMENT_ID|25-0731188]] noted for chart.
+  Husband [[PERSON|Arturo]] at bedside 20:15, cell [[PHONE|512 836 4471]].
+  Pt's belongings (purse, iPhone, wedding ring) given to husband -- see belongings
+  sheet signed 20:22.
+
+ATTESTATION
+  I saw and evaluated the patient, discussed with the resident, and agree with the
+  findings and plan as documented. I personally performed the critical portions of
+  the exam and MDM.
+
+  [[PERSON|Priyanka Nair]], MD -- Emergency Medicine     NPI [[NPI|1098335536]]
+  Signed [[DATE|03/14/2025]] 23:47
+
+  [[PERSON|Joel Abernathy-Stokes]], DO -- Resident        Signed [[DATE|03/14/2025]] 22:10
+
+--------------------------------------------------------------------------------
+Printed: [[DATE|04/02/25]] 09:16 | User: [[USERNAME|JTORRES3]] | Bates KA-MED 000045-000047

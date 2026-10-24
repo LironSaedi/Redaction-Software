@@ -1,0 +1,5 @@
+#!/bin/bash
+# Quit a running copy before files are replaced (only Obscura's own processes).
+/usr/bin/pkill -TERM -f "/Obscura.app/Contents/" 2>/dev/null
+sleep 1
+exit 0

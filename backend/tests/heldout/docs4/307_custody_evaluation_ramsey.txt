@@ -1,0 +1,56 @@
+STATE OF MINNESOTA                                                        DISTRICT COURT
+COUNTY OF RAMSEY                                                 SECOND JUDICIAL DISTRICT
+                                                                   Family Court Division
+In re the Marriage of:
+[[PERSON|Mai Lee Yang]], Petitioner,
+and
+[[PERSON|Brandon Erik Thorson]], Respondent.                    Court File No. [[CASE_NUMBER|62-FA-25-1187]]
+
+          CUSTODY AND PARENTING TIME EVALUATION (Minn. Stat. 518.167) -- EXCERPT, SECTIONS III-V
+Evaluator: [[PERSON|Ruth Engstrom-Adeyemi]], Ph.D., L.P.                 Report date: [[DATE|August 21, 2026]]
+
+CHILDREN
+   [[PERSON MINOR|Ava Ka Thorson]], born [[DATE_OF_BIRTH|04/09/2018]] (age [[AGE|8]])
+   [[PERSON MINOR|Leo Tou Thorson]], born [[DATE_OF_BIRTH|11/30/2020]] (age [[AGE|5]])
+
+III. SOURCES OF INFORMATION
+Two individual interviews with each parent; home visits on [[DATE|June 12, 2026]] and [[DATE|June 18, 2026]]; observation of each
+parent with both children; and collateral interviews with [[INDIRECT_ROLE|the children's maternal grandmother]], [[PERSON MINOR|Ava]]'s
+[[INDIRECT_ROLE|second-grade teacher at Phalen Lake]], [[INDIRECT_ROLE|the director of the Frogtown in-home daycare]] that [[PERSON MINOR|Leo]] attends,
+and [[INDIRECT_ROLE|the father's new wife]]. Records reviewed included the children's pediatric records and the parties'
+text messages from [[DATE|January 2026]] onward.
+
+IV. HOME VISITS AND HOUSEHOLDS
+Mother's household. Ms. [[PERSON|Yang]] lives with the children in [[INDIRECT_LOCATION|the upper unit of a duplex on Arkwright across
+from the Hmong Village parking ramp]]. The unit was clean and adequately furnished; each child has a bed in a shared
+room. Ms. [[PERSON|Yang]] works weekdays from 7:30 to 4:00 as [[INDIRECT_ROLE|the only Hmong-speaking intake coordinator at the WIC office on
+University Avenue]]. On her workdays the children are picked up by their grandmother, who keeps them
+until 5:00 at [[INDIRECT_LOCATION|her ground-floor unit at McDonough Homes facing the playground]]. Ms. [[PERSON|Yang]]'s boyfriend, [[PERSON|Fong Her]]
+([[AGE|34]]), stays overnight approximately three nights per week. Mr. [[PERSON|Her]] has [[CRIMINAL_HISTORY|a 2017 conviction for fifth-degree drug
+possession]] and reports no use since completing probation. [[PERSON MINOR|Ava]] told the evaluator that she was "scared of
+him at first" because of [[PHYSICAL_DESCRIPTOR|the dragon tattoo across his throat]] but that he "makes good eggs."
+
+Father's household. Mr. [[PERSON|Thorson]] lives in [[INDIRECT_LOCATION|the gray rambler two houses down from the Maplewood VFW]] with
+his wife, [[PERSON|Jenna Thorson]], and her son, [[PERSON MINOR|Caleb Rourke]] ([[AGE|15]]). Mr. [[PERSON|Thorson]] works rotating twelve-hour shifts
+as [[INDIRECT_ROLE|the night troubleshooter at the Xcel Energy service center on Larpenteur]]; on night rotations Mrs. [[PERSON|Thorson]]
+provides most of the care. The home was orderly; the children share a bedroom in the finished basement.
+
+V. CONCERNS RAISED BY EACH PARTY
+Ms. [[PERSON|Yang]] is concerned that [[INDIRECT_ROLE|the children's 15-year-old stepbrother]] has been left in charge of them overnight
+and has shown [[PERSON MINOR|Ava]] violent video games. Mr. [[PERSON|Thorson]] acknowledges this occurred twice in May and states it has
+stopped. Ms. [[PERSON|Yang]] also reports that Mr. [[PERSON|Thorson]] [[SUBSTANCE_USE|completed outpatient treatment for alcohol use disorder]] in
+[[DATE|2023]]; he provided documentation and reports continuous sobriety.
+
+Mr. [[PERSON|Thorson]] is concerned that [[PERSON MINOR|Leo]], who has [[MEDICAL_CONDITION|moderate persistent asthma]], is not consistently given his
+[[MEDICATION|Flovent]] at the mother's home. Pediatric records show two urgent-care visits for wheezing this year, both
+following weekends in the mother's care. He also raised Ms. [[PERSON|Yang]]'s history of [[MENTAL_HEALTH|postpartum depression]] after
+[[PERSON MINOR|Leo]]'s birth; Ms. [[PERSON|Yang]] completed treatment in [[DATE|2021]] and the evaluator found no current impairment.
+
+Both parents describe [[PERSON MINOR|Leo]] as shy at daycare. The daycare director attributes some of this to teasing about
+[[PHYSICAL_DESCRIPTOR|the large café-au-lait birthmark on his left cheek]]; she has addressed it with the other children.
+[[PERSON MINOR|Ava]]'s teacher describes her as a strong reader who becomes withdrawn in the days after exchanges.
+
+Exchanges currently occur on Sunday evenings at [[INDIRECT_LOCATION|the food court by the carousel at Maplewood Mall]]; both
+parents report they are brief and without conflict.
+
+(Sections VI-VIII, including recommendations, follow.)

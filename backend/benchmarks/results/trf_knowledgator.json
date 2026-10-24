@@ -1,0 +1,276 @@
+{
+ "profile": "standard",
+ "recall": 0.9951117318435754,
+ "precision": 0.9942965779467681,
+ "f1": 0.9947039878917788,
+ "pages": 274,
+ "seconds": 68.58616549998987,
+ "per_type": {
+  "INDIRECT_LOCATION": {
+   "gold": 80,
+   "caught": 80,
+   "typed": 80
+  },
+  "GPS": {
+   "gold": 3,
+   "caught": 3,
+   "typed": 3
+  },
+  "PERSON": {
+   "gold": 541,
+   "caught": 534,
+   "typed": 534
+  },
+  "ADDRESS": {
+   "gold": 131,
+   "caught": 131,
+   "typed": 131
+  },
+  "DATE_OF_BIRTH": {
+   "gold": 97,
+   "caught": 97,
+   "typed": 97
+  },
+  "DRIVERS_LICENSE": {
+   "gold": 16,
+   "caught": 16,
+   "typed": 16
+  },
+  "PHONE": {
+   "gold": 197,
+   "caught": 197,
+   "typed": 197
+  },
+  "VIN": {
+   "gold": 9,
+   "caught": 9,
+   "typed": 9
+  },
+  "LICENSE_PLATE": {
+   "gold": 16,
+   "caught": 16,
+   "typed": 16
+  },
+  "POLICY_NUMBER": {
+   "gold": 12,
+   "caught": 12,
+   "typed": 12
+  },
+  "INDIRECT_ROLE": {
+   "gold": 11,
+   "caught": 11,
+   "typed": 11
+  },
+  "MRN": {
+   "gold": 69,
+   "caught": 69,
+   "typed": 69
+  },
+  "EMAIL": {
+   "gold": 50,
+   "caught": 50,
+   "typed": 50
+  },
+  "SSN": {
+   "gold": 15,
+   "caught": 15,
+   "typed": 15
+  },
+  "EMPLOYER": {
+   "gold": 37,
+   "caught": 37,
+   "typed": 37
+  },
+  "HEALTH_PLAN_ID": {
+   "gold": 30,
+   "caught": 30,
+   "typed": 30
+  },
+  "CLAIM_NUMBER": {
+   "gold": 9,
+   "caught": 9,
+   "typed": 9
+  },
+  "ID_NUMBER": {
+   "gold": 63,
+   "caught": 63,
+   "typed": 63
+  },
+  "USERNAME": {
+   "gold": 6,
+   "caught": 6,
+   "typed": 6
+  },
+  "SCHOOL": {
+   "gold": 2,
+   "caught": 2,
+   "typed": 2
+  },
+  "ROUTING_NUMBER": {
+   "gold": 9,
+   "caught": 9,
+   "typed": 9
+  },
+  "BANK_ACCOUNT": {
+   "gold": 12,
+   "caught": 12,
+   "typed": 12
+  },
+  "CREDIT_CARD": {
+   "gold": 3,
+   "caught": 3,
+   "typed": 3
+  },
+  "CARD_EXPIRY": {
+   "gold": 3,
+   "caught": 3,
+   "typed": 3
+  },
+  "CVV": {
+   "gold": 3,
+   "caught": 3,
+   "typed": 3
+  },
+  "PASSWORD": {
+   "gold": 3,
+   "caught": 3,
+   "typed": 3
+  },
+  "MEDICARE_ID": {
+   "gold": 4,
+   "caught": 4,
+   "typed": 4
+  },
+  "IBAN": {
+   "gold": 1,
+   "caught": 1,
+   "typed": 1
+  }
+ },
+ "misses": [
+  {
+   "doc": "email",
+   "value": "Santiago",
+   "coverage": 0.0,
+   "context": "er 24, 2022 16:12\u23ceSubject: RE: Settlement offer \u2014 Santiago claim\u23ce\u23cePRIVILEGED & CONFIDENT",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "email",
+   "value": "Santiago",
+   "coverage": 0.0,
+   "context": "er 27, 2022 14:51\u23ceSubject: RE: Settlement offer \u2014 Santiago claim\u23ce\u23ceMy landlord at 7891 Mi",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "email",
+   "value": "Fisher",
+   "coverage": 0.0,
+   "context": "une 9, 2022 10:15\u23ceSubject: RE: Settlement offer \u2014 Fisher claim\u23ce\u23cePRIVILEGED & CONFIDENT",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "email",
+   "value": "Fisher",
+   "coverage": 0.0,
+   "context": "ne 12, 2022 18:28\u23ceSubject: RE: Settlement offer \u2014 Fisher claim\u23ce\u23ceMy landlord at 9877 S ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "email",
+   "value": "Fisher",
+   "coverage": 0.0,
+   "context": "ne 15, 2022 11:24\u23ceSubject: RE: Settlement offer \u2014 Fisher claim\u23ce\u23cePRIVILEGED & CONFIDENT",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "email",
+   "value": "Fisher",
+   "coverage": 0.0,
+   "context": "ne 18, 2022 11:23\u23ceSubject: RE: Settlement offer \u2014 Fisher claim\u23ce\u23ceMy landlord at P.O. Bo",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "email",
+   "value": "Fisher",
+   "coverage": 0.0,
+   "context": "ne 21, 2022 14:15\u23ceSubject: RE: Settlement offer \u2014 Fisher claim\u23ce\u23cePRIVILEGED & CONFIDENT",
+   "entity": "PERSON"
+  }
+ ],
+ "false_positives": [
+  {
+   "doc": "email",
+   "entity": "PERSON",
+   "text": "Best",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "he defense will look at your accounts.\u23ce\u23ceBest,\u23ceVictoria Thompson\u23ceThe T"
+  },
+  {
+   "doc": "email",
+   "entity": "PERSON",
+   "text": "Best",
+   "score": 0.82,
+   "source": "ner:gliner:last name",
+   "context": "ould significantly increase the value.\u23ce\u23ceBest,\u23ceVictoria Thompson\u23ceThe T"
+  },
+  {
+   "doc": "demand_letter",
+   "entity": "PERSON",
+   "text": "Bates",
+   "score": 0.8,
+   "source": "ner:gliner:person",
+   "context": "\u23ceEnclosures: medical records and bills (Bates BROWN_000001 \u2013 BROWN_001"
+  },
+  {
+   "doc": "email",
+   "entity": "PERSON",
+   "text": "Best",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "ould significantly increase the value.\u23ce\u23ceBest,\u23ceInga Dukat\u23ceDukat, Garci"
+  },
+  {
+   "doc": "email",
+   "entity": "PERSON",
+   "text": "Best",
+   "score": 0.8,
+   "source": "ner:gliner:last name",
+   "context": "he defense will look at your accounts.\u23ce\u23ceBest,\u23ceInga Dukat\u23ceDukat, Garci"
+  },
+  {
+   "doc": "bank",
+   "entity": "EMPLOYER",
+   "text": "Progressive Ins Prem",
+   "score": 0.85,
+   "source": "ner:gliner:employer",
+   "context": "thia Garza Jpm4143284123  $50.55\u23ce06/19  Progressive Ins Prem  $871.51\u23ce06/11  Zelle Pa"
+  },
+  {
+   "doc": "bank",
+   "entity": "EMPLOYER",
+   "text": "Progressive Ins Prem",
+   "score": 0.95,
+   "source": "ner:gliner:employer",
+   "context": "HOOL PPD ID: 6299237655  $232.63\u23ce03/23  Progressive Ins Prem  $881.78\u23ce03/30  Card Pur"
+  },
+  {
+   "doc": "bank",
+   "entity": "EMPLOYER",
+   "text": "Progressive Ins Prem",
+   "score": 0.95,
+   "source": "ner:gliner:employer",
+   "context": "15 KILGORE TX Card 2621  $763.77\u23ce03/29  Progressive Ins Prem  $880.31\u23ce03/11  Card Pur"
+  },
+  {
+   "doc": "bank",
+   "entity": "EMPLOYER",
+   "text": "Progressive Ins Prem",
+   "score": 0.95,
+   "source": "ner:gliner:employer",
+   "context": "HOOL PPD ID: 5442975954  $522.41\u23ce03/25  Progressive Ins Prem  $826.06\u23ce03/17  Card Pur"
+  }
+ ],
+ "negative_hits": []
+}

@@ -1,0 +1,64 @@
+[OCR TEXT LAYER -- scanned image, 2 pp., 300 dpi. Source: SFPD_Witness_Stmt_0418.pdf. Uncorrected.]
+
+S10UX FALLS P0LICE DEPARTMENT                                   VOLUNTARY STATEMENT
+[[ADDRESS?|320 W. 4th St.]]  [[ADDRESS?|Si0ux Fa11s, SD 57104]]                            Form SF-114 (rev 2019)
+
+Case # [[LAW_ENFORCEMENT_ID|26-0O9417]]         Date [[DATE|O7/18/2026]]        Time Started 0l:52        Page 1 of 2
+
+Narne (Last, First, Middle): [[PERSON|BRUNS, ANGE1A MARIE]]
+D0B: [[DATE_OF_BIRTH|1O/O3/1991]]       Race/Sex: W/F      Phone: [[PHONE|(6O5) 36l-2290]]
+Address: [[ADDRESS|4l17 S. Grange Ave Apt 2O6]]   City/St/Zip: [[ADDRESS|Si0ux Fa11s SD 571O5]]
+Ernp1oyer: [[EMPLOYER|The B1ue Her0n Tap]]           W0rk Ph: [[PHONE|6O5-332-O418]]
+Statement taken by: 0fc. [[PERSON|R. Lindb0rg]] #[[LAW_ENFORCEMENT_ID|l184]]         Location: [[INDIRECT_LOCATION|in sguad car behind the bar]]
+
+---------------------------------------------------------------------------------------------
+I, [[PERSON|Ange1a Bruns]], state the f0ll0wing 0f rny 0wn free wi11:
+
+I w0rk as [[INDIRECT_ROLE|the c1osing bartender at the B1ue Her0n Tap 0n W 41st St]], I have w0rked there ab0ut
+3 yrs. T0night (Fri) ab0ut 12:3O arn a guy carne in that I have seen in there rnaybe 4 or 5 tirnes,
+he g0es by "[[PERSON|Mack]]" I think his rea1 narne is [[PERSON|Mackenzie]] s0rnething [[PERSON|Halvors0n]]?? He is [[PHYSICAL_DESCRIPTOR|ta11, 6'3 rnaybe,
+buzz cut b10nd hair, kinda red face, ta11 & heavy]], he had 0n a purp1e Vikings jersey #18 and
+[[PHYSICAL_DESCRIPTOR|he has a tatt00 0f a w01f head 0n the 1eft side 0f his neck]]. He was a1ready drunk when he
+carne in, I served hirn 0ne Bud Light then I cut hirn 0ff.
+
+Ar0und 1:15 [[PERSON|Tanner]] carne in. [[PERSON|Tanner Ree1]], he is a regu1ar, [[INDIRECT_ROLE|he w0rks at the Sanford 1ab
+0n nights and c0rnes in after his shift]]. [[PERSON|Tanner]] sat at the end by the dartb0ard. [[PERSON|Mack]] went
+0ver and said s0rnething ab0ut a girl, "[[PERSON|Jess]]" I think, that [[PERSON|Tanner]] was "talking t0." [[PERSON|Tanner]]
+t01d hirn t0 back 0ff. [[PERSON|Mack]] pushed hirn 0ff the st0o1. I y11ed at thern and said I was ca11ing the
+c0ps and [[PERSON|Deshawn]] [[INDIRECT_ROLE|(0ur d00r guy)]] carne 0ver.
+
+[[PERSON|Mack]] picked up a pint g1ass and hit [[PERSON|Tanner]] in the side 0f the head with it. The g1ass br0ke.
+[[PERSON|Tanner]] was b1eeding a 10t fr0rn ab0ve his ear and was 0n the f10or. I th0ught he was kn0cked 0ut f0r
+rnaybe 10 sec0nds. I ca11ed 911 0n rny ce11 at 1:2O. [[PERSON|Deshawn]] and a cust0mer, [[PERSON|0rnar]] (I d0nt kn0w
+1ast narne, [[INDIRECT_ROLE|he drives f0r the Dakota Ca b c0mpany]]) h e1d [[PERSON|Mack]] d0wn but he g0t l00se and ran
+0ut the back d00r t0 the 10t.
+
+                                                           Initials: [[PERSON|AMB]]     Page 1 of 2
+=============================================================================================
+Case # [[LAW_ENFORCEMENT_ID|26-0O9417]]                                                       Page 2 of 2
+
+He g0t in a [[VEHICLE_DESCRIPTION|si1ver 0r gray Ch evy Ta h0e, 01der rn0de1, with a b1ack r00f rack and a
+rnissing hubcap 0n the fr0nt passenger side]]. SD p1ate, I th0ught it started with [[LICENSE_PLATE|1-49 ...]] and
+[[PERSON|Deshawn]] wr0te d0wn [[LICENSE_PLATE|l49 A7KX]] 0r s0rnething. He 1eft s0uth 0n Minnes0ta Ave t0ward
+[[INDIRECT_LOCATION|the Ca sey's by the interstate]]. [[PERSON|Mack]]'s friend, a wornan with [[PHYSICAL_DESCRIPTOR|1ong b1ack hair and
+a n0se ring, rea11y thin]], was with hirn, she paid with a card that said [[PERSON|K. Draper]] I think.
+I have the receipt it is the [[ORGANIZATION?|Vi sa]] ending in [[CREDIT_CARD|8O27]].
+
+[[PERSON|Tanner]] was c0nsci0us when the arnbu1ance carne. He to1d rne "I'rn 0k" but he threw up. He a1s0
+said he is [[MEDICAL_CONDITION|diabetic]] and he had a [[MEDICATION?|insu1in pen]] in his jacket. They t00k hirn t0 [[ORGANIZATION?|Sanf0rd]].
+
+[[PERSON|Mack]] has been in the bar bef0re and said he just g0t 0ut 0f [[CRIMINAL_HISTORY|the pen in Springfie1d f0r an assau1t]].
+He t01d rne 0nce he 1ives "[[INDIRECT_LOCATION|by the zoo in the duplex with the b0at in the yard]]" and he w0rks
+f0r [[EMPLOYER|Midwest Roofing & Gutter]]. He a1s0 has [[SUBSTANCE_USE|been in trouble f0r rneth]] he to1d [[PERSON|Deshawn]].
+
+0ur camera system is 0n the DVR in the 0ffice, rny b0ss [[PERSON|Craig Thue]] ([[PHONE|6O5-929-1177]]) has the
+passw0rd. I gave 0fficer [[PERSON|Lindb0rg]] the rec eipt and the guest W1-Fi 1og shows [[PERSON|Mack]]'s ph0ne
+c0nnected as "[[DEVICE_ID|Galaxy-S23-MackH]]" at 12:28, MAC [[DEVICE_ID|7C:2E:DA:41:9B:0F]].
+
+I have read this staternent 0r had it read t0 rne and it is true and c0rrect.
+
+Signature: [[PERSON|Ange1a M Bruns]]                     Date/Tirne: [[DATE|7/18/26]] O2:31
+Witness:   [[PERSON|R Lindb0rg]] #[[LAW_ENFORCEMENT_ID|l184]]
+Supervis0r rev: Sgt. [[PERSON|D. Twol Bulls]] #[[LAW_ENFORCEMENT_ID|0662]]  [[DATE|7/18/26]]
+
+[OCR c0nfidence 71%; 3 regi0ns unread (handwriting in margin, p. 2)]

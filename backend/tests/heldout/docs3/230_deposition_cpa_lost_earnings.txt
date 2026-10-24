@@ -1,0 +1,171 @@
+                     SUPERIOR COURT OF THE STATE OF CALIFORNIA
+                            FOR THE COUNTY OF SAN DIEGO
+
+     [[PERSON|IGNACIO FERREIRA-BATISTA]],          )
+                                           )
+                    Plaintiff,             )   Case No. [[CASE_NUMBER|37-2025-00041188-CU-PA-CTL]]
+                                           )
+          vs.                              )
+                                           )
+     [[ORGANIZATION?|COASTLINE FREIGHT SYSTEMS, INC.]];       )
+     [[PERSON|RODNEY ALLEN PURCELL]]; and DOES 1      )
+     through 25,                           )
+                                           )
+                    Defendants.            )
+     ______________________________________)
+
+                 VIDEOTAPED DEPOSITION OF [[PERSON|EVELYN R. SZYMANSKI-OBI]], CPA, CFF
+                            [[DATE?|Tuesday, September 29, 2026]]
+                                    Volume II
+                               Pages 41 through 98
+
+     Reported by:  [[PERSON|Janelle Cordova]], CSR No. [[ID_NUMBER?|14471]]
+     Job No. [[ID_NUMBER?|26-0929-4471]]
+_____________________________________________________________________________________
+                                                                              Page 47
+ 1   BY MS. [[PERSON|TRAN-WHITAKER]]:
+ 2        Q.   Let's turn to your Exhibit 214, the wage-loss
+ 3   schedule. You started with Mr. [[PERSON|Ferreira-Batista]]'s W-2s?
+ 4        A.   Yes. I had his W-2s for 2021 through 2024 from
+ 5   [[EMPLOYER|Pacific Gantry Services]], his employer at the time of the
+ 6   collision. Box 1 wages were [[MONEY|$109,880]] for 2021, [[MONEY|$112,415]] for
+ 7   2022, [[MONEY|$118,400]] for 2023 and [[MONEY|$121,906]] for 2024. The W-2s
+ 8   were produced with the Social Security number masked except
+ 9   the last four, [[SSN|8823]], and the employer EIN, [[EIN|33-0718842]].
+10        Q.   What was his job?
+11        A.   He was [[INDIRECT_ROLE|one of the two night-shift gantry crane]]
+12   [[INDIRECT_ROLE|operators at the Tenth Avenue terminal]], Local 63 seniority
+13   list, so he got a lot of overtime. About thirty-one percent
+14   of his 2024 earnings was overtime.
+15        Q.   And his age?
+16        A.   He was [[AGE|forty-four]] on the date of the collision,
+17   [[DATE|March 7, 2025]]. Date of birth [[DATE_OF_BIRTH|November 2, 1980]]. I used a
+18   work-life expectancy to age sixty-three from the 2019 [[PERSON?|Skoog]]-
+19   [[PERSON?|Ciecka-Krueger]] tables for a male with some college.
+20        Q.   Did you review medical records?
+21        A.   Only to the extent of the restrictions. Dr.
+22   [[PERSON|Anand Bhattacharya]]'s report says he has a [[MEDICAL_CONDITION|moderate traumatic]]
+23   [[MEDICAL_CONDITION|brain injury with persistent vertigo]] and a [[MEDICAL_CONDITION|healed pelvic ring]]
+24   [[MEDICAL_CONDITION|fracture]], and that he can never return to working at
+25   heights. That rules out crane work.
+_____________________________________________________________________________________
+                                                                              Page 48
+ 1        Q.   So your opinion assumes he never returns to the
+ 2   port?
+ 3        A.   It assumes he never returns as a crane operator.
+ 4   I applied residual earning capacity of [[MONEY|$52,000]] a year,
+ 5   based on the vocational report by Ms. [[PERSON|Oduya-Rasmussen]], for
+ 6   a sedentary dispatcher position.
+ 7        Q.   What's the bottom line?
+ 8        A.   Past lost earnings through June 30, 2026 are
+ 9   [[MONEY|$163,208]]. Future lost earnings, present value, are
+10   [[MONEY|$1,744,950]], using a 1.8 percent net discount rate.
+11   Lost fringe benefits, mainly the ILWU-PMA pension and health
+12   contributions, add [[MONEY|$611,300]].
+13        Q.   Now, you also looked at his bank records.
+14        A.   I did. Plaintiff's counsel produced statements for
+15   his [[ORGANIZATION?|Harbor Point Federal Credit Union]] checking account,
+16   ending [[BANK_ACCOUNT|6632]], and a savings account, ending [[BANK_ACCOUNT|4471]], and the
+17   joint account with his wife at [[ORGANIZATION?|Mission Bay National Bank]],
+18   account number [[BANK_ACCOUNT|7720-0418-55]].
+19        Q.   Who is his wife?
+20        A.   [[PERSON|Marisol Ferreira]]. She works part time at
+21   [[EMPLOYER|South Bay Coastal Unified]] as [[INDIRECT_ROLE|a cafeteria lead at Otay Ridge]]
+22   [[INDIRECT_ROLE|Middle]].
+23        Q.   Why did you need the bank records?
+24        A.   To test whether there was income not on the W-2s.
+25   The defense had suggested there was a side business.
+_____________________________________________________________________________________
+                                                                              Page 49
+ 1        Q.   Was there?
+ 2        A.   There were deposits I couldn't tie to payroll. Payroll
+ 3   from [[EMPLOYER|Pacific Gantry]] came in by direct deposit every other
+ 4   Friday. Separately, between January 2023 and February 2025
+ 5   there were forty-one Zelle credits totaling [[MONEY|$38,615]] from
+ 6   a [[PERSON|Luis A. Ferreira]], and mobile check deposits of
+ 7   [[MONEY|$22,100]] from various individuals.
+ 8        Q.   Who is [[PERSON|Luis Ferreira]]?
+ 9        A.   His younger brother. Mr. [[PERSON|Ignacio]]
+10   [[PERSON|Ferreira-Batista]] testified in Volume I that his brother
+11   was repaying a loan for a truck, and the Zelle memos say
+12   things like "truck pmt 6 of 24," so I accepted that as
+13   loan repayment, not income.
+14        Q.   And the check deposits?
+15        A.   Those are different. The images show checks
+16   from homeowners with memo lines like "gate repair" and "rail
+17   welding." They total [[MONEY|$22,100]] over twenty-six months.
+18   Plaintiff did weekend welding under the name [[EMPLOYER|Ferreira Mobile]]
+19   [[EMPLOYER|Welding]]. It was reported on Schedule C, EIN [[EIN|88-4417602]],
+20   but only [[MONEY|$9,400]] for 2023 and [[MONEY|$6,050]] for 2024.
+21        Q.   So he under-reported?
+22        A.   I'm not offering a tax opinion. For lost earnings
+23   I added the average annual welding income, about [[MONEY|$10,200]],
+24   to the pre-injury base, and I also treat it as lost because
+25   welding is excluded by the same restrictions.
+_____________________________________________________________________________________
+                                                                              Page 50
+ 1        Q.   Let me hand you what's been marked as Exhibit 219.
+ 2   This is a mobile deposit dated [[DATE?|August 12, 2024]], for
+ 3   [[MONEY|$1,850]]. Who is the payor?
+ 4        A.   The check is from [[PERSON|Gordon]] and [[PERSON|Patricia]]
+ 5   [[PERSON|Ellsworth-Mayne]], [[ADDRESS|1184 Calle Serena, Bonita, California]],
+ 6   [[ZIP_CODE|91902]]. Their routing number on the MICR line is
+ 7   [[ROUTING_NUMBER|122077209]] and the account is [[BANK_ACCOUNT|0044 1183 2290]]. The memo says
+ 8   "rail - pool deck."
+ 9        Q.   And the endorsement?
+10        A.   "For mobile deposit only, [[ORGANIZATION?|HPFCU]] [[BANK_ACCOUNT|xxxxxx6632]],"
+11   signed "[[SIGNATURE|I. Ferreira]]."
+12        Q.   Did you see any deposits after the collision?
+13        A.   Disability payments from [[ORGANIZATION?|EDD]], claim number
+14   [[CLAIM_NUMBER|SDI-0418-2271-6]], starting April 2025, and the long-term
+15   disability insurer, [[ORGANIZATION?|Granite Mutual Life]], under policy
+16   [[POLICY_NUMBER|GML-LTD-30092]], certificate [[ID_NUMBER|004418]]. Those are collateral
+17   sources; I did not offset them.
+18        Q.   Anything else?
+19        A.   A [[MONEY|$4,000]] [[ORGANIZATION?|GoFundMe]] disbursement in April 2025
+20   organized by a co-worker, [[PERSON|Teodoro "Teddy" Malapit]], and a
+21   deposit of [[MONEY|$2,400]] described as "[[MINOR|Valeria]]'s quince refund"
+22   from a party venue.
+23        Q.   Who is Valeria?
+24        A.   His older daughter. She's [[AGE|fifteen]]. The younger,
+25   [[MINOR|Camila]], is [[AGE|twelve]]. They're in the household for the
+_____________________________________________________________________________________
+                                                                              Page 51
+ 1   household-services component, which is in Exhibit 216.
+ 2        Q.   Did you ever speak with Mr. [[PERSON|Ferreira-Batista]]
+ 3   directly?
+ 4        A.   Once, by phone, on [[DATE?|June 3, 2026]], at
+ 5   [[PHONE|(619) 555-0186]], with Mr. [[PERSON|Halvorsen]] on the line. He
+ 6   confirmed his address is still [[ADDRESS|3021 Coronado Avenue, Apartment]]
+ 7   [[ADDRESS|B, San Diego 92154]], and that he is not working.
+ 8             MR. [[PERSON|HALVORSEN]]: I'll object that this calls for
+ 9   hearsay, but go ahead.
+10             THE WITNESS: He also told me that the credit
+11   union froze his debit card, the one ending [[CREDIT_CARD|3283]], after a
+12   missed car payment, and that his username for online
+13   banking, "[[USERNAME|iggy.crane63]]," had been locked. That's why
+14   the 2025 statements were late.
+15   BY MS. [[PERSON|TRAN-WHITAKER]]:
+16        Q.   Exhibit 220 is your invoice. What have you billed?
+17        A.   Through today, [[MONEY|$28,450]]. My rate is [[MONEY|$475]] an hour for
+18   deposition time. Invoice number ESO-2026-117.
+19             MS. [[PERSON|TRAN-WHITAKER]]: Nothing further. Thank you.
+20             THE VIDEOGRAPHER: We are going off the record at
+21   3:12 p.m.
+22                    (Whereupon, the deposition was adjourned
+23                     at 3:12 p.m.)
+24
+25
+_____________________________________________________________________________________
+                                                                              Page 97
+                        REPORTER'S CERTIFICATE
+          I, [[PERSON|JANELLE CORDOVA]], Certified Shorthand Reporter No. [[ID_NUMBER?|14471]],
+     do hereby certify that the witness in the foregoing deposition was by me duly
+     sworn; that the deposition was then taken before me at the time and place
+     herein set forth, at [[ADDRESS?|600 West Broadway, Suite 1500, San Diego, California]];
+     and that the testimony was recorded stenographically by me and transcribed
+     under my direction.
+          Dated: [[DATE?|October 8, 2026]]
+                                        [[SIGNATURE|Janelle Cordova]]
+                                        ________________________________
+                                        [[PERSON|JANELLE CORDOVA]], CSR No. [[ID_NUMBER?|14471]]

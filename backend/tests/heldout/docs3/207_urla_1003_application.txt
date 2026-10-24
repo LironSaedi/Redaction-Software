@@ -1,0 +1,198 @@
+Uniform Residential Loan Application                                  Freddie Mac Form 65 / Fannie Mae Form 1003
+                                                                     Effective 1/2021
+Verify and complete the information on this application. If you are applying for this loan with others, each
+additional Borrower must provide information as directed by your Lender.
+
+Lender Loan No./Universal Loan Identifier  [[BANK_ACCOUNT|5493004QX8VR21NAMB0710426]]     Agency Case No. n/a (Conventional)
+Lender: [[ORGANIZATION?|Piedmont Hearth Mortgage, LLC]]   NMLS 2210448      Application date: [[DATE?|09/29/2026]]
+
+Section 1: Borrower Information.  This section asks about your personal information and your income from
+employment and other sources, such as retirement, that you want considered to qualify for this loan.
+----------------------------------------------------------------------------------------------------------------
+1a. Personal Information                                                           BORROWER
+Name (First, Middle, Last, Suffix)  [[PERSON|Prakash Vasudevan Namboodiri]]
+Alternate Names - List any names by which you are known or any names under which credit was previously
+received (First, Middle, Last, Suffix)  [[PERSON|P. V. Namboodiri]]; [[PERSON|Prakash Nambudiri]] (misspelling on prior tradelines)
+Social Security Number  [[SSN|238-61-4073]]               (or Individual Taxpayer Identification Number)
+Date of Birth (mm/dd/yyyy)  [[DATE_OF_BIRTH|06/30/1989]]            Citizenship  [ ] U.S. Citizen  [X] Permanent Resident Alien
+                                                  [ ] Non-Permanent Resident Alien
+Type of Credit  [ ] I am applying for individual credit.
+                [X] I am applying for joint credit. Total Number of Borrowers: 2
+                Each Borrower intends to apply for joint credit. Your initials: [[SIGNATURE|PVN]]
+List Name(s) of Other Borrower(s) Applying for this Loan  [[PERSON|Haley J. Namboodiri]]
+Marital Status  [X] Married  [ ] Separated  [ ] Unmarried   Dependents (not listed by another Borrower)
+                                                            Number 2   Ages [[AGE|4]], [[AGE|11]]
+Contact Information
+  Home Phone   ( ) n/a                  Cell Phone  [[PHONE|(919) 555-0461]]
+  Work Phone   [[PHONE?|(919) 555-0200]] Ext. [[PHONE?|3317]]                     Email  [[EMAIL|prakash.namboodiri@proton.me]]
+Current Address
+  Street  [[ADDRESS|1120 Ashworth Village Dr]]                          Unit # [[ADDRESS|307]]
+  City  [[ADDRESS|Cary]]                            State [[ADDRESS?|NC]]    ZIP [[ZIP_CODE|27511]]     Country USA
+  How Long at Current Address?  2 Years 1 Months            Housing [ ] No primary housing expense
+  [ ] Own  [X] Rent ($ [[MONEY|2,140.00]] /month)
+If at Current Address for LESS than 2 years, list Former Address  [ ] Does not apply
+  Street  [[ADDRESS|88 Hollins St]]                                     Unit #
+  City  [[ADDRESS|Baltimore]]                       State [[ADDRESS?|MD]]    ZIP [[ZIP_CODE|21223]]     Country USA
+  How Long at Former Address?  4 Years 3 Months             Housing [X] Own  [ ] Rent
+Mailing Address - if different from Current Address  [X] Does not apply
+Permanent resident card no. [[ID_NUMBER|IOE0918447215]]  exp. [[DATE?|05/14/2032]]   Country of birth: [[LOCATION?|India]]
+
+1b. Current Employment/Self-Employment and Income                                  [ ] Does not apply
+Employer or Business Name  [[EMPLOYER|Triangle BioAnalytics, Inc.]]                  Phone [[PHONE?|(919) 555-0200]]
+Street  [[ADDRESS?|4020 Stirrup Creek Dr, Suite 400]]                                Unit #
+City  [[ADDRESS?|Durham]]                            State NC    ZIP [[ZIP_CODE?|27703]]     Country USA
+Position or Title  Senior Data Engineer, Clinical Pipelines             Gross Monthly Income
+Start Date  [[DATE?|08/07/2023]]                                                  Base                 $ [[MONEY|12,083.33]]
+How long in this line of work?  9 Years 2 Months                        Overtime                  $ 0.00
+[ ] I am employed by a family member, property seller,                  Bonus                 $ [[MONEY|1,041.67]]
+    real estate agent, or other party to the transaction.               Commission                $ 0.00
+[ ] Check if you are the Business Owner or Self-Employed                Military Entitlements     $ 0.00
+                                                                        Other (RSU vest)        $ [[MONEY|612.50]]
+                                                                        TOTAL                $ [[MONEY|13,737.50]]
+
+1d. IF APPLICABLE, Complete Information for Previous Employment/Self-Employment and Income
+Employer or Business Name  [[EMPLOYER|Chesapeake Genomics LLC]]                      Previous Gross Monthly
+Street  [[ADDRESS?|1100 Wicomico St]]  City [[ADDRESS?|Baltimore]]  State MD  ZIP [[ZIP_CODE?|21230]]           Income                $ [[MONEY|9,250.00]]
+Position or Title  Bioinformatics Engineer II                           
+Start Date [[DATE?|06/03/2019]]    End Date [[DATE?|07/28/2023]]   [ ] Business Owner or Self-Employed
+
+1e. Income from Other Sources                                                       [X] Does not apply
+
+                                                                                                    Page 1 of 5
+Borrower Name: [[PERSON|Prakash V. Namboodiri]]                       Uniform Residential Loan Application  Freddie Mac Form 65 / Fannie Mae Form 1003
+
+--- Page 2 ---
+
+Section 1: Borrower Information (ADDITIONAL BORROWER)
+1a. Personal Information                                                           CO-BORROWER
+Name (First, Middle, Last, Suffix)  [[PERSON|Haley Josephine Namboodiri]]
+Alternate Names  [[PERSON|Haley J. Duquette]] (maiden name, credit prior to [[DATE?|2017]])
+Social Security Number  [[SSN|244-03-9158]]               Date of Birth  [[DATE_OF_BIRTH|01/19/1990]]
+Citizenship  [X] U.S. Citizen
+Marital Status  [X] Married                                 Dependents  Number 0 (listed by other Borrower)
+Contact Information
+  Cell Phone  [[PHONE|(919) 555-0874]]            Work Phone  [[PHONE?|(919) 555-0310]] Email  [[EMAIL|haleyduquette.slp@gmail.com]]
+Current Address  Same as Borrower ([[ADDRESS|1120 Ashworth Village Dr, Unit 307, Cary, NC 27511]])
+
+1b. Current Employment/Self-Employment and Income
+Employer or Business Name  [[EMPLOYER|Wake County Public School System]]             Phone [[PHONE?|(919) 555-0310]]
+Street  [[ADDRESS?|5625 Dillard Dr]]   City [[ADDRESS?|Cary]]   State NC   ZIP [[ZIP_CODE?|27518]]
+Position or Title  Speech-Language Pathologist (10-month)               Gross Monthly Income
+Worksite  [[INDIRECT_LOCATION|Davis Drive Elementary -- she is the only SLP in the building]] Base                  $ [[MONEY|5,316.00]]
+Start Date  [[DATE?|08/19/2019]]                                                  Other (summer ESY)      $ [[MONEY|240.00]]
+How long in this line of work?  8 Years 4 Months                        TOTAL                 $ [[MONEY|5,556.00]]
+
+1c. IF APPLICABLE, Complete Information for Additional Employment/Self-Employment and Income
+Employer or Business Name  [[EMPLOYER|Pinewood Pediatric Speech, PLLC]] (evening teletherapy) Phone [[PHONE|(919) 555-0952]]
+Street  [[ADDRESS|1120 Ashworth Village Dr #307]] (home office)   City [[ADDRESS|Cary]]   NC [[ZIP_CODE|27511]]
+Position or Title  Owner / Clinician   [X] I am the Business Owner or Self-Employed   [X] I have an ownership share of 25% or more
+EIN [[EIN|92-4471086]]   Start Date [[DATE?|01/2022]]                                     Monthly Income (or Loss) $ [[MONEY|1,480.00]]
+
+                                                                                                    Page 2 of 5
+Borrower Name: [[PERSON|Haley J. Namboodiri]]                       Uniform Residential Loan Application  Freddie Mac Form 65 / Fannie Mae Form 1003
+
+--- Page 3 ---
+
+Section 2: Financial Information -- Assets and Liabilities.
+2a. Assets - Bank Accounts, Retirement, and Other Accounts You Have
+Include all accounts below. Under Account Type, choose from the types listed here:
+  Checking  Savings  Money Market  Certificate of Deposit  Mutual Fund  Stocks  Stock Options  Bonds
+  Retirement (e.g., 401k, IRA)  Bridge Loan Proceeds  Individual Development Account  Trust Account  Cash Value of Life Insurance
+
+Account Type          Financial Institution             Account Number            Cash or Market Value
+Checking (joint)      [[ORGANIZATION?|Coastal Pines Federal CU]]          [[BANK_ACCOUNT|0041-8820-17]]                         $ [[MONEY|18,204.66]]
+Savings (joint)       [[ORGANIZATION?|Coastal Pines Federal CU]]          [[BANK_ACCOUNT|0041-8820-01]]                         $ [[MONEY|42,880.12]]
+Money Market          [[ORGANIZATION?|Brightwater Online Bank]]           xxxxxx[[BANK_ACCOUNT|2093]]                           $ [[MONEY|31,500.00]]
+Retirement 401(k)     [[ORGANIZATION?|Fidelity NetBenefits]]              ending [[BANK_ACCOUNT|7731]]                          $ [[MONEY|96,410.38]]
+Retirement 403(b)     [[ORGANIZATION?|NC TSERS / 403b]]                   [[BANK_ACCOUNT|TSR 00918-447]]                        $ [[MONEY|38,027.90]]
+Stocks / RSUs         [[ORGANIZATION?|Morgan Stanley at Work]]            [[BANK_ACCOUNT|226-118044-310]]                       $ [[MONEY|14,300.00]]
+Checking (business)   [[ORGANIZATION?|Oakline Business Bank]]             #[[BANK_ACCOUNT|5520 1187 73]]                         $ [[MONEY|6,118.45]]
+                                                                                  Provide TOTAL Amount Here $ [[MONEY|247,441.51]]
+
+2b. Other Assets and Credits You Have                                              [ ] Does not apply
+Asset or Credit Type                    Description / Source                        Cash or Market Value
+Earnest Money                           Deposited w/ [[ORGANIZATION?|Triangle Title & Escrow]] [[DATE?|09/26/2026]]       $ [[MONEY|5,000.00]]
+Gift (cash)                             From father [[PERSON|Vasudevan K. Namboodiri]], [[ADDRESS|17 Shanthi Nagar,]] $ [[MONEY|25,000.00]]
+                                        [[ADDRESS|Thrissur, Kerala 680001]]; gift letter + wire receipt
+                                        (SBI NRE acct ...[[BANK_ACCOUNT|8126]] -> Coastal Pines ...[[BANK_ACCOUNT|20-17]])
+
+2c. Liabilities - Credit Cards, Other Debts, and Leases that You Owe               [ ] Does not apply
+Account Type    Company Name                Account Number          Unpaid Balance    To be paid off Monthly Pmt
+Installment     [[ORGANIZATION?|Toyota Financial Svcs]]       [[BANK_ACCOUNT|7020-4418-3361]]          [[MONEY|$21,880]]           [ ]                $ 512
+Installment     [[ORGANIZATION?|Nelnet]] (student)            [[BANK_ACCOUNT|9000418226]]              [[MONEY|$38,412]]           [ ]                $ 318
+Revolving       Capital One Visa            ending [[CREDIT_CARD|5512]]             [[MONEY|$2,914]]            [X]                 $ 88
+Revolving       Discover It                 x-[[CREDIT_CARD|6039]]                  [[MONEY|$640]]              [ ]                 $ 35
+Lease           [[ORGANIZATION?|Ashworth Village Apts]]       Unit 307 (ends [[DATE?|01/31/2027]]) --             [ ]              $ 2,140
+
+2d. Other Liabilities and Expenses                                                 [ ] Does not apply
+Child Care                              [[SCHOOL|Bright Path Academy]] (Pre-K, [[PERSON MINOR|Meera]])                    $ [[MONEY|1,180.00]]
+
+                                                                                                    Page 3 of 5
+
+--- Page 4 ---
+
+Section 3: Financial Information -- Real Estate.  [X] I do not own any real estate  (former MD rowhouse sold [[DATE?|08/2023]])
+
+Section 4: Loan and Property Information
+4a. Loan and Property Information
+Loan Amount  $ [[MONEY|468,000.00]]    Loan Purpose  [X] Purchase  [ ] Refinance  [ ] Other
+Property Address  Street [[ADDRESS|6612 Whispering Pines Ln]]   City [[ADDRESS|Cary]]   State NC   ZIP [[ZIP_CODE|27519]]
+                  County [[LOCATION?|Wake]]   Number of Units 1   Property Value $ [[MONEY|585,000.00]]
+Occupancy  [X] Primary Residence  [ ] Second Home  [ ] Investment Property
+Seller (per contract): [[PERSON|Dwight A. Okonjo-Pratt]] and [[PERSON|Lorraine M. Okonjo-Pratt]]
+
+Section 5: Declarations
+5a. About this Property and Your Money for this Loan                  BORROWER        CO-BORROWER
+ A. Will you occupy the property as your primary residence?            YES             YES
+ B. If this is a Purchase Transaction: Do you have a family relationship or business affiliation with the
+    seller of the property?                                             NO              NO
+ C. Are you borrowing any money for this real estate transaction (e.g., money for your closing costs or down
+    payment) or obtaining any money from another party, such as the seller or realtor?   NO   NO
+5b. About Your Finances
+ F. Are you a co-signer or guarantor on any debt or loan that is not disclosed on this application?
+                                                                        YES             NO
+    Explanation: co-signed 2022 auto loan for sister [[PERSON|Ananya Namboodiri]], [[ORGANIZATION?|Honda Financial]] acct
+    [[BANK_ACCOUNT|HF-55107734]], balance approx. [[MONEY|$9,400]]; sister makes all payments (12-mo bank stmts provided).
+ G. Are there any outstanding judgments against you?                    NO              NO
+ H. Are you currently delinquent or in default on a Federal debt?       NO              NO
+ I. Are you a party to a lawsuit in which you potentially have any personal financial liability?  NO   NO
+ J. Have you conveyed title to any property in lieu of foreclosure in the past 7 years?   NO   NO
+ K. Within the past 7 years, have you completed a pre-foreclosure sale or short sale?      NO   NO
+ L. Have you had property foreclosed upon in the last 7 years?          NO              NO
+ M. Have you declared bankruptcy within the past 7 years?               NO              YES
+    If YES, identify the type(s):  [X] Chapter 7  [ ] Chapter 11  [ ] Chapter 12  [ ] Chapter 13
+    Co-borrower explanation: [[FINANCIAL_INFO?|Ch. 7 discharge]] [[DATE?|03/2020]], [[ORGANIZATION?|U.S. Bankr. Ct. E.D.N.C.]] Case No. [[CASE_NUMBER|19-04471-5-DMW]],
+    medical debt following [[MEDICAL_CONDITION|2018 cancer treatment]]. Letter of explanation attached.
+
+Section 7: Military Service   Did you (or your deceased spouse) ever serve, or are you currently serving, in the United
+States Armed Forces?  Borrower [X] NO   Co-Borrower [ ] NO [X] YES -- Veteran (USAF 2008-2012), DD-214 on file
+
+Section 8: Demographic Information -- Borrower and Co-Borrower: [X] I do not wish to provide this information.
+
+                                                                                                    Page 4 of 5
+
+--- Page 5 ---
+
+Section 6: Acknowledgments and Agreements -- Borrower Signature
+  [[SIGNATURE|/s/ Prakash V. Namboodiri]]                                 Date (mm/dd/yyyy)  [[DATE?|09/29/2026]]
+  Co-Borrower Signature  [[SIGNATURE|/s/ Haley J. Namboodiri]]            Date (mm/dd/yyyy)  [[DATE?|09/29/2026]]
+
+Section 9: Loan Originator Information
+Loan Originator Organization Name  [[ORGANIZATION?|Piedmont Hearth Mortgage, LLC]]
+Address  [[ADDRESS?|2501 Blue Ridge Rd, Suite 150, Raleigh, NC 27607]]
+Loan Originator Organization NMLSR ID# 2210448              State License ID# L-188204
+Loan Originator Name  [[PERSON?|Marisa Quintero-Blake]]
+Loan Originator NMLSR ID# [[ID_NUMBER?|1904417]]                           State License ID# [[ID_NUMBER?|I-77302]]
+Email  [[EMAIL?|mquintero@piedmonthearth.example]]                     Phone  [[PHONE?|(919) 555-0640]]
+Signature  [[SIGNATURE?|M. Quintero-Blake]]                                Date  [[DATE?|09/29/2026]]
+
+LENDER WORKSHEET (internal -- not part of URLA)
+  Credit pulled [[DATE?|09/29/2026]], tri-merge ref [[ID_NUMBER|TM-2026-0929-55817]]; mid scores 742 / 701
+  DTI: front 26.4% / back 38.9%   LTV 80.00%   Product: 30-yr fixed conv, 6.375%, 0.5 pts
+  AUS: DU Approve/Eligible, casefile ID [[ID_NUMBER|1704418226]]
+  Conditions: (1) gift letter from [[PERSON|Vasudevan K. Namboodiri]] w/ donor ability -- SBI statement; (2) 2 yrs
+  1120-S/K-1 or Sch. C for Pinewood Pediatric Speech; (3) VOE [[PERSON|Haley]] -- WCPSS HR [[PHONE?|919-555-0313]];
+  (4) LOE bankruptcy; (5) 12 mos. proof sister pays Honda loan; (6) permanent resident card copy front/back.
+  Processor: [[PERSON?|Desmond Akhtar]]   Underwriter: [[PERSON?|K. Lindahl]]
+
+                                                                                                    Page 5 of 5

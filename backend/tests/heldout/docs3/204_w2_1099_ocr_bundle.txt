@@ -1,0 +1,145 @@
+[SCANNED DOCUMENT -- OCR TEXT LAYER -- 4 IMAGES -- client upload "taxdocs_2025.pdf"]
+
+[[EMPLOYER|CASCADIA PUMP & VALVE CO.]]
+[[ADDRESS?|9200 N Co1umbia B1vd]]
+[[ADDRESS?|Port1and, OR 97203]]
+Payro11 & Benefits  [[PHONE?|(503) 555-0182]]
+
+[[DATE?|January 26, 2026]]
+
+[[PERSON|DARNELL K F0RTESCUE]]
+[[ADDRESS|3318 SE C1inton St Apt 4]]
+[[ADDRESS|Port1and OR 97202-1544]]
+
+Re: 2025 Year-End Tax Forms    Emp1oyee ID: [[ID_NUMBER|CPV-00731]]    Dept: Fie1d Service (Boise -> Port1and)
+
+Dear [[PERSON|Darne11]],
+
+Enc1osed are Copies B, C and 2 of your 2025 Form W-2. Because you transferred from our [[INDIRECT_LOCATION|Boise
+service yard]] to the Port1and p1ant on [[DATE?|June 16, 2025]], your W-2 shows wages for two states (Idaho and
+Oregon). Your Box 12 code W amount inc1udes the $750 emp1oyer HSA seed contribution. If you have
+questions, ca11 Payro11 at the number above or emai1 [[EMAIL?|payro11@cascadiapump.examp1e]]. P1ease do not
+reply with your fu11 Socia1 Security number.
+
+Sincere1y,
+[[PERSON?|Lorna Bettencourt-Yee]], Payro11 Manager
+
+                                                                                Page 1 of 4
+
+--- Page 2 ---
+
+22222   VOID [ ]     a Ernployee's socia1 security nurnber OMB No. 1545-0008
+                       [[SSN|5l8-40-229l]]
+----------------------------------------------------------------------------------------------------
+b Ernployer identification nurnber (EIN)                1  Wages, tips, other cornp ensation
+  [[EIN|93-l847720]]                                               [[MONEY|86,412.77]]
+c Ernployer's narne, address, and ZIP code              2  Federa1 incorne tax withhe1d
+  [[EMPLOYER|CASCADIA PUMP & VALVE C0.]]                                [[MONEY|10,118.40]]
+  [[ADDRESS?|9200 N C0LUMBIA BLVD]]                                  3  Socia1 security wages
+  [[ADDRESS?|P0RTLAND 0R 97203]]                                        [[MONEY|98,812.77]]
+                                                        4  Socia1 security tax withhe1d
+d Contro1 nurnber                                          [[MONEY|6,126.39]]
+  [[ID_NUMBER|0007718 RPC]]                                           5  Medicare wages and tips
+                                                           [[MONEY|98,812.77]]
+e Ernployee's first narne and initia1   Last narne       Suff. 6  Medicare tax withhe1d
+  [[PERSON|DARNELL K]]                             [[PERSON|F0RTESCUE]]          [[MONEY|1,432.79]]
+                                                        7  Socia1 security tips      8  A11ocated tips
+  [[ADDRESS|3318 SE CLINT0N ST APT 4]]
+  [[ADDRESS|P0RTLAND 0R 97202-1544]]                                9                          10 Dependent care benefits
+                                                                                      [[MONEY|2,500.00]]
+f Ernployee's address and ZIP code                      11 Nonqua1ified p1ans
+----------------------------------------------------------------------------------------------------
+12a  D  |  [[MONEY|12,400.00]]          13  Statutory   Retirernent   Third-party
+12b  DD |  [[MONEY|14,882.16]]              emp1oyee    p1an          sick pay
+12c  W  |  [[MONEY|2,850.00]]               [ ]         [X]           [ ]
+12d  C  |  [[MONEY|118.40]]             14  Other:  UNI0N DUES  640.00    0R STT  86.41
+                                       ID PFL N/A        PARKING PRE  1,080.00
+----------------------------------------------------------------------------------------------------
+15 State  Ernp1oyer's state ID nurnber   16 State wages, tips, etc.   17 State incorne tax
+   ID     [[ID_NUMBER?|000l18837W]]                           [[MONEY|38,104.20]]                    [[MONEY|1,902.66]]
+   0R     [[ID_NUMBER?|01183372-7]]                           [[MONEY|48,308.57]]                    [[MONEY|3,866.10]]
+18 Loca1 wages, tips, etc.   19 Loca1 incorne tax   20 Loca1ity narne
+   [[MONEY|48,308.57]]                    [[MONEY|483.09]]                 METR0 SHS
+   [[MONEY|48,308.57]]                    [[MONEY|193.23]]                 MULTC PFA
+----------------------------------------------------------------------------------------------------
+Forrn  W-2  Wage and Tax Staternent       2025     Departrnent of the Treasury--Interna1 Revenue Service
+Copy B--To Be Fi1ed With Ernp1oyee's FEDERAL Tax Return.
+This inforrnation is being furnished to the Interna1 Revenue Service.
+
+[handwritten in margin, OCR conf. 41%:] "box 1 vs pay stub [[DATE?|12/31]] -- 86,4l2.77 ok -- DKF"
+
+                                                                                Page 2 of 4
+
+--- Page 3 ---
+
+[ ] CORRECTED (if checked)
+PAYER'S narne, street address, city or town, state or province,   OMB No. 1545-0116
+country, ZIP or foreign posta1 code, and te1ephone no.            Forrn 1099-NEC
+  [[EMPLOYER|WILLAMETTE RIDGE BREWING LLC]]                                    (Rev. January 2024)
+  [[ADDRESS|2741 NE A1berta St]]                                              For ca1endar year 2025
+  [[ADDRESS|Port1and OR 97211]]
+  [[PHONE|971-555-0139]]                                                    Nonernp1oyee
+                                                                  Cornpensation
+PAYER'S TIN             RECIPIENT'S TIN           1 Nonernp1oyee cornpensation
+[[EIN|83-44l9027]]              XXX-XX-[[SSN|229l]]               $ [[MONEY|7,850.00]]
+----------------------------------------------------------------------------------------------------
+RECIPIENT'S narne                                 2 Payer rnade direct sa1es tota1ing
+  [[PERSON|DARNELL F0RTESCUE]]                                 $5,000 or rnore of consurner products
+  DBA [[EMPLOYER|F0RTESCUE FABRICATI0N]]                         to recipient for resa1e  [ ]
+Street address (inc1uding apt. no.)               3
+  [[ADDRESS|3318 SE C1inton St Apt 4]]                        4 Federa1 incorne tax withhe1d
+City or town, state or province, country, and ZIP $ 0.00
+  [[ADDRESS|Port1and OR 97202]]
+Account nurnber (see instructions)    2nd TIN not.  [ ]
+  [[ID_NUMBER|WRB-V-0418]]
+5 State tax withhe1d    6 State/Payer's state no. 7 State incorne
+$ 0.00                  0R / [[ID_NUMBER?|0l448021-9]]           $ [[MONEY|7,850.00]]
+Forrn 1099-NEC (Rev. 1-2024)    Copy B For Recipient    www.irs.gov/Forrn1099NEC
+Departrnent of the Treasury - Interna1 Revenue Service
+This is irnportant tax inforrnation and is being furnished to the IRS. If you are required to fi1e a
+return, a neg1igence pena1ty or other sanction rnay be irnposed on you if this incorne is taxab1e and
+the IRS deterrnines that it has not been reported.
+
+Payer note (stap1ed): "Steel brew-deck rai1ings + g1yco1 chi11er stand, invoices 2025-014 thru
+2025-022. Thanks [[PERSON|D]]! -- [[PERSON|Ines Calderon-Wu]], owner"
+
+                                                                                Page 3 of 4
+
+--- Page 4 ---
+
+[ ] CORRECTED (if checked)
+PAYER'S narne, street address, city or town, state or province, Payer's RTN (optiona1)
+country, ZIP or foreign posta1 code, and te1ephone no.  [[ROUTING_NUMBER|32l226725]]
+  [[ORGANIZATION?|C0LUMBIA G0RGE FEDERAL CREDIT UNI0N]]                   OMB No. 1545-0112
+  [[ADDRESS?|PO B0X 1188]]                                           Forrn 1099-INT
+  [[ADDRESS?|H00D RIVER 0R 97031]]                                   (Rev. January 2024)
+  [[PHONE?|541-555-0100]]                                          For ca1endar year 2025
+PAYER'S TIN             RECIPIENT'S TIN                 Interest Incorne
+[[EIN?|93-05l8822]]              ***-**-[[SSN|2291]]
+----------------------------------------------------------------------------------------------------
+RECIPIENT'S narne                                 1 Interest incorne
+  [[PERSON|DARNELL K F0RTESCUE]]                             $ [[MONEY|412.87]]
+  [[PERSON|ADA M F0RTESCUE]]  JT TEN                         2 Ear1y withdrawa1 pena1ty   $ 0.00
+Street address (inc1uding apt. no.)               3 Interest on U.S. Savings Bonds
+  [[ADDRESS|3318 SE C1inton St Apt 4]]                          and Treasury ob1igations  $ 0.00
+City or town, state or province, country, and ZIP 4 Federa1 incorne tax withhe1d  $ 0.00
+  [[ADDRESS|Port1and OR 97202-1544]]                          5 Investrnent expenses  $ 0.00
+                                                  6 Foreign tax paid  $ 0.00
+FATCA fi1ing requirernent [ ]                     8 Tax-exernpt interest  $ 0.00
+Account nurnber (see instructions)                9 Specified private activity bond int.
+  [[BANK_ACCOUNT|000418229-S0l]]  (Share Certificate 12-mo)
+  [[BANK_ACCOUNT|000418229-S00]]  (Regu1ar Shares)       interest inc1uded above
+Forrn 1099-INT (Rev. 1-2024)    Copy B For Recipient    www.irs.gov/Forrn1099INT
+Departrnent of the Treasury - Interna1 Revenue Service
+
+Mernber nurnber: [[ID_NUMBER|418229]]      Statement date: [[DATE?|01/22/2026]]
+Year-end dividend summary (not a tax form): Share Cert 12-mo 4.10% APY  $  [[MONEY|366.18]];
+Regu1ar Shares 0.25% APY  $  [[MONEY|46.69]]; Tota1  $  [[MONEY|412.87]]
+
+Clients' preparer checklist (typed, attached):
+  [x] W-2 two-state -- part-year resident ID ([[DATE?|1/1-6/15]]) and OR ([[DATE?|6/16-12/31]]); file ID Form 43, OR-40-P
+  [x] 1099-NEC -> Schedule C (NAICS 332323) + Schedule SE; home shop at [[ADDRESS|3318 SE Clinton]] garage
+  [x] 1099-INT joint w/ spouse [[PERSON|Ada]] -- MFJ; spouse SSN ***-**-[[SSN|6602]], DOB [[DATE_OF_BIRTH|02/11/1991]]
+  [ ] Ask [[PERSON|Darnell]] re: Form 8889 (HSA) -- Box 12 W of 2,850.00 + personal contrib?
+
+                                                                                Page 4 of 4

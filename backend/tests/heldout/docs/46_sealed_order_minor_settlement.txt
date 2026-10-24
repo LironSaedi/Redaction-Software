@@ -1,0 +1,99 @@
+                 *** SEALED -- EXHIBIT A CONTAINS IDENTIFYING INFORMATION OF A MINOR ***
+                    Public copy shall be redacted pursuant to Tex. R. Civ. P. 21c and 76a
+
+                              CAUSE NO. [[CASE_NUMBER|D-1-GN-25-002918]]
+
+[[PERSON|MARIA ELENA DELGADO-RUIZ]], Individually and as      §      IN THE DISTRICT COURT OF
+Next Friend of [[PERSON MINOR|M.A.R.]], a Minor,                    §
+     Plaintiff,                                     §
+v.                                                  §      [[LOCATION?|TRAVIS COUNTY]], TEXAS
+[[PERSON|HUNTER JAMES WELLS]] and                              §
+[[ORGANIZATION?|SWIFTLINE FREIGHT LLC]],                             §
+     Defendants.                                    §      345TH JUDICIAL DISTRICT
+
+         AGREED JUDGMENT AND ORDER APPROVING SETTLEMENT OF MINOR'S CLAIM, APPROVING
+       GUARDIAN AD LITEM FEE, DIRECTING DEPOSIT INTO REGISTRY, AND PARTIALLY SEALING RECORD
+
+     On [[DATE|October 9, 2025]], the Court heard the application of [[PERSON|Maria Elena Delgado-Ruiz]], as next
+friend of [[PERSON MINOR|M.A.R.]], a minor, for approval of a settlement of the minor's claims against
+Defendants. Plaintiff appeared in person and through counsel, [[PERSON|Rachel Kim]]. Defendants appeared
+through counsel, [[PERSON|Courtney Ashford]]. The Court previously appointed [[PERSON|Lucinda Paz]] (State Bar No.
+[[ID_NUMBER|24070991]]) as guardian ad litem for the minor under Tex. R. Civ. P. 173, and she appeared and
+recommended approval.
+
+     The Court, having heard the evidence and the recommendation of the guardian ad litem, FINDS
+that the settlement is fair, reasonable, and in the best interest of the minor; that the minor
+sustained a [[MEDICAL_CONDITION|forehead laceration, abdominal wall contusion, and acute stress reaction]] for which
+he continues in [[MENTAL_HEALTH|trauma-focused play therapy]]; and that the minor has been seen by the Court
+in chambers, in the presence of the guardian ad litem.
+
+     IT IS THEREFORE ORDERED that the settlement of [[MONEY?|$65,000.00]] is APPROVED and shall be
+disbursed as follows:
+
+     Gross settlement ................................................... [[MONEY?|$65,000.00]]
+     Attorney's fees ([[ORGANIZATION?|Kim & Abernathy PLLC]], 25% per Court reduction) ......... [[MONEY?|($16,250.00)]]
+     Case expenses allocable to minor's claim ........................... [[MONEY?|($1,140.00)]]
+     Guardian ad litem fee ([[PERSON|Lucinda Paz]]), taxed as costs against Defendants ... paid separately
+     Medical expenses of minor (to [[ORGANIZATION?|BCBSTX]] ERISA lien, reduced) ................. [[MONEY?|($2,610.00)]]
+     Outstanding therapy balance, [[ORGANIZATION?|Little Oaks Child Therapy]] (Dr. [[PERSON|I. Chukwu]]) ...... [[MONEY?|($1,215.00)]]
+     NET TO MINOR ........................................................ [[MONEY?|$43,785.00]]
+
+     IT IS FURTHER ORDERED that the net sum of [[MONEY?|$43,785.00]] shall be deposited into the registry of
+the Court, pursuant to Tex. Prop. Code § 142.001 and Tex. Loc. Gov't Code § 117.052, and invested
+by the District Clerk in an interest-bearing, federally insured account or the Texas Treasury
+Safekeeping Trust Company TexPool program, for the benefit of the minor, until the minor attains
+the age of eighteen years on [[DATE|October 8, 2036]], at which time the funds, with accrued interest
+and less statutory fees, shall be paid to the minor upon proper identification, without further
+order. No withdrawal shall be made before that date except upon written motion and order of this
+Court upon a showing of necessity.
+
+     IT IS FURTHER ORDERED that the minor's full name, date of birth, Social Security number, and
+residence address set out in Exhibit A are SEALED and shall be maintained by the District Clerk in
+a sealed envelope, accessible only to the parties, counsel, the guardian ad litem, the District
+Clerk for registry purposes, and upon further order of the Court. The Court finds that the minor's
+specific, serious, and substantial interest in privacy clearly outweighs the presumption of
+openness as to these identifiers only. Tex. R. Civ. P. 76a(1)(a). The remainder of this order is
+not sealed.
+
+     Upon funding, Plaintiff's claims individually and as next friend are DISMISSED WITH PREJUDICE.
+Costs taxed against the party incurring same, except the guardian ad litem fee.
+
+     SIGNED on [[DATE|October 9, 2025]].
+                                              /s/ [[PERSON|Gisela Marroquín-Haynes]]
+                                              ___________________________________
+                                              JUDGE PRESIDING
+
+APPROVED AS TO FORM AND SUBSTANCE:
+/s/ [[PERSON|Rachel Kim]], counsel for Plaintiff        /s/ [[PERSON|Courtney Ashford]], counsel for Defendants
+/s/ [[PERSON|Lucinda Paz]], Guardian ad Litem
+
+                    EXHIBIT A -- SEALED -- MINOR'S IDENTIFYING INFORMATION
+                        (Filed under seal -- District Clerk use only)
+
+     Full legal name of minor:      [[PERSON MINOR|MATEO ARTURO RUIZ]]
+     Date of birth:                 [[DATE_OF_BIRTH|10/08/2018]]
+     Age at settlement:             [[AGE|7]]
+     Social Security number:        [[SSN|633-41-7782]]
+     Residence:                     [[ADDRESS|2209 Bluebonnet Lane, Austin, Texas 78704]]
+     Parent / next friend:          [[PERSON|Maria Elena Delgado-Ruiz]], mother -- DOB [[DATE_OF_BIRTH|04/17/1986]]
+                                    Phone [[PHONE|512-836-2290]]
+     Father:                        [[PERSON|Arturo Ruiz Benavides]] -- same address -- Phone [[PHONE|512-836-4471]]
+     School:                        [[SCHOOL|Galindo Elementary School]] (2nd grade, 2025-26)
+     Registry account designation:  "[[PERSON MINOR|Mateo A. Ruiz]], a minor -- [[CASE_NUMBER|D-1-GN-25-002918]]"
+     Investment vehicle:            TexPool -- Clerk sub-account [[BANK_ACCOUNT|7710-0218-3349]]
+     Form W-9 on file with Clerk:   Yes (minor's TIN = SSN above)
+
+     Medical providers:             [[ORGANIZATION?|Lone Oak Children's Medical Center]] (MRN [[MRN|LOC-2210948]]);
+                                    [[ORGANIZATION?|Little Oaks Child Therapy]], Dr. [[PERSON|Ifeoma Chukwu]], PsyD (client # [[MRN|LO-0418]])
+     Diagnoses:                     [[MEDICAL_CONDITION|S01.81XA forehead laceration]]; [[MEDICAL_CONDITION|S30.1XXA abdominal wall contusion]];
+                                    [[MENTAL_HEALTH|F43.0 acute stress reaction -> F43.10 PTSD (provisional, 06/2025)]]
+
+     Guardian ad litem report (summary, filed under seal):
+       "[[PERSON MINOR|Mateo]] is a bright, shy seven-year-old who likes Legos and soccer. He continues to have
+        [[MENTAL_HEALTH|nightmares about 'the big white truck' and will not sit on the left side of a car]]. His
+        therapist anticipates 12-20 more sessions. His parents are attentive. The family's
+        finances were strained by his mother's injuries and loss of employment. I recommend
+        approval and deposit into the registry rather than a structured annuity, given the amount."
+                                    -- [[PERSON|L. Paz]], GAL, [[DATE|10/06/2025]]
+
+     ACCESS LOG:  [[DATE|10/09/2025]] 11:04 sealed by Deputy Clerk [[PERSON|R. Esparza]] (#[[ID_NUMBER|DC-118]])

@@ -1,0 +1,110 @@
+[[ORGANIZATION?|LAKESHORE GENERAL INSURANCE COMPANY]] -- RECORDED STATEMENT TRANSCRIPT
+Claim No.:        [[CLAIM_NUMBER|LG-25-0122-30418]]          Line: Personal Auto -- BI / PD (third-party claimant)
+Insured:          [[PERSON|Tanner Blaylock]]                  Policy: [[POLICY_NUMBER|PAU 61-882047-03]]
+Claimant:         [[PERSON|Hyun-woo Park]]
+Date of Loss:     [[DATE|01/22/2025]]
+Statement date:   [[DATE|01/28/2025]], 2:06 p.m. - 2:41 p.m. CST, by telephone
+Interviewer:      [[PERSON|Melissa Ortiz-Kang]], Claims Representative II, ext. 4471 at [[PHONE|1-877-525-3800]]
+Transcribed by:   [[ORGANIZATION?|ScribeRight Transcription]], job 25-01-30-118 ([[DATE|01/30/2025]])
+-----------------------------------------------------------------------------------------------------
+MOK = [[PERSON|Melissa Ortiz-Kang]]      HP = [[PERSON|Hyun-woo Park]]
+
+MOK:  This is [[PERSON|Melissa Ortiz-Kang]] with Lakeshore General Insurance. Today is [[DATE|January 28th, 2025]],
+      the time is 2:06 p.m. Central. I'm speaking by phone with [[PERSON|Hyun-woo Park]] regarding a motor
+      vehicle accident on [[DATE|January 22nd, 2025]]. Mr. [[PERSON|Park]], do you understand this call is being
+      recorded, and is that okay with you?
+HP:   Yes, that's fine.
+MOK:  Could you spell your name for me?
+HP:   First name [[PERSON|H-Y-U-N, hyphen, W-O-O]]. Last name [[PERSON|P-A-R-K]]. Most people call me [[PERSON|Henry]].
+MOK:  And your date of birth?
+HP:   [[DATE_OF_BIRTH|October 5th, 1982]].
+MOK:  Your address?
+HP:   [[ADDRESS|4512 Avenue F, Austin, 78751]].
+MOK:  And the best phone number is the one I called, [[PHONE|737-215-8890]]?
+HP:   Yes.
+MOK:  Are you represented by an attorney at this time?
+HP:   No. Not yet. Should I be?
+MOK:  That's entirely up to you, sir. What do you do for a living?
+HP:   I own a food truck. [[EMPLOYER|Seoul Food ATX]]. Korean barbecue, tacos. It's me and my cousin, [[PERSON|Jae-sung]],
+      he works for me part-time. We do [[INDIRECT_LOCATION|the lot on East Sixth by the brewery]] Thursday to Sunday,
+      and [[INDIRECT_LOCATION|the Mueller farmers market]] on Saturday mornings, and catering.
+MOK:  How much do you make, roughly?
+HP:   It depends. Last year the business cleared [[FINANCIAL_INFO|maybe fifty thousand]], after everything. My wife
+      has a regular job.
+MOK:  Where does she work?
+HP:   She's an accountant, at [[EMPLOYER|Brightline CPA]].
+MOK:  Okay. Tell me in your own words what happened on the 22nd.
+HP:   I was going south on MoPac, after the Far West exit, around 7:40 in the morning, going to
+      Restaurant Depot for supplies. Traffic stopped, I stopped. I looked in my mirror and this
+      [[VEHICLE_DESCRIPTION|big gray Ram truck]] was coming and he didn't stop. Boom. My head went back and forward.
+MOK:  How fast was he going, would you estimate?
+HP:   Maybe thirty-five, forty. He didn't brake until right before. I heard tires.
+MOK:  What were you driving?
+HP:   My [[VEHICLE_DESCRIPTION|2019 Honda Odyssey, black]]. I use it for the business, to carry the propane and the
+      meat. The plate is [[LICENSE_PLATE|SFD 4417]] -- it's a vanity plate, "[[EMPLOYER|Seoul Food]]."
+MOK:  Anyone with you?
+HP:   No, just me. Thank God. Usually my son [[PERSON MINOR|Daniel]] comes on Saturdays.
+MOK:  Did you talk to the other driver?
+HP:   Yes. Young guy, maybe [[AGE|twenty-three]]. He said "Sorry, man, I was looking at my GPS." He was
+      nice about it. He had a Texas A&M sticker.
+MOK:  Did police come?
+HP:   No. Police said on the phone if nobody is hurt to exchange information. I didn't think I
+      was hurt that morning. I took pictures.
+
+Claim [[CLAIM_NUMBER|LG-25-0122-30418]] -- Recorded Statement of [[PERSON|Hyun-woo Park]] -- page 2 of 3
+-----------------------------------------------------------------------------------------------------
+MOK:  When did you first feel pain?
+HP:   That afternoon. My neck got stiff and I had a headache at the back. I went to [[ORGANIZATION?|MinuteMed]] on
+      Burnet. They took x-ray, said no fracture, gave me [[MEDICATION|ibuprofen]] and a [[MEDICATION|muscle relaxer]].
+MOK:  Have you seen anyone since?
+HP:   A chiropractor, [[ORGANIZATION?|Lyle Family Chiropractic]], on Anderson Lane. I went Friday and yesterday.
+MOK:  Who referred you there?
+HP:   My friend [[PERSON|Sung-min]] went there after his accident.
+MOK:  Have you ever injured your neck or back before?
+HP:   My back, a little, in 2022. Lifting a generator. Two visits to a chiropractor. It got better.
+MOK:  Which chiropractor was that?
+HP:   I think it's called [[ORGANIZATION?|Spine & Sport]]. On South Lamar.
+MOK:  Any other accidents, workers' comp claims, lawsuits?
+HP:   No. Never.
+MOK:  Do you have health insurance?
+HP:   No. When I left my job at [[EMPLOYER|Samsung]] in 2019 to start the truck, we were on my wife's plan,
+      but it got too expensive for the whole family. My wife and kids are on her plan through
+      [[ORGANIZATION?|Aetna]]. I'm not.
+MOK:  Have you missed work because of the accident?
+HP:   Yes. I closed Thursday and Friday, and Sunday I only did half day. My cousin can't run the
+      grill alone. I lost probably [[MONEY?|two thousand]], maybe [[MONEY?|twenty-five hundred]] in sales.
+MOK:  Do you have records of your sales?
+HP:   Yes, everything is in Square. And my wife does the books.
+MOK:  How's the van?
+HP:   Bumper is crushed, the back door doesn't close right. Your appraiser came yesterday. He said
+      about [[MONEY?|$6,800]]. I need it for the business, so I rented a [[VEHICLE_DESCRIPTION|white Ford Transit]] from Enterprise.
+MOK:  We'll handle the rental under the property damage claim. Is there anything else you'd
+      like to add?
+HP:   Just that I need the van fixed fast. And my neck still hurts when I lift the tanks.
+MOK:  Okay. For our records, can I get the last four of your Social?
+HP:   [[SSN|0927]].
+MOK:  And your driver's license number?
+HP:   [[DRIVERS_LICENSE|40921187]], Texas.
+MOK:  And an email for correspondence?
+HP:   [[EMAIL|henry.park@seoulfoodatx.com]]. Or my personal, [[EMAIL|hwpark82@naver.com]].
+MOK:  Mr. [[PERSON|Park]], is everything you've told me true and correct to the best of your knowledge?
+HP:   Yes.
+MOK:  And this statement was given with your permission?
+HP:   Yes.
+MOK:  This concludes the statement. The time is 2:41 p.m.
+
+Claim [[CLAIM_NUMBER|LG-25-0122-30418]] -- Recorded Statement of [[PERSON|Hyun-woo Park]] -- page 3 of 3
+-----------------------------------------------------------------------------------------------------
+ADJUSTER'S POST-STATEMENT NOTES ([[PERSON|M. Ortiz-Kang]], [[DATE|01/28/2025]] 3:05 p.m.)
+  - Liability: rear-end, insured admitted inattention (GPS) to clmt; insured's own R/S [[DATE|1/23]]
+    consistent ("I looked down at Waze"). Accept 100%.
+  - Clmt credible, cooperative, English good (accent). Unrepresented as of today -- expect LOR soon.
+  - Prior LBP 2022 ([[ORGANIZATION?|Spine & Sport ATX]]) -- request records. No prior neck.
+  - Self-employed, no health ins -- likely LOP treatment. Request Sch C 2023/2024 for wage loss.
+  - Clmt mentioned son [[PERSON MINOR|Daniel]] ([[AGE|~12]]) usually rides along Saturdays -- not in vehicle on DOL.
+  - PD: estimate [[MONEY?|$6,812.44]] ([[ORGANIZATION?|Cardinal Collision]], [[ADDRESS?|8100 Burnet Rd]]). Rental auth 14 days at [[MONEY?|$64]]/day.
+  - Clmt vehicle VIN [[VIN|5FNRL6H72KB019284]] -- (from DMV) -- confirm with title.
+  - Initial BI reserve [[MONEY?|$15,000]].
+
+Certification: I certify the foregoing is a true and accurate transcription of the recording.
+/s/ [[PERSON|Keisha Whitlock]], Transcriptionist, [[ORGANIZATION?|ScribeRight Transcription]], [[DATE|01/30/2025]]

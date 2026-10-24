@@ -1,0 +1,108 @@
+EXHIBIT 14 - RESPONDENT'S PEER-TO-PEER PAYMENT RECORDS
+In re the Marriage of [[PERSON|Whitlock]], Maricopa County Superior Court No. [[CASE_NUMBER|FC2026-004188]]
+Produced by Respondent pursuant to Rule 49 disclosure, [[DATE?|October 9, 2026]]. Bates WHIT-P2P-0001 to WHIT-P2P-0006.
+Source files: venmo_statement_2026-07_2026-09.csv ; cash_app_report_2026Q3.csv (converted to text; columns trimmed)
+
+=====================================================================================================================
+PART A - VENMO ACCOUNT PROFILE (from [[ORGANIZATION?|Venmo]] "Download your data", [[DATE?|10/02/2026]])
+=====================================================================================================================
+Display name ............ [[PERSON|Jordan Whitlock]]
+Username ................ [[USERNAME|@Jordan-Whitlock-4]]
+User ID ................. [[ID_NUMBER|2384710945716224810]]
+Legal name on file ...... [[PERSON|JORDAN TYLER WHITLOCK]]
+Date of birth ........... [[DATE_OF_BIRTH|1990-08-19]]
+Email(s) ................ [[EMAIL|jt.whitlock@examplemail.com]] (primary); [[EMAIL|jordan.whitlock.az@examplemail.net]]
+Phone ................... [[PHONE|+1 (602) 555-0187]]
+SSN (identity verified) . ***-**-[[SSN|3058]]
+Linked funding sources .. Visa Debit ending [[CREDIT_CARD|3712]] ([[ORGANIZATION?|Saguaro Federal Credit Union]], exp [[CARD_EXPIRY|11/28]])
+                          [[ORGANIZATION?|Saguaro FCU]] Checking x-[[BANK_ACCOUNT|0418]] (routing [[ROUTING_NUMBER|322047521]]) - verified by micro-deposits
+                          [[ORGANIZATION?|Venmo]] Mastercard Debit Card ending [[CREDIT_CARD|1812]] (exp [[CARD_EXPIRY|03/29]])
+[[ORGANIZATION?|Venmo]] Credit Card ....... none
+Recent logins ........... [[DATE?|2026-09-29]] 22:41 MST  [[IP_ADDRESS|70.176.22.143]]  iPhone14,7 iOS 19.6  device [[DEVICE_ID|8F3A2C1D-77B4-4E0A-9C21-5D6E44A1B9F0]]
+                          [[DATE?|2026-09-27]] 07:12 MST  [[IP_ADDRESS|2600:8800:1f0a:44c0:9d1e:3a2b:71f0:0c18]]  same device
+                          [[DATE?|2026-09-14]] 13:55 MST  [[IP_ADDRESS|174.65.201.9]]  Chrome/Windows (web)
+Privacy setting ......... Friends Only     Friends: 213
+
+=====================================================================================================================
+PART B - VENMO ACCOUNT STATEMENT (CSV)   Account Statement - ([[USERNAME|@Jordan-Whitlock-4]])   07/01/2026 - 09/30/2026
+=====================================================================================================================
+,ID,Datetime,Type,Status,Note,From,To,Amount (total),Amount (fee),Funding Source,Destination,Beginning Balance,Ending Balance
+,,,,,,,,,,,,[[MONEY|$12.40]],
+,[[ID_NUMBER?|3891224017765230981]],[[DATE?|2026-07-01T09:14:22]],Payment,Complete,🍕🍕 pizza night w/ [[PERSON|Dani]] & [[PERSON|Mo]],[[PERSON|Jordan Whitlock]],[[PERSON|Danielle Okafor]],- [[MONEY|$18.50]],,Visa Debit *[[CREDIT_CARD|3712]],,,
+,[[ID_NUMBER?|3891668201173342207]],[[DATE?|2026-07-01T17:40:03]],Payment,Complete,July rent 🏠 [[INDIRECT_LOCATION|unit 4B by the pool]],[[PERSON|Jordan Whitlock]],[[PERSON|Marisol Reyes-Underwood]],- [[MONEY|$950.00]],,[[ORGANIZATION?|Saguaro FCU]] *[[BANK_ACCOUNT|0418]],,,
+,[[ID_NUMBER?|3892001447820916635]],[[DATE?|2026-07-03T11:02:47]],Payment,Complete,⛽ gas for the lake trip,[[PERSON|Trevor Akinyemi]],[[PERSON|Jordan Whitlock]],+ [[MONEY|$40.00]],,,[[ORGANIZATION?|Venmo]] balance,,
+,[[ID_NUMBER?|3892110934476650182]],[[DATE?|2026-07-05T20:18:30]],Payment,Complete,🎆🎆 fireworks + ice,[[PERSON|Jordan Whitlock]],[[PERSON|Kenji Watanabe-Lowe]],- [[MONEY|$27.75]],,[[ORGANIZATION?|Venmo]] balance,,
+,[[ID_NUMBER?|3893407718852204413]],[[DATE?|2026-07-08T08:55:12]],Payment,Complete,[[MINOR|Kaylee]] daycare 👶 wk of 7/6,[[PERSON|Jordan Whitlock]],[[ORGANIZATION?|Little Saguaros Learning Ctr]],- [[MONEY|$265.00]],,[[ORGANIZATION?|Saguaro FCU]] *[[BANK_ACCOUNT|0418]],,,
+,[[ID_NUMBER?|3893519032761128754]],[[DATE?|2026-07-09T19:33:41]],Payment,Complete,for mom's [[MEDICAL_CONDITION|insulin]] 💉❤️ (pharmacy said $0 copay my a**),[[PERSON|Jordan Whitlock]],[[PERSON|Brenda Whitlock]],- [[MONEY|$120.00]],,Visa Debit *[[CREDIT_CARD|3712]],,,
+,[[ID_NUMBER?|3894002288416570091]],[[DATE?|2026-07-11T23:58:09]],Payment,Complete,🍻🍻🍻,[[PERSON|Jordan Whitlock]],[[PERSON|Trevor Akinyemi]],- [[MONEY|$64.00]],,[[ORGANIZATION?|Venmo]] balance,,
+,[[ID_NUMBER?|3894417730052219836]],[[DATE?|2026-07-14T06:20:55]],Standard Transfer,Issued,,,,- [[MONEY|$40.00]],,,[[ORGANIZATION?|Saguaro FCU]] *[[BANK_ACCOUNT|0418]],,
+,[[ID_NUMBER?|3895120847719904426]],[[DATE?|2026-07-15T12:12:12]],Payment,Complete,"tile job - [[INDIRECT_LOCATION|Mesa house on Brown Rd]] (cash bal. on Fri)",[[PERSON|Gloria Fenstermacher]],[[PERSON|Jordan Whitlock]],+ [[MONEY|$1,400.00]],,,[[ORGANIZATION?|Venmo]] balance,,
+,[[ID_NUMBER?|3895126670034418121]],[[DATE?|2026-07-15T12:30:44]],Instant Transfer,Issued,,,,- [[MONEY|$1,400.00]],- [[MONEY|$24.50]],,Visa Debit *[[CREDIT_CARD|3712]],,
+,[[ID_NUMBER?|3896033814467720905]],[[DATE?|2026-07-18T21:05:17]],Payment,Complete,bail for [[PERSON|Tre]] 😬 pay me back bro,[[PERSON|Jordan Whitlock]],[[PERSON|Dante Whitlock]],- [[MONEY|$500.00]],,Visa Debit *[[CREDIT_CARD|3712]],,,
+,[[ID_NUMBER?|3896641102295538867]],[[DATE?|2026-07-22T10:44:02]],Payment,Complete,CHILD SUPPORT JULY ✅ (per order),[[PERSON|Jordan Whitlock]],[[PERSON|Ashley Whitlock]],- [[MONEY|$300.00]],,[[ORGANIZATION?|Saguaro FCU]] *[[BANK_ACCOUNT|0418]],,,
+,[[ID_NUMBER?|3897008856221904310]],[[DATE?|2026-07-25T16:16:39]],Payment,Complete,🐶 dog sitting [[PERSON?|Biscuit]] 4 nights,[[PERSON|Priyanka Raman]],[[PERSON|Jordan Whitlock]],+ [[MONEY|$120.00]],,,[[ORGANIZATION?|Venmo]] balance,,
+,[[ID_NUMBER?|3897552019843376644]],[[DATE?|2026-07-29T09:01:58]],Payment,Complete,"countertop install, Gilbert - thx [[PERSON|JT]]!! 🙌",[[PERSON|Hector]] & [[PERSON|Lupe Saldívar]],[[PERSON|Jordan Whitlock]],+ [[MONEY|$2,250.00]],,,[[ORGANIZATION?|Venmo]] balance,,
+,[[ID_NUMBER?|3897559140027716083]],[[DATE?|2026-07-29T09:20:31]],Standard Transfer,Issued,,,,- [[MONEY|$2,250.00]],,,[[ORGANIZATION?|Saguaro FCU]] *[[BANK_ACCOUNT|0418]],,
+,[[ID_NUMBER?|3898004417726651209]],[[DATE?|2026-08-01T08:47:15]],Payment,Complete,Aug rent 🏠,[[PERSON|Jordan Whitlock]],[[PERSON|Marisol Reyes-Underwood]],- [[MONEY|$950.00]],,[[ORGANIZATION?|Saguaro FCU]] *[[BANK_ACCOUNT|0418]],,,
+,[[ID_NUMBER?|3898231776650012884]],[[DATE?|2026-08-03T14:29:50]],Payment,Complete,[[MINOR|Kaylee]] + [[MINOR|Mason]] school clothes 👕👟,[[PERSON|Jordan Whitlock]],[[PERSON|Ashley Whitlock]],- [[MONEY|$180.00]],,[[ORGANIZATION?|Saguaro FCU]] *[[BANK_ACCOUNT|0418]],,,
+,[[ID_NUMBER?|3898870014523397716]],[[DATE?|2026-08-07T19:12:06]],Payment,Complete,🎟️ Diamondbacks tix (sec 120),[[PERSON|Kenji Watanabe-Lowe]],[[PERSON|Jordan Whitlock]],+ [[MONEY|$85.00]],,,[[ORGANIZATION?|Venmo]] balance,,
+,[[ID_NUMBER?|3899413378802264951]],[[DATE?|2026-08-12T07:58:44]],Payment,Complete,Dr. [[PERSON|Patel]] copay - [[MEDICAL_CONDITION|therapy for the anxiety thing]] 🧠,[[PERSON|Jordan Whitlock]],[[ORGANIZATION?|Camelback Counseling PLLC]],- [[MONEY|$40.00]],,Visa Debit *[[CREDIT_CARD|3712]],,,
+,[[ID_NUMBER?|3899900276541108832]],[[DATE?|2026-08-15T12:00:01]],Payment,Complete,"backsplash - [[INDIRECT_LOCATION|the Chandler duplex behind the Saguaro Market]]",[[PERSON|Raymond Oduya-Pratt]],[[PERSON|Jordan Whitlock]],+ [[MONEY|$1,875.00]],,,[[ORGANIZATION?|Venmo]] balance,,
+,[[ID_NUMBER?|3899901844107729563]],[[DATE?|2026-08-15T12:04:27]],Instant Transfer,Issued,,,,- [[MONEY|$1,875.00]],- [[MONEY|$32.81]],,[[ORGANIZATION?|Venmo]] Debit *[[CREDIT_CARD|1812]],,
+,[[ID_NUMBER?|3900127553218841706]],[[DATE?|2026-08-19T20:40:13]],Payment,Complete,happy bday [[PERSON|Mo]] 🎂🎉 (30!!),[[PERSON|Jordan Whitlock]],[[PERSON|Mohammed Al-Rashid]],- [[MONEY|$30.00]],,[[ORGANIZATION?|Venmo]] balance,,
+,[[ID_NUMBER?|3900662210984473315]],[[DATE?|2026-08-22T10:41:29]],Payment,Complete,CHILD SUPPORT AUG ✅,[[PERSON|Jordan Whitlock]],[[PERSON|Ashley Whitlock]],- [[MONEY|$150.00]],,[[ORGANIZATION?|Saguaro FCU]] *[[BANK_ACCOUNT|0418]],,,
+,[[ID_NUMBER?|3901048873320015569]],[[DATE?|2026-08-26T18:19:57]],Payment,Complete,"tools - [[PERSON|Marcus]]'s miter saw + 2 blades",[[PERSON|Jordan Whitlock]],[[PERSON|Marcus Delgado-Finch]],- [[MONEY|$325.00]],,Visa Debit *[[CREDIT_CARD|3712]],,,
+,[[ID_NUMBER?|3901512288460713390]],[[DATE?|2026-09-01T08:50:36]],Payment,Complete,Sept rent 🏠 (late sorry!!),[[PERSON|Jordan Whitlock]],[[PERSON|Marisol Reyes-Underwood]],- [[MONEY|$950.00]],,[[ORGANIZATION?|Saguaro FCU]] *[[BANK_ACCOUNT|0418]],,,
+,[[ID_NUMBER?|3902007733145528021]],[[DATE?|2026-09-04T13:13:13]],Payment,Complete,"shower tile, [[INDIRECT_LOCATION|the Queen Creek new build off Ellsworth]]",[[PERSON|Bethany Kowalski]],[[PERSON|Jordan Whitlock]],+ [[MONEY|$3,100.00]],,,[[ORGANIZATION?|Venmo]] balance,,
+,[[ID_NUMBER?|3902009147762250038]],[[DATE?|2026-09-04T13:29:08]],Standard Transfer,Issued,,,,- [[MONEY|$3,100.00]],,,[[ORGANIZATION?|Saguaro FCU]] *[[BANK_ACCOUNT|0418]],,
+,[[ID_NUMBER?|3902556621103347785]],[[DATE?|2026-09-09T19:44:50]],Payment,Complete,🍺 fantasy draft dues,[[PERSON|Jordan Whitlock]],[[PERSON|Trevor Akinyemi]],- [[MONEY|$100.00]],,Visa Debit *[[CREDIT_CARD|3712]],,,
+,[[ID_NUMBER?|3903110488201936672]],[[DATE?|2026-09-14T09:30:21]],Payment,Complete,for [[MINOR|Mason]]'s [[MEDICAL_CONDITION|ADHD]] meds refill 💊,[[PERSON|Ashley Whitlock]],[[PERSON|Jordan Whitlock]],+ [[MONEY|$45.00]],,[[ORGANIZATION?|Venmo]] balance,,
+,[[ID_NUMBER?|3903447016628852903]],[[DATE?|2026-09-18T15:05:44]],Payment,Complete,"cabinet refinish - HOA clubhouse",[[ORGANIZATION?|Sunridge Village HOA]],[[PERSON|Jordan Whitlock]],+ [[MONEY|$2,600.00]],,,[[ORGANIZATION?|Venmo]] balance,,
+,[[ID_NUMBER?|3903449920017763418]],[[DATE?|2026-09-18T15:11:02]],Instant Transfer,Issued,,,,- [[MONEY|$2,600.00]],- [[MONEY|$45.50]],,[[ORGANIZATION?|Venmo]] Debit *[[CREDIT_CARD|1812]],,
+,[[ID_NUMBER?|3903880415527201134]],[[DATE?|2026-09-22T10:39:55]],Payment,Complete,CHILD SUPPORT SEPT ✅,[[PERSON|Jordan Whitlock]],[[PERSON|Ashley Whitlock]],- [[MONEY|$150.00]],,[[ORGANIZATION?|Saguaro FCU]] *[[BANK_ACCOUNT|0418]],,,
+,[[ID_NUMBER?|3904226009183370547]],[[DATE?|2026-09-26T21:21:21]],Payment,Complete,🙏🙏 [[PERSON|Abuela Rosa]]'s funeral flowers,[[PERSON|Jordan Whitlock]],[[PERSON|Marisol Reyes-Underwood]],- [[MONEY|$75.00]],,[[ORGANIZATION?|Venmo]] balance,,
+,[[ID_NUMBER?|3904661183920045516]],[[DATE?|2026-09-29T22:43:10]],Payment,Pending,🔑 [[PERSON|Ashley]] - [[INDIRECT_LOCATION|garage code is the old one]] fyi,[[PERSON|Jordan Whitlock]],[[PERSON|Ashley Whitlock]],- [[MONEY|$1.00]],,[[ORGANIZATION?|Venmo]] balance,,
+,,,,,,,,,,,,,[[MONEY|$64.65]]
+In case of errors or questions about your electronic transfers, call [[PHONE?|1-855-555-0130]] or write [[ORGANIZATION?|Venmo]], [[ADDRESS?|PO Box 45950, Omaha, NE 68145]].
+
+  [[ORGANIZATION?|Venmo]] statement totals (07/01-09/30): Payments received [[MONEY|$11,515.00]]; Payments sent [[MONEY|$5,196.25]];
+  Transfers to bank/card [[MONEY|$11,265.00]]; Instant transfer fees [[MONEY|$102.81]].
+
+=====================================================================================================================
+PART C - CASH APP ACTIVITY (cash_app_report_2026Q3.csv)
+=====================================================================================================================
+Account holder: [[PERSON|JORDAN WHITLOCK]]    $Cashtag: [[USERNAME|$JWhitTileWorks]]    Profile email: [[EMAIL|jwhittileworks@examplemail.com]]
+Cash Card: Visa ending [[CREDIT_CARD|4761]]   [[ORGANIZATION?|Cash App]] routing [[ROUTING_NUMBER|071971951]]   [[ORGANIZATION?|Cash App]] account no. [[BANK_ACCOUNT|9800 4471 2290 18]]
+Linked bank: [[ORGANIZATION?|Saguaro FCU]] ••••[[BANK_ACCOUNT|0418]]
+
+Transaction ID,Date,Transaction Type,Currency,Amount,Fee,Net Amount,Asset Type,Asset Price,Asset Amount,Account,Status,Notes,Name of sender/receiver
+[[ID_NUMBER?|ng4x2r7]],[[DATE?|2026-07-02 10:15:41 MST]],P2P,USD,[[MONEY|$650.00]],$0,[[MONEY|$650.00]],,,,Your Cash,COMPLETE,grout + labor 🧱,[[PERSON|Wendell Ostrowski]] ([[USERNAME|$WendellO55]])
+[[ID_NUMBER?|ng4x9p1]],[[DATE?|2026-07-02 10:16:03 MST]],Bitcoin Buy,USD,-[[MONEY|$600.00]],-[[MONEY|$10.66]],-[[MONEY|$610.66]],BTC,[[MONEY|$118,402.11]],0.00506747,Your Cash,COMPLETE,,
+[[ID_NUMBER?|pq81mz3]],[[DATE?|2026-07-19 08:02:59 MST]],P2P,USD,-[[MONEY|$200.00]],$0,-[[MONEY|$200.00]],,,,Visa Debit [[CREDIT_CARD|3712]],COMPLETE,lawyer retainer pt 1 😩,[[PERSON|Dante Whitlock]] ([[USERNAME|$DanteW2Times]])
+[[ID_NUMBER?|rk20aa8]],[[DATE?|2026-08-04 17:47:12 MST]],P2P,USD,[[MONEY|$1,200.00]],$0,[[MONEY|$1,200.00]],,,,Your Cash,COMPLETE,"cash for the Tempe kitchen job, dont put on venmo lol",[[PERSON|Collette Brandvold]] ([[USERNAME|$CBrandvold]])
+[[ID_NUMBER?|rk20ab0]],[[DATE?|2026-08-04 17:49:30 MST]],Bitcoin Buy,USD,-[[MONEY|$1,000.00]],-[[MONEY|$17.24]],-[[MONEY|$1,017.24]],BTC,[[MONEY|$121,966.40]],0.00819899,Your Cash,COMPLETE,,
+[[ID_NUMBER?|tt9h3w2]],[[DATE?|2026-08-21 22:05:16 MST]],Bitcoin Withdrawal,BTC,-0.01300000,-0.00002100,-0.01302100,BTC,[[MONEY|$119,880.00]],0.01300000,,COMPLETE,to [[CRYPTO_WALLET|bc1qddeh0ftwecluzkaqqn4zvsvxqmpnrzx6eqvjx4]],
+[[ID_NUMBER?|vz3k0d9]],[[DATE?|2026-09-06 12:20:00 MST]],P2P,USD,[[MONEY|$900.00]],$0,[[MONEY|$900.00]],,,,Your Cash,COMPLETE,🛁 tub surround - Mrs. [[PERSON|Haskins]],[[PERSON|Doreen Haskins]] ([[USERNAME|$DoreenHaskins1948]])
+[[ID_NUMBER?|vz3k1f4]],[[DATE?|2026-09-06 12:24:18 MST]],Cash Card,USD,-[[MONEY|$430.00]],$0,-[[MONEY|$430.00]],,,,Cash Card [[CREDIT_CARD|4761]],COMPLETE,ATM [[INDIRECT_LOCATION|QUIKWAY #3318 ELLIOT RD]],
+[[ID_NUMBER?|xc77n2e]],[[DATE?|2026-09-24 19:58:47 MST]],P2P,USD,-[[MONEY|$250.00]],$0,-[[MONEY|$250.00]],,,,Your Cash,COMPLETE,"for T's lawyer, last one",[[PERSON|Dante Whitlock]] ([[USERNAME|$DanteW2Times]])
+[[ID_NUMBER?|xc77q0b]],[[DATE?|2026-09-30 09:00:00 MST]],Bitcoin Withdrawal,BTC,-0.00020000,0,-0.00020000,BTC,[[MONEY|$117,210.55]],0.00020000,,COMPLETE,to [[CRYPTO_WALLET|bc1q8pffchu6xxk6dxkn75lq9an9mpp2azsrz9stqj]],
+
+  [[ORGANIZATION?|Cash App]] Q3 totals: P2P received [[MONEY|$2,750.00]]; P2P sent [[MONEY|$450.00]]; BTC purchased 0.01326646 for [[MONEY|$1,627.90]];
+  BTC withdrawn to external wallets 0.01320000.
+
+=====================================================================================================================
+PART D - PETITIONER'S COUNSEL ANNOTATIONS (attorney work product - produced by stipulation)
+=====================================================================================================================
+  * Incoming payments labelled "tile job," "countertop install," "backsplash," "shower tile," "cabinet refinish"
+    and [[ORGANIZATION?|Cash App]] P2P receipts total [[MONEY|$13,975.00]] for the quarter, versus the [[MONEY|$1,850.00]]/month self-employment
+    income Respondent reported on his [[DATE?|06/30/2026]] Affidavit of Financial Information.
+  * Respondent's ETH wallet [[CRYPTO_WALLET|0x160409fcf1d9cbdd4e6e19e375d9071dd7d33a5a]] (disclosed in his deposition) received
+    the BTC-to-ETH swap from wallet [[CRYPTO_WALLET|bc1qddeh0ftwecluzkaqqn4zvsvxqmpnrzx6eqvjx4]] on [[DATE?|08/22/2026]].
+  * Children: [[MINOR|Kaylee A. Whitlock]] (age [[AGE|4]]) and [[MINOR|Mason J. Whitlock]] (age [[AGE|nine]]), who attends
+    [[SCHOOL|Desert Willow Elementary]]. Ordered support is [[MONEY|$612.00]]/month; payments shown total [[MONEY|$600.00]] for Q3.
+  * "Tre" = [[PERSON|Treyvon Whitlock]], Respondent's nephew; see [[CRIMINAL_HISTORY|Mesa Municipal Court arrest of 07/18/2026]]
+    (case [[CASE_NUMBER|MM-2026-118042]]) - bail posted the same night.
+  * Respondent's business name "JWhit Tile Works" is unregistered; no TPT license located. Respondent
+    [[INDIRECT_ROLE|is the only tile setter Sunridge Village HOA uses]].
+
+Prepared by: [[PERSON|Alyssa M. Brightwater]], paralegal, [[ORGANIZATION?|Fenwick & Ruelas Family Law]]   [[PHONE|(480) 555-0121]]

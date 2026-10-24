@@ -1,0 +1,206 @@
+                                                                   Notice           CP2000
+[[ORGANIZATION?|Department of the Treasury]]                                         Tax year         2024
+[[ORGANIZATION?|Internal Revenue Service]]                                           Notice date      [[DATE?|October 13, 2026]]
+[[ADDRESS?|Kansas City, MO 64999-0025]]                                    Social Security number  XXX-XX-[[SSN|6093]]
+                                                                   AUR control number  [[ID_NUMBER?|26-C2-4471809]]
+                                                                   To contact us    Phone [[PHONE?|1-800-829-8310]]
+                                                                   Your caller ID   [[ID_NUMBER?|284113]]
+                                                                   Page 1 of 6
+[[PERSON|TERRENCE J OKONKWO-BRANDT]]
+& [[PERSON|NADIA L OKONKWO-BRANDT]]
+[[ADDRESS|5519 WEXFORD GLEN DR]]
+[[ADDRESS|DUBLIN OH 43016-8812]]
+
+
+                       Proposed changes to your 2024 Form 1040
+
+  Amount due by [[DATE?|November 12, 2026]]:  [[MONEY|$6,184.00]]
+
+  The income and payment information we have on file from third parties, such as employers or financial
+  institutions, doesn't match the information you reported on your tax return. If our information is
+  correct, you will owe [[MONEY|$6,184.00]] including tax, penalty, and interest.
+
+  What you need to do immediately
+     Review this notice and compare our changes to the information on your 2024 tax return.
+     Respond by [[DATE?|November 12, 2026]]. Complete the Response form on page 5 and mail or fax it to us
+     with any supporting documentation.
+
+  Summary of proposed changes
+     Increase in tax ......................................................... [[MONEY|$4,961.00]]
+     Penalty - Accuracy-related (IRC Section 6662(a)) ......................... [[MONEY|$992.20]]
+     Interest - charged through [[DATE?|November 12, 2026]] ........................... [[MONEY|$230.80]]
+     ------------------------------------------------------------------------------------------
+     Amount due by [[DATE?|November 12, 2026]] ........................................ [[MONEY|$6,184.00]]
+
+  If you agree with the changes, sign and date the Response form and mail or fax it to us. If you
+  don't agree, check the box "I don't agree" and include a signed statement explaining why.
+                                                                                       CP2000 page 1
+------------------------------------------------------------------------------------------------------------
+Notice CP2000   Tax year 2024   Notice date [[DATE?|October 13, 2026]]   SSN XXX-XX-[[SSN|6093]]               Page 2 of 6
+
+Income and payment information we received that doesn't match your return
+
+  The following information was reported to the IRS under the Social Security numbers shown on your return.
+
+  1. Nonemployee compensation - Form 1099-NEC
+     Payer:          [[ORGANIZATION?|BRIGHTLINE COURIER GROUP LLC]]    Payer's TIN: [[EIN|47-2210938]]
+     Recipient:      [[PERSON|NADIA L OKONKWO-BRANDT]]          Recipient's TIN: XXX-XX-[[SSN|2207]]
+     Account number: [[ID_NUMBER|BCG-VND-004471]]
+     Shown on your return ...........  $0         Reported to IRS ........ [[MONEY|$18,450]]     Difference [[MONEY|$18,450]]
+
+  2. Payment card and third party network transactions - Form 1099-K
+     Filer (PSE):    [[ORGANIZATION?|PAYWAVE PAYMENTS INC]]            Filer's TIN: [[EIN?|83-0911427]]
+     Payee:          [[PERSON|NADIA OKONKWO]] DESIGN STUDIO      Payee's TIN: [[EIN|88-3304417]]
+     Account number: [[ID_NUMBER|PW-0048812-NB]]
+     Gross amount ...................  [[MONEY|$22,610]]   Included on Schedule C line 1 (see note)  Difference $0
+
+  3. Proceeds from broker transactions - Form 1099-B
+     Payer:          [[ORGANIZATION?|ALDER PEAK SECURITIES LLC]]       Payer's TIN: [[EIN|46-4417218]]
+     Recipient:      [[PERSON|TERRENCE J OKONKWO-BRANDT]]       Recipient's TIN: XXX-XX-[[SSN|6093]]
+     Account number: [[BANK_ACCOUNT|5RH-77410923]]
+     Gross proceeds (box 1d) ........  [[MONEY|$41,880]]    Cost basis (box 1e) not reported to IRS
+     Shown on your return ...........  $0         Difference ............. [[MONEY|$41,880]]
+
+  4. Interest income - Form 1099-INT
+     Payer:          [[ORGANIZATION?|BUCKEYE HERITAGE FEDERAL CREDIT UNION]]   Payer's TIN: [[EIN|31-0418827]]
+     Recipient:      [[PERSON|TERRENCE J OKONKWO-BRANDT]] CUST  Recipient's TIN: XXX-XX-[[SSN|6093]]
+     Account number: ****[[BANK_ACCOUNT|0912]]   (share certificate)
+     Shown on your return ...........  $0         Reported to IRS ........ [[MONEY|$1,214]]      Difference [[MONEY|$1,214]]
+
+  5. Wages - Form W-2 (matches your return; shown for information)
+     Employer:       [[EMPLOYER|SCIOTO VALLEY LOGISTICS INC]]      Employer's EIN: [[EIN|31-1772093]]
+     Employee:       [[PERSON|TERRENCE J OKONKWO-BRANDT]]       Wages (box 1) [[MONEY|$96,412]]   Withholding (box 2) [[MONEY|$11,090]]
+     Employer:       [[EMPLOYER|MUIRFIELD PEDIATRIC DENTAL GROUP]]  Employer's EIN: [[EIN|27-0618843]]
+     Employee:       [[PERSON|NADIA L OKONKWO-BRANDT]]           Wages (box 1) [[MONEY|$38,906]]   Withholding (box 2) [[MONEY|$3,212]]
+                                                                                       CP2000 page 2
+------------------------------------------------------------------------------------------------------------
+Notice CP2000   Tax year 2024   Notice date [[DATE?|October 13, 2026]]   SSN XXX-XX-[[SSN|6093]]               Page 3 of 6
+
+Changes to your 2024 tax return
+                                                            Shown on return    Corrected
+  Line 1z   Wages                                           [[MONEY|$135,318]]          [[MONEY|$135,318]]
+  Line 2b   Taxable interest                                     [[MONEY|$86]]           [[MONEY|$1,300]]
+  Line 7    Capital gain or (loss)                                $0           [[MONEY|$41,880]]
+  Line 8    Additional income (Schedule 1) - Sch C net profit  [[MONEY|$14,207]]        [[MONEY|$32,657]]
+  Line 11   Adjusted gross income                           [[MONEY|$149,611]]          [[MONEY|$211,155]]
+  Line 12   Standard deduction                               [[MONEY|$29,200]]           [[MONEY|$29,200]]
+  Line 15   Taxable income                                  [[MONEY|$120,411]]          [[MONEY|$181,955]]
+  Line 16   Tax                                              [[MONEY|$16,914]]           [[MONEY|$30,450]]
+  Sch 2     Self-employment tax                               [[MONEY|$2,007]]            [[MONEY|$4,614]]
+  Line 19   Child tax credit (1 qualifying child)            [[MONEY|($2,000)]]          [[MONEY|($2,000)]]
+            (Changes reflect only the third-party information above; the calculation includes
+             the 0% / 15% capital-gains worksheet and the deduction for one-half of SE tax.)
+  Increase in tax                                                                 [[MONEY|$4,961]]
+
+  Penalty: Because the changes result in a substantial understatement of income tax, we are charging an
+  accuracy-related penalty of 20% under IRC Section 6662(a). You may request abatement if you can show
+  reasonable cause and lack of willful neglect.
+
+  Interest: We charge interest from the due date of the return ([[DATE?|April 15, 2025]]) under IRC Section 6601.
+                                                                                       CP2000 page 3
+------------------------------------------------------------------------------------------------------------
+Notice CP2000   Tax year 2024   Notice date [[DATE?|October 13, 2026]]   SSN XXX-XX-[[SSN|6093]]               Page 4 of 6
+
+Payment options
+  * Pay online with IRS Direct Pay at www.irs.gov/directpay. You will need the Notice number (CP2000)
+    and the tax year (2024).
+  * If you can't pay in full, request a payment plan at www.irs.gov/paymentplan or file Form 9465.
+  * Pay by check or money order payable to "[[ORGANIZATION?|United States Treasury]]." Write your SSN, tax year and
+    "CP2000" on your payment.
+
+Your rights
+  You have the right to a fair and just tax system (Publication 1, Your Rights as a Taxpayer). The
+  [[ORGANIZATION?|Taxpayer Advocate Service]] can help: [[PHONE?|1-877-777-4778]]. Publication 3498-A explains the examination
+  process; Publication 4134 lists Low Income Taxpayer Clinics.
+
+Authorized representative on file:  Form 2848 received [[DATE?|10/21/2026]]  CAF [[ID_NUMBER?|0312-48821R]]
+                                                                                       CP2000 page 4
+------------------------------------------------------------------------------------------------------------
+                                                                                       Page 5 of 6
+RESPONSE FORM   Notice CP2000   Tax year 2024   Notice date [[DATE?|October 13, 2026]]
+
+[[PERSON|TERRENCE J OKONKWO-BRANDT]]  &  [[PERSON|NADIA L OKONKWO-BRANDT]]
+[[ADDRESS|5519 WEXFORD GLEN DR]]
+[[ADDRESS|DUBLIN OH 43016-8812]]                              Primary SSN XXX-XX-[[SSN|6093]]   Spouse SSN XXX-XX-[[SSN|2207]]
+
+ [ ] I agree with all the changes.
+ [X] I don't agree with some or all of the changes. I've enclosed a signed statement explaining why,
+     and supporting documents.
+ [X] I'm enclosing a payment of [[MONEY|$412.00]] for the portion I agree with.
+
+ Signature  [[SIGNATURE|Terrence J. Okonkwo-Brandt]]           Date [[DATE?|11/04/2026]]
+ Spouse's signature  [[SIGNATURE|Nadia L. Okonkwo-Brandt]]     Date [[DATE?|11/04/2026]]
+
+ Best time to call: weekdays after 4 pm       Phone [[PHONE|(614) 555-0137]]    Alt. [[PHONE|614-555-0185]]
+ Fax [[PHONE?|1-877-571-4712]]  or mail to: [[ORGANIZATION?|Internal Revenue Service]], AUR Stop 6112, [[ADDRESS?|Kansas City, MO 64999-0025]]
+
+ [[SSN|287416093]] [[PERSON?|OKON]] 30 0 202412 670 00000618400
+------------------------------------------------------------------------------------------------------------
+                                                                                       Page 6 of 6
+[[ORGANIZATION?|BRZEZINSKI & MOYO CPAs, LLC]]
+[[ADDRESS?|6650 Perimeter Loop Road, Suite 210, Dublin, Ohio 43017]]
+[[PHONE?|(614) 555-0119]]  |  [[EMAIL|hbrzezinski@bmcpas.example.com]]
+
+[[DATE?|November 4, 2026]]
+
+[[ORGANIZATION?|Internal Revenue Service]]
+AUR Stop 6112
+[[ADDRESS?|Kansas City, MO 64999-0025]]
+                                       Re:  [[PERSON|Terrence J.]] and [[PERSON|Nadia L. Okonkwo-Brandt]]
+                                            SSNs [[SSN|287-41-6093]] / [[SSN|391-58-2207]]
+                                            Notice CP2000 dated [[DATE?|October 13, 2026]], Tax Year 2024
+                                            AUR Control No. [[ID_NUMBER?|26-C2-4471809]]
+
+Dear Sir or Madam:
+
+I represent the above taxpayers under the enclosed Form 2848 (CAF No. [[ID_NUMBER?|0312-48821R]]). The taxpayers
+partially disagree with the proposed changes for the reasons below. Each item corresponds to the
+numbered item on page 2 of the notice.
+
+Item 1 (Form 1099-NEC, [[ORGANIZATION?|Brightline Courier Group]], [[MONEY|$18,450]]). Mrs. [[PERSON|Okonkwo-Brandt]] operates a graphic design
+business as a sole proprietor under the name "[[PERSON|Nadia Okonkwo]] Design Studio," EIN [[EIN|88-3304417]], reported
+on Schedule C (principal business code 541430). [[ORGANIZATION?|Brightline]] paid her for branding work by card through
+the [[ORGANIZATION?|PayWave]] platform, so the same [[MONEY|$18,450]] is included in the [[MONEY|$22,610]] reported on Form 1099-K (Item 2).
+Her Schedule C line 1 gross receipts of [[MONEY|$31,940]] already include both. The proposed increase double-counts
+these receipts. See the enclosed [[ORGANIZATION?|PayWave]] merchant report, invoices INV-2024-031 through INV-2024-044,
+and the bank deposit reconciliation (Exhibit 1).
+
+Item 3 (Form 1099-B, [[ORGANIZATION?|Alder Peak Securities]], account ending [[BANK_ACCOUNT|0923]], [[MONEY|$41,880]] gross proceeds). Mr.
+[[PERSON|Okonkwo-Brandt]] sold 310 shares of VTI and 1,200 shares of SCHD (CUSIP 808524797) in [[DATE?|November 2024]]. Basis
+was not reported because the shares were transferred in from a prior broker. The correct adjusted basis is
+[[MONEY|$39,212.40]], producing a short-term gain of [[MONEY|$2,667.60]]. A corrected Form 8949 and Schedule D are enclosed. We
+agree that the gain was omitted and have computed the tax on it below.
+
+Item 4 (Form 1099-INT, [[ORGANIZATION?|Buckeye Heritage FCU]], [[MONEY|$1,214]]). The share certificate ending [[BANK_ACCOUNT|0912]] is a Uniform
+Transfers to Minors Act account titled "[[PERSON|Terrence J. Okonkwo-Brandt]], Custodian for [[MINOR|Zuri A.
+Okonkwo-Brandt]] under the Ohio UTMA." The interest belongs to the minor, the taxpayers' [[AGE|eleven]]-year-old
+daughter (SSN XXX-XX-[[SSN|5530]]), not to the custodian; the credit union reported it under the custodian's number in
+error. [[MINOR|Zuri]]'s 2024 return reporting the [[MONEY|$1,214]] has been filed, and a corrected 1099-INT has been requested
+from member services. A copy of the account agreement (member no. [[ID_NUMBER|0048812207]]) is enclosed.
+
+Agreed amount. Tax on the Item 3 gain at the taxpayers' 22% rate is [[MONEY|$586.87]]; less the [[MONEY|$174.87]] of capital loss
+carryover not previously claimed, the taxpayers agree to [[MONEY|$412.00]] of additional tax, paid with this response.
+
+Penalty abatement. We request that the Section 6662(a) penalty be removed for reasonable cause. Mr.
+[[PERSON|Okonkwo-Brandt]] was diagnosed with [[MEDICAL_CONDITION|stage III colon cancer]] in [[DATE|February 2025]] and underwent
+[[MEDICAL_CONDITION|surgery and six cycles of FOLFOX chemotherapy]] at the [[ORGANIZATION?|Olentangy Valley Cancer Institute]] from [[DATE|March 2025]]
+through [[DATE|August 2025]], covering the entire filing season. The return was prepared from incomplete records
+while he was hospitalized. Letters from his oncologist, Dr. [[PERSON|Meera Castellanos-Iyer]], are enclosed.
+
+Enclosed:  Check no. 3318 for [[MONEY|$412.00]] payable to "[[ORGANIZATION?|United States Treasury]]"; Form 2848; corrected Form 8949
+           and Schedule D; [[ORGANIZATION?|PayWave]] report; UTMA agreement; medical letters (2).
+
+Very truly yours,
+
+[[SIGNATURE|Harlan V. Brzezinski]]
+[[PERSON|Harlan V. Brzezinski]], CPA   PTIN [[ID_NUMBER?|P01498823]]
+
+----- photocopy of enclosed check -----------------------------------------------------------------------
+  [[PERSON|TERRENCE J OKONKWO-BRANDT]]                                                        3318
+  [[PERSON|NADIA L OKONKWO-BRANDT]]                                               DATE [[DATE?|11/04/2026]]
+  [[ADDRESS|5519 WEXFORD GLEN DR]]  [[ADDRESS|DUBLIN OH 43016]]
+  PAY TO THE ORDER OF  [[ORGANIZATION?|United States Treasury]]                                      $ [[MONEY|412.00]]
+  Four hundred twelve and 00/100 ------------------------------------------------- DOLLARS
+  [[ORGANIZATION?|BUCKEYE HERITAGE FEDERAL CREDIT UNION]]  [[ADDRESS?|Columbus, Ohio]]
+  MEMO  SSN [[SSN|287-41-6093]] 2024 CP2000                         [[SIGNATURE|T J Okonkwo-Brandt]]
+  ⑆[[ROUTING_NUMBER|041845949]]⑆ [[BANK_ACCOUNT|004881220720]]⑈ 3318

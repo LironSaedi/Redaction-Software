@@ -1,0 +1,140 @@
+                                                                        1
+ 1   SUPERIOR COURT OF NEW JERSEY
+     LAW DIVISION: MIDDLESEX COUNTY
+ 2   DOCKET NO. [[CASE_NUMBER|MID-L-004417-25]]
+ 3   ---------------------------------------x
+     [[PERSON|HECTOR LUIS MALDONADO-PAGAN]] and
+ 4   [[PERSON|YARITZA MALDONADO]], his wife, per quod,
+                         Plaintiffs,
+ 5            -against-
+ 6   [[ORGANIZATION?|KESTREL MATERIAL HANDLING CORP.]],
+     [[ORGANIZATION?|TRI-STATE TALENT STAFFING, LLC]], and
+ 7   [[ORGANIZATION?|RARITAN LOGISTICS PARK URBAN RENEWAL, LLC]],
+                         Defendants.
+ 8   ---------------------------------------x
+ 9               DEPOSITION OF [[PERSON|HECTOR LUIS MALDONADO-PAGAN]]
+10                       [[DATE|Tuesday, September 15, 2026]]
+11                        10:04 a.m.
+12            Taken at the offices of [[ORGANIZATION?|Brennan Aufiero & Szabo, P.C.]],
+              [[ADDRESS?|90 Woodbridge Center Drive, Suite 610]], [[ADDRESS?|Woodbridge, New Jersey]]
+13   A P P E A R A N C E S:
+14   [[PERSON|DANIEL R. OYELOWO]], ESQ. ([[ORGANIZATION?|Oyelowo Injury Law]]) for Plaintiffs
+15   [[PERSON|CHRISTINE M. SZABO]], ESQ. for Defendant Kestrel Material Handling Corp.
+16   [[PERSON|PAUL VENTRESCA]], ESQ. for Defendant Tri-State Talent Staffing, LLC
+17   ALSO PRESENT: [[PERSON|Ines Barbosa]], interpreter
+18   Reported by: [[PERSON|Gail M. Terhune]], CCR, License No. [[ID_NUMBER|30XI00221800]]
+                                                                       22
+ 1         Q.   Mr. [[PERSON|Maldonado]], can you state your full name and
+ 2   spell your last name for the record?
+ 3         A.   [[PERSON|Hector Luis Maldonado-Pagan]]. [[PERSON?|M-A-L-D-O-N-A-D-O]],
+ 4   dash, [[PERSON?|P-A-G-A-N]].
+ 5         Q.   And your date of birth?
+ 6         A.   [[DATE_OF_BIRTH|March 3rd, 1979]].
+ 7         Q.   What is your current address?
+ 8         A.   [[ADDRESS|116 Kearny Avenue, second floor]], [[ADDRESS|Perth Amboy]].
+ 9         Q.   Who lives there with you?
+10         A.   My wife [[PERSON|Yaritza]], my daughter [[PERSON MINOR|Kiara]] -- she's [[AGE|fourteen]] -- and my
+11   mother-in-law, Doña [[PERSON|Carmen]]. [[PERSON|Carmen Rosado]].
+12         Q.   I'm going to ask you for the last four of your Social.
+13         A.   [[SSN|3318]].
+14         Q.   Before the accident, where were you working?
+15         A.   At the warehouse in Edison. [[EMPLOYER|Tri-State]] sent me there. The building
+16   is the [[EMPLOYER|Atlas Home Goods]] distribution center in the Raritan park,
+17   [[INDIRECT_LOCATION|Building C, the one by the train tracks]].
+18         Q.   Did you have an employee number?
+19         A.   My badge was [[ID_NUMBER|TT-0882147]]. For [[EMPLOYER|Atlas]] they gave me a scanner login,
+20   [[USERNAME|hmaldonado7]].
+21         Q.   What was your job?
+22         A.   Order picker, second shift, three to eleven-thirty. I also
+23   did loading at the dock when they were short.
+24         Q.   How much were you making?
+25         A.   [[FINANCIAL_INFO|Nineteen seventy-five an hour, plus overtime most weeks]].
+                                                                       23
+ 1         Q.   Directing your attention to [[DATE|January 9th, 2025]], tell us
+ 2   what happened.
+ 3         A.   I was walking back from the break room to my aisle. You go
+ 4   down the main travel aisle by [[INDIRECT_LOCATION|dock door forty-one]]. There's yellow
+ 5   lines for walking. I was inside the lines.
+ 6         Q.   What happened next?
+ 7         A.   A stand-up reach truck came backwards out of aisle sixteen.
+ 8   It didn't beep. The back corner hit me and it ran over my left
+ 9   foot and pinned it against the rack upright.
+10         Q.   Who was operating it?
+11         A.   [[PERSON|Vinny]]. [[PERSON|Vincent Caruso]]. He's the -- he's
+12   [[INDIRECT_ROLE|the second-shift lead, only guy certified on the reach truck]].
+13         Q.   Did you see him before the impact?
+14         A.   No. After, he jumped off and he was yelling for somebody. He
+15   said the alarm was broke "since Christmas." He said it in front of
+16   [[PERSON|Shontae]].
+17         Q.   Who is [[PERSON|Shontae]]?
+18         A.   [[PERSON|Shontae Gilliam]]. [[INDIRECT_ROLE|The safety coordinator for Atlas on nights]].
+19   She's the one who called the ambulance.
+20         MS. [[PERSON|SZABO]]: Objection to the hearsay. Go ahead.
+21         Q.   Had anyone complained about the backup alarm before?
+22         A.   Everybody. [[PERSON|Danny Ruiz]] put it on the whiteboard. There was a
+23   paper on the truck, a red tag. It said do not operate. Somebody
+24   took it off.
+25         Q.   What injuries did you suffer?
+                                                                       24
+ 1         A.   They took me to [[ORGANIZATION?|Robert Wood Johnson]] in New Brunswick. My
+ 2   foot was [[MEDICAL_CONDITION|crushed]] -- they had to [[MEDICAL_CONDITION|amputate the two small toes]] and
+ 3   part of the fourth. I had [[MEDICAL_CONDITION|a broken ankle, three surgeries]]. Now I have
+ 4   [[MEDICAL_CONDITION|nerve pain, CRPS they call it]]. I walk with a cane.
+ 5         Q.   Who is treating you now?
+ 6         A.   Dr. [[PERSON|Feldstein]] for the foot, and the pain doctor, Dr.
+ 7   [[PERSON|Anjali Bhatt]]. And I see a psychologist, Ms. [[PERSON|Okonjo]] -- Dr. [[PERSON|Okonjo]].
+ 8         Q.   Why do you see a psychologist?
+ 9         A.   [[MENTAL_HEALTH|Depression]]. [[MENTAL_HEALTH|I don't sleep. I get flashbacks]] when I hear a
+10   beeping truck. My wife made me go.
+11         Q.   Are you taking any medication?
+12         A.   [[MEDICATION|Gabapentin]], [[MEDICATION|Cymbalta]], and the [[MEDICATION|Percocet]] at night. Sometimes
+13   the [[MEDICATION|trazodone]] for sleep.
+14         Q.   Before this accident, did you ever have problems with your
+15   left foot or leg?
+16         A.   No. Well -- [[MEDICAL_CONDITION|gout]], one time, in the big toe. 2021.
+17         Q.   Have you ever been convicted of a crime?
+18         MR. [[PERSON|OYELOWO]]: Objection. You can answer if you know, within
+19   the time limits of the rule.
+20         A.   [[CRIMINAL_HISTORY|In 2014, possession, in Middlesex. I did probation]].
+21         Q.   Any other arrests since then?
+22         A.   No.
+23         Q.   Do you have any social media accounts?
+24         A.   Facebook. [[USERNAME|Hector Maldonado PR]]. And TikTok, [[USERNAME|@elboricua_hlm]], but I don't
+25   post nothing since the accident.
+                                                                       25
+ 1         Q.   Have you returned to work anywhere?
+ 2         A.   No. Workers' comp is paying, [[FINANCIAL_INFO|about eight-ninety a week]]. The claim
+ 3   number is [[CLAIM_NUMBER|WC-25-0047719]], with [[ORGANIZATION?|Liberty Pointe]]. We're behind on the rent.
+ 4   [[FINANCIAL_INFO|We owe like four thousand]].
+ 5         Q.   Before [[EMPLOYER?|Tri-State]], where did you work?
+ 6         A.   [[EMPLOYER|Goya]], in Jersey City, the plant, for nine years. Then I drove
+ 7   for [[EMPLOYER|Amazon Flex]] for a little.
+ 8         Q.   Did you ever drive a forklift yourself?
+ 9         A.   At [[EMPLOYER|Goya]], yes, sit-down. I had a card. Not the reach truck.
+10         Q.   Are you a United States citizen?
+11         MR. [[PERSON|OYELOWO]]: Objection; irrelevant.
+12         A.   Yes, I'm from Puerto Rico. [[LOCATION?|Bayamón]].
+13         Q.   What is your cell phone number?
+14         A.   [[PHONE|732-596-0418]].
+15         Q.   Is that the number you had on [[DATE|January 9th, 2025]]?
+16         A.   Yes.
+17         Q.   Your wife -- where does she work?
+18         A.   She's [[INDIRECT_ROLE|a lunch aide at Ignacio Cruz Elementary]], the one on
+19   Smith Street. Now she has to take care of me, so she cut hours.
+20         Q.   And your daughter, what school?
+21         A.   [[SCHOOL|Perth Amboy High]], ninth grade. She used to play softball;
+22   I can't take her no more.
+23         Q.   Do you have any distinguishing marks, scars?
+24         A.   [[PHYSICAL_DESCRIPTOR|The scars on the foot, big one up the ankle]], and the
+25   toes. And [[PHYSICAL_DESCRIPTOR|a tattoo of the Puerto Rican flag on my right shoulder]].
+                                                                      112
+ 1                   C E R T I F I C A T E
+ 2        I, [[PERSON|GAIL M. TERHUNE]], a Certified Court Reporter of the State of
+ 3   New Jersey, do hereby certify that the foregoing is a true and accurate
+ 4   transcript of the deposition of [[PERSON|HECTOR LUIS MALDONADO-PAGAN]], who was
+ 5   first duly sworn by me on [[DATE|September 15, 2026]].
+ 6
+ 7                            ______________________________
+                              [[PERSON|GAIL M. TERHUNE]], CCR
+ 8                            License No. [[ID_NUMBER|30XI00221800]]
+ 9   GARDEN STATE REPORTING   [[PHONE|(732) 404-1177]]   [[EMAIL|transcripts@gsreporting.net]]

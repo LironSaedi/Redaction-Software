@@ -1,0 +1,270 @@
+[[ORGANIZATION?|HARBORLINE SECURITIES LLC]]                                           2025 TAX REPORTING STATEMENT
+[[ADDRESS?|One Harborline Plaza, 22nd Floor]]                                     Form 1099 Composite & Year-End Summary
+[[ADDRESS?|Jersey City, NJ 07310]]                                                  ** CORRECTED [[DATE?|03/06/2026]] **
+Tax Reporting Help: [[PHONE?|1-800-555-0137]]                                     Original issued [[DATE?|02/14/2026]]
+
+PAYER'S Federal ID No.:  [[EIN|26-4418093]]                     RECIPIENT'S TIN:  ***-**-[[SSN|6618]]
+PAYER'S Name and Address:                                    RECIPIENT'S Name and Address:
+  [[ORGANIZATION?|Harborline Securities LLC]]                                    [[PERSON|VIKRAM S RAGHUNATHAN]] &
+  as agent for [[ORGANIZATION?|Harborline Clearing Corp]]                          [[PERSON|MEERA RAGHUNATHAN]] JT TEN
+  [[ADDRESS?|One Harborline Plaza, Jersey City NJ 07310]]                        [[ADDRESS|4170 BROOKSTONE RIDGE DR]]
+                                                             [[ADDRESS|ALPHARETTA GA 30005-7216]]
+Account Number:  [[BANK_ACCOUNT|7HT-44821-19]]                       Document ID: [[ID_NUMBER?|25C1099-0044821193]]
+
+Your Financial Advisor:  [[PERSON|GREGORY HOLLIS-TANAKA]]    [[PHONE?|(770) 555-0144]]
+                         [[ORGANIZATION?|Hollis-Tanaka Wealth Group]], [[ADDRESS?|3000 Old Alabama Rd Ste 410, Alpharetta GA 30022]]
+
+-------------------------------------------------------------------------------------------------------------
+SUMMARY OF 2025 ORIGINAL vs. CORRECTED AMOUNTS
+  This corrected statement reflects issuer reclassification of distributions received after [[DATE?|02/14/2026]]:
+  REALTY INCOME CORP (CUSIP 756109104) -- [[MONEY|112.40]] reclassified from ordinary dividends to nondividend
+  distributions (return of capital); AMERICAN FUNDS GROWTH FUND OF AMER A (CUSIP 399874106) -- qualified
+  portion revised. If you already filed, you may need to file Form 1040-X.
+
+                                              Original            Corrected           Change
+  1099-DIV  Box 1a Total ordinary dividends   [[MONEY|5,067.36]]            [[MONEY|4,954.96]]            [[MONEY|-112.40]]
+  1099-DIV  Box 1b Qualified dividends        [[MONEY|3,901.00]]            [[MONEY|3,936.92]]             +[[MONEY|35.92]]
+  1099-DIV  Box 3  Nondividend distributions      [[MONEY|0.00]]              [[MONEY|112.40]]            +[[MONEY|112.40]]
+  1099-B    No change
+-------------------------------------------------------------------------------------------------------------
+
+2025 FORM 1099-DIV  DIVIDENDS AND DISTRIBUTIONS                       OMB No. 1545-0110     Copy B for Recipient
+  1a  Total ordinary dividends ............................................   [[MONEY|4,954.96]]
+  1b  Qualified dividends .................................................   [[MONEY|3,936.92]]
+  2a  Total capital gain distributions ....................................   [[MONEY|1,233.80]]
+  2b  Unrecaptured Section 1250 gain ......................................       [[MONEY|0.00]]
+  2c  Section 1202 gain ...................................................       [[MONEY|0.00]]
+  2d  Collectibles (28%) gain .............................................       [[MONEY|0.00]]
+  2e  Section 897 ordinary dividends ......................................       [[MONEY|0.00]]
+  2f  Section 897 capital gain ............................................       [[MONEY|0.00]]
+  3   Nondividend distributions ...........................................     [[MONEY|112.40]]
+  4   Federal income tax withheld .........................................       [[MONEY|0.00]]
+  5   Section 199A dividends ..............................................      [[MONEY|96.18]]
+  6   Investment expenses .................................................       [[MONEY|0.00]]
+  7   Foreign tax paid ....................................................      [[MONEY|88.21]]
+  8   Foreign country or U.S. possession ..................................   RIC
+  9   Cash liquidation distributions ......................................       [[MONEY|0.00]]
+  10  Noncash liquidation distributions ...................................       [[MONEY|0.00]]
+  11  FATCA filing requirement ............................................   [ ]
+  12  Exempt-interest dividends ...........................................     [[MONEY|214.55]]
+  13  Specified private activity bond interest dividends ..................      [[MONEY|18.02]]
+  14  State: GA   15  State identification no.: [[ID_NUMBER?|2148870-AB]]   16  State tax withheld:  [[MONEY|0.00]]
+
+2025 FORM 1099-INT  INTEREST INCOME                                    OMB No. 1545-0112     Copy B for Recipient
+  1   Interest income (Harborline Bank Deposit Sweep Program) ..............     [[MONEY|362.19]]
+  3   Interest on U.S. Savings Bonds and Treasury obligations ..............       [[MONEY|0.00]]
+  4   Federal income tax withheld ..........................................       [[MONEY|0.00]]
+  8   Tax-exempt interest ..................................................       [[MONEY|0.00]]
+
+2025 FORM 1099-MISC  MISCELLANEOUS INFORMATION                         OMB No. 1545-0115     Copy B for Recipient
+  3   Other income (new-account referral bonus, [[DATE?|04/30/2025]]) ......................     [[MONEY|250.00]]
+
+This is important tax information and is being furnished to the IRS (except as indicated). If you are
+required to file a return, a negligence penalty or other sanction may be imposed on you if this income
+is taxable and the IRS determines that it has not been reported.
+
+[[PERSON|VIKRAM S RAGHUNATHAN]]     Account [[BANK_ACCOUNT|7HT-44821-19]]     2025 Form 1099 Composite                      Page 1 of 6
+--- Page 2 ---
+[[ORGANIZATION?|HARBORLINE SECURITIES LLC]]    [[PERSON|VIKRAM S RAGHUNATHAN]]   Account [[BANK_ACCOUNT|7HT-44821-19]]   RECIPIENT'S TIN ***-**-[[SSN|6618]]   Page 2 of 6
+
+2025 FORM 1099-B  PROCEEDS FROM BROKER AND BARTER EXCHANGE TRANSACTIONS      OMB No. 1545-0715
+SUMMARY
+                                               Proceeds       Cost or Other   Market      Wash Sale     Realized
+Term / Form 8949 Box                                          Basis           Discount    Loss Disall.  Gain or (Loss)
+---------------------------------------------  ------------   ------------    --------    ----------    ------------
+Short-term, basis reported to IRS (Box A)         [[MONEY|18,442.10]]      [[MONEY|19,880.55]]        [[MONEY|0.00]]        [[MONEY|412.30]]       [[MONEY|-1,026.15]]
+Short-term, basis not reported (Box B)                 [[MONEY|0.00]]           [[MONEY|0.00]]        [[MONEY|0.00]]          [[MONEY|0.00]]            [[MONEY|0.00]]
+Long-term, basis reported to IRS (Box D)          [[MONEY|52,118.40]]      [[MONEY|34,105.12]]        [[MONEY|0.00]]          [[MONEY|0.00]]       [[MONEY|18,013.28]]
+Long-term, basis not reported (Box E)              [[MONEY|6,880.00]]       [[MONEY|9,140.00]]        [[MONEY|0.00]]          [[MONEY|0.00]]       [[MONEY|-2,260.00]]
+Total                                             [[MONEY|77,440.50]]      [[MONEY|63,125.67]]        [[MONEY|0.00]]        [[MONEY|412.30]]       [[MONEY|14,727.13]]
+
+SHORT-TERM TRANSACTIONS FOR COVERED TAX LOTS -- Report on Form 8949, Part I, with Box A checked.
+1a Description / 1b-1c                                  1d            1e            1f/1g          Gain or
+CUSIP        Quantity  Date Acquired  Date Sold         Proceeds      Cost Basis    Wash Sale      (Loss)
+-----------  --------  -------------  ----------        ----------    ----------    ---------      ----------
+INTEL CORP  /  INTC
+458140100     200.000  [[DATE?|01/22/2025]]     [[DATE?|03/11/2025]]          [[MONEY|4,382.18]]      [[MONEY|5,466.00]]      [[MONEY|412.30]] W        [[MONEY|-671.52]]
+458140100     200.000  [[DATE?|03/28/2025]]     [[DATE?|08/04/2025]]          [[MONEY|4,120.44]]      [[MONEY|4,766.70]]        [[MONEY|0.00]]          [[MONEY|-646.26]]
+                       (basis includes [[MONEY|412.30]] disallowed loss from [[DATE?|03/11/2025]] sale; holding period adjusted)
+PFIZER INC  /  PFE
+717081103     150.000  [[DATE?|04/02/2025]]     [[DATE?|10/15/2025]]          [[MONEY|3,688.12]]      [[MONEY|3,912.75]]        [[MONEY|0.00]]          [[MONEY|-224.63]]
+SPDR S&P 500 ETF TRUST  /  SPY
+78462F103      10.000  [[DATE?|02/10/2025]]     [[DATE?|11/20/2025]]          [[MONEY|6,251.36]]      [[MONEY|5,735.10]]        [[MONEY|0.00]]           [[MONEY|516.26]]
+                                                          ----------    ----------    ---------      ----------
+Totals Short-term covered                                   [[MONEY|18,442.10]]     [[MONEY|19,880.55]]      [[MONEY|412.30]]       [[MONEY|-1,026.15]]
+
+LONG-TERM TRANSACTIONS FOR COVERED TAX LOTS -- Report on Form 8949, Part II, with Box D checked.
+CUSIP        Quantity  Date Acquired  Date Sold         Proceeds      Cost Basis    Wash Sale      Gain/(Loss)
+-----------  --------  -------------  ----------        ----------    ----------    ---------      ----------
+APPLE INC  /  AAPL
+037833100      60.000  [[DATE?|05/14/2019]]     [[DATE?|06/02/2025]]         [[MONEY|12,034.80]]      [[MONEY|2,810.40]]        [[MONEY|0.00]]         [[MONEY|9,224.40]]
+MICROSOFT CORP  /  MSFT
+594918104      25.000  [[DATE?|08/30/2021]]     [[DATE?|06/02/2025]]         [[MONEY|11,562.25]]      [[MONEY|7,531.50]]        [[MONEY|0.00]]         [[MONEY|4,030.75]]
+JOHNSON & JOHNSON  /  JNJ
+478160104      40.000  VARIOUS        [[DATE?|09/18/2025]]          [[MONEY|6,224.80]]      [[MONEY|6,610.40]]        [[MONEY|0.00]]          [[MONEY|-385.60]]
+COCA-COLA CO  /  KO
+191216100     100.000  [[DATE?|12/03/2020]]     [[DATE?|09/18/2025]]          [[MONEY|6,891.00]]      [[MONEY|5,370.00]]        [[MONEY|0.00]]         [[MONEY|1,521.00]]
+VANGUARD TOTAL STOCK MKT ETF  /  VTI
+922908769      55.000  [[DATE?|03/16/2022]]     [[DATE?|12/08/2025]]         [[MONEY|15,405.55]]     [[MONEY|11,782.82]]        [[MONEY|0.00]]         [[MONEY|3,622.73]]
+                                                          ----------    ----------    ---------      ----------
+Totals Long-term covered                                    [[MONEY|52,118.40]]     [[MONEY|34,105.12]]        [[MONEY|0.00]]        [[MONEY|18,013.28]]
+
+LONG-TERM TRANSACTIONS FOR NONCOVERED TAX LOTS -- Report on Form 8949, Part II, with Box E checked.
+Cost basis shown is provided for your information and is NOT reported to the IRS.
+AT&T INC  /  T
+00206R102     300.000  VARIOUS        [[DATE?|07/07/2025]]          [[MONEY|6,880.00]]      [[MONEY|9,140.00]]*       [[MONEY|0.00]]        [[MONEY|-2,260.00]]
+  * Basis supplied by transferring firm via ACATS from [[ORGANIZATION?|Peachtree Discount Brokerage]] acct [[BANK_ACCOUNT|PDB-000418827]]
+    on [[DATE?|01/15/2012]]; shares inherited from [[PERSON|Sundaram Raghunathan]] (date of death [[DATE|11/02/2011]]), stepped-up basis.
+
+Gross proceeds are reported net of commissions and option premiums. Box 2 type of gain or loss is
+short-term or long-term as shown above. Box 5 (noncovered security) is checked for Box E transactions.
+Box 6 reported to IRS: Gross proceeds. Box 7 loss not allowed based on amount in 1d: not applicable.
+
+[[PERSON|VIKRAM S RAGHUNATHAN]]     Account [[BANK_ACCOUNT|7HT-44821-19]]     2025 Form 1099 Composite                      Page 2 of 6
+--- Page 3 ---
+[[ORGANIZATION?|HARBORLINE SECURITIES LLC]]    [[PERSON|VIKRAM S RAGHUNATHAN]]   Account [[BANK_ACCOUNT|7HT-44821-19]]   RECIPIENT'S TIN ***-**-[[SSN|6618]]   Page 3 of 6
+
+DETAIL OF DIVIDENDS AND DISTRIBUTIONS (supplemental -- not furnished to the IRS)
+Security Description                   Symbol  CUSIP        Ordinary  Qualified  Cap Gain  Nondiv.  Foreign  Exempt-Int
+                                                            (1a)      (1b)       (2a)      (3)      Tax (7)  (12)
+-------------------------------------  ------  ---------   --------- ---------  --------  -------  -------  ----------
+APPLE INC                              AAPL    037833100       [[MONEY|31.20]]     [[MONEY|31.20]]      [[MONEY|0.00]]     [[MONEY|0.00]]     [[MONEY|0.00]]       [[MONEY|0.00]]
+AT&T INC                               T       00206R102      [[MONEY|166.50]]    [[MONEY|166.50]]      [[MONEY|0.00]]     [[MONEY|0.00]]     [[MONEY|0.00]]       [[MONEY|0.00]]
+COCA-COLA CO                           KO      191216100      [[MONEY|145.50]]    [[MONEY|145.50]]      [[MONEY|0.00]]     [[MONEY|0.00]]     [[MONEY|0.00]]       [[MONEY|0.00]]
+INTEL CORP                             INTC    458140100       [[MONEY|25.00]]     [[MONEY|25.00]]      [[MONEY|0.00]]     [[MONEY|0.00]]     [[MONEY|0.00]]       [[MONEY|0.00]]
+JOHNSON & JOHNSON                      JNJ     478160104      [[MONEY|148.80]]    [[MONEY|148.80]]      [[MONEY|0.00]]     [[MONEY|0.00]]     [[MONEY|0.00]]       [[MONEY|0.00]]
+MICROSOFT CORP                         MSFT    594918104       [[MONEY|41.50]]     [[MONEY|41.50]]      [[MONEY|0.00]]     [[MONEY|0.00]]     [[MONEY|0.00]]       [[MONEY|0.00]]
+PFIZER INC                             PFE     717081103      [[MONEY|252.00]]    [[MONEY|252.00]]      [[MONEY|0.00]]     [[MONEY|0.00]]     [[MONEY|0.00]]       [[MONEY|0.00]]
+PROCTER & GAMBLE CO                    PG      742718109      [[MONEY|324.32]]    [[MONEY|324.32]]      [[MONEY|0.00]]     [[MONEY|0.00]]     [[MONEY|0.00]]       [[MONEY|0.00]]
+REALTY INCOME CORP (REIT)              O       756109104       [[MONEY|96.18]]      [[MONEY|0.00]]      [[MONEY|0.00]]   [[MONEY|112.40]]     [[MONEY|0.00]]       [[MONEY|0.00]]
+SPDR S&P 500 ETF TRUST                 SPY     78462F103       [[MONEY|66.40]]     [[MONEY|66.40]]      [[MONEY|0.00]]     [[MONEY|0.00]]     [[MONEY|0.00]]       [[MONEY|0.00]]
+VERIZON COMMUNICATIONS                 VZ      92343V104      [[MONEY|400.05]]    [[MONEY|400.05]]      [[MONEY|0.00]]     [[MONEY|0.00]]     [[MONEY|0.00]]       [[MONEY|0.00]]
+VANGUARD TOTAL STOCK MKT ETF           VTI     922908769    [[MONEY|1,402.18]]  [[MONEY|1,330.11]]      [[MONEY|0.00]]     [[MONEY|0.00]]     [[MONEY|0.00]]       [[MONEY|0.00]]
+VANGUARD TOTAL INTL STOCK ETF          VXUS    921909768    [[MONEY|1,040.66]]    [[MONEY|812.44]]      [[MONEY|0.00]]     [[MONEY|0.00]]    [[MONEY|88.21]]       [[MONEY|0.00]]
+ISHARES CORE US AGGREGATE BOND ETF     AGG     464287226      [[MONEY|586.72]]      [[MONEY|0.00]]      [[MONEY|0.00]]     [[MONEY|0.00]]     [[MONEY|0.00]]       [[MONEY|0.00]]
+AMERICAN FUNDS GROWTH FUND OF AMER A   AGTHX   399874106      [[MONEY|227.95]]    [[MONEY|193.10]]  [[MONEY|1,233.80]]     [[MONEY|0.00]]     [[MONEY|0.00]]       [[MONEY|0.00]]
+VANGUARD INTERM-TERM TAX-EXEMPT ADM    VWIUX   922907878        [[MONEY|0.00]]      [[MONEY|0.00]]      [[MONEY|0.00]]     [[MONEY|0.00]]     [[MONEY|0.00]]     [[MONEY|214.55]]
+                                                           --------- ---------  --------  -------  -------  ----------
+TOTALS                                                      [[MONEY|4,954.96]]  [[MONEY|3,936.92]]  [[MONEY|1,233.80]]   [[MONEY|112.40]]    [[MONEY|88.21]]     [[MONEY|214.55]]
+
+Section 199A dividends (Box 5) included in Box 1a: REALTY INCOME CORP [[MONEY|96.18]].
+Specified private activity bond interest dividends (Box 13): VWIUX [[MONEY|18.02]] (AMT preference item).
+Exempt-interest dividends by state of issuer (VWIUX): GA 4.1%, all other states 95.9%. Georgia does not
+exempt out-of-state municipal interest; see Georgia Form 500 instructions.
+
+FOREIGN TAX PAID BY COUNTRY (VXUS, RIC pass-through): Japan [[MONEY|17.30]], United Kingdom [[MONEY|14.02]], Canada [[MONEY|9.88]],
+France [[MONEY|7.41]], Switzerland [[MONEY|6.55]], other [[MONEY|33.05]]. You may be able to claim the foreign tax credit without filing
+Form 1116 if total creditable foreign taxes are [[MONEY|300.00]] or less ([[MONEY|600.00]] married filing jointly).
+
+DIVIDEND PAYMENT DETAIL -- QUARTERLY (selected)
+Pay Date     Security                     Shares Held    Rate/Share    Amount     Reinvested   Price      Shares Added
+----------   -------------------------    -----------    ----------    -------    ----------   -------    ------------
+[[DATE?|03/31/2025]]   VANGUARD TOTAL STOCK MKT ETF   55.000         0.9126       [[MONEY|50.19]]     Yes          [[MONEY|262.11]]     0.191
+[[DATE?|05/15/2025]]   PROCTER & GAMBLE CO            80.000         1.0568       [[MONEY|84.54]]     No
+[[DATE?|06/27/2025]]   VANGUARD TOTAL INTL STOCK ETF 210.000         1.2219      [[MONEY|256.60]]     Yes           [[MONEY|68.04]]     3.771
+[[DATE?|08/01/2025]]   VERIZON COMMUNICATIONS        150.000         0.6775      [[MONEY|101.63]]     No
+[[DATE?|11/14/2025]]   REALTY INCOME CORP            72.000         0.2690       [[MONEY|19.37]]     No     (monthly; Nov shown)
+[[DATE?|12/22/2025]]   AMERICAN FUNDS GROWTH FUND A   88.412         13.9551   [[MONEY|1,233.80]]     Yes           [[MONEY|73.45]]    16.798
+                       (long-term capital gain distribution, record date [[DATE?|12/19/2025]])
+
+[[PERSON|VIKRAM S RAGHUNATHAN]]     Account [[BANK_ACCOUNT|7HT-44821-19]]     2025 Form 1099 Composite                      Page 3 of 6
+--- Page 4 ---
+[[ORGANIZATION?|HARBORLINE SECURITIES LLC]]    [[PERSON|VIKRAM S RAGHUNATHAN]]   Account [[BANK_ACCOUNT|7HT-44821-19]]   RECIPIENT'S TIN ***-**-[[SSN|6618]]   Page 4 of 6
+
+YEAR-END SUMMARY (not furnished to the IRS; provided for your tax preparation)
+
+FEES AND EXPENSES
+  Advisory program fee (Harborline Select, 0.85% annual, billed quarterly) ...............   [[MONEY|1,840.00]]
+  Margin interest paid (debit balance [[DATE?|04/03/2025]]-[[DATE?|05/19/2025]]) ......................     [[MONEY|286.14]]
+  Foreign securities ADR pass-through fees ...............................................       [[MONEY|2.40]]
+  Accrued interest paid on purchases ...................................................       [[MONEY|0.00]]
+  Note: Advisory fees are miscellaneous itemized deductions not currently deductible (IRC Sec. 67(g)).
+  Margin interest may be deductible as investment interest expense on Form 4952.
+
+ACCOUNT ACTIVITY AFFECTING BASIS
+  [[DATE?|04/03/2025]]  Margin debit created by purchase of INTC (200.000 sh) -- see Short-term detail.
+  [[DATE?|05/19/2025]]  Margin balance repaid via ACH from [[ORGANIZATION?|Fulton Peach Bank]] checking acct ****[[BANK_ACCOUNT|0938]],
+               ABA [[ROUTING_NUMBER|061015115]] -- [[MONEY|9,500.00]]
+  [[DATE?|06/02/2025]]  Sale proceeds (AAPL, MSFT) [[MONEY|23,597.05]] -- partial wire OUT [[MONEY|15,000.00]] to [[PERSON|Meera Raghunathan]]
+               at [[ORGANIZATION?|Fulton Peach Bank]] acct [[BANK_ACCOUNT|0011902260938]] (memo: "[[MINOR|Anika]] tuition -- [[SCHOOL|Lakemont Hills Academy]]")
+  [[DATE?|12/08/2025]]  VTI sale proceeds [[MONEY|15,405.55]] -- journal to Harborline Bank Sweep
+
+RELATED ACCOUNTS IN THIS HOUSEHOLD (each receives a separate Form 1099)
+  Account          Registration                                                Tax ID on file
+  ------------     ---------------------------------------------------------   ---------------
+  [[BANK_ACCOUNT|7HT-44907-26]]     [[PERSON|VIKRAM S RAGHUNATHAN]] CUST [[MINOR|ANIKA V RAGHUNATHAN]] UTMA GA            ***-**-[[SSN|2205]]
+  [[BANK_ACCOUNT|7HT-45120-03]]     [[PERSON|MEERA RAGHUNATHAN]] ROTH IRA, [[ORGANIZATION?|Harborline Trust Co]] custodian             ***-**-[[SSN|8840]]
+  [[BANK_ACCOUNT|7HT-45121-11]]     [[PERSON|VIKRAM S RAGHUNATHAN]] ROLLOVER IRA (from [[EMPLOYER|Peachtree Aerospace Systems]] 401(k) Plan)       ***-**-[[SSN|6618]]
+  IRA accounts receive Form 5498 (by [[DATE?|05/31/2026]]) and Form 1099-R (if distributions), not Form 1099-B/DIV.
+  Note: the UTMA account for [[MINOR|Anika]] (age [[AGE|14]]) may be subject to the kiddie tax (Form 8615) if her
+  unearned income exceeds [[MONEY|2,700.00]].
+
+TRANSFER-ON-DEATH DESIGNATION ON FILE (JT TEN account)
+  Primary beneficiaries: [[MINOR|ANIKA V RAGHUNATHAN]] 50%, [[MINOR|ROHAN S RAGHUNATHAN]] 50% (per stirpes)
+  Contingent: [[PERSON|LAKSHMI RAGHUNATHAN]] (relationship: mother of [[PERSON|Vikram]])
+
+COST BASIS METHOD ELECTIONS
+  Equities: First In, First Out (FIFO)       Mutual funds: Average Cost       Dividend reinvestment: Average Cost
+  Elections may be changed prospectively at any time.
+
+[[PERSON|VIKRAM S RAGHUNATHAN]]     Account [[BANK_ACCOUNT|7HT-44821-19]]     2025 Form 1099 Composite                      Page 4 of 6
+--- Page 5 ---
+[[ORGANIZATION?|HARBORLINE SECURITIES LLC]]    [[PERSON|VIKRAM S RAGHUNATHAN]]   Account [[BANK_ACCOUNT|7HT-44821-19]]   RECIPIENT'S TIN ***-**-[[SSN|6618]]   Page 5 of 6
+
+INSTRUCTIONS FOR RECIPIENT (Form 1099-B)
+Brokers and barter exchanges must report proceeds from (and in some cases, basis for) transactions to you
+and the IRS on Form 1099-B. Reporting is also required when your broker knows or has reason to know that
+a corporation in which you own stock has had a reportable change in control or capital structure. You may
+be required to recognize gain from the receipt of cash, stock, or other property that was exchanged for the
+corporation's stock. If your broker reported this type of transaction to you, the corporation is identified
+in box 1a.
+
+Recipient's taxpayer identification number (TIN). For your protection, this form may show only the last
+four digits of your TIN (social security number (SSN), individual taxpayer identification number (ITIN),
+adoption taxpayer identification number (ATIN), or employer identification number (EIN)). However, the
+issuer has reported your complete TIN to the IRS.
+
+Account number. May show an account or other unique number the payer assigned to distinguish your account.
+
+CUSIP number. Shows the CUSIP (Committee on Uniform Security Identification Procedures) number or other
+applicable identifying number.
+
+FATCA filing requirement. If the FATCA filing requirement box is checked, the payer is reporting on this
+Form 1099 to satisfy its account reporting requirement under chapter 4 of the Internal Revenue Code.
+
+Box 1a. Shows the name of the property sold or exchanged; Box 1b. Shows the date you acquired the property.
+Box 1c. Shows the trade date of the sale or exchange. Box 1d. Shows the cash proceeds, reduced by any
+commissions or transfer taxes related to the sale. Box 1e. Shows the cost or other basis of securities sold.
+Box 1g. Shows the amount of nondeductible loss in a wash sale transaction. For details on wash sales, see
+Pub. 550. See the Instructions for Form 8949 and Schedule D (Form 1040).
+
+INSTRUCTIONS FOR RECIPIENT (Form 1099-DIV)
+Box 1a. Shows total ordinary dividends that are taxable. Include this amount on the "Ordinary dividends"
+line of Form 1040 or 1040-SR. Also, report it on Schedule B (Form 1040), if required.
+Box 1b. Shows the portion of the amount in box 1a that may be eligible for reduced capital gains rates.
+Box 3. Shows a return of capital. To the extent of your cost (or other basis) in the stock, the
+distribution reduces your basis and is not taxable.
+Box 12. Shows exempt-interest dividends from a mutual fund or other RIC paid to you during the calendar year.
+
+[[PERSON|VIKRAM S RAGHUNATHAN]]     Account [[BANK_ACCOUNT|7HT-44821-19]]     2025 Form 1099 Composite                      Page 5 of 6
+--- Page 6 ---
+[[ORGANIZATION?|HARBORLINE SECURITIES LLC]]    [[PERSON|VIKRAM S RAGHUNATHAN]]   Account [[BANK_ACCOUNT|7HT-44821-19]]                                     Page 6 of 6
+
+YEAR-END MESSAGES
+
+- E-delivery: your 2025 tax documents were delivered electronically to [[EMAIL|vik.raghunathan@outlook.com]]. A paper
+  copy of this CORRECTED statement was also mailed because a correction was issued.
+- Online access: Harborline Online user [[USERNAME|vraghu_atl]]; last login [[DATE?|03/04/2026]] from IP [[IP_ADDRESS|73.207.118.42]].
+  Harborline will never ask for your password or one-time passcode by phone or e-mail.
+- Phone on file: mobile [[PHONE|(404) 555-0178]]; home [[PHONE|(678) 555-0102]]. Trusted contact person (FINRA Rule
+  4512): [[PERSON|Lakshmi Raghunathan]], [[PHONE|(470) 555-0191]].
+- Employment information on file (FINRA Rule 4512): [[INDIRECT_ROLE?|Senior Manager, Revenue Management]], [[EMPLOYER|Peachtree Aerospace Systems]];
+  co-owner [[PERSON|Meera Raghunathan]]: [[INDIRECT_ROLE?|Pediatric Cardiologist]], [[EMPLOYER|Brookhaven Pediatric Heart Associates]].
+- Supplemental information on pages 3-4 is not furnished to the IRS. Wash sale adjustments are reported only
+  for identical securities in this account; you are responsible for tracking wash sales across accounts,
+  including IRAs.
+- Real Estate Investment Trust and Regulated Investment Company issuers may reclassify distributions after
+  year end; a further corrected Form 1099 will be issued if total changes exceed IRS tolerance.
+
+Securities offered through [[ORGANIZATION?|Harborline Securities LLC]], member FINRA/SIPC. Investment products are not
+FDIC insured, are not bank guaranteed and may lose value. [[ORGANIZATION?|Harborline Securities LLC]] CRD# 104882.  HSL-1099C-2025

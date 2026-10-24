@@ -1,0 +1,112 @@
+[[ORGANIZATION?|RIDGELINE AUTO FINANCE, LLC]]                                     MONTHLY LOAN STATEMENT
+[[ADDRESS?|PO Box 660418, Dallas, TX 75266-0418]]       Customer Care [[PHONE?|1-888-555-0161]]     ridgelineauto.example
+
+Statement Date   [[DATE?|09/20/2026]]                          Account Number   [[BANK_ACCOUNT|7020-5518-0442]]
+Payment Due      [[DATE?|10/15/2026]]                          Contract Date    [[DATE?|12/03/2022]]
+Amount Due       [[MONEY|$609.16]]                             Dealer           [[ORGANIZATION?|Lone Star Toyota of Mesquite]]
+                                                     Dealer Deal #    [[ID_NUMBER?|LST-22-11873]]
+  [[PERSON|THADDEUS K OYELARAN]]
+  [[PERSON|IMANI R OYELARAN]]                                   Co-Borrower
+  [[ADDRESS|2614 CEDAR RIDGE TRL]]
+  [[ADDRESS|GARLAND TX 75044-6203]]
+
+VEHICLE (COLLATERAL)
+  Year/Make/Model   2022 TOYOTA RAV4 XLE AWD                Color  [[VEHICLE_DESCRIPTION?|MAGNETIC GRAY METALLIC]]
+  VIN               [[VIN|JTMRWRFV6ND118826]]                       TX Plate  [[LICENSE_PLATE|RKV-4218]]
+  Title status      Lien recorded -- TxDMV title no. [[ID_NUMBER|05118826044711]]   Lienholder: Ridgeline Auto Finance, LLC
+  GPS/starter-interrupt device: [[DEVICE_ID|PassTime unit S/N PT7-0448122]] (disclosed in contract sec. 14)
+
+LOAN SUMMARY
+  Amount Financed         [[MONEY|$34,850.00]]        APR                 7.89%
+  Term                    72 months         Payments Made       45 of 72
+  Regular Payment         [[MONEY|$609.16]]           Maturity Date       [[DATE?|12/15/2028]]
+  Principal Balance       [[MONEY|$15,025.29]]        Interest Paid YTD   $1,133.67
+  Late Charges Due        $0.00             Other Fees Due      $0.00
+
+THIS PERIOD'S PAYMENT (Pmt #46)   Principal $510.37   Interest $98.79   Total $609.16
+  AutoPay: ON -- $609.16 will be drafted [[DATE?|10/15/2026]] from checking ****[[BANK_ACCOUNT|7731]] at [[ORGANIZATION?|Texas Plains Federal CU]]
+           (routing [[ROUTING_NUMBER|111079755]]). To change, sign in as [[USERNAME|toyelaran_rav4]] or call us 3 business days ahead.
+
+PAYOFF (good through [[DATE?|10/01/2026]]): [[MONEY|$15,058.22]]   Per diem $3.30.  Payoff checks: [[ADDRESS?|Ridgeline Auto Finance,
+Attn: Payoffs, PO Box 660419, Dallas TX 75266]].  Wire payoffs: ABA [[ROUTING_NUMBER?|111390625]], acct [[BANK_ACCOUNT?|00918 44711]].
+
+                                                                                                Page 1 of 4
+
+--- Page 2 ---
+
+[[PERSON|THADDEUS K OYELARAN]]                     Account [[BANK_ACCOUNT|7020-5518-0442]]                Statement Date [[DATE?|09/20/2026]]
+
+PAYMENT HISTORY -- LAST 12 MONTHS
+Pmt #  Due         Received    Method                    Amount  Principal  Interest    Fees     Balance
+--------------------------------------------------------------------------------------------------------
+34     [[DATE?|10/15/2025]]  [[DATE?|10/14/2025]]  ACH ****[[BANK_ACCOUNT|7731]]              609.16     471.77    137.39           20,424.02
+35     [[DATE?|11/15/2025]]  [[DATE?|11/14/2025]]  ACH ****[[BANK_ACCOUNT|7731]]              609.16     474.87    134.29           19,949.15
+36     [[DATE?|12/15/2025]]  [[DATE?|12/12/2025]]  ACH ****[[BANK_ACCOUNT|7731]]              609.16     477.99    131.17           19,471.16
+37     [[DATE?|01/15/2026]]  [[DATE?|01/15/2026]]  ACH ****[[BANK_ACCOUNT|7731]]              609.16     481.14    128.02           18,990.02
+38     [[DATE?|02/15/2026]]  [[DATE?|02/28/2026]]  PHONE PAY dbt ...[[CREDIT_CARD|5094]]     634.16     484.30    124.86   25.00   18,505.72
+39     [[DATE?|03/15/2026]]  [[DATE?|03/13/2026]]  ACH ****[[BANK_ACCOUNT|7731]]              609.16     487.48    121.68           18,018.24
+40     [[DATE?|04/15/2026]]  [[DATE?|04/15/2026]]  ACH ****[[BANK_ACCOUNT|7731]]              609.16     490.69    118.47           17,527.55
+41     [[DATE?|05/15/2026]]  [[DATE?|05/14/2026]]  ACH ****[[BANK_ACCOUNT|7731]]              609.16     493.92    115.24           17,033.63
+42     [[DATE?|06/15/2026]]  [[DATE?|06/15/2026]]  ACH ****[[BANK_ACCOUNT|7731]]              609.16                                         
+                   [[DATE?|06/18/2026]]    RETURNED R01 NSF       -609.16                        30.00            
+42     [[DATE?|06/15/2026]]  [[DATE?|06/22/2026]]  WEB ACH ****[[BANK_ACCOUNT|2209]]          639.16     497.16    112.00           16,536.47
+43     [[DATE?|07/15/2026]]  [[DATE?|07/15/2026]]  ACH ****[[BANK_ACCOUNT|7731]]              609.16     500.43    108.73           16,036.04
+44     [[DATE?|08/15/2026]]  [[DATE?|08/14/2026]]  ACH ****[[BANK_ACCOUNT|7731]]              609.16     503.72    105.44           15,532.32
+45     [[DATE?|09/15/2026]]  [[DATE?|09/15/2026]]  ACH ****[[BANK_ACCOUNT|7731]]              609.16     507.03    102.13           15,025.29
+
+  Pmt 38: received 13 days after due date; late charge 5% capped at $25.00 assessed and paid by phone with debit card
+  ending [[CREDIT_CARD|5094]] (cardholder [[PERSON|Imani R Oyelaran]]). Convenience fee waived.
+  Pmt 42: ACH returned R01 (insufficient funds) [[DATE?|06/18/2026]]; NSF fee $30.00. Re-presented from savings ****[[BANK_ACCOUNT|2209]].
+
+COLLECTION / SERVICING NOTES (printed at customer request under Tex. Fin. Code 348.)
+  [[DATE?|02/17/2026]]  Outbound call to [[PHONE|(972) 555-0317]] (borrower cell). Borrower said he was "between
+               contracts" after [[EMPLOYER|Prairie Rail Services]] layoff; promised pmt 2/28. Kept.
+  [[DATE?|02/27/2026]]  Co-borrower called from work line [[PHONE?|(214) 555-0108]] x[[PHONE?|4471]] ([[EMPLOYER|Lakeview Health-Garland]]
+               billing office); asked to note she is [[INDIRECT_ROLE|the only Yoruba-speaking patient-financial counselor
+               on the Garland campus]] and prefers calls after 5 pm.
+  [[DATE?|06/19/2026]]  NSF notice mailed. Borrower re-paid online [[DATE?|06/22/2026]] from IP [[IP_ADDRESS|99.43.188.12]].
+  [[DATE?|09/02/2026]]  Insurance verification: carrier [[ORGANIZATION?|Lone Star Mutual]] policy [[POLICY_NUMBER|LSM-PA-44871022-03]] exp
+               [[DATE?|03/02/2027]]; comp/coll ded. $1,000; lienholder endorsement confirmed. Agent [[PERSON?|Rhonda Kessler]].
+
+                                                                                                Page 2 of 4
+
+--- Page 3 ---
+
+GAP WAIVER / ANCILLARY PRODUCTS
+  GAP Waiver contract no. [[POLICY_NUMBER|GAP-RAF-22-0118826]] -- administrator [[ORGANIZATION?|SafeLane Administrators]]; covers deficiency up to
+  150% MSRP. Vehicle service contract [[POLICY_NUMBER|VSC-T7-55120418]] (7 yr/100k) -- cancel for prorated refund.
+
+PREMIUM FINANCE AGREEMENT (separate account -- commercial auto for borrower's business)
+  Insured / Borrower    [[PERSON|Thaddeus K. Oyelaran]] dba [[EMPLOYER|Oyelaran Mobile Detailing]]
+  Business address      [[ADDRESS|2614 Cedar Ridge Trl, Garland TX 75044]] (home-based)
+  Tax ID                EIN [[EIN|88-2041187]]
+  Premium finance acct  [[BANK_ACCOUNT|PFA-TX-26-004418]]     Lender: [[ORGANIZATION?|Ridgeline Premium Finance (TX Lic. 4418)]]
+  Insurer / policy      [[ORGANIZATION?|Brazos Commercial Casualty]]  policy [[POLICY_NUMBER|BCC-CA-2026-771804]]  Business Auto
+  Covered auto          2019 FORD TRANSIT CONNECT XL, VIN [[VIN|NM0LS7F24K1404471]], TX plate [[LICENSE_PLATE|DTL-8826]]
+  Policy term           [[DATE?|04/01/2026]] - [[DATE?|04/01/2027]]
+  Total premiums        $4,812.00     Down payment  $962.40     Amount financed  $3,849.60
+  Finance charge        $214.38       APR 11.95%    Installments  9 x $451.55 beginning [[DATE?|05/01/2026]]
+  Status                Current -- 6 of 9 paid. Notice of intent to cancel issued [[DATE?|07/09/2026]] (pmt 3 late), rescinded
+                        [[DATE?|07/14/2026]]. Power of attorney to cancel policy upon default: sec. 6 of agreement.
+
+                                                                                                Page 3 of 4
+
+--- Page 4 ---
+
+IMPORTANT NOTICES
+  Right to cure: If you default, you may have the right to cure before we repossess (Tex. Fin. Code 348.4075 does not
+  require notice; see your contract). We will never ask for your online banking password.
+  Credit reporting: We report to Equifax, Experian and TransUnion monthly. Metro 2 ECOA codes: Borrower 2 (joint), Co-Borrower 2.
+  Insurance: You must keep comprehensive and collision coverage naming Ridgeline as loss payee. If coverage lapses we may
+  purchase Collateral Protection Insurance (CPI) at your expense (Tex. Fin. Code 307.052).
+  Military: Servicemembers may be entitled to a 6% rate cap under the SCRA.
+  Privacy: See our privacy notice at ridgelineauto.example/privacy (form RAF-PRIV-04).
+
+  Address on file for co-borrower: same as borrower. Prior address (closed [[DATE?|2024]]): [[ADDRESS|1180 Belt Line Rd Apt 214,
+  Garland TX 75040]]. Borrower DOB [[DATE_OF_BIRTH|11/03/1984]]; co-borrower DOB [[DATE_OF_BIRTH|05/27/1987]]. SSNs on file: XXX-XX-[[SSN|7140]] /
+  XXX-XX-[[SSN|3326]]. Email: [[EMAIL|t.oyelaran@outlook.com]].
+
+  RIDGELINE AUTO FINANCE, LLC is licensed by the Texas Office of Consumer Credit Commissioner, license no. 1300447-18.
+  OCCC Consumer Helpline [[PHONE?|(800) 555-0154]].
+  RAF-STMT-01 (rev. 2025)
+                                                                                                Page 4 of 4

@@ -1,0 +1,167 @@
+[[ORGANIZATION?|NORTHWIND DIGITAL EXCHANGE, INC.]]                                   QUARTERLY ACCOUNT STATEMENT
+[[ADDRESS?|80 Pine Street, 29th Floor, New York, NY 10005]]                        Period: [[DATE?|07/01/2026]] - [[DATE?|09/30/2026]]
+Support: [[EMAIL?|support@northwindx.com]]  |  [[URL?|northwindx.com/help]]                        Generated: [[DATE?|10/02/2026]] 06:00 UTC
+FinCEN MSB Reg. No. 31000219884417  |  NMLS ID 2093318  |  NYDFS BitLicense                 Page 1 of 5
+
+Account holder:   [[PERSON|MATEUS HENRIQUE VASCONCELOS DUARTE]]
+                  [[ADDRESS|1450 Brickell Bay Drive, Apt 2207]]
+                  [[ADDRESS|Miami, FL 33131]]
+Account ID:       [[ID_NUMBER|NWX-0074418823]]          UID: [[ID_NUMBER|88104472]]          Username: [[USERNAME|mateus.vd]]
+Account type:     Individual -- Verified Tier 3              Tax ID on file: ITIN ***-**-[[ITIN|4410]]
+Anti-phishing code (appears in all genuine Northwind e-mails): "[[PASSWORD|jabuticaba-77]]"
+
+PORTFOLIO SUMMARY AS OF [[DATE?|09/30/2026]] 23:59:59 UTC
+Asset    Quantity              Price (USD)        Market Value (USD)      % of Portfolio    Staked
+-------  --------------------  -----------------  ------------------      --------------    ----------
+BTC          0.84215530              [[MONEY|60,812.44]]           [[MONEY|51,213.52]]               56.0%          --
+ETH          6.40218811               [[MONEY|2,388.10]]           [[MONEY|15,289.07]]               16.7%      4.00000000
+USDC     12,450.000000                   [[MONEY|1.00]]           [[MONEY|12,450.00]]               13.6%          --
+SOL         88.402115                  [[MONEY|141.27]]           [[MONEY|12,488.57]]               13.7%      80.000000
+USD (cash)                                                     [[MONEY|0.00]]                0.0%
+                                                       ------------------
+Total                                                       [[MONEY|91,441.16]]
+
+ACTIVITY SUMMARY                          Q3 2026           Year to date
+Deposits (USD, ACH/wire)                  [[MONEY|20,000.00]]            [[MONEY|55,000.00]]
+Withdrawals (USD, wire)                   [[MONEY|18,000.00]]            [[MONEY|18,000.00]]
+Trading volume (USD)                      [[MONEY|37,834.31]]           [[MONEY|118,270.88]]
+Trading fees paid                            [[MONEY|227.01]]               [[MONEY|709.62]]
+Staking rewards (USD value at receipt)       [[MONEY|118.44]]               [[MONEY|301.27]]
+Network fees paid (USD value)                 [[MONEY|10.97]]                [[MONEY|28.20]]
+
+[[PERSON|MATEUS H V DUARTE]]   Account [[ID_NUMBER|NWX-0074418823]]                                                Page 1 of 5
+--- Page 2 ---
+[[ORGANIZATION?|NORTHWIND DIGITAL EXCHANGE]]   [[PERSON|MATEUS H V DUARTE]]   Account [[ID_NUMBER|NWX-0074418823]]                 Page 2 of 5
+
+YOUR NORTHWIND DEPOSIT ADDRESSES (assigned to this account only)
+  BTC (native SegWit)       [[CRYPTO_WALLET|bc1q9a0l8e85ckxjr6dve69uqstmuqw4qdsnr6hspn]]
+  ETH / ERC-20 (incl. USDC) [[CRYPTO_WALLET|0xbf66a51502eb7d7e3e2b4a7d9affdab56c639ff1]]
+  SOL / SPL                 [[CRYPTO_WALLET|xXJrLaZYFjp5kADrtPizBDrRbgf1DwmQ16qJ17RoMLG1]]
+
+TRANSACTION HISTORY
+Date (UTC)   Type          Asset   Quantity            Price/Unit     USD Value     Fee (USD)   Details
+-----------  ------------  -----   ------------------  ------------   -----------   ---------   ----------------------------------------
+[[DATE?|2026-07-02]]   Deposit       USD          --               --        [[MONEY|10,000.00]]        [[MONEY|0.00]]   ACH from [[ORGANIZATION?|Biscayne Harbor Bank]] ****[[BANK_ACCOUNT|6019]]
+[[DATE?|2026-07-03]]   Buy           BTC      0.25000000       [[MONEY|58,904.10]]     [[MONEY|14,726.02]]       [[MONEY|88.36]]   Order [[ID_NUMBER?|NWX-O-7710042218]]
+[[DATE?|2026-07-09]]   Receive       BTC      0.03100000       [[MONEY|59,410.00]]      [[MONEY|1,841.71]]        [[MONEY|0.00]]   From [[CRYPTO_WALLET|bc1q7h4rwllm4whd9g0fwl2j9c5xdugtk04anlq35u]]
+                                                                                                    txid [[ID_NUMBER?|9f516d51c8382a707c2c8dab591631958706b247cdaf9ebfcbfe0bec36041c7a]]
+                                                                                                    Customer note: "from my brother [[PERSON|Rodrigo]] - loan repayment"
+[[DATE?|2026-07-15]]   Send          BTC      0.20000000       [[MONEY|60,118.32]]     [[MONEY|12,023.66]]        [[MONEY|3.88]]   To [[CRYPTO_WALLET|bc1qkrs7pdgn5k9urlczvtuwddj0w7m9wz9v5rc90v]] (whitelisted: "Ledger cold")
+                                                                                                    txid [[ID_NUMBER?|c7abdac9a5340a7f324d18b108de6549eb8c0bf88f3bfd20c568c86f81ef37d3]]
+[[DATE?|2026-07-21]]   Buy           ETH      3.00000000        [[MONEY|2,512.66]]      [[MONEY|7,537.98]]       [[MONEY|45.23]]   Order [[ID_NUMBER?|NWX-O-7710399105]]
+[[DATE?|2026-07-31]]   Staking rwd   SOL      0.214880           [[MONEY|148.02]]         [[MONEY|31.81]]        [[MONEY|0.00]]   Validator pool A
+[[DATE?|2026-08-04]]   Deposit       USD          --               --        [[MONEY|10,000.00]]        [[MONEY|0.00]]   Wire from [[ORGANIZATION?|Biscayne Harbor Bank]] ref [[ID_NUMBER?|FW26080400417]]
+[[DATE?|2026-08-06]]   Buy           SOL     40.000000           [[MONEY|152.18]]      [[MONEY|6,087.20]]       [[MONEY|36.52]]   Order [[ID_NUMBER?|NWX-O-7711028847]]
+[[DATE?|2026-08-11]]   Send          ETH      1.50000000        [[MONEY|2,455.90]]      [[MONEY|3,683.85]]        [[MONEY|2.11]]   To [[CRYPTO_WALLET|0xe6008b9d0982789aed39a23f0ac92a730ec2e4c5]] (whitelisted: "MetaMask")
+                                                                                                    txid [[ID_NUMBER?|0xe7b3429661a8272c05008225f3c1096ed758af9b122225bd128f2633fffcd1a4]]
+[[DATE?|2026-08-19]]   Sell          BTC      0.15000000       [[MONEY|63,220.75]]      [[MONEY|9,483.11]]       [[MONEY|56.90]]   Order [[ID_NUMBER?|NWX-O-7711554301]]
+[[DATE?|2026-08-19]]   Convert       USD->USDC [[MONEY|9,426.21]]           [[MONEY|1.00]]      [[MONEY|9,426.21]]        [[MONEY|0.00]]
+[[DATE?|2026-08-22]]   Send          USDC   6,000.000000             [[MONEY|1.00]]      [[MONEY|6,000.00]]        [[MONEY|4.97]]   To [[CRYPTO_WALLET|0xf8b5fe817d3aba4d43c5f040a64caca5a76bceb9]]
+                                                                                                    VASP: [[ORGANIZATION?|Mercado Satoshi Ltda]] ([[LOCATION?|São Paulo]]) -- Travel Rule
+                                                                                                    record [[ID_NUMBER?|TR-26-0822-55104]] (see page 4)
+[[DATE?|2026-08-31]]   Staking rwd   SOL      0.226102           [[MONEY|139.44]]         [[MONEY|31.53]]        [[MONEY|0.00]]   Validator pool A
+[[DATE?|2026-08-31]]   Staking rwd   ETH      0.00911420         [[MONEY|2,301.07]]        [[MONEY|20.97]]        [[MONEY|0.00]]   ETH staking
+[[DATE?|2026-09-05]]   Withdrawal    USD          --               --        [[MONEY|18,000.00]]       [[MONEY|25.00]]   Wire to [[ORGANIZATION?|Itaú Unibanco]] -- see page 4
+[[DATE?|2026-09-12]]   Send          SOL     12.000000           [[MONEY|133.75]]      [[MONEY|1,605.00]]        [[MONEY|0.01]]   To [[CRYPTO_WALLET|H297QUzjUgt3sXwTq6yTAakJuTVPWpdARaZGXFFcQACF]] ("Phantom")
+[[DATE?|2026-09-30]]   Staking rwd   SOL      0.240711           [[MONEY|141.27]]         [[MONEY|34.13]]        [[MONEY|0.00]]   Validator pool A
+
+Prices shown are execution prices for trades and Northwind reference rates for transfers and rewards. Network fees
+are deducted from the asset sent. Trading fee tier: 0.60% (taker). Cost basis method: FIFO.
+
+TAX INFORMATION: For 2026, Northwind will issue Form 1099-DA reporting gross proceeds (and cost basis for covered
+digital assets acquired on or after [[DATE?|01/01/2026]]). Staking rewards will be reported on Form 1099-MISC, box 3. Your
+tax identification number on file is an ITIN; if you obtain an SSN, submit an updated Form W-9.
+
+[[PERSON|MATEUS H V DUARTE]]   Account [[ID_NUMBER|NWX-0074418823]]                                                Page 2 of 5
+--- Page 3 ---
+[[ORGANIZATION?|NORTHWIND DIGITAL EXCHANGE]]   [[PERSON|MATEUS H V DUARTE]]   Account [[ID_NUMBER|NWX-0074418823]]                 Page 3 of 5
+
+LINKED FUNDING SOURCES
+  Bank (ACH/wire):  [[ORGANIZATION?|Biscayne Harbor Bank]], checking, routing [[ROUTING_NUMBER|066007157]], account [[BANK_ACCOUNT|4100286019]]
+                    (verified via Plaid [[DATE?|2025-11-18]]; name match: [[PERSON|MATEUS H VASCONCELOS DUARTE]])
+  Debit card:       Visa ending [[CREDIT_CARD|2489]], exp [[CARD_EXPIRY|08/29]] (instant buy disabled since [[DATE?|2026-06-01]])
+
+SECURITY AND ACCESS LOG (last 90 days; abbreviated)
+Timestamp (UTC)        Event                     IP Address                               Approx. Location      Device                                  Result
+---------------------  ------------------------  ---------------------------------------  --------------------  --------------------------------------  ---------
+[[DATE?|2026-07-02]] 13:41:07    Login (password + TOTP)   [[IP_ADDRESS|73.85.140.226]]                            [[LOCATION?|Miami, FL, US]]         [[DEVICE_ID|iPhone15,3 / NWX-iOS dev 7F3A9C21]]          Success
+[[DATE?|2026-07-15]] 02:18:55    Login (password + TOTP)   [[IP_ADDRESS|2601:58a:8f00:4c1::1e7]]                  [[LOCATION?|Miami, FL, US]]         [[DEVICE_ID|MacBookPro18,2 / Chrome 127 dev B04D1166]]   Success
+[[DATE?|2026-07-15]] 02:20:31    Withdrawal whitelist add  [[IP_ADDRESS|2601:58a:8f00:4c1::1e7]]                  [[LOCATION?|Miami, FL, US]]         [[DEVICE_ID|MacBookPro18,2 / Chrome 127 dev B04D1166]]   24h hold
+[[DATE?|2026-08-03]] 21:07:12    Login attempt             [[IP_ADDRESS|102.89.33.141]]                            [[LOCATION?|Lagos, NG]]             Unknown Android (new)                   BLOCKED
+                                 (correct password; TOTP not provided; new-device e-mail sent to [[EMAIL|mateus.vduarte@protonmail.com]])
+[[DATE?|2026-08-03]] 21:15:40    Password changed          [[IP_ADDRESS|73.85.140.226]]                            [[LOCATION?|Miami, FL, US]]         [[DEVICE_ID|iPhone15,3 / NWX-iOS dev 7F3A9C21]]          Success
+[[DATE?|2026-08-22]] 11:02:09    Login (passkey)           [[IP_ADDRESS|189.45.212.7]]                             [[LOCATION?|São Paulo, BR]]         [[DEVICE_ID|iPhone15,3 / NWX-iOS dev 7F3A9C21]]          Success
+[[DATE?|2026-09-05]] 14:33:50    Wire withdrawal request   [[IP_ADDRESS|189.45.212.7]]                             [[LOCATION?|São Paulo, BR]]         [[DEVICE_ID|iPhone15,3 / NWX-iOS dev 7F3A9C21]]          Approved after call-back
+[[DATE?|2026-09-12]] 16:44:18    Login (passkey)           [[IP_ADDRESS|73.85.140.226]]                            [[LOCATION?|Miami, FL, US]]         [[DEVICE_ID|iPhone15,3 / NWX-iOS dev 7F3A9C21]]          Success
+
+Two-factor authentication: TOTP (Google Authenticator) + passkey. SMS 2FA disabled. API keys: none active.
+Call-back verification for [[DATE?|2026-09-05]] wire: placed to [[PHONE|+1 (305) 555-0143]] by agent [[PERSON|Jordan Whitlock-Rhee]] (employee ID [[ID_NUMBER|NWX-E-2281]]);
+customer answered security questions (first school: "[[PASSWORD|Colégio Santa Clara]]") and confirmed beneficiary.
+
+If you do not recognize any activity above, contact Northwind Support immediately. Northwind will never ask you to
+move funds to a "safe wallet" or to share your password, TOTP codes or recovery phrase.
+
+[[PERSON|MATEUS H V DUARTE]]   Account [[ID_NUMBER|NWX-0074418823]]                                                Page 3 of 5
+--- Page 4 ---
+[[ORGANIZATION?|NORTHWIND DIGITAL EXCHANGE]]   [[PERSON|MATEUS H V DUARTE]]   Account [[ID_NUMBER|NWX-0074418823]]                 Page 4 of 5
+
+OUTGOING WIRE DETAIL -- [[DATE?|2026-09-05]]                                 Northwind ref [[ID_NUMBER?|WO-26090500771]]
+  Amount:                   [[MONEY|18,000.00]] USD (converted by beneficiary bank to BRL)
+  Beneficiary:              [[PERSON|MATEUS HENRIQUE VASCONCELOS DUARTE]]
+  Beneficiary address:      [[ADDRESS|Rua Haddock Lobo, 1220, Apto 84, Cerqueira César, São Paulo - SP, 01414-002, Brazil]]
+  Beneficiary bank:         [[ORGANIZATION?|Itaú Unibanco S.A.]], [[LOCATION?|São Paulo]]   SWIFT [[SWIFT_BIC?|ITAUBRSPXXX]]
+  Beneficiary IBAN:         [[IBAN|BR0960701190018420000774182C1]]
+  Intermediary:             [[ORGANIZATION?|Bank of New York Mellon]]  SWIFT [[SWIFT_BIC?|IRVTUS3N]]
+  Purpose (customer stated): "pagamento reforma apartamento - transfer to own account"
+  Sender originating account: Northwind omnibus; customer sub-ledger [[ID_NUMBER|NWX-0074418823]]
+
+TRAVEL RULE RECORD [[ID_NUMBER?|TR-26-0822-55104]] (31 CFR 1010.410(f); FATF Rec. 16)
+  Originator:     [[PERSON|Mateus Henrique Vasconcelos Duarte]], account [[ID_NUMBER|NWX-0074418823]], address on file (Miami, FL)
+  Beneficiary:    [[PERSON|Mateus H. V. Duarte]], [[ORGANIZATION?|Mercado Satoshi Ltda]] customer ID [[ID_NUMBER|MS-4471-0938]]
+  Asset/amount:   6,000.000000 USDC (ERC-20) to [[CRYPTO_WALLET|0xf8b5fe817d3aba4d43c5f040a64caca5a76bceb9]]
+  Beneficiary VASP confirmation received [[DATE?|2026-08-22]] 11:19 UTC (name match: exact)
+
+==================================================================================================================
+CUSTOMER IDENTIFICATION / KYC RECORD (CIP -- 31 CFR 1020.220)      Record [[ID_NUMBER?|KYC-2025-11-0441872]]   Last refreshed [[DATE?|2026-06-30]]
+==================================================================================================================
+  Legal name:            [[PERSON|Mateus Henrique Vasconcelos Duarte]]
+  Date of birth:         [[DATE_OF_BIRTH|1990-09-14]]            Age: [[AGE|36]]
+  Citizenship:           Brazil       Country of residence: United States (E-2 treaty investor)
+  Residential address:   [[ADDRESS|1450 Brickell Bay Dr Apt 2207, Miami FL 33131]] (proof: [[ORGANIZATION?|FPL]] bill [[DATE?|2026-05]], acct [[ID_NUMBER|8841072290]])
+  Phone / e-mail:        [[PHONE|+1 305-555-0143]] / [[EMAIL|mateus.vduarte@protonmail.com]]     Alt phone (BR): [[PHONE|+55 11 95555-0182]]
+  US taxpayer ID:        ITIN [[ITIN|912-78-4410]] (Form W-9 certified [[DATE?|2025-11-18]])
+  Foreign tax ID:        Brazil CPF [[NATIONAL_ID|418.207.365-71]]
+  ID document 1:         Passport, Federative Republic of Brazil, No. [[PASSPORT|FX482017]], issued [[DATE?|2022-03-09]], expires [[DATE?|2032-03-08]]
+                         MRZ line 2: [[PASSPORT|FX482017]]<[[ID_NUMBER?|7BRA9009141M3203088]][[NATIONAL_ID|41820736571]]<<<52
+  ID document 2:         Florida driver license [[DRIVERS_LICENSE|D152-418-90-334-0]], expires [[DATE?|2030-09-14]]
+  Visa/I-94:             E-2 visa annotation; I-94 no. [[ID_NUMBER|62018844173]]
+  Liveness / selfie:     Pass (score 0.97), vendor ref [[ID_NUMBER?|VRF-88d1c0a4e7]]       Document authenticity: Pass
+  Occupation:            Founder and CEO, [[EMPLOYER|Ipê Verde Coffee Importers LLC]] ([[LOCATION?|Doral, FL]]); [[INDIRECT_ROLE?|green-coffee importer]]
+  Employer EIN:          [[EIN?|88-1046527]]                          Annual income (stated): [[FINANCIAL_INFO?|$180,000 - $250,000]]
+  Source of funds:       Business distributions; [[DATE?|2025]] sale of apartment in [[LOCATION?|Pinheiros, São Paulo]] (escritura provided)
+  Expected activity:     Monthly deposits up to [[MONEY|25,000.00]]; periodic transfers to own accounts in Brazil
+  PEP / sanctions:       No match (OFAC SDN, UN, EU) -- screened [[DATE?|2026-06-30]]; adverse media: none
+  Risk rating:           MEDIUM (cross-border transfers; foreign national)
+  Reviewed by:           [[PERSON|Priya Venkatesh-Orr]], KYC Analyst II        Approved: [[PERSON|D. Castellano]], BSA Officer
+
+[[PERSON|MATEUS H V DUARTE]]   Account [[ID_NUMBER|NWX-0074418823]]                                                Page 4 of 5
+--- Page 5 ---
+[[ORGANIZATION?|NORTHWIND DIGITAL EXCHANGE]]   [[PERSON|MATEUS H V DUARTE]]   Account [[ID_NUMBER|NWX-0074418823]]                 Page 5 of 5
+
+IMPORTANT DISCLOSURES
+Digital assets are not legal tender, are not backed by any government, and are not subject to FDIC or SIPC
+protections. USD balances held in Northwind's omnibus custodial accounts may be eligible for pass-through FDIC
+insurance only at the custodian bank and only up to applicable limits. Staked assets may be subject to lock-up
+periods and slashing risk. Past performance is not indicative of future results.
+
+Unauthorized transfers: Report unauthorized electronic fund transfers of USD within 60 days of the statement on
+which the transfer first appeared. Digital asset transfers sent to an incorrect or malicious address generally
+cannot be reversed.
+
+Complaints: Northwind Digital Exchange, Inc., Attn: Complaints, [[ADDRESS?|80 Pine Street, 29th Floor, New York, NY 10005]], or
+the New York State Department of Financial Services, Consumer Assistance Unit, [[PHONE?|1-800-342-3736]], www.dfs.ny.gov.
+
+Florida residents: Northwind is licensed as a money services business by the Florida Office of Financial Regulation
+(License No. FT230000417).
+
+Statement code NWX-QS-v4.2   Account [[ID_NUMBER|NWX-0074418823]]   Electronic statement delivered to [[EMAIL|mateus.vduarte@protonmail.com]]

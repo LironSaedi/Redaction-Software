@@ -1,0 +1,168 @@
+{
+ "profile": "standard",
+ "recall": 0.9986033519553073,
+ "precision": 1.0,
+ "f1": 0.9993011879804332,
+ "pages": 274,
+ "seconds": 2.639090041979216,
+ "per_type": {
+  "INDIRECT_LOCATION": {
+   "gold": 80,
+   "caught": 80,
+   "typed": 80
+  },
+  "GPS": {
+   "gold": 3,
+   "caught": 3,
+   "typed": 3
+  },
+  "PERSON": {
+   "gold": 541,
+   "caught": 539,
+   "typed": 539
+  },
+  "ADDRESS": {
+   "gold": 131,
+   "caught": 131,
+   "typed": 131
+  },
+  "DATE_OF_BIRTH": {
+   "gold": 97,
+   "caught": 97,
+   "typed": 97
+  },
+  "DRIVERS_LICENSE": {
+   "gold": 16,
+   "caught": 16,
+   "typed": 16
+  },
+  "PHONE": {
+   "gold": 197,
+   "caught": 197,
+   "typed": 197
+  },
+  "VIN": {
+   "gold": 9,
+   "caught": 9,
+   "typed": 9
+  },
+  "LICENSE_PLATE": {
+   "gold": 16,
+   "caught": 16,
+   "typed": 16
+  },
+  "POLICY_NUMBER": {
+   "gold": 12,
+   "caught": 12,
+   "typed": 12
+  },
+  "INDIRECT_ROLE": {
+   "gold": 11,
+   "caught": 11,
+   "typed": 11
+  },
+  "MRN": {
+   "gold": 69,
+   "caught": 69,
+   "typed": 69
+  },
+  "EMAIL": {
+   "gold": 50,
+   "caught": 50,
+   "typed": 50
+  },
+  "SSN": {
+   "gold": 15,
+   "caught": 15,
+   "typed": 15
+  },
+  "EMPLOYER": {
+   "gold": 37,
+   "caught": 37,
+   "typed": 37
+  },
+  "HEALTH_PLAN_ID": {
+   "gold": 30,
+   "caught": 30,
+   "typed": 30
+  },
+  "CLAIM_NUMBER": {
+   "gold": 9,
+   "caught": 9,
+   "typed": 9
+  },
+  "ID_NUMBER": {
+   "gold": 63,
+   "caught": 63,
+   "typed": 63
+  },
+  "USERNAME": {
+   "gold": 6,
+   "caught": 6,
+   "typed": 6
+  },
+  "SCHOOL": {
+   "gold": 2,
+   "caught": 2,
+   "typed": 2
+  },
+  "ROUTING_NUMBER": {
+   "gold": 9,
+   "caught": 9,
+   "typed": 9
+  },
+  "BANK_ACCOUNT": {
+   "gold": 12,
+   "caught": 12,
+   "typed": 12
+  },
+  "CREDIT_CARD": {
+   "gold": 3,
+   "caught": 3,
+   "typed": 3
+  },
+  "CARD_EXPIRY": {
+   "gold": 3,
+   "caught": 3,
+   "typed": 3
+  },
+  "CVV": {
+   "gold": 3,
+   "caught": 3,
+   "typed": 3
+  },
+  "PASSWORD": {
+   "gold": 3,
+   "caught": 3,
+   "typed": 3
+  },
+  "MEDICARE_ID": {
+   "gold": 4,
+   "caught": 4,
+   "typed": 4
+  },
+  "IBAN": {
+   "gold": 1,
+   "caught": 1,
+   "typed": 1
+  }
+ },
+ "misses": [
+  {
+   "doc": "deposition",
+   "value": "Robert",
+   "coverage": 0.0,
+   "context": " A.  The lady who works the night shift came out, Robert. She gave me her number, (612",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "deposition",
+   "value": "Victoria",
+   "coverage": 0.0,
+   "context": " A.  The lady who works the night shift came out, Victoria. She gave me her number, 806.",
+   "entity": "PERSON"
+  }
+ ],
+ "false_positives": [],
+ "negative_hits": []
+}

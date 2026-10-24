@@ -1,0 +1,94 @@
+[[ORGANIZATION?|PASO DEL NORTE COMMUNITY HEALTH]] -- INFECTIOUS DISEASE / RYAN WHITE CLINIC
+[[ADDRESS?|5005 Alameda Ave]], [[ADDRESS?|El Paso, TX 79905]]   Main [[PHONE|(915) 532-0040]]   ID Clinic fax [[PHONE|915-532-0049]]
+CONFIDENTIAL: Contains HIV/AIDS-related information. Tex. Health & Safety Code § 81.103.
+Unauthorized disclosure may result in civil and criminal penalties.
+==============================================================================================
+
+FOLLOW-UP VISIT -- HIV PRIMARY CARE
+
+PATIENT IDENTIFICATION
+  Name ............ [[PERSON|Marcus Anthony Reyes]]
+  DOB ............. [[DATE_OF_BIRTH|07/19/1987]]   ([[AGE|38]] yo)       Gender: male (he/him)
+  MRN ............. [[MRN|PDN 0072291]]
+  ADAP/THMP ID .... [[HEALTH_PLAN_ID|TX-ADAP-339217]]        Ryan White eligibility recert due [[DATE|01/31/2026]]
+  Address ......... [[ADDRESS|3217 Pershing Dr]], [[ADDRESS|El Paso TX 79903]]
+  Mobile .......... [[PHONE|915.240.6683]] (OK to leave message: NO -- text only "call PDN")
+  Date of visit ... [[DATE|Sept 30, 2025]]
+  Provider ........ [[PERSON|Gabriela Ontiveros]], MD (ID)        RN: [[PERSON|Lupe Saucedo]]
+
+SUBJECTIVE
+  [[DEMOGRAPHIC|38 y/o gay Latino man]] with [[MEDICAL_CONDITION|HIV-1 infection diagnosed 03/2016]] (nadir CD4 288,
+  never AIDS-defining illness), here for routine 6-month follow-up. Adherence to
+  [[MEDICATION|Biktarvy]] (bictegravir/emtricitabine/tenofovir alafenamide) excellent per pt -- 0
+  missed doses in 30 days, uses phone alarm. Refills through ADAP at [[INDIRECT_LOCATION|Walgreens #7703
+  on Mesa St]].
+
+  Sexual health: [[SEXUAL_REPRODUCTIVE_HEALTH|in a monogamous relationship x 2 years with male partner]],
+  [[PERSON|Daniel Osei]] ([[AGE|34]]), [[SEXUAL_REPRODUCTIVE_HEALTH|who is HIV-negative and on PrEP (Descovy)]] through
+  [[ORGANIZATION?|Planned Parenthood]] (not PDN -- corrected from prior note).
+  [[SEXUAL_REPRODUCTIVE_HEALTH|Condom use inconsistent]]; pt aware U=U. [[SEXUAL_REPRODUCTIVE_HEALTH|Reports one outside partner in
+  August]] ("a hookup, partner doesn't know"). [[SEXUAL_REPRODUCTIVE_HEALTH|Hx syphilis (secondary) 11/2023, treated w/
+  benzathine PCN G x1; RPR 1:64 -> 1:2]].
+
+  Substance use: [[SUBSTANCE_USE|occasional methamphetamine use "at parties," 2-3 times since last
+  visit, smoked; denies injection]]. [[SUBSTANCE_USE|Alcohol 4-6 drinks on weekends]]. No tobacco.
+
+  Mood: Reports "stress" -- reduced hours at work. PHQ-9 today 11 ([[MENTAL_HEALTH|moderate depression]]).
+  Denies SI. Previously declined counseling; open to it today.
+
+  Social/financial: Works as a bartender at [[EMPLOYER|The Rusty Anchor]] ([[INDIRECT_LOCATION|the bar on Cincinnati Ave
+  across from the UTEP lot]]). Reports [[FINANCIAL_INFO|income dropped to about $2,900/month]] (was
+  [[FINANCIAL_INFO|~$3,800]]). [[FINANCIAL_INFO|Household income 214% FPL]] -- remains eligible for Ryan White
+  Part B. No health insurance; declined Marketplace due to cost.
+
+  ROS: neg fever, night sweats, wt loss, thrush, diarrhea, rash, dysuria, penile or anal
+  lesions. + occasional insomnia.
+
+MEDICATIONS
+  [[MEDICATION|Biktarvy]] 50/200/25 mg PO daily
+  [[MEDICATION?|Trazodone]] 50 mg PO qHS PRN sleep (started today)
+  Multivitamin
+
+ALLERGIES: Sulfa (rash)
+
+OBJECTIVE
+  T 98.1  BP 126/78  HR 72  Wt 79.4 kg  BMI 25.9
+  Oropharynx: no thrush, no OHL. LAD: none. Skin: no rash.
+  [[PHYSICAL_DESCRIPTOR|Tattoo of a rosary and the name "Abuela Chayo" on the R forearm]] (noted for ID).
+  Genital/anal exam: deferred per pt; pt self-collected swabs.
+
+[[ORGANIZATION?|PASO DEL NORTE COMMUNITY HEALTH]] -- ID Clinic -- [[PERSON|REYES, MARCUS A]] -- DOB [[DATE_OF_BIRTH|07/19/1987]] -- MRN [[MRN|PDN 0072291]]
+CONFIDENTIAL HIV-RELATED INFORMATION                                                       p. 2/2
+----------------------------------------------------------------------------------------------
+
+LABS
+  Date        HIV-1 RNA (copies/mL)   CD4 abs (cells/uL)   CD4 %    Cr    eGFR   ALT
+  [[DATE|09/30/2025]]  pending                 pending              --       --    --     --
+  [[DATE|03/27/2025]]  <20 (target not det.)   712                  34%      1.01  >90    22
+  [[DATE|09/24/2024]]  <20                     668                  32%      0.98  >90    25
+  [[DATE|03/19/2024]]  31                      640                  31%      1.04  >90    31
+  Resistance genotype (2016): no major mutations. HLA-B*5701: negative.
+  Hep B: sAb positive (immune). Hep C Ab: negative ([[DATE?|03/2025]]).
+  STI screen today: RPR, 3-site GC/CT NAAT (pharynx, rectal, urine) -- pending.
+
+ASSESSMENT / PLAN
+  1. [[MEDICAL_CONDITION|HIV-1, virologically suppressed on INSTI-based ART]] (B20) -- continue [[MEDICATION|Biktarvy]];
+     labs today; ADAP recertification packet given.
+  2. [[SEXUAL_REPRODUCTIVE_HEALTH|STI screening -- high risk (new outside partner, inconsistent condoms)]] -- 3-site
+     NAAT + RPR; doxy-PEP discussed and prescribed: [[MEDICATION|doxycycline]] 200 mg within 72 h of
+     condomless sex, max 1 dose/24 h, #10.
+  3. Partner notification: pt does not want partner informed of outside contact; discussed
+     partner's PrEP protection; counseled. No duty-to-warn triggered (pt suppressed,
+     partner on PrEP).
+  4. [[SUBSTANCE_USE|Stimulant use]] -- brief intervention; harm-reduction kit (fentanyl test strips,
+     naloxone) provided; referral to [[ORGANIZATION?|Aliviane]] offered -- pt will think about it.
+  5. [[MENTAL_HEALTH|Depression]], moderate -- warm handoff to behavioral health ([[PERSON|Iván Prieto]], LCSW)
+     completed today; trazodone for sleep.
+  6. Health maintenance: anal Pap due -- scheduled; flu shot given; COVID booster declined;
+     MPOX vaccine series complete ([[DATE?|2022]]).
+  7. RTC 3 months (sooner if STI positive). Labs 1 week prior.
+
+  [[PERSON|Gabriela Ontiveros]], MD   NPI [[NPI|2654030156]]   [[DATE|09/30/2025]] 15:41
+
+Release log: no releases on file. Any release requires HIV-specific written consent
+(form PDN-HIV-3). Requests from employers or insurers: DENY.

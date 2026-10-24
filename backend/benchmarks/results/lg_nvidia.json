@@ -1,0 +1,1442 @@
+{
+ "profile": "standard",
+ "recall": 1.0,
+ "precision": 0.9132543103448276,
+ "f1": 0.9546606589693044,
+ "pages": 274,
+ "seconds": 128.96592479100218,
+ "per_type": {
+  "INDIRECT_LOCATION": {
+   "gold": 80,
+   "caught": 80,
+   "typed": 80
+  },
+  "GPS": {
+   "gold": 3,
+   "caught": 3,
+   "typed": 3
+  },
+  "PERSON": {
+   "gold": 541,
+   "caught": 541,
+   "typed": 541
+  },
+  "ADDRESS": {
+   "gold": 131,
+   "caught": 131,
+   "typed": 131
+  },
+  "DATE_OF_BIRTH": {
+   "gold": 97,
+   "caught": 97,
+   "typed": 97
+  },
+  "DRIVERS_LICENSE": {
+   "gold": 16,
+   "caught": 16,
+   "typed": 16
+  },
+  "PHONE": {
+   "gold": 197,
+   "caught": 197,
+   "typed": 197
+  },
+  "VIN": {
+   "gold": 9,
+   "caught": 9,
+   "typed": 9
+  },
+  "LICENSE_PLATE": {
+   "gold": 16,
+   "caught": 16,
+   "typed": 16
+  },
+  "POLICY_NUMBER": {
+   "gold": 12,
+   "caught": 12,
+   "typed": 12
+  },
+  "INDIRECT_ROLE": {
+   "gold": 11,
+   "caught": 11,
+   "typed": 11
+  },
+  "MRN": {
+   "gold": 69,
+   "caught": 69,
+   "typed": 69
+  },
+  "EMAIL": {
+   "gold": 50,
+   "caught": 50,
+   "typed": 50
+  },
+  "SSN": {
+   "gold": 15,
+   "caught": 15,
+   "typed": 15
+  },
+  "EMPLOYER": {
+   "gold": 37,
+   "caught": 37,
+   "typed": 37
+  },
+  "HEALTH_PLAN_ID": {
+   "gold": 30,
+   "caught": 30,
+   "typed": 30
+  },
+  "CLAIM_NUMBER": {
+   "gold": 9,
+   "caught": 9,
+   "typed": 9
+  },
+  "ID_NUMBER": {
+   "gold": 63,
+   "caught": 63,
+   "typed": 63
+  },
+  "USERNAME": {
+   "gold": 6,
+   "caught": 6,
+   "typed": 6
+  },
+  "SCHOOL": {
+   "gold": 2,
+   "caught": 2,
+   "typed": 2
+  },
+  "ROUTING_NUMBER": {
+   "gold": 9,
+   "caught": 9,
+   "typed": 9
+  },
+  "BANK_ACCOUNT": {
+   "gold": 12,
+   "caught": 12,
+   "typed": 12
+  },
+  "CREDIT_CARD": {
+   "gold": 3,
+   "caught": 3,
+   "typed": 3
+  },
+  "CARD_EXPIRY": {
+   "gold": 3,
+   "caught": 3,
+   "typed": 3
+  },
+  "CVV": {
+   "gold": 3,
+   "caught": 3,
+   "typed": 3
+  },
+  "PASSWORD": {
+   "gold": 3,
+   "caught": 3,
+   "typed": 3
+  },
+  "MEDICARE_ID": {
+   "gold": 4,
+   "caught": 4,
+   "typed": 4
+  },
+  "IBAN": {
+   "gold": 1,
+   "caught": 1,
+   "typed": 1
+  }
+ },
+ "misses": [],
+ "false_positives": [
+  {
+   "doc": "crash_report",
+   "entity": "PERSON",
+   "text": "Travis\nLocation",
+   "score": 0.96,
+   "source": "ner:spacy:PERSON",
+   "context": "16/2022   Crash Time: 6:49 PM   County: Travis\u23ceLocation: the Starbucks at Oak St"
+  },
+  {
+   "doc": "demand_letter",
+   "entity": "PERSON",
+   "text": "R. EVID",
+   "score": 0.85,
+   "source": "ner:spacy:PERSON",
+   "context": "DENTIAL SETTLEMENT COMMUNICATION \u2014 TEX. R. EVID. 408\u23ce\u23ceDear Ms. Kamdar:\u23ce\u23ce"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Please",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "  Yes, those are my medical bills.\u23ce22   Q.  Please turn to page 37. Do you "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "?\u23ce 4   A.  It hurts every day.\u23ce 5   Q.  Okay.\u23ce 6   A.  Yes, I told th"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Tell",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": " next?\u23ce22   A.  It comes and goes.\u23ce23   Q.  Tell me where you were when t"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "me her number, (612) 543-3810.\u23ce 4   Q.  Okay.\u23ce 5   A.  It comes and g"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "y.\u23ce 5   A.  It comes and goes.\u23ce 6   Q.  Okay.\u23ce 7   A.  No, not really"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Please",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "next?\u23ce 7   A.  No, not really.\u23ce 8   Q.  Please state your full name for"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "  A.  I couldn't turn my head.\u23ce 7   Q.  Okay.\u23ce 8   A.  No.\u23ce 9   Q.  O"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": " treating?\u23ce24   A.  Maybe a seven.\u23ce25   Q.  Okay.\u23ce\u23ce\f                     "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "reak.\u23ce13   A.  No, not really.\u23ce14   Q.  Okay.\u23ce15   A.  About two week"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "p?\u23ce 3   A.  It comes and goes.\u23ce 4   Q.  Okay.\u23ce 5   A.  I couldn't tur"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " your last visit?\u23ce 7   A.  No.\u23ce 8   Q.  Okay.\u23ce 9   A.  It hurts every"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "  A.  I couldn't turn my head.\u23ce13   Q.  Okay.\u23ce14   A.  It was really "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "kay.\u23ce14   A.  It was really scary.\u23ce15   Q.  Okay.\u23ce16   A.  No, not really"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "e and go?\u23ce10   A.  No, not really.\u23ce11   Q.  Okay.\u23ce12   A.  Sitting for a "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " pain?\u23ce 5   A.  Maybe a seven.\u23ce 6   Q.  Okay.\u23ce 7   A.  No.\u23ce 8   Q.  A"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "reak.\u23ce21   A.  It hurts every day.\u23ce22   Q.  Okay.\u23ce23   A.  No.\u23ce24   Q.  I"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": " was your last visit?\u23ce18   A.  No.\u23ce19   Q.  Okay.\u23ce20   A.  I couldn't tur"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "  A.  Yes, I told them everything.\u23ce24   Q.  Okay.\u23ce25   A.  It was really "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "                       Page 20\u23ce 1   Q.  Okay.\u23ce 2   A.  I'm not sure.\u23ce"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "e?\u23ce15   A.  It comes and goes.\u23ce16   Q.  Okay.\u23ce17   A.  My neck and my"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " A.  I don't remember exactly.\u23ce20   Q.  Okay.\u23ce21   A.  My neck and my"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "\u23ce 3   A.  About two weeks ago.\u23ce 4   Q.  Okay.\u23ce 5   A.  It comes and g"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " right.\u23ce13   A.  I'm not sure.\u23ce14   Q.  Okay.\u23ce15   A.  Maybe a seven."
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " Okay.\u23ce15   A.  Maybe a seven.\u23ce16   Q.  Okay.\u23ce17   A.  It was really "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "e?\u23ce19   A.  It comes and goes.\u23ce20   Q.  Okay.\u23ce21   A.  About two week"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "o?\u23ce 2   A.  It comes and goes.\u23ce 3   Q.  Okay.\u23ce 4   A.  It was really "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "d go?\u23ce18   A.  It hurts every day.\u23ce19   Q.  Okay.\u23ce20   A.  Yes, I told th"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " A.  I don't remember exactly.\u23ce 3   Q.  Okay.\u23ce 4   A.  Yes.\u23ce 5   Q.  "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "                       Page 34\u23ce 1   Q.  Okay.\u23ce 2   A.  I'm not sure.\u23ce"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": " that last?\u23ce16   A.  I'm not sure.\u23ce17   Q.  Okay.\u23ce18   A.  It was really "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "isit?\u23ce 5   A.  No, not really.\u23ce 6   Q.  Okay.\u23ce 7   A.  It hurts every"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "answer.\u23ce 9   A.  I'm not sure.\u23ce10   Q.  Okay.\u23ce11   A.  It comes and g"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " help?\u23ce13   A.  Maybe a seven.\u23ce14   Q.  Okay.\u23ce15   A.  No.\u23ce16   Q.  A"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "\u23ce12   A.  About two weeks ago.\u23ce13   Q.  Okay.\u23ce14   A.  I don't rememb"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " help?\u23ce 9   A.  Maybe a seven.\u23ce10   Q.  Okay.\u23ce11   A.  It hurts every"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "\u23ce 5   A.  It was really scary.\u23ce 6   Q.  Okay.\u23ce 7   A.  It comes and g"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "A.  My neck and my lower back.\u23ce 4   Q.  Okay.\u23ce 5   A.  It hurts every"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "  A.  Sitting for a long time.\u23ce 5   Q.  Okay.\u23ce 6   A.  My neck and my"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "\u23ce22   A.  It was really scary.\u23ce23   Q.  Okay.\u23ce24   A.  I don't rememb"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": " All right.\u23ce21   A.  I'm not sure.\u23ce22   Q.  Okay.\u23ce23   A.  Yes, I told th"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " pain?\u23ce12   A.  Maybe a seven.\u23ce13   Q.  Okay.\u23ce14   A.  Yes.\u23ce15   Q.  "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "to ten?\u23ce22   A.  I'm not sure.\u23ce23   Q.  Okay.\u23ce24   A.  It hurts every"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "t.\u23ce 9   A.  It comes and goes.\u23ce10   Q.  Okay.\u23ce11   A.  No.\u23ce12   Q.  L"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": " was your last visit?\u23ce14   A.  No.\u23ce15   Q.  Okay.\u23ce16   A.  My neck and my"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " else?\u23ce11   A.  Maybe a seven.\u23ce12   Q.  Okay.\u23ce13   A.  I don't rememb"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " A.  I don't remember exactly.\u23ce16   Q.  Okay.\u23ce17   A.  Yes.\u23ce18   Q.  "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "nd go?\u23ce16   A.  It comes and goes.\u23ce17   Q.  Okay.\u23ce18   A.  I couldn't tur"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "hort break.\u23ce10   A.  I'm not sure.\u23ce11   Q.  Okay.\u23ce12   A.  I'm not sure.\u23ce"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "  Yes, I told them everything.\u23ce18   Q.  Okay.\u23ce19   A.  It comes and g"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "8   A.  My neck and my lower back.\u23ce19   Q.  Okay.\u23ce20   A.  My neck and my"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "\u23ce13   A.  About two weeks ago.\u23ce14   Q.  Okay.\u23ce15   A.  Yes, I told th"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "swer.\u23ce 7   A.  No, not really.\u23ce 8   Q.  Okay.\u23ce 9   A.  I'm not sure.\u23ce"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "g else?\u23ce13   A.  I'm not sure.\u23ce14   Q.  Okay.\u23ce15   A.  My neck and my"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "o?\u23ce12   A.  It comes and goes.\u23ce13   Q.  Okay.\u23ce14   A.  It comes and g"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "  A.  Sitting for a long time.\u23ce10   Q.  Okay.\u23ce11   A.  I couldn't tur"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "\u23ce17   A.  About two weeks ago.\u23ce18   Q.  Okay.\u23ce19   A.  I couldn't tur"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "\u23ce10   A.  I couldn't turn my head.\u23ce11   Q.  Okay.\u23ce12   A.  My neck and my"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Certified",
+   "score": 0.7,
+   "source": "ner:gliner:person",
+   "context": "ORTER'S CERTIFICATE\u23ce 3   I, Rose Banks, Certified Shorthand Reporter No. 2"
+  },
+  {
+   "doc": "wage",
+   "entity": "PERSON",
+   "text": "Store",
+   "score": 0.9,
+   "source": "ner:gliner:person",
+   "context": "ending 0859\u23ce\u23ceCompleted by: Donna Smith, Store Manager   Phone: (612) 6"
+  },
+  {
+   "doc": "pharmacy",
+   "entity": "PERSON",
+   "text": "Ng DEA",
+   "score": 0.98,
+   "source": "rule:honorific",
+   "context": "dol 50 mg tab                   90  Dr. Ng DEA AN8170348\u23ce08/21/2022  54"
+  },
+  {
+   "doc": "crash_report",
+   "entity": "PERSON",
+   "text": "BROWN, ROBERT\nDriver Address",
+   "score": 0.99,
+   "source": "kv:person",
+   "context": "ICLE\u23ceDriver Name (Last, First, Middle): BROWN, ROBERT\u23ceDriver Address: 22270 W Stonebridge Hwy"
+  },
+  {
+   "doc": "ed_record",
+   "entity": "PERSON",
+   "text": "Robert Brown    Relationship: Self\nSecondary: Auto PIP",
+   "score": 0.99,
+   "source": "kv:person",
+   "context": "203428225\u23ceGroup #: GRP-6376\u23ceSubscriber: Robert Brown    Relationship: Self\u23ceSecondary: Auto PIP \u2014 Root Insurance Company"
+  },
+  {
+   "doc": "demand_letter",
+   "entity": "PERSON",
+   "text": "R. EVID",
+   "score": 0.85,
+   "source": "ner:spacy:PERSON",
+   "context": "DENTIAL SETTLEMENT COMMUNICATION \u2014 TEX. R. EVID. 408\u23ce\u23ceDear Mr. Gross:\u23ce\u23ceA"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Please",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "s, those are my medical bills.\u23ce20   Q.  Please turn to page 61. Do you "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Tell",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": ".\u23ce10   Q.  All right.\u23ce11   A.  No.\u23ce12   Q.  Tell me where you were when t"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Please",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "r that?\u23ce21   A.  I'm not sure.\u23ce22   Q.  Please state your full name for"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " My wife, Paige, and our kids.\u23ce 7   Q.  Okay.\u23ce 8   A.  About two week"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Please",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "24   A.  I don't remember exactly.\u23ce25   Q.  Please state your full name for"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Please",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "A.  My neck and my lower back.\u23ce 2   Q.  Please state your full name for"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Please",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "?\u23ce13   A.  It hurts every day.\u23ce14   Q.  Please state your full name for"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "it worse?\u23ce16   A.  No, not really.\u23ce17   Q.  Okay.\u23ce18   A.  It hurts every"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "4   A.  My neck and my lower back.\u23ce25   Q.  Okay.\u23ce\u23ce\f                     "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "ting?\u23ce 8   A.  No, not really.\u23ce 9   Q.  Okay.\u23ce10   A.  It comes and g"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " break.\u23ce 3   A.  I'm not sure.\u23ce 4   Q.  Okay.\u23ce 5   A.  Yes.\u23ce 6   Q.  "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "ght.\u23ce21   A.  It was really scary.\u23ce22   Q.  Okay.\u23ce23   A.  Maybe a seven."
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "\u23ce11   A.  About two weeks ago.\u23ce12   Q.  Okay.\u23ce13   A.  Yes.\u23ce14   Q.  "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "  Yes, I told them everything.\u23ce 5   Q.  Okay.\u23ce 6   A.  I'm not sure.\u23ce"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "10   A.  I don't remember exactly.\u23ce11   Q.  Okay.\u23ce12   A.  My neck and my"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "A.  My neck and my lower back.\u23ce 4   Q.  Okay.\u23ce 5   A.  It comes and g"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "A.  My neck and my lower back.\u23ce 8   Q.  Okay.\u23ce 9   A.  It was really "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "  A.  Yes, I told them everything.\u23ce15   Q.  Okay.\u23ce16   A.  No, not really"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "rse?\u23ce18   A.  It was really scary.\u23ce19   Q.  Okay.\u23ce20   A.  Sitting for a "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "u still treating?\u23ce11   A.  No.\u23ce12   Q.  Okay.\u23ce13   A.  I don't rememb"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "  A.  I couldn't turn my head.\u23ce13   Q.  Okay.\u23ce14   A.  It was really "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "  A.  I couldn't turn my head.\u23ce12   Q.  Okay.\u23ce13   A.  It hurts every"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "\u23ce11   A.  About two weeks ago.\u23ce12   Q.  Okay.\u23ce13   A.  No.\u23ce14   Q.  A"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "?\u23ce20   A.  It hurts every day.\u23ce21   Q.  Okay.\u23ce22   A.  It hurts every"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "n?\u23ce 3   A.  It comes and goes.\u23ce 4   Q.  Okay.\u23ce 5   A.  It was really "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "  A.  I couldn't turn my head.\u23ce 2   Q.  Okay.\u23ce 3   A.  No.\u23ce 4   Q.  D"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "thing else?\u23ce10   A.  I'm not sure.\u23ce11   Q.  Okay.\u23ce12   A.  I don't rememb"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "                       Page 44\u23ce 1   Q.  Okay.\u23ce 2   A.  No, not really"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "scribe the pain?\u23ce 6   A.  Yes.\u23ce 7   Q.  Okay.\u23ce 8   A.  Sitting for a "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "e of one to ten?\u23ce 3   A.  Yes.\u23ce 4   Q.  Okay.\u23ce 5   A.  Yes.\u23ce 6   Q.  "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "0   A.  My neck and my lower back.\u23ce11   Q.  Okay.\u23ce12   A.  No, not really"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "octor that?\u23ce24   A.  I'm not sure.\u23ce25   Q.  Okay.\u23ce\u23ce\f                     "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "ting?\u23ce11   A.  No, not really.\u23ce12   Q.  Okay.\u23ce13   A.  Sitting for a "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Certified",
+   "score": 0.79,
+   "source": "ner:gliner:person",
+   "context": "ER'S CERTIFICATE\u23ce 2   I, Kenneth Brown, Certified Shorthand Reporter No. 2"
+  },
+  {
+   "doc": "wage",
+   "entity": "PERSON",
+   "text": "Store",
+   "score": 0.88,
+   "source": "ner:gliner:person",
+   "context": "ing 6101\u23ce\u23ceCompleted by: Michael Garcia, Store Manager   Phone: (561)28"
+  },
+  {
+   "doc": "crash_report",
+   "entity": "PERSON",
+   "text": "Travis\nLocation",
+   "score": 0.96,
+   "source": "ner:spacy:PERSON",
+   "context": "/2022   Crash Time: 8:06 p.m.   County: Travis\u23ceLocation: the Home Depot at Churc"
+  },
+  {
+   "doc": "crash_report",
+   "entity": "PERSON",
+   "text": "DL/ID",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "re, TX 75677\u23ceDOB: 10/06/1957   Sex: M   DL/ID Type: DL   DL/ID State: "
+  },
+  {
+   "doc": "crash_report",
+   "entity": "PERSON",
+   "text": "DL/ID",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " 10/06/1957   Sex: M   DL/ID Type: DL   DL/ID State: TX   DL/ID #: 249"
+  },
+  {
+   "doc": "crash_report",
+   "entity": "PERSON",
+   "text": "TX   DL/ID",
+   "score": 0.96,
+   "source": "ner:spacy:PERSON",
+   "context": " Sex: M   DL/ID Type: DL   DL/ID State: TX   DL/ID #: 24975597\u23ceDriver Phone"
+  },
+  {
+   "doc": "crash_report",
+   "entity": "PERSON",
+   "text": "DL/ID",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "re, TX 75677\u23ceDOB: 06/09/1987   Sex: F   DL/ID Type: DL   DL/ID State: "
+  },
+  {
+   "doc": "crash_report",
+   "entity": "PERSON",
+   "text": "DL/ID",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " 06/09/1987   Sex: F   DL/ID Type: DL   DL/ID State: TX   DL/ID #: 639"
+  },
+  {
+   "doc": "crash_report",
+   "entity": "PERSON",
+   "text": "TX   DL/ID",
+   "score": 0.96,
+   "source": "ner:spacy:PERSON",
+   "context": " Sex: F   DL/ID Type: DL   DL/ID State: TX   DL/ID #: 63961490\u23ceDriver Phone"
+  },
+  {
+   "doc": "ed_record",
+   "entity": "PERSON",
+   "text": "Kelly Fisher    Relationship: Self\nSecondary: Auto PIP",
+   "score": 0.99,
+   "source": "kv:person",
+   "context": "877134473\u23ceGroup #: 06589129\u23ceSubscriber: Kelly Fisher    Relationship: Self\u23ceSecondary: Auto PIP \u2014 Root Insurance Company"
+  },
+  {
+   "doc": "demand_letter",
+   "entity": "PERSON",
+   "text": "R. EVID",
+   "score": 0.85,
+   "source": "ner:spacy:PERSON",
+   "context": "DENTIAL SETTLEMENT COMMUNICATION \u2014 TEX. R. EVID. 408\u23ce\u23ceDear Ms. Rhodes:\u23ce\u23ce"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Please",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " A.  I don't remember exactly.\u23ce 6   Q.  Please state your full name for"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Please",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "  Yes, those are my medical bills.\u23ce14   Q.  Please turn to page 52. Do you "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " that?\u23ce12   A.  Maybe a seven.\u23ce13   Q.  Okay.\u23ce14   A.  No.\u23ce15   Q.  D"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "  Yes, I told them everything.\u23ce 8   Q.  Okay.\u23ce 9   A.  It was really "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "\u23ce 8   A.  About two weeks ago.\u23ce 9   Q.  Okay.\u23ce10   A.  Sitting for a "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "\u23ce10   A.  Sitting for a long time.\u23ce11   Q.  Okay.\u23ce12   A.  No, not really"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "  A.  Sitting for a long time.\u23ce 5   Q.  Okay.\u23ce 6   A.  Yes, I told th"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "A.  My neck and my lower back.\u23ce21   Q.  Okay.\u23ce22   A.  No.\u23ce23   Q.  A"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "d go?\u23ce 3   A.  No, not really.\u23ce 4   Q.  Okay.\u23ce 5   A.  It hurts every"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "ting?\u23ce13   A.  No, not really.\u23ce14   Q.  Okay.\u23ce15   A.  My neck and my"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " that?\u23ce 2   A.  Maybe a seven.\u23ce 3   Q.  Okay.\u23ce 4   A.  I don't rememb"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "  A.  I couldn't turn my head.\u23ce 8   Q.  Okay.\u23ce 9   A.  It hurts every"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "o ten?\u23ce21   A.  It comes and goes.\u23ce22   Q.  Okay.\u23ce23   A.  I'm not sure.\u23ce"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "?\u23ce 5   A.  It hurts every day.\u23ce 6   Q.  Okay.\u23ce 7   A.  Yes, I told th"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "\u23ce 5   A.  About two weeks ago.\u23ce 6   Q.  Okay.\u23ce 7   A.  I don't rememb"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "worse?\u23ce11   A.  Maybe a seven.\u23ce12   Q.  Okay.\u23ce13   A.  No, not really"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "  A.  Sitting for a long time.\u23ce 7   Q.  Okay.\u23ce 8   A.  It comes and g"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "\u23ce12   A.  It was really scary.\u23ce13   Q.  Okay.\u23ce14   A.  I'm not sure.\u23ce"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "  A.  I couldn't turn my head.\u23ce14   Q.  Okay.\u23ce15   A.  It comes and g"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "A.  My neck and my lower back.\u23ce14   Q.  Okay.\u23ce15   A.  Yes, I told th"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "                       Page 28\u23ce 1   Q.  Okay.\u23ce 2   A.  No.\u23ce 3   Q.  A"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "  A.  Sitting for a long time.\u23ce 5   Q.  Okay.\u23ce 6   A.  It comes and g"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "tor that?\u23ce10   A.  No, not really.\u23ce11   Q.  Okay.\u23ce12   A.  About two week"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "lse?\u23ce24   A.  It was really scary.\u23ce25   Q.  Okay.\u23ce\u23ce\f                     "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "\u23ce23   A.  I couldn't turn my head.\u23ce24   Q.  Okay.\u23ce25   A.  Sitting for a "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "  A.  Sitting for a long time.\u23ce 3   Q.  Okay.\u23ce 4   A.  Maybe a seven."
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "hing else?\u23ce10   A.  Maybe a seven.\u23ce11   Q.  Okay.\u23ce12   A.  No.\u23ce13   Q.  W"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "help?\u23ce13   A.  No, not really.\u23ce14   Q.  Okay.\u23ce15   A.  My neck and my"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": " What makes it worse?\u23ce16   A.  No.\u23ce17   Q.  Okay.\u23ce18   A.  Sitting for a "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "right.\u23ce 7   A.  Maybe a seven.\u23ce 8   Q.  Okay.\u23ce 9   A.  No, not really"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " visit?\u23ce 8   A.  I'm not sure.\u23ce 9   Q.  Okay.\u23ce10   A.  Yes, I told th"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "help?\u23ce 5   A.  No, not really.\u23ce 6   Q.  Okay.\u23ce 7   A.  Yes, I told th"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "break.\u23ce17   A.  Maybe a seven.\u23ce18   Q.  Okay.\u23ce19   A.  Maybe a seven."
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "e?\u23ce13   A.  It comes and goes.\u23ce14   Q.  Okay.\u23ce15   A.  Yes.\u23ce16   Q.  "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "                       Page 46\u23ce 1   Q.  Okay.\u23ce 2   A.  Yes, I told th"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "\u23ce14   A.  I couldn't turn my head.\u23ce15   Q.  Okay.\u23ce16   A.  I couldn't tur"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " A.  I don't remember exactly.\u23ce10   Q.  Okay.\u23ce11   A.  I don't rememb"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "  A.  Sitting for a long time.\u23ce23   Q.  Okay.\u23ce24   A.  I'm not sure.\u23ce"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": ".\u23ce20   A.  It hurts every day.\u23ce21   Q.  Okay.\u23ce22   A.  I'm not sure.\u23ce"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": " does it come and go?\u23ce23   A.  No.\u23ce24   Q.  Okay.\u23ce25   A.  About two week"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "nswer.\u23ce20   A.  Maybe a seven.\u23ce21   Q.  Okay.\u23ce22   A.  Maybe a seven."
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "\u23ce24   A.  Sitting for a long time.\u23ce25   Q.  Okay.\u23ce\u23ce\f                     "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "isit?\u23ce23   A.  It hurts every day.\u23ce24   Q.  Okay.\u23ce25   A.  My neck and my"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": " worse?\u23ce19   A.  I'm not sure.\u23ce20   Q.  Okay.\u23ce21   A.  I'm not sure.\u23ce"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "\u23ce23   Q.  All right.\u23ce24   A.  Yes.\u23ce25   Q.  Okay.\u23ce\u23ce\f                     "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "  Did that help?\u23ce13   A.  Yes.\u23ce14   Q.  Okay.\u23ce15   A.  I'm not sure.\u23ce"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Okay",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "\u23ce 6   A.  About two weeks ago.\u23ce 7   Q.  Okay.\u23ce 8   A.  I couldn't tur"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "\u23ce21   A.  Sitting for a long time.\u23ce22   Q.  Okay.\u23ce23   A.  No, not really"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "Q.  Okay.\u23ce23   A.  No, not really.\u23ce24   Q.  Okay.\u23ce25   A.  Sitting for a "
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Q.  Okay",
+   "score": 0.92,
+   "source": "ner:spacy:PERSON",
+   "context": "lse?\u23ce14   A.  It was really scary.\u23ce15   Q.  Okay.\u23ce16   A.  Yes, I told th"
+  },
+  {
+   "doc": "deposition",
+   "entity": "PERSON",
+   "text": "Certified",
+   "score": 0.82,
+   "source": "ner:gliner:person",
+   "context": " CERTIFICATE\u23ce 3   I, Hiltraud Bolzmann, Certified Shorthand Reporter No. 5"
+  },
+  {
+   "doc": "wage",
+   "entity": "PERSON",
+   "text": "Store",
+   "score": 0.9,
+   "source": "ner:gliner:person",
+   "context": "g 0446\u23ce\u23ceCompleted by: Timothy Campbell, Store Manager   Phone: (737)43"
+  }
+ ],
+ "negative_hits": []
+}

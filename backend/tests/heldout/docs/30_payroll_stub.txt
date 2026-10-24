@@ -1,0 +1,56 @@
++---------------------------------------------------------------------------------------------------+
+| [[EMPLOYER|RIDGEWAY BUILDERS, INC.]]                                          EARNINGS STATEMENT             |
+| [[ADDRESS?|12401 Research Blvd Ste 300]]  [[ADDRESS?|Austin TX 78759]]                Check/Advice No: DD-0614-00377    |
+| Payroll questions: [[PHONE|512-258-7400 x205]]                                 Pay Date: [[DATE|06/13/2025]]           |
++---------------------------------------------------------------------------------------------------+
+| Employee: [[PERSON|THANH V NGUYEN]]                 Emp ID: [[ID_NUMBER|20918]]       Dept: 310 CONCRETE         |
+|           [[ADDRESS|1507 KESTREL HOLLOW DR]]          SSN: XXX-XX-[[SSN|7735]]     Pay Period: [[DATE|06/01/25]]-[[DATE|06/07/25]]|
+|           [[ADDRESS|PFLUGERVILLE TX 78660]]           Filing: MFJ  Allow: 2        Pay Freq: WEEKLY            |
+|           Job/Class: CONC FIN II  Rate: [[FINANCIAL_INFO|24.7500]]                                         |
++---------------------------------------------------------------------------------------------------+
+| EARNINGS          RATE      HOURS      THIS PERIOD        YEAR TO DATE                             |
+|  Regular          [[FINANCIAL_INFO|24.7500]]   40.00      [[FINANCIAL_INFO|990.00]]             [[FINANCIAL_INFO|22,275.00]]                                |
+|  Overtime 1.5x    [[FINANCIAL_INFO|37.1250]]    6.50      [[FINANCIAL_INFO|241.31]]             [[FINANCIAL_INFO|4,622.06]]                                 |
+|  Holiday          [[FINANCIAL_INFO|24.7500]]    0.00      0.00               [[FINANCIAL_INFO|198.00]]                                   |
+|  Per Diem (non-tax)                    0.00               [[MONEY?|150.00]]                                   |
+|  GROSS PAY                             [[FINANCIAL_INFO|1,231.31]]           [[FINANCIAL_INFO|27,245.06]]                                |
++---------------------------------------------------------------------------------------------------+
+| DEDUCTIONS                             THIS PERIOD        YEAR TO DATE                             |
+|  Federal Income Tax                    [[MONEY?|74.18]]              [[MONEY?|1,602.33]]                                 |
+|  Social Security                       [[MONEY?|76.34]]              [[MONEY?|1,689.19]]                                 |
+|  Medicare                              [[MONEY?|17.85]]              [[MONEY?|395.05]]                                   |
+|  Medical -- [[ORGANIZATION?|UHC]] EE+Spouse (pre-tax)     [[MONEY?|88.40]]              [[MONEY?|1,989.00]]                                 |
+|  Dental (pre-tax)                      [[MONEY?|9.12]]               [[MONEY?|205.20]]                                   |
+|  401(k) 3% (pre-tax)                   [[MONEY?|36.94]]              [[MONEY?|817.35]]                                   |
+|  401(k) Loan #2 repay                  [[MONEY?|42.50]]              [[MONEY?|956.25]]                                   |
+|  Garnishment -- Child Support          [[MONEY?|0.00]]               [[MONEY?|0.00]]   (order closed [[DATE?|12/2023]])             |
+|  Union dues -- none                                                                                |
+|  TOTAL DEDUCTIONS                      [[MONEY?|345.33]]             [[MONEY?|7,654.37]]                                 |
++---------------------------------------------------------------------------------------------------+
+|  NET PAY                               [[FINANCIAL_INFO|885.98]]             [[FINANCIAL_INFO|19,590.69]]                                |
++---------------------------------------------------------------------------------------------------+
+| DIRECT DEPOSIT   [[ORGANIZATION?|A+ Federal Credit Union]]   RTN [[ROUTING_NUMBER|366043837]]   ACCT ******[[BANK_ACCOUNT|4093]]   [[FINANCIAL_INFO|885.98]] |
++---------------------------------------------------------------------------------------------------+
+| PTO: Accrued 48.0  Used 16.0  Balance 32.0 hrs     | Employer 401(k) match this period: [[MONEY?|36.94]]          |
+| Message: Safety Week [[DATE|6/16]]-[[DATE|6/20]] -- mandatory toolbox talk. Congrats on 6 yrs, [[PERSON|Thanh]]!                 |
++---------------------------------------------------------------------------------------------------+
+
++---------------------------------------------------------------------------------------------------+
+| [[ORGANIZATION?|PINNACLE WORKERS' COMPENSATION ASSURANCE CO.]]                  INDEMNITY BENEFIT PAYMENT ADVICE       |
+| [[ADDRESS?|P.O. Box 149004]], [[ADDRESS?|Austin TX 78714]]                       Payment Date: [[DATE|07/03/2025]]              |
++---------------------------------------------------------------------------------------------------+
+| Payee: [[PERSON|THANH V NGUYEN]]       Claim: [[CLAIM_NUMBER|TXWC-25-118734-01]]     DWC #: [[CLAIM_NUMBER|25-412877]]              |
+|        [[ADDRESS|1507 KESTREL HOLLOW DR, PFLUGERVILLE TX 78660]]                                         |
+| Employer: [[EMPLOYER|RIDGEWAY BUILDERS INC]]   DOI: [[DATE|06/09/2025]]   Adjuster: [[PERSON|D. PRYOR]] x3318              |
++---------------------------------------------------------------------------------------------------+
+| BENEFIT TYPE: Temporary Income Benefits (TIBs) -- Tex. Lab. Code § 408.103                          |
+| Average Weekly Wage (DWC-003):   [[FINANCIAL_INFO|$1,214.96]]                                                       |
+| TIB rate (70% AWW, max $1,180/wk FY2025):  [[FINANCIAL_INFO|$850.47]]/wk                                             |
+| Period paid: [[DATE|06/17/2025]] - [[DATE|06/30/2025]] (2 wks; waiting week [[DATE|6/10]]-[[DATE|6/16]] to be paid after 2 wks of disability)|
+| Gross benefit:  [[FINANCIAL_INFO|$1,700.94]]   Waiting week:  [[FINANCIAL_INFO|$850.47]]   Total:  [[FINANCIAL_INFO|$2,551.41]]                       |
+| Deductions: none (TIBs not subject to federal income tax -- 26 U.S.C. § 104(a)(1))                   |
+| Paid by EFT to acct ending [[BANK_ACCOUNT|4093]]                                                             |
++---------------------------------------------------------------------------------------------------+
+| Note: Medical bills -> submit on CMS-1500 / UB-04 to [[ADDRESS?|P.O. Box 149010]]. Questions: [[PERSON|DeShonda Pryor]]       |
+| [[PHONE|1-888-746-6220 x3318]], [[EMAIL|dpryor@pinnaclewca.com]]. Vietnamese interpreter available on request.             |
++---------------------------------------------------------------------------------------------------+

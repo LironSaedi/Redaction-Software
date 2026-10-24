@@ -1,0 +1,187 @@
+[[ORGANIZATION?|CAPITOL RIDGE MEDICAL CENTER]]
+[[ADDRESS?|4100 Ridgeline Parkway]]  |  [[ADDRESS?|Austin, TX 78731]]  |  Main [[PHONE|(512) 434-7700]]  |  HIM Fax [[PHONE|(512) 434-7719]]
+
+                              DISCHARGE SUMMARY
+--------------------------------------------------------------------------------
+PATIENT:  [[PERSON|DELGADO-RUIZ, MARIA E]]            MRN:  [[MRN|00847721]]
+DOB:      [[DATE_OF_BIRTH|04/17/1986]]   AGE: [[AGE|38Y]]   SEX: F    FIN:  [[MRN|9100234587]]
+ADMIT:    [[DATE|03/14/2025]] 19:52              DISCHARGE: [[DATE|03/18/2025]] 13:10
+UNIT/BED: [[INDIRECT_LOCATION?|4 WEST / 418-B]]                  SERVICE: Trauma Surgery
+ATTENDING: [[PERSON|Daniel Szymanski]], MD (NPI [[NPI|1839067919]])
+PCP:      [[PERSON|Leticia Garza-Ybarra]], MD -- [[ORGANIZATION?|Southpark Primary Care]], fax [[PHONE|512-467-2210]]
+CONSULTS: Orthopaedic Hand ([[PERSON|Anil Venkataraman]], MD); Neurosurgery ([[PERSON|Marcus Whitfield]], MD);
+          Physical Medicine & Rehab; Case Management ([[PERSON|Ronda Felts]], RN, CCM)
+--------------------------------------------------------------------------------
+
+ADMITTING DIAGNOSIS
+   Polytrauma, restrained driver, motor vehicle collision (driver-side impact by
+   tractor-trailer). Level II trauma activation.
+
+DISCHARGE DIAGNOSES
+   1. [[MEDICAL_CONDITION?|Left distal radius fracture, intra-articular, displaced]]  (S52.572A)
+      -- status post open reduction internal fixation [[DATE|03/15/2025]]  (CPT 25608)
+   2. [[MEDICAL_CONDITION?|Left 7th and 8th rib fractures, nondisplaced]]  (S22.42XA)
+   3. [[MEDICAL_CONDITION?|Splenic laceration, AAST grade II]], managed nonoperatively  (S36.032A)
+   4. [[MEDICAL_CONDITION?|Concussion without loss of consciousness]]  (S06.0X0A)
+   5. [[MEDICAL_CONDITION?|Cervical strain with C5-C6 disc protrusion]]  (S13.4XXA, M50.222)
+   6. [[MEDICAL_CONDITION?|Acute blood loss anemia]], did not require transfusion  (D62)
+   7. [[MENTAL_HEALTH|Generalized anxiety disorder]], chronic, stable  (F41.1)
+   8. [[MEDICAL_CONDITION?|Hypothyroidism]], chronic  (E03.9)
+
+HISTORY OF PRESENT ILLNESS
+   Ms. [[PERSON|Delgado-Ruiz]] is a [[DEMOGRAPHIC|38-year-old Hispanic female]] who was the restrained
+   driver of a [[VEHICLE_DESCRIPTION|silver 2016 Nissan Altima]] struck on the driver side by a
+   tractor-trailer at approximately 17:40 on [[DATE|3/14/25]] at [[INDIRECT_LOCATION|the intersection of
+   E. Ben White Blvd and S. Congress Ave]]. Positive airbag deployment. Prolonged
+   extrication (~25 min) per EMS. GCS 15 on scene; she reports she "blacked out
+   for a second" but EMS and bystanders deny LOC. Her [[INDIRECT_ROLE|6-year-old son]], who was
+   restrained in a rear booster seat, was transported separately to [[ORGANIZATION?|Lone Oak Children's]].
+   On arrival she complained of left wrist pain with obvious deformity, left
+   lateral chest wall pain worse with inspiration, neck pain, and headache.
+
+PAST MEDICAL HISTORY
+   [[MENTAL_HEALTH|Generalized anxiety disorder]] (dx ~2019, followed by PCP, on [[MEDICATION|sertraline]]).
+   [[MEDICAL_CONDITION?|Hypothyroidism]] on [[MEDICATION?|levothyroxine]]. [[SEXUAL_REPRODUCTIVE_HEALTH?|G2P2, two uncomplicated vaginal
+   deliveries]]. No prior neck or wrist injury. No prior MVCs per patient.
+
+PAST SURGICAL HISTORY
+   Laparoscopic cholecystectomy 2017. Wisdom teeth extraction.
+
+SOCIAL HISTORY
+   Married, lives with husband and two children in a single-story home. Works full
+   time as a registered dental hygienist at [[EMPLOYER|Southpark Family Dental]] (right-hand
+   dominant). [[SUBSTANCE_USE?|Occasional alcohol, 1-2 glasses of wine per week]]. Never smoker. Denies
+   illicit drugs.
+
+ALLERGIES
+   Penicillin (hives). Latex (contact dermatitis).
+
+[[ORGANIZATION?|CAPITOL RIDGE MEDICAL CENTER]] -- DISCHARGE SUMMARY                          Page 2 of 4
+Patient: [[PERSON|DELGADO-RUIZ, MARIA E]]   DOB: [[DATE_OF_BIRTH|04/17/1986]]   MRN: [[MRN|00847721]]
+--------------------------------------------------------------------------------
+
+HOSPITAL COURSE
+   [[DATE|03/14/2025]] -- Arrived via ATCEMS Medic 14. Primary survey intact. FAST positive
+   in the LUQ. CT head negative for acute intracranial process. CT C-spine without
+   fracture; MRI later obtained (see below). CT chest/abdomen/pelvis with contrast
+   demonstrated left 7th and 8th lateral rib fractures without pneumothorax and a
+   2.1 cm splenic laceration without active extravasation (grade II). Hgb 11.4 on
+   arrival. Admitted to trauma step-down for serial abdominal exams and q6h H/H.
+   Left wrist closed reduced and splinted in the ED by Ortho.
+
+   [[DATE|03/15/2025]] -- Hgb nadir 9.6, hemodynamically stable, no transfusion. Taken to
+   OR by Dr. [[PERSON|Venkataraman]] for ORIF of left distal radius with volar locking
+   plate. EBL 50 mL. Tolerated well. Neurovascularly intact post-op.
+
+   [[DATE|03/16/2025]] -- Hgb stable at 9.9. Advanced to regular diet. Incentive spirometry
+   1250 mL. MRI C-spine without contrast: C5-C6 central/left paracentral disc
+   protrusion with mild left foraminal narrowing; no cord signal abnormality.
+   Neurosurgery (Dr. [[PERSON|Whitfield]]) recommended conservative management, soft collar
+   PRN, outpatient follow-up in 3-4 weeks, and repeat evaluation if radicular
+   symptoms progress. Patient reports intermittent tingling to left thumb and index
+   finger -- difficult to separate from wrist surgery vs C6 radiculopathy.
+
+   [[DATE|03/17/2025]] -- PT/OT evaluated. Ambulating 300 ft independently, stairs with
+   supervision. Persistent headache 4/10, photophobia, difficulty concentrating
+   when watching TV. Concussion education provided; cognitive rest. Patient
+   tearful at times, worried about her son and about returning to work; reports
+   [[MENTAL_HEALTH|increased anxiety and nightmares about the collision]]. Continued home [[MEDICATION|sertraline]].
+   Social work consulted -- see note by [[PERSON|Ronda Felts]], RN, CCM.
+
+   [[DATE|03/18/2025]] -- Afebrile, VSS. Hgb 10.3. Pain controlled on oral regimen. Cleared
+   by PT for home with family assist. Discharged in stable condition to home with
+   husband.
+
+PERTINENT RESULTS
+   Test                  03/14 20:10   03/15 06:00   03/16 06:00   03/18 05:45   Ref Range
+   Hemoglobin (g/dL)        11.4           9.6           9.9          10.3       12.0-15.5
+   Hematocrit (%)           34.1          28.9          29.6          31.0       35.0-45.0
+   Platelets (K/uL)          238           201           219           264       150-400
+   WBC (K/uL)               13.2          11.8           9.4           8.1       4.0-11.0
+   INR                      1.0            --            --            --        0.8-1.2
+   Lactate (mmol/L)          2.4           1.1            --            --        0.5-2.0
+   TSH (mIU/L)               --            2.84           --            --        0.45-4.50
+   [[SEXUAL_REPRODUCTIVE_HEALTH?|Urine hCG]]                [[SEXUAL_REPRODUCTIVE_HEALTH?|NEGATIVE]]          --            --            --
+   Serum ethanol           <10 mg/dL        --            --            --        <10
+   Urine drug screen      NEGATIVE          --            --            --
+
+   Imaging: CT head [[DATE|3/14]] -- no acute findings. CT C-spine [[DATE|3/14]] -- no fracture,
+   straightening of lordosis. CT CAP [[DATE|3/14]] -- as above. XR L wrist post-op [[DATE|3/15]] --
+   anatomic alignment, hardware intact. MRI C-spine [[DATE|3/16]] -- as above.
+
+PROCEDURES THIS ADMISSION
+   - Closed reduction left distal radius, ED, [[DATE|03/14/2025]] (CPT 25605)
+   - ORIF left distal radius, volar plate, [[DATE|03/15/2025]] (CPT 25608), Dr. [[PERSON|A. Venkataraman]]
+   - FAST exam x2
+
+[[ORGANIZATION?|CAPITOL RIDGE MEDICAL CENTER]] -- DISCHARGE SUMMARY                          Page 3 of 4
+Patient: [[PERSON|DELGADO-RUIZ, MARIA E]]   DOB: [[DATE_OF_BIRTH|04/17/1986]]   MRN: [[MRN|00847721]]
+--------------------------------------------------------------------------------
+
+CONDITION AT DISCHARGE
+   Stable. Alert and oriented x4. Pain 5/10 L wrist, 4/10 L chest wall, 3/10 neck.
+   Vitals at discharge: T 98.4 F, HR 84, BP 118/74, RR 16, SpO2 98% RA.
+   L upper extremity in well-padded short arm splint, fingers warm, cap refill <2s.
+
+DISCHARGE MEDICATIONS
+   NEW:
+     [[MEDICATION?|oxycodone-acetaminophen]] 5-325 mg, 1 tab PO q6h PRN severe pain, #20, no refills
+     [[MEDICATION?|acetaminophen]] 650 mg PO q6h scheduled x 7 days, then PRN
+     [[MEDICATION?|cyclobenzaprine]] 5 mg PO at bedtime PRN muscle spasm, #14
+     [[MEDICATION?|docusate sodium]] 100 mg PO BID while taking opioid
+     [[MEDICATION?|lidocaine 4% patch]] apply to L chest wall 12 h on / 12 h off
+   CONTINUE:
+     [[MEDICATION|sertraline]] 50 mg PO daily
+     [[MEDICATION?|levothyroxine]] 75 mcg PO daily before breakfast
+   AVOID: NSAIDs x 2 weeks (splenic injury), contact sports / heavy lifting > 10 lb
+   x 6 weeks.
+
+   Prescriptions e-prescribed to [[INDIRECT_LOCATION|Bluebonnet Pharmacy #212]], [[ADDRESS?|3601 S. Congress Ave]],
+   [[PHONE|(512) 442-0198]].
+
+FOLLOW-UP APPOINTMENTS
+   1. Orthopaedic Hand -- Dr. [[PERSON|Anil Venkataraman]], [[ORGANIZATION?|Capitol Ridge Orthopedics]],
+      [[PHONE|512.434.7850]] -- [[DATE|Thursday, March 27, 2025]] at 10:15 AM (suture removal, x-ray).
+   2. Neurosurgery -- Dr. [[PERSON|Marcus Whitfield]], [[PHONE|(512) 434-7902]] -- 3-4 weeks; office to call.
+   3. Trauma clinic -- 2 weeks, repeat CBC.
+   4. PCP -- Dr. [[PERSON|Garza-Ybarra]] within 7-10 days.
+   5. Outpatient concussion clinic referral placed (referral #RF-2025-118842).
+   6. Outpatient behavioral health referral offered for [[MENTAL_HEALTH|post-traumatic stress symptoms]];
+      patient accepted information but declined referral at this time.
+
+PATIENT INSTRUCTIONS (reviewed with patient and husband, teach-back completed)
+   - Return to ED for: abdominal pain, left shoulder pain, dizziness or fainting,
+     shortness of breath, worsening headache, vomiting, new weakness or numbness.
+   - Keep splint clean and dry. Elevate hand above heart. Wiggle fingers hourly.
+   - Splenic precautions x 6 weeks. No driving while taking opioids or in splint.
+   - Off work until cleared by Ortho; work note provided through [[DATE|04/18/2025]].
+
+DISPOSITION
+   Home with family. Husband, [[PERSON|Arturo Ruiz Benavides]], to drive. Emergency contact on
+   file: [[PERSON|Arturo Ruiz]] (husband) [[PHONE|512-836-4471]]; alt [[PERSON|Elena Delgado]] (mother)
+   [[PHONE|+1 (956) 318-2207]].
+
+CODE STATUS: Full code.
+
+[[ORGANIZATION?|CAPITOL RIDGE MEDICAL CENTER]] -- DISCHARGE SUMMARY                          Page 4 of 4
+Patient: [[PERSON|DELGADO-RUIZ, MARIA E]]   DOB: [[DATE_OF_BIRTH|04/17/1986]]   MRN: [[MRN|00847721]]
+--------------------------------------------------------------------------------
+
+TIME SPENT ON DISCHARGE: 38 minutes.
+
+Electronically signed by: [[PERSON|Daniel Szymanski]], MD, FACS -- Trauma & Acute Care Surgery
+                          [[DATE|03/18/2025]] 14:22 CDT
+Dictated: [[DATE|03/18/2025]] 12:48     Transcribed: [[DATE|03/18/2025]] 13:57 / [[PERSON?|klm]]
+Job # 4471982   Doc ID 20250318-DS-00917
+
+cc:  [[PERSON|Leticia Garza-Ybarra]], MD (PCP) -- via fax [[PHONE|(512) 467-2210]]
+     [[PERSON|Anil Venkataraman]], MD
+     [[PERSON|Marcus Whitfield]], MD
+     Patient portal
+
+--------------------------------------------------------------------------------
+CONFIDENTIALITY NOTICE: This document contains protected health information
+subject to HIPAA, 45 C.F.R. Parts 160 and 164, and Tex. Health & Safety Code
+ch. 181. Redisclosure without authorization is prohibited.
+Printed [[DATE|04/02/2025]] 09:14 by [[USERNAME|jtorres3]] for Release of Information request
+ROI-25-03391. Bates: KA-MED 000041 - KA-MED 000044

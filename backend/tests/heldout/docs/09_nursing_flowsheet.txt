@@ -1,0 +1,111 @@
+[[ORGANIZATION?|HAYS REGIONAL MEDICAL CENTER]]          NURSING FLOWSHEET -- 24 HOUR          Printed [[DATE|05/22/2025]] 10:31
+[[PERSON|BANKS, ROSE MARIE]]   F   [[AGE|70Y]]   DOB [[DATE_OF_BIRTH|02/14/1955]]   MRN [[MRN|H00519344]]   ACCT [[MRN|7720041986]]
+Unit: [[INDIRECT_LOCATION?|3 SOUTH ORTHO  RM 312-1]]   Admit [[DATE|05/02/2025]]   Attending: [[PERSON|OYELARAN, BABAJIDE]] MD   Code: DNR/DNI
+Flowsheet date: [[DATE|05/04/2025]] 07:00 -> [[DATE|05/05/2025]] 06:59      POD #1 s/p IM nail L hip ([[DATE|05/03]])
+Isolation: none     Allergies: codeine (nausea), sulfa     Wt 61.2 kg    Ht 160 cm
+====================================================================================================
+
+VITAL SIGNS
+Time    Temp(F)  Route  HR   RR   BP       MAP   SpO2  O2 Dev   L/min  Pain  Init
+07:45   98.6     Oral   88   18   132/71   91    95%   NC       2      6     [[PERSON?|AKM]]
+11:30   99.1     Oral   92   18   128/68   88    94%   NC       2      7     [[PERSON?|AKM]]
+15:40   99.8     Oral   96   20   118/62   81    93%   NC       2      5     [[PERSON?|AKM]]
+19:50   100.2    Oral   101  20   110/58   75    92%   NC       3      6     [[PERSON?|JRO]]
+23:55   99.4     Oral   94   18   116/60   79    95%   NC       3      4     [[PERSON?|JRO]]
+03:50   98.9     Oral   87   16   122/66   85    96%   NC       2      3     [[PERSON?|JRO]]
+
+PAIN ASSESSMENT
+Time    Scale     Score  Location        Quality       Intervention                     Reassess
+07:45   NRS       6      L hip           aching        [[MEDICATION?|oxycodone]] 5 mg PO 08:02           08:45 -> 4
+11:30   NRS       7      L hip/thigh     sharp w/ mvmt [[MEDICATION?|oxycodone]] 5 mg PO 11:41; ice     12:30 -> 5
+15:40   NRS       5      L hip           aching        repositioned, ice                 16:30 -> 4
+19:50   PAINAD    6      L hip           grimacing     [[MEDICATION?|hydromorphone]] 0.2 mg IV 20:05      20:35 -> 3
+23:55   PAINAD    4      L hip           restless      [[MEDICATION?|acetaminophen]] 1 g IV 00:10        00:50 -> 2
+03:50   NRS       3      L hip           dull          none                              --
+
+NEURO / COGNITION
+07:45  A&O x3 (not to date). Follows commands. CAM negative.
+19:50  [[MEDICAL_CONDITION?|CAM POSITIVE -- acute onset fluctuating attention]]; pulling at NC; calling for
+       husband "[[PERSON|Earl]]" (pt widowed per daughter). MD notified 20:00 (Dr. [[PERSON|Huang]], hospitalist
+       cross-cover). Delirium precautions; 1:1 sitter requested 20:15 (sitter [[PERSON|D. Kirkpatrick]]
+       arrived 21:00). No restraints.
+23:55  Drowsy, arousable to voice, reoriented. CAM positive.
+03:50  Sleeping, easily aroused, oriented to self/place.
+
+CARDIOPULMONARY
+Lung sounds: diminished bases bilat 07:45; crackles R base 19:50 -- IS encouraged, 750 mL.
+Cough: weak, non-productive. Edema: L thigh 2+, L foot 1+. Pedal pulses 2+ bilat.
+Telemetry: sinus rhythm 80s-100s; occasional PACs.
+
+[[ORGANIZATION?|HAYS REGIONAL MEDICAL CENTER]]   NURSING FLOWSHEET   [[PERSON|BANKS, ROSE MARIE]]   DOB [[DATE_OF_BIRTH|02/14/1955]]   MRN [[MRN|H00519344]]   Page 2 of 3
+====================================================================================================
+
+INTAKE / OUTPUT
+Shift        PO (mL)   IV (mL)   IVPB   Total In   Urine (mL)   Drain (mL)   Emesis   Total Out   Net
+07-15        360       600       100    1060       425 (void)   0            0        425         +635
+15-23        120       600       50     770        200 (BSC)    0            100      300         +470
+23-07        60        600       0      660        650 (cath)   0            0        650         +10
+24h total                               2490                                          1375        +1115
+Straight cath 02:30 for bladder scan 612 mL -- order per protocol ([[PERSON?|JRO]]). Specimen to lab.
+
+SKIN / WOUND
+Braden score: 07:45 = 15 (mild risk)  19:50 = 13 (moderate risk)
+Surgical incisions L lateral hip x3: dressings dry & intact (Aquacel), no drainage.
+[[PHYSICAL_DESCRIPTOR?|Healed vertical midline abdominal scar]]; sacrum blanchable erythema 2 x 3 cm -> foam
+dressing applied 08:30, q2h turns initiated.
+Bruising L forearm and L flank (from fall) -- yellow-green, resolving.
+
+MOBILITY / SAFETY
+Morse fall score: 75 (HIGH). Bed alarm ON. Non-skid socks. Call light in reach.
+PT 10:15: pivot to chair with RW, mod assist x2, WBAT LLE, tolerated 40 min in chair.
+OT deferred PM -- pt confused.
+
+MEDICATION ADMINISTRATION (excerpt)
+Sched  Given  Medication / Dose / Route                         Site     Init   Comment
+0900   0905   [[MEDICATION?|enoxaparin]] 40 mg SQ                               abd LLQ  [[PERSON?|AKM]]
+0900   0905   [[MEDICATION?|metoprolol tartrate]] 25 mg PO                     --       [[PERSON?|AKM]]    HR 88 BP 132/71
+0900   0905   [[MEDICATION?|docusate]] 100 mg PO                               --       [[PERSON?|AKM]]
+0900   0905   [[MEDICATION?|cholecalciferol]] 2000 units PO                    --       [[PERSON?|AKM]]
+0900   0910   [[MEDICATION?|donepezil]] 5 mg PO  -- HELD                       --       [[PERSON?|AKM]]    see note: not on home list
+1200   1210   [[MEDICATION?|insulin lispro]] per sliding scale, 2 units SQ    abd RLQ  [[PERSON?|AKM]]    BG 188
+1700   1715   [[MEDICATION?|insulin lispro]] 0 units                           --       [[PERSON?|AKM]]    BG 142
+2100   2105   [[MEDICATION?|metoprolol tartrate]] 25 mg PO                     --       [[PERSON?|JRO]]    HR 101
+2100   2110   [[MEDICATION?|atorvastatin]] 20 mg PO                            --       [[PERSON?|JRO]]
+2100   --     [[MEDICATION?|zolpidem]] 5 mg PO PRN -- NOT GIVEN (Beers list, delirium) --  [[PERSON?|JRO]]
+PRN    2005   [[MEDICATION?|hydromorphone]] 0.2 mg IV                          R FA     [[PERSON?|JRO]]
+PRN    2210   [[MEDICATION?|haloperidol]] 0.5 mg IV x1 per Dr. [[PERSON|Huang]] (agitation)   R FA [[PERSON?|JRO]]    QTc 438 at 22:00
+
+LINES / DEVICES
+PIV #1 R forearm 20g placed [[DATE|05/02]] -- site clean, flushes. PIV #2 L hand 22g -- removed 14:00.
+Foley: none (removed POD0). SCDs bilat on. Incentive spirometer at bedside.
+
+[[ORGANIZATION?|HAYS REGIONAL MEDICAL CENTER]]   NURSING FLOWSHEET   [[PERSON|BANKS, ROSE MARIE]]   DOB [[DATE_OF_BIRTH|02/14/1955]]   MRN [[MRN|H00519344]]   Page 3 of 3
+====================================================================================================
+
+NURSING NOTES
+[[DATE|05/04/25]] 08:40 -- Pt alert, pleasant, asking when she can go home "to feed my dog." Daughter
+  [[PERSON|Lorraine Banks-Whitaker]] (MPOA, cell [[PHONE|(512) 787-0316]]) called for update; identity verified with
+  pt's DOB and password "[[PASSWORD|bluejay55]]" on file per family communication preference. Update given.
+  -- [[PERSON|Amanda K. Mireles]], RN
+[[DATE|05/04/25]] 13:20 -- Case mgmt ([[PERSON|T. Galvan]], RN) at bedside discussing SNF vs inpatient rehab;
+  pt lives alone in [[INDIRECT_LOCATION|a mobile home at the back of the Shady Acres park off FM 150, lot 22]].
+  Medicare A/B -- MBI [[MEDICARE_ID|5QR7-HN2-WD84]]; secondary [[ORGANIZATION?|AARP Medicare Supplement]] Plan G
+  ID [[HEALTH_PLAN_ID|38841920711]]. 3-day qualifying stay met [[DATE|05/05]]. -- [[PERSON|A. Mireles]], RN
+[[DATE|05/04/25]] 20:00 -- Pt confused, attempting to get OOB, states "I have to get to the store
+  before they close, I left my purse by the freezer." Reoriented. Dr. [[PERSON|Huang]] paged ->
+  UA, CBC, BMP, CXR ordered; low-grade temp 100.2. -- [[PERSON|J. Romero-Ortiz]], RN
+[[DATE|05/04/25]] 22:15 -- Haloperidol given as above. Sitter at bedside. Pt resting with eyes
+  closed 22:45. -- [[PERSON|J. Romero-Ortiz]], RN
+[[DATE|05/05/25]] 02:40 -- Bladder scan 612 mL, unable to void; in-and-out cath 650 mL clear yellow.
+  UA sent. -- [[PERSON|J. Romero-Ortiz]], RN
+[[DATE|05/05/25]] 05:30 -- AM labs drawn. Pt slept ~3 h intermittently. Handoff to day RN via SBAR.
+  -- [[PERSON|J. Romero-Ortiz]], RN
+
+SIGNATURE LEGEND
+[[PERSON?|AKM]] = [[PERSON|Amanda K. Mireles]], RN (07-19)     [[PERSON?|JRO]] = [[PERSON|Jesús Romero-Ortiz]], RN (19-07)
+Charge RN: [[PERSON|P. Nakamura]], RN
+
+Incident report (pre-admission fall) on file -- patient reported she "slipped on water by the
+ice freezers" at [[INDIRECT_LOCATION|the Dollar General #13820 on FM 1626]] on [[DATE|05/02/2025]] approx 14:15.
+Released to [[ORGANIZATION?|Whitlock Injury Law]] per authorization dated [[DATE|05/19/2025]]. Bates per
+production log: HRMC-FS-000233 - HRMC-FS-000235.

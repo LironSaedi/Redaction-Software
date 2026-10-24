@@ -1,0 +1,117 @@
+CLIENT FILE COPY -- [[ORGANIZATION?|KIM & ABERNATHY PLLC]] -- KA File 25-0204-PI -- ATTORNEYS' EYES ONLY (Protective Order [[DATE|6/2/25]])
+=====================================================================================================
+Form 1040  U.S. Individual Income Tax Return  2024          OMB No. 1545-0074    IRS Use Only
+Department of the Treasury -- Internal Revenue Service
+-----------------------------------------------------------------------------------------------------
+Filing Status:  [ ] Single  [X] Married filing jointly  [ ] MFS  [ ] HOH  [ ] QSS
+Your first name and middle initial       Last name                 Your social security number
+[[PERSON|HYUN WOO]]                                 [[PERSON|PARK]]                      [[SSN|584 31 0927]]
+If joint return, spouse's first name     Last name                 Spouse's social security number
+[[PERSON|JI EUN]]                                   [[PERSON|PARK]]                      [[SSN|590 27 4416]]
+Home address (number and street)                                    Apt. no.
+[[ADDRESS|4512 AVENUE F]]
+City, town, or post office                State     ZIP code
+[[ADDRESS|AUSTIN                                    TX        78751]]
+Presidential Election Campaign  [ ] You  [ ] Spouse
+Digital Assets: At any time during 2024, did you receive, sell, exchange... [ ] Yes [X] No
+Standard Deduction: Someone can claim: [ ] You as a dependent  [ ] Your spouse as a dependent
+
+Dependents (see instructions):
+  (1) First name   Last name    (2) SSN            (3) Relationship   (4) Child tax credit
+      [[PERSON MINOR|DANIEL J]]     [[PERSON MINOR|PARK]]         [[SSN|643-18-2290]]        SON                [X]
+      [[PERSON MINOR|SEO YEON]]     [[PERSON MINOR|PARK]]         [[SSN|643-19-5571]]        DAUGHTER           [X]
+
+Income
+  1a  Total amount from Form(s) W-2, box 1 ....................................  1a   [[FINANCIAL_INFO|71,240]]
+  1z  Add lines 1a through 1h ...................................................  1z   [[FINANCIAL_INFO|71,240]]
+  2b  Taxable interest ..........................................................  2b   [[MONEY?|212]]
+  3b  Ordinary dividends ........................................................  3b   [[MONEY?|0]]
+  8   Additional income from Schedule 1, line 10 (Sch. C net profit) ............  8    [[FINANCIAL_INFO|48,915]]
+  9   Total income ..............................................................  9    [[FINANCIAL_INFO|120,367]]
+  10  Adjustments to income from Schedule 1, line 26 (1/2 SE tax) ...............  10   [[MONEY?|3,456]]
+  11  Adjusted gross income .....................................................  11   [[FINANCIAL_INFO|116,911]]
+  12  Standard deduction ........................................................  12   [[MONEY?|29,200]]
+  13  Qualified business income deduction (Form 8995) ...........................  13   [[MONEY?|9,092]]
+  15  Taxable income ............................................................  15   [[FINANCIAL_INFO|78,619]]
+
+Tax and Credits
+  16  Tax .......................................................................  16   [[MONEY?|8,968]]
+  19  Child tax credit / credit for other dependents (Sch. 8812) ................  19   [[MONEY?|4,000]]
+  23  Other taxes, incl. self-employment tax (Sch. 2) ...........................  23   [[MONEY?|6,912]]
+  24  Total tax .................................................................  24   [[MONEY?|11,880]]
+
+Payments
+  25a Federal income tax withheld from Form(s) W-2 ..............................  25a  [[MONEY?|7,840]]
+  26  2024 estimated tax payments ...............................................  26   [[MONEY?|5,200]]
+  33  Total payments ............................................................  33   [[MONEY?|13,040]]
+  34  Overpaid ..................................................................  34   [[MONEY?|1,160]]
+  35a Refunded to you ...........................................................  35a  [[MONEY?|1,160]]
+      b Routing number [[ROUTING_NUMBER|132874926]]      c Type: [X] Checking  [ ] Savings
+      d Account number [[BANK_ACCOUNT|7720 0418 0471]]
+
+Form 1040 (2024) -- [[PERSON|PARK, HYUN WOO & JI EUN]] -- SSN ***-**-[[SSN|0927]]                                      Page 2
+-----------------------------------------------------------------------------------------------------
+Third Party Designee: [ ] Yes [X] No
+Sign Here   Under penalties of perjury, I declare that I have examined this return...
+  Your signature: [[PERSON|Hyun-woo Park]] (e-file PIN)     Date [[DATE|03/31/2025]]   Occupation: FOOD TRUCK OWNER
+  Identity Protection PIN: [[PASSWORD|481207]]
+  Spouse's signature: [[PERSON|Ji-eun Park]] (e-file PIN)     Date [[DATE|03/31/2025]]   Occupation: ACCOUNTANT
+  Spouse IP PIN: [[PASSWORD|330918]]
+  Phone no. [[PHONE|737-215-8890]]     Email address [[EMAIL|hwpark82@naver.com]]
+Paid Preparer Use Only
+  Preparer's name: [[PERSON|Thomas Huang]], CPA      PTIN [[ID_NUMBER|P01884213]]     Date [[DATE|03/30/2025]]   [ ] Self-employed
+  Firm's name: [[EMPLOYER|BRIGHTLINE CPA GROUP LLC]]          Firm's EIN [[ID_NUMBER?|82-4471093]]
+  Firm's address: [[ADDRESS?|9600 Great Hills Trl, Ste 150W, Austin TX 78759]]     Phone [[PHONE|512-345-0912]]
+
+=====================================================================================================
+SCHEDULE C (Form 1040) 2024 -- Profit or Loss From Business (Sole Proprietorship)
+  Name of proprietor: [[PERSON|HYUN WOO PARK]]                              SSN [[SSN|584-31-0927]]
+  A  Principal business or profession: MOBILE FOOD SERVICE         B  Code: 722330
+  C  Business name: [[EMPLOYER|SEOUL FOOD ATX LLC]]                           D  EIN: [[ID_NUMBER|88-1937204]]
+  E  Business address: [[ADDRESS|4512 AVENUE F, AUSTIN TX 78751]] (commissary: [[ADDRESS?|1100 E 5th St, Austin TX 78702]])
+  F  Accounting method: [X] Cash   G Materially participate: [X] Yes   H Started in 2024: [ ] Yes [X] No
+  Part I -- Income
+    1   Gross receipts or sales ...................................................  1   [[FINANCIAL_INFO|214,880]]
+    4   Cost of goods sold (line 42) ..............................................  4   [[MONEY?|98,420]]
+    7   Gross income ..............................................................  7   [[FINANCIAL_INFO|116,460]]
+  Part II -- Expenses
+    9   Car and truck expenses (standard mileage, 11,240 mi) .....................  9   [[MONEY?|7,474]]
+    13  Depreciation (Form 4562 -- truck, grill, generator) ...................... 13   [[MONEY?|14,208]]
+    15  Insurance (other than health) ............................................ 15   [[MONEY?|4,860]]
+    18  Office expense ........................................................... 18   [[MONEY?|612]]
+    20b Rent -- commissary ......................................................... 20b  [[MONEY?|9,600]]
+    21  Repairs and maintenance .................................................. 21   [[MONEY?|3,118]]
+    22  Supplies (propane, disposables) .......................................... 22   [[MONEY?|11,940]]
+    23  Taxes and licenses (City of Austin MFV permit, TABC) .................... 23   [[MONEY?|1,233]]
+    25  Utilities ................................................................ 25   [[MONEY?|1,390]]
+    26  Wages (less employment credits) .......................................... 26   [[MONEY?|0]]
+    27a Other expenses -- contract labor (1099-NEC: [[PERSON|J. Kim]]) ......................... 27a  [[MONEY?|13,110]]
+    28  Total expenses ........................................................... 28   [[MONEY?|67,545]]
+    31  Net profit ................................................................ 31   [[FINANCIAL_INFO|48,915]]
+
+=====================================================================================================
+Form W-2  Wage and Tax Statement  2024                         Copy B -- To Be Filed With Employee's FEDERAL Tax Return
+  a  Employee's social security number   [[SSN|590-27-4416]]
+  b  Employer identification number (EIN)  [[ID_NUMBER?|82-4471093]]
+  c  Employer's name, address, and ZIP code
+       [[EMPLOYER|BRIGHTLINE CPA GROUP LLC]]
+       [[ADDRESS?|9600 GREAT HILLS TRL STE 150W]]
+       [[ADDRESS?|AUSTIN TX 78759]]
+  d  Control number   0004471-B
+  e  Employee's first name and initial   Last name     Suff.
+       [[PERSON|JI EUN]]                              [[PERSON|PARK]]
+  f  Employee's address and ZIP code
+       [[ADDRESS|4512 AVENUE F]]
+       [[ADDRESS|AUSTIN TX 78751]]
+   1  Wages, tips, other compensation   [[FINANCIAL_INFO|71,240.00]]     2  Federal income tax withheld   [[MONEY?|7,840.00]]
+   3  Social security wages             [[FINANCIAL_INFO|75,740.00]]     4  Social security tax withheld  [[MONEY?|4,695.88]]
+   5  Medicare wages and tips           [[FINANCIAL_INFO|75,740.00]]     6  Medicare tax withheld         [[MONEY?|1,098.23]]
+  12a  D   [[MONEY?|4,500.00]]       (401(k) elective deferrals)
+  12b  DD  [[MONEY?|11,412.00]]      (cost of employer-sponsored health coverage)
+  12c  W   [[MONEY?|1,200.00]]       (HSA employer contribution)
+  13  Statutory employee [ ]   Retirement plan [X]   Third-party sick pay [ ]
+  14  Other: none
+  15  State: TX (no state income tax)
+
+Preparer workpaper note ([[PERSON|T. Huang]], [[DATE|3/28/25]]): "[[PERSON|Ji-eun]] -- [[PERSON|Henry]]'s Sch C down ~$11k vs 2023 because of the
+Q4 grill rebuild + van. Keep receipts for 2025 -- he says the Jan wreck will hurt Q1 numbers."

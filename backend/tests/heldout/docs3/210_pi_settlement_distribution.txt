@@ -1,0 +1,132 @@
+[[ORGANIZATION?|CASTELLANOS & ROURKE, PLLC]]
+Trial Lawyers  *  [[ADDRESS?|1220 Lomas Blvd NW, Suite 300, Albuquerque, NM 87102]]  *  [[PHONE?|(505) 555-0186]]
+
+                       SETTLEMENT STATEMENT AND DISTRIBUTION OF PROCEEDS
+                          PRIVILEGED & CONFIDENTIAL -- CLIENT COPY
+
+Client:            [[PERSON|Dolores Irene Yazzie-Marquez]]
+Client address:    [[ADDRESS|7409 Sundance Mesa Ct NW, Albuquerque, NM 87120]]
+Date of birth:     [[DATE_OF_BIRTH|02/27/1959]]          Medicare MBI: [[HEALTH_PLAN_ID|7QK2-HN4-RT58]]     SSN (last 4): [[SSN|5108]]
+Our file no.:      [[ID_NUMBER|CR-25-0314-DYM]]
+Date of incident:  [[DATE|March 14, 2025]] -- rear-end collision, [[LOCATION?|westbound I-40 at the Coors Blvd off-ramp]]
+Matter:            [[PERSON|Yazzie-Marquez]] v. [[ORGANIZATION?|Sandia Freight Lines, Inc.]] and [[PERSON|Kyle R. Brannigan]]
+                   Second Judicial District Court, Bernalillo County, No. [[CASE_NUMBER|D-202-CV-2025-04417]]
+Liability carrier: [[ORGANIZATION?|Great Plains Casualty Co.]]   Claim No. [[CLAIM_NUMBER|GPC-25-NM-0088214]]   Insured: [[ORGANIZATION?|Sandia Freight Lines]]
+UIM carrier:       [[ORGANIZATION?|Zia Mutual Insurance]] (client's own policy [[POLICY_NUMBER|ZMA-0071-448-02]])   Claim No. [[CLAIM_NUMBER|ZM-UIM-25-7731]]
+Fee agreement:     Contingent, signed [[DATE?|03/21/2025]]: 33 1/3% if resolved before suit; 40% after suit filed.
+
+Injuries (per medical specials summary): [[MEDICAL_CONDITION|left tibial plateau fracture, s/p ORIF]]; [[MEDICAL_CONDITION|C5-C6 disc
+herniation with radiculopathy]]; [[MEDICAL_CONDITION|post-concussive syndrome]]. Client is a [[AGE|sixty-six]]-year-old (now [[AGE|67]])
+[[INDIRECT_ROLE|Navajo-English court interpreter who covers the Window Rock and Gallup dockets]]; lost wages claimed $31,840.
+
+-----------------------------------------------------------------------------------------------------------
+I.  GROSS RECOVERY
+-----------------------------------------------------------------------------------------------------------
+  Bodily-injury settlement -- Great Plains Casualty (policy limits tender [[DATE?|08/29/2026]])        [[MONEY|$185,000.00]]
+  UIM settlement -- Zia Mutual (consent to settle / no subrogation)                           [[MONEY|$25,000.00]]
+  Med-Pay (Zia Mutual) -- paid directly to providers, shown for information only             ($5,000.00)
+  TOTAL GROSS RECOVERY SUBJECT TO FEE                                                        [[MONEY|$210,000.00]]
+
+II. ATTORNEY'S FEES AND CASE COSTS
+  Attorney's fee -- 40% (suit filed [[DATE?|11/04/2025]])                                               [[MONEY|$84,000.00]]
+  Case costs advanced:
+    Filing fee and service of process                                         $   412.00
+    Medical records & bills (7 providers)                                     $   986.40
+    Accident reconstruction -- [[ORGANIZATION?|Mesa Forensic Engineering]] ([[PERSON?|Dr. H. Okonkwo, PE]]) $ 6,750.00
+    Deposition transcripts (Brannigan, Dr. Castaneda, client)                 $ 2,318.75
+    Mediation -- [[PERSON?|Hon. Beatriz Lovato (Ret.)]], 1/2 share                        $ 1,850.00
+    Life-care planner / economist                                             $ 3,200.00
+    Postage, copies, travel (Gallup)                                          $   244.18
+  TOTAL COSTS                                                                                 [[MONEY|$15,761.33]]
+  TOTAL FEES AND COSTS                                                                        [[MONEY|$99,761.33]]
+
+III. LIENS, SUBROGATION AND MEDICAL BALANCES PAID FROM SETTLEMENT
+  Payee / basis                                                   Billed/Claimed    Negotiated      Paid
+  a. Medicare (CMS / BCRC) -- conditional payment final demand    $18,412.66
+     BCRC Case ID [[CLAIM_NUMBER|2025041882911]]; beneficiary [[PERSON|D. Yazzie-Marquez]], MBI [[HEALTH_PLAN_ID|7QK2-HN4-RT58]]
+     Procurement-cost reduction (42 CFR 411.37) applied by CMS                      $11,047.60 [[MONEY|$11,047.60]]
+  b. [[ORGANIZATION?|Rio Grande Regional Medical Center]] -- lien (NMSA 48-8-1)     $9,880.00
+     Patient acct [[MRN|RGR-0044718826]]; adm. [[DATE|03/14/2025]]-[[DATE|03/19/2025]]                        $4,940.00  [[MONEY|$4,940.00]]
+  c. [[ORGANIZATION?|Sandia Orthopaedic Associates]] -- letter of protection        $7,215.00
+     Acct [[MRN|SOA-118826]] -- [[PERSON?|Imelda Castaneda, MD]] (surgeon)                              $4,800.00  [[MONEY|$4,800.00]]
+  d. [[ORGANIZATION?|Mesa Physical Therapy]] -- 38 visits, acct [[MRN|MPT-7720-D]]          $3,040.00         $2,280.00  [[MONEY|$2,280.00]]
+  e. Medigap Plan G ([[ORGANIZATION?|Pinon Senior Health]]) -- subrogation          $1,662.30         $1,108.20  [[MONEY|$1,108.20]]
+     Member ID [[HEALTH_PLAN_ID|PSH-G-30884172]]
+  f. [[ORGANIZATION?|Rapid Fund Legal Finance, LLC]] -- advance                     $6,000.00
+     Funding agreement #[[ID_NUMBER|RF-NM-2025-1188]]
+     ($4,000 advanced [[DATE?|10/2025]] + use fee, capped)                                    $5,600.00  [[MONEY|$5,600.00]]
+  TOTAL LIENS AND MEDICAL                                                                     [[MONEY|$29,775.80]]
+
+IV. NET TO CLIENT
+  Gross recovery                                                                             $210,000.00
+  Less fees and costs                                                                        -$99,761.33
+  Less liens and medical                                                                     -$29,775.80
+  Less holdback -- disputed [[ORGANIZATION?|Zia Mutual]] Med-Pay reimbursement claim (held in trust)            -$2,500.00
+  NET DISTRIBUTION TO CLIENT                                                                  [[MONEY|$77,962.87]]
+
+                                                                                                    Page 1 of 3
+
+--- Page 2 ---
+
+Client: [[PERSON|Dolores I. Yazzie-Marquez]]        File [[ID_NUMBER|CR-25-0314-DYM]]        Settlement Statement -- continued
+
+V.  MINOR'S CLAIM (separate -- NOT included above)
+  Passenger [[PERSON MINOR|J.Y.]] (client's grandson, age [[AGE|9]] at the time of the collision, DOB [[DATE_OF_BIRTH|06/02/2016]]), by and through his mother and next friend
+  [[PERSON|Shandiin Yazzie]]. Gross minor settlement $12,500.00 approved by Order Approving Minor Settlement entered
+  [[DATE?|09/30/2026]] in No. [[CASE_NUMBER|D-202-CV-2026-05510]]. Guardian ad litem: [[PERSON?|Teodoro Aragon, Esq.]] (fee $750, court-set).
+  Net $9,166.67 deposited to restricted account at [[ORGANIZATION?|Kirtland Federal Credit Union]], acct [[BANK_ACCOUNT|0088-7741-30]],
+  "FBO [[PERSON MINOR|J.Y.]], minor -- no withdrawal before age 18 without court order." Annual statements to the Court.
+
+VI. TRUST ACCOUNT DISBURSEMENTS (from IOLTA)
+  Date        Check/Wire    Payee                                               Amount
+  [[DATE?|10/06/2026]]  WIRE          U.S. Treasury / CMS (Pay.gov, BCRC Case [[CLAIM_NUMBER|2025041882911]])         11,047.60
+  [[DATE?|10/06/2026]]  CK 20447      [[ORGANIZATION?|Rio Grande Regional Medical Center]]                              4,940.00
+  [[DATE?|10/06/2026]]  CK 20448      [[ORGANIZATION?|Sandia Orthopaedic Associates]]                                   4,800.00
+  [[DATE?|10/06/2026]]  CK 20449      [[ORGANIZATION?|Mesa Physical Therapy]]                                           2,280.00
+  [[DATE?|10/06/2026]]  CK 20450      [[ORGANIZATION?|Pinon Senior Health]] (Subrogation Unit)                          1,108.20
+  [[DATE?|10/06/2026]]  WIRE          [[ORGANIZATION?|Rapid Fund Legal Finance]] (payoff ltr [[DATE?|10/01]])                     5,600.00
+  [[DATE?|10/07/2026]]  TRANSFER      Castellanos & Rourke operating -- fees                         84,000.00
+  [[DATE?|10/07/2026]]  TRANSFER      Castellanos & Rourke operating -- cost reimbursement           15,761.33
+  [[DATE?|10/07/2026]]  WIRE          [[PERSON|Dolores I. Yazzie-Marquez]] -- net to client                     77,962.87
+  Holdback balance remaining in IOLTA (client ledger [[ID_NUMBER|DYM-0314]])                              2,500.00
+
+VII. WIRE DETAIL -- NET TO CLIENT
+  Originating account:  [[ORGANIZATION?|Castellanos & Rourke, PLLC]] IOLTA Trust Account
+                        [[ORGANIZATION?|First Sandia Bank]]   ABA [[ROUTING_NUMBER|101186603]]   Acct [[BANK_ACCOUNT|4400 1188 26]]
+  Beneficiary:          [[PERSON|DOLORES I YAZZIE-MARQUEZ]]
+                        [[ADDRESS|7409 SUNDANCE MESA CT NW, ALBUQUERQUE NM 87120]]
+  Beneficiary bank:     [[ORGANIZATION?|Kirtland Federal Credit Union]]   ABA [[ROUTING_NUMBER|307296960]]
+  Beneficiary acct:     [[BANK_ACCOUNT|0088-6620-11]] (share draft)
+  Verbal confirmation:  called client at [[PHONE|(505) 555-0723]] on [[DATE?|10/06/2026]] 4:10 pm; client read back last four
+                        "[[BANK_ACCOUNT|2011]]" -- matches. Fed ref [[ID_NUMBER?|20261007QMGFT01C000188]].
+
+                                                                                                    Page 2 of 3
+
+--- Page 3 ---
+
+VIII. MEDICARE / SECTION 111 AND TAX NOTES
+  - Settlement reported by Great Plains Casualty under MMSEA Section 111 (TPOC date [[DATE?|09/18/2026]], amount $185,000).
+    Client's Medicare entitlement: Part A and B since [[DATE?|03/2024]] (age-based). No future-medical set-aside required per
+    treating physician letter; client advised of CMS's position on future accident-related care.
+  - Personal physical injury damages are excluded from gross income under IRC sec. 104(a)(2). Lost-wage component is
+    not separately allocated. No Form 1099-MISC will issue to client. Attorney fee 1099 issued to firm only.
+  - Client's tribal enrollment and Navajo Nation general assistance were not affected (verified with caseworker
+    [[PERSON?|R. Begay]]).
+
+IX. CLIENT ACKNOWLEDGMENT
+I have read this Settlement Statement and Distribution of Proceeds. I understand and approve the fees, costs, lien
+payments, holdback and net amount shown above. I authorize Castellanos & Rourke, PLLC to endorse settlement checks on
+my behalf, to deposit them into the firm's IOLTA trust account, and to disburse as shown. I understand the holdback
+of $2,500.00 will be released to me or paid to Zia Mutual upon resolution of the Med-Pay reimbursement dispute.
+
+Client signature: [[SIGNATURE|Dolores I. Yazzie-Marquez]]                     Date: [[DATE?|10/05/2026]]
+Witness:          [[SIGNATURE?|M. Trujillo]] ([[PERSON?|Marisol Trujillo]], paralegal)     Date: [[DATE?|10/05/2026]]
+
+Attorney certification: I certify that the foregoing accurately reflects the settlement and its distribution and
+that all disbursements were made from the firm's trust account in compliance with Rule 16-115 NMRA.
+
+[[SIGNATURE?|/s/ Gabriel A. Castellanos]]
+[[PERSON?|Gabriel A. Castellanos]], Attorney for Client     NM Bar No. [[ID_NUMBER?|14471]]     [[EMAIL?|gcastellanos@crtriallaw.example]]
+
+cc: client file; trust accounting ([[PERSON?|Nadia Rourke]]); scanned to matter [[ID_NUMBER|CR-25-0314-DYM]] / Doc 0187
+                                                                                                    Page 3 of 3

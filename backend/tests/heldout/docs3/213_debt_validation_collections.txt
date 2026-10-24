@@ -1,0 +1,127 @@
+[[ORGANIZATION?|Gateway Arch Recovery Services, LLC]]
+[[ADDRESS?|PO Box 790418, St. Louis, MO 63179-0418]]
+[[PHONE?|1-866-555-0137]], Mon-Fri 8 a.m.-8 p.m. CT, Sat 9 a.m.-1 p.m.
+www.gatewayarchrecovery.example                                          [[DATE?|October 1, 2026]]
+
+[[PERSON|Lucas T. Abernethy-Okoro]]                                       Reference: [[ID_NUMBER|26-0919-LTA]]
+[[ADDRESS|3907 Pershing Ave Apt 1]]
+[[ADDRESS|St. Louis, MO 63110-2214]]
+
+Gateway Arch Recovery Services is a debt collector. We are trying to collect a debt that you owe to
+[[ORGANIZATION?|Pinnacle Portfolio Acquisitions, LLC]]. We will use any information you give us to help collect the debt.
+
+Our information shows:
+  You had a Velvet Lane Rewards credit card from [[ORGANIZATION?|Ridgeview Bank, N.A.]] with account number
+  ending in [[CREDIT_CARD|7740]].
+
+  As of [[DATE?|March 31, 2026]], you owed:                                                          [[MONEY|$2,846.19]]
+  Between [[DATE?|March 31, 2026]] and today:
+    You were charged this amount in interest:                                                + $0.00
+    You were charged this amount in fees:                                                    + $0.00
+    You paid or were credited this amount toward the debt:                                 - $150.00
+  Total amount of the debt now:                                                            [[MONEY|$2,696.19]]
+
+  Account number with us: [[BANK_ACCOUNT|GARS-88104417]]
+  Original creditor account number: XXXX XXXX XXXX [[CREDIT_CARD|7740]]     Current creditor: [[ORGANIZATION?|Pinnacle Portfolio Acquisitions, LLC]]
+  Placed with us: [[DATE?|09/19/2026]]                          Charge-off date: [[DATE?|03/31/2026]]
+
+How can you dispute the debt?
+  - Call or write to us by [[DATE?|November 14, 2026]], to dispute all or part of the debt. If you do not, we
+    will assume that our information is correct.
+  - If you write to us by [[DATE?|November 14, 2026]], we must stop collection on any amount you dispute until we
+    send you information that shows you owe the debt. You may use the form below or write to us without the form.
+    You may also include supporting documents. We accept disputes electronically at [[EMAIL?|disputes@gatewayarchrecovery.example]].
+
+What else can you do?
+  - Write to ask for the name and address of the original creditor, if different from the current creditor. If
+    you write by [[DATE?|November 14, 2026]], we must stop collection until we send you that information.
+  - Go to www.cfpb.gov/debt-collection to learn more about your rights under federal law.
+  - Contact us about your payment options.
+  - Póngase en contacto con nosotros para solicitar una copia de este formulario en español.
+
+                                                                                                Page 1 of 4
+
+--- Page 2 ---
+
+Notice: See the reverse side / page 4 for important information about your rights under Missouri law.
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Mail this form to:                                  How do you want to respond?
+[[ORGANIZATION?|Gateway Arch Recovery Services, LLC]]        Check all that apply:
+[[ADDRESS?|PO Box 790418]]                                    I want to dispute the debt because I think:
+[[ADDRESS?|St. Louis, MO 63179-0418]]                         [X] This is not my debt.
+                                                    [ ] The amount is wrong.
+[[PERSON|Lucas T. Abernethy-Okoro]]                          [ ] Other (please describe on reverse or attach
+[[ADDRESS|3907 Pershing Ave Apt 1]]                               additional pages).
+[[ADDRESS|St. Louis, MO 63110-2214]]                         [X] I want you to send me the name and address of
+                                                        the original creditor.
+Reference: [[ID_NUMBER|26-0919-LTA]]                          [ ] I enclosed this amount: $ ________
+                                                    Make your check payable to Gateway Arch Recovery
+                                                    Services. Include the reference number [[ID_NUMBER|26-0919-LTA]].
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+CONSUMER'S HANDWRITTEN ATTACHMENT (received [[DATE?|10/09/2026]], transcribed by mailroom [[PERSON?|JW]])
+  "To whom it may concern -- I never had a Velvet Lane card. In [[DATE?|2025]] my wallet was stolen at the [[INDIRECT_LOCATION|Metro
+  bus stop outside the Forest Park Medical Center ER where I work nights]] and I filed a police report (SLMPD report
+  [[CASE_NUMBER|25-041188]]) and an FTC identity theft report [[ID_NUMBER|IDT-2025-1103-55120]]. The address on that card
+  application was [[ADDRESS|4412 Gibson Ave]], which is my cousin [[PERSON|Darnell Okoro]]'s old place, not mine. Please send
+  the application with the signature. You can reach me at [[PHONE|(314) 555-0182]] after 3pm or
+  [[EMAIL|lucas.abernethy.okoro@gmail.com]]. My DOB is [[DATE_OF_BIRTH|7/16/1996]] and last 4 of SSN is [[SSN|3307]] so you can
+  find the right file. -- [[SIGNATURE|Lucas Abernethy-Okoro]]"
+
+                                                                                                Page 2 of 4
+
+--- Page 3 ---
+
+ACCOUNT NOTES -- INTERNAL (FDCPA/Reg F: not for consumer distribution)        Acct [[BANK_ACCOUNT|GARS-88104417]]
+Debtor: [[PERSON|ABERNETHY-OKORO, LUCAS T]]   SSN XXX-XX-[[SSN|3307]]   DOB [[DATE_OF_BIRTH|07/16/1996]]   Score band: C
+Orig: [[ORGANIZATION?|RIDGEVIEW BANK NA]] / Velvet Lane   Orig acct [[CREDIT_CARD|6045 8821 3305 7740]]   Opened [[DATE?|01/2024]]   Last pmt [[DATE?|10/2025]]
+Seller file: [[ORGANIZATION?|PPA]] tranche 2026-09-B, line [[ID_NUMBER?|004417]]
+
+Date/Time         Agent   Type    Note
+[[DATE?|09/20/2026]] 10:02  SYS     SKIP    Batch skip trace: phone hits [[PHONE|(314) 555-0182]] (mobile, high conf.),
+                                  [[PHONE|(314) 555-0128]] (landline, rel: [[PERSON|Patience Okoro]], poss. mother).
+                                  Employer hit: [[EMPLOYER|Forest Park Health System]] -- [[INDIRECT_ROLE|overnight patient transporter, ED]].
+                                  Vehicle: [[VEHICLE_DESCRIPTION?|2017 Nissan Altima, gray]], MO plate [[LICENSE_PLATE|4LT-H82]].
+[[DATE?|09/23/2026]] 18:41  [[PERSON?|AMR]]     OB      Called mobile. LM w/ 3rd-party-safe msg (Reg F 1006.2(j)).
+[[DATE?|09/27/2026]] 11:15  [[PERSON?|AMR]]     OB      Called landline. Female answered, said she is his mom and he
+                                  "lives on Pershing now with his girlfriend [[PERSON|Kiara]]." Did not disclose debt.
+[[DATE?|10/02/2026]] 15:30  [[PERSON?|TLB]]     IB      Debtor called. Verified w/ DOB + last 4. States not his acct,
+                                  ID theft. Advised to send dispute in writing. Debtor made $150 "good faith"
+                                  pmt by debit card ending [[CREDIT_CARD|6218]] exp [[CARD_EXPIRY|09/28]] CVV [[CVV|774]] -- (CVV NOT STORED -- QA
+                                  flag: agent typed CVV into notes, escalate to compliance) conf [[ID_NUMBER?|PMT-77120]].
+[[DATE?|10/09/2026]] 09:10  MAIL    DISP    Written dispute rec'd -- "not my debt" + orig creditor request.
+                                  STATUS -> DISPUTED. Collection ceased pending verification.
+[[DATE?|10/10/2026]] 13:44  [[PERSON?|CMP]]     COMP    Compliance: CVV purged from note history per PCI policy
+                                  (this transcript is a pre-purge export for litigation hold,
+                                  [[PERSON|Abernethy-Okoro]] v. [[ORGANIZATION?|Gateway Arch]], E.D. Mo. No. [[CASE_NUMBER|4:26-cv-01188]]).
+[[DATE?|10/12/2026]] 08:00  SYS     REQ     Media request sent to [[ORGANIZATION?|PPA]]: application, signature, 24 mo stmts.
+                                  Credit reporting: XB (disputed) sent to EFX/XPN/TU.
+
+                                                                                                Page 3 of 4
+
+--- Page 4 ---
+
+IMPORTANT INFORMATION ABOUT YOUR RIGHTS
+Federal law: The Fair Debt Collection Practices Act (15 U.S.C. 1692 et seq.) and Regulation F (12 CFR part
+1006) prohibit debt collectors from using abusive, unfair, or deceptive practices. Calls to or from this
+company may be monitored or recorded.
+
+Time-barred debt notice: The law limits how long you can be sued on a debt. Because of the age of this debt,
+[[ORGANIZATION?|Pinnacle Portfolio Acquisitions, LLC]] can sue you for it. (Missouri statute of limitations, RSMo 516.120.)
+
+Credit reporting: We may report information about your account to credit bureaus. Late payments, missed
+payments, or other defaults on your account may be reflected in your credit report.
+
+Payment options (if you do not dispute):
+  Option A -- Lump sum of [[MONEY|$1,617.71]] (60% of balance) received by [[DATE?|12/15/2026]].
+  Option B -- 12 monthly payments of [[MONEY|$224.68]] beginning [[DATE?|11/15/2026]].
+  Pay online at gatewayarchrecovery.example/pay with reference [[ID_NUMBER|26-0919-LTA]], or by phone. We accept
+  ACH (checking/savings) and debit cards. We do not charge a fee for any payment method.
+
+To pay by mail: Remit to [[ADDRESS?|Gateway Arch Recovery Services, Dept. 4417, PO Box 790418, St. Louis, MO 63179]].
+For ACH: our trust account at [[ORGANIZATION?|Gateway Commerce Bank]], ABA [[ROUTING_NUMBER?|081251810]], acct [[BANK_ACCOUNT?|7700 0418 2271]]
+(include your reference number in the addenda).
+
+Gateway Arch Recovery Services, LLC -- Missouri collection agency registration no. CA-0447-MO -- NMLS 2290415
+                                                                                                Page 4 of 4

@@ -1,0 +1,61 @@
+[[ORGANIZATION?|BRENNEMAN ORTHOPAEDIC CONSULTANTS, P.C.]]
+INDEPENDENT MEDICAL EXAMINATION -- PENNSYLVANIA WORKERS' COMPENSATION
+
+Prepared for: [[ORGANIZATION?|Keystone Mutual Insurance Co.]], attn. [[PERSON|Robert Szymanski]], Senior Claims Adjuster
+Claimant: [[PERSON|Tanisha Renee Whitaker]]        DOB: [[DATE_OF_BIRTH|09/27/1987]]        Claim No.: [[CLAIM_NUMBER|KM-WC-2026-03318]]
+Employer: [[EMPLOYER|Lehigh Valley Cold Storage]]        Date of injury: [[DATE|02/11/2026]]        Date of exam: [[DATE|09/30/2026]]
+Examiner: [[PERSON|Harold J. Brenneman]], MD, Board Certified, Orthopaedic Surgery
+
+HISTORY OF INJURY
+Ms. [[PERSON|Whitaker]] is a [[AGE|39]]-year-old right-hand-dominant woman who, at the time of injury, was [[INDIRECT_ROLE|the only female
+reach-truck operator on second shift at the Fogelsville freezer warehouse]]. She reports that at approximately 9:40 p.m.
+she had dismounted to scan a pallet in aisle 14 when an electric pallet jack driven by [[INDIRECT_ROLE|the 19-year-old agency
+temp on his second day]] struck her from behind, pinning her left leg against the rack upright. She was taken by
+ambulance to the hospital, where she was diagnosed with a [[MEDICAL_CONDITION|left tibial plateau fracture]] and underwent ORIF
+on [[DATE|02/13/2026]].
+
+She states that she had previously complained to [[INDIRECT_ROLE|her second-shift lead, the owner's son-in-law]], that agency
+temps were operating powered equipment without certification. She believes this is why her complaint "went nowhere."
+That issue is outside the scope of this examination and is noted only as reported.
+
+CURRENT COMPLAINTS
+Constant aching in the left knee, 4/10 at rest and 7/10 after standing more than 30 minutes; swelling by evening;
+occasional giving way on stairs. She takes [[MEDICATION|meloxicam 15 mg daily]] and [[MEDICATION|acetaminophen]] as needed. She denies
+numbness or tingling.
+
+SOCIAL / FUNCTIONAL HISTORY
+She lives with [[INDIRECT_ROLE|her 11-year-old son]] in [[INDIRECT_LOCATION|the end unit of the rowhouses behind the Wawa on Hamilton Street]]
+in Allentown; the unit has 14 interior stairs. Her mother helps with grocery shopping, and her son goes to [[INDIRECT_LOCATION|the Boys & Girls Club on Union Street]] after school. She has resumed driving. She
+continues as [[INDIRECT_ROLE|the Sunday van driver for Grace Deliverance Tabernacle]], which she describes as "two hours, mostly
+sitting." Surveillance video provided by the carrier shows her entering and leaving [[INDIRECT_LOCATION|the Planet Fitness in the
+Whitehall Mall plaza]] on three dates in August; she confirms she goes there to use the recumbent bike and pool as
+recommended by her physical therapist.
+
+PHYSICAL EXAMINATION
+Height [[PHYSICAL_DESCRIPTOR?|5'6"]], weight [[PHYSICAL_DESCRIPTOR?|182 lb]]. Pleasant, cooperative, no pain behaviors out of proportion. She
+[[PHYSICAL_DESCRIPTOR?|ambulates with a mild antalgic gait favoring the left leg]] without an assistive device.
+Skin: [[PHYSICAL_DESCRIPTOR?|well-healed 14 cm lateral surgical scar, left proximal leg]]; [[PHYSICAL_DESCRIPTOR|a tattoo of two infant footprints on
+the right ankle]]; [[PHYSICAL_DESCRIPTOR|vitiligo patches on the backs of both hands and around the mouth]].
+Left knee: trace effusion. ROM 0-115 degrees (right 0-135). Medial joint line tenderness. Stable to varus/valgus
+stress. Negative Lachman. Quadriceps 4+/5 on the left. Thigh circumference 2 cm less on the left at 10 cm above the
+patella. Calf soft, non-tender.
+
+RECORDS REVIEWED
+Ambulance run sheet; operative report ([[DATE|02/13/2026]]); orthopaedic follow-up notes through [[DATE|08/2026]]; physical
+therapy notes (31 visits); CT left knee ([[DATE|06/2026]]) showing healed fracture with 2 mm articular step-off;
+employer's incident report; surveillance report and video (3 dates).
+
+IMPRESSION
+1. [[MEDICAL_CONDITION|Healed left tibial plateau fracture, status post ORIF]], with residual quadriceps weakness and early
+   [[MEDICAL_CONDITION|post-traumatic chondral change]].
+2. The surveillance activities are consistent with her reported abilities and with her therapy program.
+
+OPINIONS
+Ms. [[PERSON|Whitaker]] has not fully recovered from the work injury. She is not at maximum medical improvement. She is capable
+of sedentary-to-light work with no ladders, no repetitive squatting, and standing limited to 30 minutes at a time. She
+cannot return to reach-truck operation in a freezer environment at this time. I recommend 8 additional weeks of
+strengthening and re-evaluation thereafter; impairment rating deferred.
+
+I hereby certify that the above opinions are held to a reasonable degree of medical certainty.
+
+[[PERSON|Harold J. Brenneman]], MD                                                  [[DATE?|October 6, 2026]]

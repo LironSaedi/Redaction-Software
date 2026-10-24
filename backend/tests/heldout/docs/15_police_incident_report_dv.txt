@@ -1,0 +1,169 @@
+SAN ANTONIO POLICE DEPARTMENT                                         OFFENSE / INCIDENT REPORT
+[[ADDRESS?|315 S. Santa Rosa Ave]], [[ADDRESS?|San Antonio, TX 78207]]                  Records Unit [[PHONE|(210) 207-7330]]
+-----------------------------------------------------------------------------------------------------
+REPORT #: [[LAW_ENFORCEMENT_ID|SAPD-25-187734]]        CAD EVENT #: [[LAW_ENFORCEMENT_ID|E2025-0816-01177]]       PAGE 1 OF 4
+DATE/TIME REPORTED: [[DATE|08/16/2025]] 23:14        DATE/TIME OCCURRED: [[DATE|08/16/2025]] 22:50 - 23:10
+OFFENSE 1: ASSAULT FAMILY VIOLENCE -- IMPEDING BREATH/CIRCULATION   PC 22.01(b)(2)(B)  F3
+OFFENSE 2: INTERFERENCE W/ EMERGENCY REQUEST FOR ASSISTANCE         PC 42.062          MA
+OFFENSE 3: CRIMINAL MISCHIEF < $100 (cell phone)                    PC 28.03(b)(1)     MC
+FAMILY VIOLENCE: YES     WEAPON: HANDS/HOSTILE (STRANGULATION)     GANG: NO     ALCOHOL: SUSPECT YES
+DISTRICT: WEST / BEAT 6230     SECTOR: PROSPECT HILL SUBSTATION
+
+LOCATION OF OCCURRENCE
+  [[ADDRESS|7420 CALLAGHAN RD APT 12B]], [[ADDRESS|SAN ANTONIO TX 78229]]
+  Premise: APARTMENT -- "[[INDIRECT_LOCATION|PINECREST APARTMENTS]]", BLDG 12, 2ND FLOOR, gate code [[PASSWORD|#5190]]
+  Lat/Lon (CAD): [[GPS|29.5023, -98.5719]]
+
+VICTIM (V1)
+  Name: [[PERSON|HILL, GRACE ELIZABETH]]          DOB: [[DATE_OF_BIRTH|09/09/1993]]   Age: [[AGE|31]]
+  Race/Sex: [[DEMOGRAPHIC|W / F]]     Ht [[PHYSICAL_DESCRIPTOR?|5'05"]]  Wt [[PHYSICAL_DESCRIPTOR?|130]]  Hair [[PHYSICAL_DESCRIPTOR?|BRO]]  Eyes [[PHYSICAL_DESCRIPTOR?|GRN]]
+  Address: same as occurrence      Cell: [[PHONE|(210) 614-3378]]
+  Employer: [[EMPLOYER|CVS PHARMACY]] -- [[INDIRECT_LOCATION|STORE #10432, FREDERICKSBURG RD @ WURZBACH]] (pharmacy tech)
+  DL: TX [[DRIVERS_LICENSE|36120554]]     Relationship to S1: DATING / LIVE-IN, SHARED CHILD
+  Injured: YES -- red linear marks both sides of neck, petechiae L eye, abrasion L elbow
+  Medical: ACS EMS Medic 31 evaluated; V1 refused transport on scene, self-transported to
+           [[ORGANIZATION?|Mission Trail Medical Center]] at 01:40 per V1 sister
+  Victim services: FV packet + Crime Victims' Comp form + Notice of rights (CCP Art. 56A) given
+  Lethality Assessment Program screen: HIGH DANGER (screened in -- answered "yes" Q1, Q2, Q3, Q8)
+
+SUSPECT (S1) -- ARRESTED
+  Name: [[PERSON|KOWALCZYK, DARIUSZ PIOTR]]   AKA "[[PERSON|DAREK]]"     DOB: [[DATE_OF_BIRTH|12/01/1988]]   Age: [[AGE|36]]
+  Race/Sex: [[DEMOGRAPHIC|W / M]]   Ht [[PHYSICAL_DESCRIPTOR?|6'01"]]  Wt [[PHYSICAL_DESCRIPTOR?|215]]  Hair [[PHYSICAL_DESCRIPTOR?|BLN]]  Eyes [[PHYSICAL_DESCRIPTOR?|BLU]]  Build [[PHYSICAL_DESCRIPTOR?|HEAVY]]
+  SMT: [[PHYSICAL_DESCRIPTOR|TATTOO -- SCORPION, L SIDE OF NECK]]; [[PHYSICAL_DESCRIPTOR|TATTOO -- "PIOTR" + DATE, R FOREARM]];
+       [[PHYSICAL_DESCRIPTOR|SCAR -- 3" VERTICAL, CHIN]]
+  Address: same as occurrence      Cell: [[PHONE|(210) 393-6620]]
+  Employer: [[EMPLOYER|ALAMO STEEL FABRICATORS]] (welder)
+  DL: TX [[DRIVERS_LICENSE|41877203]]      Place of birth: [[LOCATION?|KRAKOW]], POLAND
+  Citizenship: [[IMMIGRATION_STATUS|POLAND -- LAWFUL PERMANENT RESIDENT]] (consular notification form given)
+  Criminal hx (TCIC/NCIC): [[CRIMINAL_HISTORY|2019 ASSAULT CAUSES BODILY INJURY -- FAMILY MEMBER (CL A), BEXAR CO,
+       CONVICTED; 2014 DWI (CL B), GUADALUPE CO, CONVICTED]]
+  Arrest: [[DATE|08/17/2025]] 00:22 by Ofc. [[PERSON|J. CASTANEDA]] #[[LAW_ENFORCEMENT_ID|4127]] -- ON VIEW / PC
+
+WITNESS (W1) / REPORTING PARTY
+  Name: [[PERSON|PHAM, ROSALIND]] ("[[PERSON|ROZ]]")          DOB: [[DATE_OF_BIRTH|04/30/1961]]   Age: [[AGE|64]]
+  Address: [[ADDRESS|7420 CALLAGHAN RD APT 12C]] ([[INDIRECT_ROLE|next-door neighbor]])    Cell: [[PHONE|210-455-0912]]
+
+OTHER (O1) -- CHILD PRESENT
+  Name: [[PERSON MINOR|KOWALCZYK, LILY ROSE]]          DOB: [[DATE_OF_BIRTH|03/22/2022]]   Age: [[AGE|3]]
+  Present during offense: YES (in bedroom). Not injured. Released to maternal aunt [[PERSON|HANNAH HILL]],
+  [[PHONE|(830) 714-2081]], at 00:50.  DFPS intake notified -- intake # [[CASE_NUMBER|INT-25-4418702]].
+
+SAPD OFFENSE REPORT [[LAW_ENFORCEMENT_ID|SAPD-25-187734]]                                                              PAGE 2 OF 4
+-----------------------------------------------------------------------------------------------------
+VEHICLE (S1)
+  [[VEHICLE_DESCRIPTION|2018 FORD F-150 XLT CREW CAB, GRAY]]   LIC [[LICENSE_PLATE|PKD7731]] TX   VIN [[VIN|1FTFW1E50JFB30927]]
+  Location: parked lot space 12-14. Not towed. Keys released to V1.
+
+PROPERTY
+  Item 1: Cell phone, Apple iPhone 13, black, cracked screen -- V1's phone (damaged by S1)
+          IMEI [[DEVICE_ID|353527258959118]]   -- photographed, returned to V1
+  Item 2: Cell phone, Samsung Galaxy S22 -- S1's phone -- EVIDENCE (consent to search DECLINED;
+          held for warrant). IMEI [[DEVICE_ID|350519110167207]]  Property tag [[LAW_ENFORCEMENT_ID|P25-0816-3301]]
+  Item 3: Photographs x 23 (digital) -- uploaded to Evidence.com, case folder
+  Item 4: BWC -- Ofc. [[PERSON|Castaneda]] (AXON [[DEVICE_ID|X6031A118]]), Ofc. [[PERSON|Doyle]] (AXON [[DEVICE_ID|X6031A294]])
+
+REPORTING OFFICER: [[PERSON|CASTANEDA, JAVIER]] #[[LAW_ENFORCEMENT_ID|4127]]    ASSISTING: [[PERSON|DOYLE, MEGAN]] #[[LAW_ENFORCEMENT_ID|3390]]
+SUPERVISOR: Sgt. [[PERSON|WHITLOW, TREMAINE]] #[[LAW_ENFORCEMENT_ID|2218]]     FOLLOW-UP: FAMILY VIOLENCE UNIT -- Det. [[PERSON|S. VILLALOBOS]] #[[LAW_ENFORCEMENT_ID|1874]]
+
+NARRATIVE (Ofc. [[PERSON|J. Castaneda]] #[[LAW_ENFORCEMENT_ID|4127]])
+
+On [[DATE|08/16/2025]] at approximately 2314 hours, Ofc. [[PERSON|Doyle]] #[[LAW_ENFORCEMENT_ID|3390]] and I were dispatched to
+[[ADDRESS|7420 Callaghan Rd Apt 12B]] ([[INDIRECT_LOCATION|Pinecrest Apartments]]) in reference to a disturbance /
+possible family violence. Dispatch advised the caller, a neighbor, heard a female screaming
+"stop, I can't breathe" and a child crying, and that the screaming had stopped.
+
+We arrived at 2321 hours. I could hear a male voice yelling from inside 12B. The neighbor, later
+identified as W1 [[PERSON|Rosalind Pham]], was standing on the breezeway outside her door at 12C and
+pointed at 12B. I knocked and announced "San Antonio Police." A [[DEMOGRAPHIC|white male]], later identified as
+S1 [[PERSON|Dariusz Kowalczyk]], opened the door. S1 was sweating, breathing heavily, and had a strong odor
+of an alcoholic beverage on his breath. S1 stated "everything's fine, she's being dramatic." I
+observed a [[DEMOGRAPHIC|white female]], later identified as V1 [[PERSON|Grace Hill]], sitting on the kitchen floor
+holding the left side of her neck and crying. S1 was detained in handcuffs for officer safety
+and placed in the rear of my patrol unit (Unit 6232) by Ofc. [[PERSON|Doyle]].
+
+V1 stated the following in summary (BWC recorded): She and S1 have lived together for about four
+years and have a three-year-old daughter, [[PERSON MINOR|Lily]]. S1 came home at approximately 2245 after
+drinking at "[[INDIRECT_LOCATION|the icehouse on Bandera by the Valero]]." S1 accused her of texting a coworker. S1
+grabbed her phone off the counter and she tried to take it back. S1 threw the phone against the
+floor, cracking it. V1 told S1 she was calling the police and went to the bedroom to get her
+iPad. S1 followed her, pushed her into the hallway wall, and placed both hands around her neck
+and squeezed. V1 stated she could not breathe or yell, that "everything went dark around the
+edges" and she thought she was going to die. V1 stated she believed this lasted "ten or fifteen
+seconds." She scratched at S1's hands and he let go when [[PERSON MINOR|Lily]] began crying in the bedroom. V1
+fell and struck her left elbow on the floor. V1 stated she urinated on herself during the
+strangulation. V1 stated S1 then said "if you call them I swear to God I'll finish it" and "they'll
+deport me and it'll be your fault."
+
+I observed red linear marks on both sides of V1's neck, consistent with fingers, a reddened area
+under her chin, and petechiae (small red dots) in the white of her left eye. Her voice was hoarse.
+She complained of pain when swallowing. There was a fresh abrasion on her left elbow. Her shorts
+were wet. I photographed the injuries. ACS EMS Medic 31 evaluated V1 on scene at 2338; V1 refused
+transport stating she would go once her daughter was picked up. Medic 31 crew advised V1 of the
+risks of delayed symptoms from strangulation. V1 signed refusal.
+
+SAPD OFFENSE REPORT [[LAW_ENFORCEMENT_ID|SAPD-25-187734]]                                                              PAGE 3 OF 4
+-----------------------------------------------------------------------------------------------------
+NARRATIVE (continued)
+
+V1 stated this was not the first time. She stated that in [[DATE?|March 2025]] S1 choked her "for a second"
+in the truck in the parking lot of [[INDIRECT_LOCATION|the H-E-B at Bandera and 1604]], and in [[DATE?|December 2024]] he
+punched a hole in the bathroom door. She did not report either incident. She stated S1 owns a
+handgun, which he keeps in the glove box of his truck. (See below.) She stated S1 has threatened
+to take [[PERSON MINOR|Lily]] "back to Poland" if she ever leaves.
+
+I spoke with W1 [[PERSON|Pham]] at her apartment, 12C. W1 stated that she has lived next door for about
+two years. At approximately 2250 she heard banging against the shared wall, a woman screaming
+"stop, stop, I can't breathe," then silence, then a child crying "Mama, Mama." W1 called 911 at
+2309. W1 stated she has heard "fighting" next door "at least once a month" and that [[PERSON|Grace]] once
+came to her apartment crying with a bruised arm in the spring. W1 completed a written voluntary
+statement (attached).
+
+S1 was advised of his Miranda warnings by me at 2352 from my department-issued card while seated
+in my patrol unit, BWC activated. S1 stated he understood his rights and agreed to speak with me.
+S1 stated, in summary, that V1 "attacked" him over her phone and that he "just held her off" by
+her shoulders. S1 stated "I never choked nobody." S1 stated he had "four or five Modelos" at the
+bar. I observed fresh scratches on the backs of both of S1's hands, which I photographed. S1
+stated V1 scratched him "because she's crazy, she's on medication, ask her." S1 later stated "she
+takes [[MEDICATION|Lexapro]] for her head, she's [[MENTAL_HEALTH|bipolar or something]]." (V1 later stated she takes
+[[MEDICATION|escitalopram]] for [[MENTAL_HEALTH|postpartum depression]] diagnosed after [[PERSON MINOR|Lily]]'s birth.)
+
+With V1's verbal and written consent, Ofc. [[PERSON|Doyle]] searched the passenger compartment of the
+[[VEHICLE_DESCRIPTION|gray Ford F-150]] (V1 is a co-owner per registration). A loaded black Taurus G2C 9mm
+handgun, [[DEVICE_ID?|serial ADM417662]], was located in the glove box. Due to S1's [[CRIMINAL_HISTORY|prior family violence
+conviction (2019)]], S1 is prohibited from possessing a firearm (PC 46.04(b); 18 U.S.C.
+922(g)(9)). The handgun was seized as evidence. Charges for Unlawful Possession of a Firearm by a
+Person Convicted of FV to be referred to the ATF Task Force and Bexar Co. DA.
+
+Based on V1's statement, the physical evidence of strangulation, W1's statement, the scratches
+on S1's hands, and S1's prior conviction, S1 was arrested for Assault FV -- Impeding Breath
+(F3) and Interference with Emergency Request for Assistance. S1 was transported by Ofc. [[PERSON|Doyle]] to
+the Bexar County Magistrate's Office (BCADC) and booked under booking #[[LAW_ENFORCEMENT_ID|2025-0098812]]. An
+Emergency Protective Order (Art. 17.292 CCP) was requested on behalf of V1 and [[PERSON MINOR|Lily]].
+
+V1 was provided an FV packet, the Bexar County Family Justice Center number, [[PHONE|(210) 631-0100]],
+and Det. [[PERSON|Villalobos]]'s contact information. V1's sister [[PERSON|Hannah Hill]] arrived at 0050, took custody of
+the child, and later drove V1 to [[ORGANIZATION?|Mission Trail Medical Center]].
+
+SAPD OFFENSE REPORT [[LAW_ENFORCEMENT_ID|SAPD-25-187734]]                                                              PAGE 4 OF 4
+-----------------------------------------------------------------------------------------------------
+SUPPLEMENT #1 -- Det. [[PERSON|Sandra Villalobos]] #[[LAW_ENFORCEMENT_ID|1874]], Family Violence Unit -- [[DATE|08/18/2025]]
+
+Reviewed BWC (2 officers, 01:12:44 total). On [[DATE|08/18/2025]] at 1030 hrs I met V1 at the Family
+Justice Center. V1 provided discharge paperwork from [[ORGANIZATION?|Mission Trail Medical Center]] (CTA neck
+negative for vascular injury, diagnosed "[[MEDICAL_CONDITION|strangulation injury, laryngeal contusion]]"). V1
+provided a screenshot of a text message from S1's phone number [[PHONE|210-393-6620]], received
+[[DATE|08/17/2025]] at 06:41 while S1 was in custody (sent via jail tablet? -- follow up with BCADC
+on [[USERNAME|inmate account DKOWALCZYK0098812]]): "you know what you did. drop it or else." V1 completed a
+sworn statement and stated she wishes to pursue charges and a protective order. Photos of
+injuries (day 2) taken: bruising more pronounced, bilateral neck, under jaw. Forensic nurse exam
+by [[PERSON|K. Ostrowski]], RN, SANE-A, records requested via subpoena.
+
+Case presented to Bexar County DA -- Family Violence Division, ADA [[PERSON|Omar Lucero]]; accepted for
+felony prosecution. DA case # [[CASE_NUMBER|2025-FV-08741]]. Warrant for S1's phone (Item 2) obtained
+[[DATE|08/19/2025]] from Judge [[PERSON|Ricardo Benavides-Soto]], 437th District Court.
+
+STATUS: CLEARED BY ARREST.        Approved: Sgt. [[PERSON|T. Whitlow]] #[[LAW_ENFORCEMENT_ID|2218]]  [[DATE|08/18/2025]]
+
+-- FOR OFFICIAL USE ONLY. Contains information of a family violence victim; Gov't Code
+§ 552.108, § 552.132 and § 552.1325 exceptions may apply. Release of victim identifying
+information prohibited.

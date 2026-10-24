@@ -1,0 +1,92 @@
+[[EMPLOYER|HALCYON TIMBERWORKS]]
+Custom Cabinetry & Millwork  --  [[PERSON|Matteo R. Bianchi-Okafor]], Proprietor
+[[ADDRESS|3318 N Hermitage Ave (rear shop)]], [[ADDRESS|Chicago, IL 60657]]
+Shop [[PHONE|(773) 555-0144]]   Cell [[PHONE|(312) 555-0981]]   [[EMAIL|matteo@halcyontimberworks.example]]
+City of Chicago general contractor lic. TGC-0447180
+
+                                                                     INVOICE
+Bill To                                 Ship To / Job Site                  Invoice No.   HT-2026-0147
+[[ORGANIZATION?|Lakeshore Pediatric Dental Group, PLLC]]  [[ORGANIZATION?|Lakeshore Ped. Dental]], Ste 210      Invoice Date  [[DATE?|09/30/2026]]
+Attn: Accounts Payable                  [[ADDRESS?|2850 N Clark St]]                     Due Date      [[DATE?|10/30/2026]]
+[[ADDRESS?|2850 N Clark St, Suite 210]]              [[ADDRESS?|Chicago, IL 60657]]                   Terms         Net 30
+[[ADDRESS?|Chicago, IL 60657]]                                                           Customer PO   PO-55821
+Contact: [[PERSON|Deborah Kincaid]], Practice Administrator                            Job No.       J-26-031
+         [[EMAIL|dkincaid@lakeshorepedodental.example]]   direct/cell [[PHONE|(312) 555-0418]]
+
+Line  Item / SKU    Description                                   Qty     Unit      Rate          Amount
+----------------------------------------------------------------------------------------------------------
+ 1    CAB-RECEP-01  Reception desk, white oak, ADA ht.            1       ea      6,850.00      6,850.00
+ 2    CAB-OP-24     Operatory base cabinets, 24" (thermofoil)     8       ea        712.00      5,696.00
+ 3    CAB-OP-UPPER  Operatory upper cabinets w/ soft-close        8       ea        488.00      3,904.00
+ 4    CTR-QTZ-3CM   Quartz countertops, 3cm, fabricated (sub)     64      sf         78.00      4,992.00
+ 5    MW-KIDS-NOOK  Kids' play-nook bench + cubbies, birch ply    1       ls      2,400.00      2,400.00
+ 6    INST-LAB      Installation labor (2 carpenters)             46      hr         95.00      4,370.00
+ 7    CO-02         Change order #2 -- relocate sink base         1       ls      1,150.00      1,150.00
+----------------------------------------------------------------------------------------------------------
+                                                                  Subtotal                     29,362.00
+                                                          Sales tax (materials, 10.25%)         1,994.03
+                                                          Less deposit [[DATE?|07/15/2026]] ck 11872     -9,000.00
+                                                                  AMOUNT DUE                  [[MONEY|$22,356.03]]
+
+PAYMENT INSTRUCTIONS
+  ACH / wire:  [[ORGANIZATION?|Lakeview Community Bank]]   ABA [[ROUTING_NUMBER|071060914]]   Acct [[BANK_ACCOUNT|5501 0044 4418]]
+               Account name: [[PERSON|Matteo R Bianchi-Okafor]] dba [[EMPLOYER|Halcyon Timberworks]]
+  Zelle:       [[EMAIL|matteo@halcyontimberworks.example]] (limit $5,000/day)
+  Check:       payable to "[[EMPLOYER|Halcyon Timberworks]]", mailed to the shop address above
+  Please reference invoice HT-2026-0147 and PO-55821. 1.5%/mo. late charge after due date.
+  W-9 on file with your office: sole proprietor, EIN [[EIN|84-2271904]].
+
+                                                                                                Page 1 of 3
+
+--- Page 2 ---
+
+CHANGE ORDER #2 -- signed authorization (attached to invoice HT-2026-0147)
+  Job: J-26-031   Location: Suite 210 (lease from [[ORGANIZATION?|Northpoint Clark Partners LP]])
+  Change: relocate sterilization sink base cabinet 38" north to clear new autoclave; add 2 drawer banks.
+  Price: $1,150.00   Schedule impact: +2 working days
+  Approved:  [[SIGNATURE|Anjali Mehra-Novak]]   [[PERSON|Anjali Mehra-Novak, DDS]], Managing Member    Date [[DATE?|09/08/2026]]
+  Contractor: [[SIGNATURE|M. Bianchi-Okafor]]                                   Date [[DATE?|09/08/2026]]
+
+CONDITIONAL WAIVER AND RELEASE ON PROGRESS PAYMENT (770 ILCS 60)
+  Claimant: [[PERSON|Matteo R. Bianchi-Okafor]] d/b/a [[EMPLOYER|Halcyon Timberworks]]
+  Customer: [[ORGANIZATION?|Lakeshore Pediatric Dental Group, PLLC]]
+  Owner: [[ORGANIZATION?|Northpoint Clark Partners LP]]       Job location: [[ADDRESS?|2850 N Clark St, Suite 210, Chicago IL 60657]]
+  Through date: [[DATE?|09/30/2026]]   Amount of check: $22,356.03
+  This document waives and releases lien rights the claimant has for labor and materials furnished through the through
+  date, conditioned on receipt of payment.
+  Claimant's signature [[SIGNATURE|Matteo R. Bianchi-Okafor]]   Title: Owner   Date [[DATE?|09/30/2026]]
+  Subscribed and sworn before me [[DATE?|09/30/2026]].  Notary: [[PERSON?|Lucille Ferraro-Diaz]], commission exp. [[DATE?|04/18/2029]]
+
+SUBCONTRACTOR PAID FROM THIS DRAW (sworn statement excerpt)
+  [[ORGANIZATION?|StoneCraft Surfaces Inc.]] (quartz) .......... $4,992.00   paid [[DATE?|09/26/2026]] ck 2207
+  [[PERSON|Jaroslav Novotny]] (finish carpenter, 1099) ...... $1,840.00   paid [[DATE?|09/26/2026]] Zelle [[PHONE|(708) 555-0136]]
+
+                                                                                                Page 2 of 3
+
+--- Page 3 ---
+
+========================================================================================================
+                        REMITTANCE ADVICE -- ELECTRONIC PAYMENT
+========================================================================================================
+From:  [[ORGANIZATION?|Lakeshore Pediatric Dental Group, PLLC]] -- Accounts Payable ([[EMAIL?|ap@lakeshorepedodental.example]])
+To:    [[EMPLOYER|Halcyon Timberworks]]  Attn: [[PERSON|Matteo Bianchi-Okafor]]     Vendor ID: [[ID_NUMBER|V-00882]]
+Payment date  [[DATE?|10/14/2026]]      Payment method  ACH CCD+      Payment no.  AP-PMT-2026-1014-07
+Bank trace    073913182412207          Deposit to      acct ending [[BANK_ACCOUNT|4418]] (Lakeview Community Bank)
+
+Invoice No.     Invoice Date  PO No.      Gross         Discount/Ded.   Net Paid      Note
+HT-2026-0147    [[DATE?|09/30/2026]]    PO-55821    22,356.03       -446.00       21,910.03     see memo 1
+HT-2026-0139    [[DATE?|08/29/2026]]    PO-55710     1,280.00          0.00        1,280.00     
+CM-0012         [[DATE?|09/02/2026]]    PO-55710     -120.00           0.00        -120.00      credit memo
+                                          ------                        ---------
+                              TOTAL       23,516.03       -446.00       [[MONEY|23,070.03]]
+
+Memo 1: Deduction $446.00 = 2 days delay x $223/day (operatory 4 closed), per subcontract Exh. B sec. 3. Disputes to
+        [[PERSON|Deborah Kincaid]] ([[PHONE|(312) 555-0418]]) within 10 days. Approved by [[PERSON|Dr. A. Mehra-Novak]] [[DATE?|10/13/2026]].
+Addenda (NACHA 705 record):  RMR*IV*HT-2026-0147*PI*21910.03*22356.03*446.00\RMR*IV*HT-2026-0139*PI*1280.00\
+                             REF*VN*[[ID_NUMBER|V-00882]]\N1*PE*[[PERSON|MATTEO R BIANCHI-OKAFOR]]\
+Originating DFI: [[ORGANIZATION?|Second City Commerce Bank]] [[ROUTING_NUMBER?|073913182]]   Company ID 1872204418   SEC CCD
+
+Payer's internal coding (do not remit): GL 6120-Leasehold Improvements; Class: Lincoln Park; Approver chain:
+[[PERSON?|K. Albrecht]] (AP clerk) -> [[PERSON|D. Kincaid]] -> [[PERSON|A. Mehra-Novak]]. 1099 reportable: YES (box 1 NEC) -- vendor TIN
+[[EIN|84-2271904]] on file, TIN match OK [[DATE?|01/2026]].
+                                                                                                Page 3 of 3

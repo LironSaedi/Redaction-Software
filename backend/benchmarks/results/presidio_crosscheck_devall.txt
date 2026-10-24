@@ -1,0 +1,43 @@
+2.2.358 recognizers loaded
+
+60 documents (devall), 243s total, Presidio 35s
+                             recall  precision
+Presidio alone               56.36%     71.64%
+Obscura                      95.33%     98.82%
+Obscura + Presidio extras    95.77%     76.47%
+
+Obscura misses that Presidio caught: 12
+extra Presidio findings: 914 on real PII, 1198 not PII
+
+recognizer/entity                             useful   noise
+SpacyRecognizer/DATE_TIME                        652     786
+SpacyRecognizer/PERSON                            44     224
+SpacyRecognizer/LOCATION                          84     145
+DateRecognizer/DATE_TIME                          87       1
+PhoneRecognizer/PHONE_NUMBER                      19      19
+SpacyRecognizer/NRP                               12      15
+UrlRecognizer/URL                                  6       7
+MedicalLicenseRecognizer/MEDICAL_LICENSE           6       0
+NhsRecognizer/UK_NHS                               3       1
+InVoterRecognizer/IN_VOTER                         1       0
+
+RESCUED (Obscura missed, Presidio caught):
+  [PERSON] 17_witness_statement_neighbor_ocr: 'K0wa1-chick'
+  [LAW_ENFORCEMENT_ID] 34_dmv_driving_record: '20631187'
+  [INDIRECT_LOCATION] 103_sexual_health_clinic_note: 'the CVS at North Decatur Rd and\n       Clairmont'
+  [ADDRESS] 106_deposition_forklift_injury: 'Perth Amboy'
+  [USERNAME] 106_deposition_forklift_injury: 'hmaldonado7'
+  [CLAIM_NUMBER] 108_workers_comp_claim_nurse: '2026-118473'
+  [EMPLOYER] 116_protective_order_affidavit: 'Baptist Health Urgent Care -- Hamburg'
+  [PERSON] 117_u_visa_declaration: 'Rosa A. Tzul X.'
+  [PERSON] 118_ocr_handwritten_witness_statement: 'Halvors0n'
+  [PERSON] 118_ocr_handwritten_witness_statement: '0rnar'
+  [CREDIT_CARD] 118_ocr_handwritten_witness_statement: '8O27'
+  [PASSWORD] 121_911_call_transcript: '082497'
+
+NOISE SAMPLES:
+  presidio:SpacyRecognizer (1170): 'approximately 17:40', '~25 min', 'a second', 'dx ~2019', '2017', '3-4 weeks', '03/14 20:10   03/15', '06:00', '06:00', '05:45', '25605', '25608'
+  presidio:PhoneRecognizer (19): '2025-118842', '164.501', '3.90 - 5.20', '0591-5522-01    30    15', '0406-0512-01    20    5', '0406-0512-01    15    5', '16729-0172-01', '2025-0812-07', '2508-17-0144', '0612-88140', '0614-00377', '164.508'
+  presidio:UrlRecognizer (7): 'Evidence.com', 'Evidence.com', 'capitalhillcb.com', 'www.kimabernathy.com', '3318.jp', 'www.kycourts.gov', 'glcbank.com'
+  presidio:DateRecognizer (1): '1/1/2024'
+  presidio:NhsRecognizer (1): '1588237710'

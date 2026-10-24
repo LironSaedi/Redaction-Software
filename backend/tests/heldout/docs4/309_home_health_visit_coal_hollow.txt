@@ -1,0 +1,49 @@
+APPALACHIAN HOME HEALTH SERVICES, INC.
+SKILLED NURSING VISIT NOTE                                         Visit No.: [[ID_NUMBER?|SN-26-11873]]
+
+Patient: [[PERSON|Opal Jean Mullins]]       DOB: [[DATE_OF_BIRTH|12/02/1938]]       Age: [[AGE|87]]       Sex: F
+MRN: [[MRN|AHH-0034419]]        Medicare: [[MEDICARE_ID|4TR8-JK2-MW61]]
+Address: [[ADDRESS|HC 71 Box 418, Coal Hollow Rd, Gilbert, WV 25621]]
+Directions for staff: [[INDIRECT_LOCATION|the last house up Coal Hollow past the Free Will Baptist church, green metal roof]]. Gate at
+the creek crossing is chained but not locked. Road washes out in heavy rain -- park at the church and call ahead.
+
+Visit date: [[DATE|10/09/2026]]      Time in 09:40      Time out 10:55      Clinician: [[PERSON|Shawna Vance]], RN
+Primary dx: [[MEDICAL_CONDITION|chronic diastolic heart failure]]
+Secondary: [[MEDICAL_CONDITION|type 2 diabetes]]; [[MEDICAL_CONDITION|stage 3 sacral pressure injury]]; [[MEDICAL_CONDITION|L below-knee amputation (2019)]]
+
+CAREGIVER / SUPPORT
+Primary caregiver is [[INDIRECT_ROLE|her granddaughter, the Ben Creek route bus driver for Mingo County Schools]], [[PERSON|Kayla Mullins]]
+([[PHONE|(304) 555-0191]]), who sleeps in [[INDIRECT_LOCATION|the camper parked beside the house]]. When [[PERSON|Kayla]] is on her route
+(06:15-08:30 and 14:30-16:45), [[INDIRECT_ROLE|the retired miner in the trailer below the house]] checks on the patient. Patient's
+other family is out of state. Second emergency contact is [[INDIRECT_ROLE|her late husband's brother, the retired deacon at Ben
+Creek Free Will Baptist]], [[PHONE|(304) 555-0126]].
+
+SUBJECTIVE
+Patient states she "feels puny" and her "ankles are tight." Slept in recliner x 3 nights; reports 2-pillow orthopnea.
+Denies chest pain. Reports she missed the Thursday outing at [[INDIRECT_LOCATION|the quilting circle at the Gilbert senior center]]
+because she was too short of breath to get to the car. Appetite fair.
+
+OBJECTIVE
+VS: BP 148/82, HR 88 irregular, RR 22, SpO2 92% RA, T 97.9. Wt 96.8 lb (last visit 93.2 lb -- up 3.6 lb in 1 week).
+Pt is [[PHYSICAL_DESCRIPTOR?|4'10"]], frail. Lungs: crackles bilateral bases. 2+ pitting edema R lower leg; L residual limb without
+breakdown. Pt wears [[PHYSICAL_DESCRIPTOR|a below-knee prosthesis on the left]] for transfers only; uses wheelchair in the house.
+Skin: [[PHYSICAL_DESCRIPTOR|large port-wine birthmark across the left side of the neck and jaw]], longstanding, unchanged.
+Sacral wound 2.8 x 2.1 x 0.3 cm, beefy red base, scant serous drainage, no odor, edges attached. Dressing changed per
+order (hydrocolloid). Fingerstick glucose 164.
+
+MEDICATIONS (reconciled with bottles in kitchen)
+[[MEDICATION|Furosemide 40 mg daily]]; [[MEDICATION|metformin 500 mg BID]]; [[MEDICATION|apixaban 5 mg BID]]; [[MEDICATION|metoprolol succinate 25 mg daily]].
+Medications are delivered by [[INDIRECT_ROLE|the Gilbert Drug pharmacist who drives refills out the hollow on Fridays]]. Pt has
+been skipping the evening furosemide "so I don't have to get up all night."
+
+ASSESSMENT
+CHF exacerbation likely, related to missed doses and weight gain. Sacral wound improving slowly.
+
+PLAN / COMMUNICATION
+- Called PCP office; spoke with a nurse, who obtained an order for an extra furosemide 40 mg today and tomorrow, then
+  resume daily; BMP Monday.
+- Taught pt and granddaughter (by phone) daily weights; scale placed by the bed. Call if gain more than 2 lb overnight.
+- Pt agreeable to ED if worse; [[PERSON|Kayla]] aware road may be impassable and EMS may need to stage at the church.
+- Next SN visit [[DATE|10/12/2026]].
+
+[[PERSON|Shawna Vance]], RN      e-signed [[DATE?|10/09/2026]] 11:32

@@ -1,0 +1,171 @@
+[[ORGANIZATION?|PAYCREST PAYROLL SERVICES]]                                               PAYROLL REGISTER - DETAIL
+Client: [[EMPLOYER?|TALLGRASS MILLWORK & CABINET CO.]] (S-Corp)          Client No. [[ID_NUMBER?|TMC-0418]]     Run ID 2026-21-01
+[[ADDRESS?|4120 Cornhusker Hwy, Unit B, Lincoln, NE 68504]]                  FEIN [[EIN|47-3318264]]
+NE Withholding ID [[ID_NUMBER?|21-0044718]]   NE UI Acct [[ID_NUMBER?|0418827-3]]   Frequency: Bi-Weekly (26)
+Pay Period: [[DATE?|09/28/2026]] - [[DATE?|10/11/2026]]       Check Date: [[DATE?|10/16/2026]]       Processed: [[DATE?|10/14/2026]] 16:42 by [[USERNAME|fo.oyelaran]]
+                                                                                                           Page 1 of 5
+=================================================================================================================================================
+EMP   EMPLOYEE NAME / SSN / DEPT / TITLE              RATE    HOURS        EARNINGS              TAXES                  DEDUCTIONS          NET / DISTRIBUTION
+=================================================================================================================================================
+1001  [[PERSON|LINDAHL, GARETH O]]                   SALARY  REG  80.00  REG    [[MONEY|4,615.38]]  FED WH [[MONEY|583.53]]  401K   [[MONEY|276.92]]  NET PAY [[MONEY|3,115.28]]
+      SSN XXX-XX-[[SSN|8820]]  DEPT 10 ADMIN             OT    0.00  OT         [[MONEY|0.00]]  SOC SEC [[MONEY|275.59]]  MED125 [[MONEY|148.00]]  DD CHK ****[[BANK_ACCOUNT|7731]]
+      Owner/President (officer wages)                            GROSS   [[MONEY|4,615.38]]  MEDICARE [[MONEY|64.45]]  DEN125  [[MONEY|22.40]]
+                                                                                       NE WH [[MONEY|129.21]]
+
+1004  [[PERSON|OYELARAN, FUNMILAYO A]]               SALARY  REG  80.00  REG    [[MONEY|2,307.69]]  FED WH [[MONEY|191.72]]  401K    [[MONEY|92.31]]  NET PAY [[MONEY|1,702.40]]
+      SSN XXX-XX-[[SSN|1146]]  DEPT 10 ADMIN             OT    0.00  OT         [[MONEY|0.00]]  SOC SEC [[MONEY|137.79]]  MED125  [[MONEY|74.00]]  DD SAV/CHK x-[[BANK_ACCOUNT|0418]] / x-[[BANK_ACCOUNT|2295]]
+      Office Manager                                             GROSS   [[MONEY|2,307.69]]  MEDICARE [[MONEY|32.23]]  DEN125  [[MONEY|11.20]]
+                                                                                       NE WH  [[MONEY|66.04]]
+
+1007  [[PERSON|BRZYCKI, STANLEY J]]                   31.75  REG  80.00  REG    [[MONEY|2,540.00]]  FED WH [[MONEY|253.67]]  401K   [[MONEY|142.48]]  NET PAY [[MONEY|1,999.41]]
+      SSN XXX-XX-[[SSN|5093]]  DEPT 30 SHOP              OT    6.50  OT       [[MONEY|309.56]]  SOC SEC [[MONEY|166.11]]  MED125 [[MONEY|148.00]]  DD CHK ****[[BANK_ACCOUNT|6610]]
+      Shop Foreman                                               GROSS   [[MONEY|2,849.56]]  MEDICARE [[MONEY|38.85]]  DEN125  [[MONEY|22.40]]
+                                                                                       NE WH  [[MONEY|78.64]]
+
+1012  [[PERSON|NGUYEN-HALVORSEN, BAO T]]              26.00  REG  80.00  REG    [[MONEY|2,080.00]]  FED WH [[MONEY|166.70]]  401K    [[MONEY|67.08]]  NET PAY [[MONEY|1,687.88]]
+      SSN XXX-XX-[[SSN|7724]]  DEPT 30 SHOP              OT    4.00  OT       [[MONEY|156.00]]  SOC SEC [[MONEY|133.35]]  MED125  [[MONEY|74.00]]  DD CHK ****[[BANK_ACCOUNT|3389]]
+      CNC Operator                                               GROSS   [[MONEY|2,236.00]]  MEDICARE [[MONEY|31.19]]  DEN125  [[MONEY|11.20]]
+                                                                                       NE WH  [[MONEY|64.60]]
+
+1015  [[PERSON|McALLISTER, DEVONTE L]]                24.50  REG  80.00  REG    [[MONEY|1,960.00]]  FED WH [[MONEY|174.40]]  401K     [[MONEY|0.00]]  NET PAY [[MONEY|1,458.79]]
+      SSN XXX-XX-[[SSN|2261]]  DEPT 30 SHOP              OT    8.00  OT       [[MONEY|294.00]]  SOC SEC [[MONEY|135.16]]  MED125  [[MONEY|74.00]]  DD PAYCARD card ending [[CREDIT_CARD|5518]]
+      Cabinetmaker II                                            GROSS   [[MONEY|2,254.00]]  MEDICARE [[MONEY|31.61]]  CHSUP  [[MONEY|312.46]]
+                                                                                       NE WH  [[MONEY|67.58]]
+
+1019  [[PERSON|RAMÍREZ ECHEVERRÍA, JOSÉ LUIS]]        23.00  REG  80.00  REG    [[MONEY|1,840.00]]  FED WH [[MONEY|133.63]]  401K     [[MONEY|0.00]]  NET PAY [[MONEY|1,570.15]]
+      SSN XXX-XX-[[SSN|4410]]  DEPT 30 SHOP              OT    2.00  OT        [[MONEY|69.00]]  SOC SEC [[MONEY|118.36]]  MED125   [[MONEY|0.00]]  CHK # LIVE CHECK 20417
+      Finisher                                                   GROSS   [[MONEY|1,909.00]]  MEDICARE [[MONEY|27.68]]  DEN125   [[MONEY|0.00]]
+                                                                                       NE WH  [[MONEY|59.18]]
+
+--------------------------------------------------------------------------------------------------------------------------- continued ---
+[[EMPLOYER?|TALLGRASS MILLWORK & CABINET CO.]]   Check Date [[DATE?|10/16/2026]]   PAYROLL REGISTER - DETAIL                           Page 2 of 5
+=================================================================================================================================================
+1022  [[PERSON|KOWALCZYK, PETRA M]]                   29.00  REG  80.00  REG    [[MONEY|2,320.00]]  FED WH [[MONEY|244.69]]  401K   [[MONEY|137.75]]  NET PAY [[MONEY|1,928.58]]
+      SSN XXX-XX-[[SSN|9037]]  DEPT 40 INSTALL           OT   10.00  OT       [[MONEY|435.00]]  SOC SEC [[MONEY|160.25]]  MED125 [[MONEY|148.00]]  DD CHK ****[[BANK_ACCOUNT|1204]]
+      Install Lead                                               GROSS   [[MONEY|2,755.00]]  MEDICARE [[MONEY|37.48]]  DEN125  [[MONEY|22.40]]
+                                                                                       NE WH  [[MONEY|75.85]]
+
+1027  [[PERSON|HAILE, SELAMAWIT G]]                   22.00  REG  76.00  REG    [[MONEY|1,672.00]]  FED WH [[MONEY|108.74]]  401K    [[MONEY|33.44]]  NET PAY [[MONEY|1,275.08]]
+      SSN XXX-XX-[[SSN|6652]]  DEPT 40 INSTALL           OT    0.00  OT         [[MONEY|0.00]]  SOC SEC [[MONEY|98.38]]  MED125  [[MONEY|74.00]]  DD CHK ****[[BANK_ACCOUNT|8846]]
+      Installer        (4.0 hrs unpaid - see note A)          GROSS   [[MONEY|1,672.00]]  MEDICARE [[MONEY|23.01]]  DEN125  [[MONEY|11.20]]
+                                                                                       NE WH  [[MONEY|48.15]]
+
+1029  [[PERSON|ODUYA, MARCUS K]]                      21.00  REG  80.00  REG    [[MONEY|1,680.00]]  FED WH [[MONEY|123.45]]  401K     [[MONEY|0.00]]  NET PAY [[MONEY|1,200.47]]
+      SSN XXX-XX-[[SSN|3175]]  DEPT 50 DELIVERY          OT    5.00  OT       [[MONEY|157.50]]  SOC SEC [[MONEY|109.34]]  MED125  [[MONEY|74.00]]  DD CHK ****[[BANK_ACCOUNT|5027]]
+      Delivery Driver CDL-B                                      GROSS   [[MONEY|1,837.50]]  MEDICARE [[MONEY|25.57]]  IRSLEVY [[MONEY|250.00]]
+                                                                                       NE WH  [[MONEY|54.67]]
+
+1031  [[MINOR|VOSS, EMMETT J]]                        15.00  REG  22.00  REG      [[MONEY|330.00]]  FED WH   [[MONEY|0.00]]  401K     [[MONEY|0.00]]  NET PAY   [[MONEY|304.75]]
+      SSN XXX-XX-[[SSN|0583]]  DEPT 30 SHOP              OT    0.00  OT         [[MONEY|0.00]]  SOC SEC [[MONEY|20.46]]  MED125   [[MONEY|0.00]]  CHK # LIVE CHECK 20418
+      Shop Helper (PT) ** MINOR - see note B **                  GROSS     [[MONEY|330.00]]  MEDICARE [[MONEY|4.79]]  DEN125   [[MONEY|0.00]]
+                                                                                       NE WH   [[MONEY|0.00]]
+
+1032  [[PERSON|DELACROIX-BAHR, YVETTE N]]             22.50  REG  64.00  REG    [[MONEY|1,440.00]]  FED WH  [[MONEY|86.40]]  401K     [[MONEY|0.00]]  NET PAY [[MONEY|1,198.80]]
+      SSN XXX-XX-[[SSN|6129]]  DEPT 40 INSTALL           OT    0.00  OT         [[MONEY|0.00]]  SOC SEC [[MONEY|89.28]]  MED125   [[MONEY|0.00]]  DD CHK ****[[BANK_ACCOUNT|7790]]
+      Installer  (FINAL CHECK - TERM [[DATE|10/09/2026]])                GROSS   [[MONEY|1,440.00]]  MEDICARE [[MONEY|20.88]]  DEN125   [[MONEY|0.00]]
+                                                                                       NE WH  [[MONEY|44.64]]
+
+1033  [[PERSON|PRZYBYLSKI-WARD, ANNELIESE]]          SALARY  REG  72.00  REG    [[MONEY|2,692.31]]  FED WH [[MONEY|242.31]]  401K     [[MONEY|0.00]]  NET PAY [[MONEY|2,160.58]]
+      SSN XXX-XX-[[SSN|4472]]  DEPT 10 ADMIN             OT    0.00  OT         [[MONEY|0.00]]  SOC SEC [[MONEY|166.92]]  MED125   [[MONEY|0.00]]  CHK # LIVE CHECK 20419
+      Designer/Estimator  (NEW HIRE [[DATE|09/29/2026]])                   GROSS   [[MONEY|2,692.31]]  MEDICARE [[MONEY|39.04]]  DEN125   [[MONEY|0.00]]
+                                                                                       NE WH  [[MONEY|83.46]]
+
+=================================================================================================================================================
+COMPANY TOTALS   12 employees   Reg hrs 874.00   OT hrs 35.50
+  Gross [[MONEY|26,898.44]]   Fed WH [[MONEY|2,309.24]]   Soc Sec [[MONEY|1,610.99]]   Medicare [[MONEY|376.78]]   NE WH [[MONEY|772.02]]
+  401K [[MONEY|749.98]]   MED125 [[MONEY|814.00]]   DEN125 [[MONEY|100.80]]   CHSUP [[MONEY|312.46]]   IRSLEVY [[MONEY|250.00]]   NET [[MONEY|19,602.17]]
+  Direct deposits (8 employees, 9 accounts) [[MONEY|14,107.90]]   Paycard [[MONEY|1,458.79]]   Live checks (3) [[MONEY|4,035.48]]
+
+  Note A: [[PERSON|S. Haile]] - 4.0 hrs unpaid personal leave [[DATE|10/02/2026]] ([[MEDICAL_CONDITION|prenatal appointment]]; FMLA not yet eligible).
+  Note B: [[MINOR|E. Voss]] is [[AGE|17]]. Per FLSA HO 5/HO 10 restrictions, no operation of the panel saw, CNC router or
+          jointer. Hours limited to after-school/weekends during the [[SCHOOL|Lincoln Northridge High School]] term.
+--------------------------------------------------------------------------------------------------------------------------- continued ---
+[[EMPLOYER?|TALLGRASS MILLWORK & CABINET CO.]]   Check Date [[DATE?|10/16/2026]]   DEPARTMENT & LIABILITY SUMMARY                     Page 3 of 5
+
+DEPARTMENT SUMMARY                 HEADCOUNT        GROSS             NET          GL ACCOUNT
+  10 ADMIN                              3      [[MONEY|9,615.38]]        [[MONEY|6,978.26]]        6010-10
+  30 SHOP                               5      [[MONEY|9,578.56]]        [[MONEY|7,020.98]]        5100-30
+  40 INSTALL                            3      [[MONEY|5,867.00]]        [[MONEY|4,402.46]]        5200-40
+  50 DELIVERY                           1      [[MONEY|1,837.50]]        [[MONEY|1,200.47]]        5300-50
+                                       --      ----------        ----------
+                                       12     [[MONEY|26,898.44]]       [[MONEY|19,602.17]]
+
+EMPLOYER TAXES & CONTRIBUTIONS
+  Employer Social Security 6.2%                        [[MONEY|1,610.99]]
+  Employer Medicare 1.45%                                [[MONEY|376.78]]
+  FUTA 0.6% (wages to $7,000 YTD)                         [[MONEY|38.40]]
+  NE SUTA 1.25% (rate notice 2026, acct [[ID_NUMBER?|0418827-3]])         [[MONEY|112.18]]
+  401(k) safe-harbor match 3%                            [[MONEY|420.12]]
+
+TAX DEPOSITS / REMITTANCES                                        DUE           METHOD
+  Federal 941 (WH + 2x FICA)               [[MONEY|6,284.78]]     [[DATE?|10/21/2026]]    EFTPS - EIN [[EIN|47-3318264]]
+  Nebraska Income Tax Withholding            [[MONEY|772.02]]     [[DATE?|10/15/2026]]    NE e-pay, ID [[ID_NUMBER?|21-0044718]]
+  401(k) to [[ORGANIZATION?|Prairie Harbor Retirement Plan Services]] (EE + ER) [[MONEY|1,170.10]]     plan no. [[ID_NUMBER?|PH-401K-77120]]
+  Child support - [[ORGANIZATION?|NE Child Support Payment Center]]  [[MONEY|312.46]]  re: [[PERSON|McALLISTER, D.]] case [[CASE_NUMBER|CI 24-3318]]
+  IRS levy (Form 668-W(c)) - re: [[PERSON|ODUYA, M.]]       [[MONEY|250.00]]  levy serial [[CASE_NUMBER|668W-26-0091447]]
+  Cafeteria plan premiums - [[ORGANIZATION?|Heartland Mutual Health]]   [[MONEY|914.80]]  group [[HEALTH_PLAN_ID?|HMH-G-55021]]
+  [[ORGANIZATION?|PayCrest]] service fee (inv. PC-26-10418)       [[MONEY|89.50]]
+
+TOTAL CASH REQUIREMENT                                         [[MONEY|$29,546.41]]
+  Funding debit [[DATE?|10/15/2026]] from [[ORGANIZATION?|Platte Valley State Bank]] operating acct  RT [[ROUTING_NUMBER|104994588]]  ACCT [[BANK_ACCOUNT|2200 4471 9083]]
+  Approved by: [[PERSON|Gareth O. Lindahl]]   [[SIGNATURE|G. O. Lindahl]]    [[DATE?|10/14/2026]]   (approval IP [[IP_ADDRESS|71.223.18.40]])
+--------------------------------------------------------------------------------------------------------------------------- continued ---
+[[EMPLOYER?|TALLGRASS MILLWORK & CABINET CO.]]   Check Date [[DATE?|10/16/2026]]   DIRECT DEPOSIT / ACH REGISTER (NACHA PPD)           Page 4 of 5
+
+Originator: [[EMPLOYER?|TALLGRASS MILLWORK]]   Company ID [[EIN|1473318264]]   ODFI [[ORGANIZATION?|Platte Valley State Bank]]   Effective Entry Date [[DATE?|10/16/2026]]
+Batch 0000417   SEC PPD   Entry Description PAYROLL
+
+TRACE NO.          EMP   RECEIVER NAME                   RDFI ROUTING    ACCOUNT (DFI)              TYPE   AMOUNT
+---------------    ----  ------------------------------  -------------   -------------------------  -----  -----------
+[[ID_NUMBER?|104994580000101]]    1001  [[PERSON|LINDAHL GARETH]]                  [[ROUTING_NUMBER|104994588]]       [[BANK_ACCOUNT|2200 4471 7731]]             22 CK   [[MONEY|3,115.28]]
+[[ID_NUMBER?|104994580000102]]    1004  [[PERSON|OYELARAN FUNMILAYO]]              [[ROUTING_NUMBER|104121571]]       [[BANK_ACCOUNT|0098-1140-418]]              32 SV     [[MONEY|300.00]]
+[[ID_NUMBER?|104994580000103]]    1004  [[PERSON|OYELARAN FUNMILAYO]]              [[ROUTING_NUMBER|104121571]]       [[BANK_ACCOUNT|0098-1140-2295]]             22 CK   [[MONEY|1,402.40]]
+[[ID_NUMBER?|104994580000104]]    1007  [[PERSON|BRZYCKI STANLEY]]                 [[ROUTING_NUMBER|304036819]]       [[BANK_ACCOUNT|*****6610]]                  22 CK   [[MONEY|1,999.41]]
+[[ID_NUMBER?|104994580000105]]    1012  [[PERSON|NGUYEN-HALVORSEN BAO]]            [[ROUTING_NUMBER|104007307]]       [[BANK_ACCOUNT|7018833389]]                 22 CK   [[MONEY|1,687.88]]
+[[ID_NUMBER?|104994580000106]]    1015  [[PERSON|MCALLISTER DEVONTE]]              [[ROUTING_NUMBER|073964267]]       [[CREDIT_CARD|5280 4072 3862 5518]]        22 PC   [[MONEY|1,458.79]]
+[[ID_NUMBER?|104994580000107]]    1022  [[PERSON|KOWALCZYK PETRA]]                 [[ROUTING_NUMBER|101021292]]       [[BANK_ACCOUNT|00 4410 1204]]               22 CK   [[MONEY|1,928.58]]
+[[ID_NUMBER?|104994580000108]]    1027  [[PERSON|HAILE SELAMAWIT]]                 [[ROUTING_NUMBER|104993039]]       [[BANK_ACCOUNT|3318846]]                    22 CK   [[MONEY|1,275.08]]
+[[ID_NUMBER?|104994580000109]]    1029  [[PERSON|ODUYA MARCUS]]                    [[ROUTING_NUMBER|091097226]]       [[BANK_ACCOUNT|1550-205-027]]               22 CK   [[MONEY|1,200.47]]
+[[ID_NUMBER?|104994580000110]]    1032  [[PERSON|DELACROIX-BAHR YVETTE]]           [[ROUTING_NUMBER|104007307]]       [[BANK_ACCOUNT|7018847790]]                 22 CK   [[MONEY|1,198.80]]
+                                                                                                    BATCH TOTAL  [[MONEY|15,566.69]]
+  Entry hash 0941346 (sum of RDFI routing numbers, first 8 digits)   Entries 10   Credits [[MONEY|15,566.69]]   Debits 0.00
+
+  Prenote returned R03 ("No account/unable to locate") on prior account for 1033 [[PERSON|PRZYBYLSKI-WARD]] -
+  RT [[ROUTING_NUMBER|104121571]] acct [[BANK_ACCOUNT|0098-2271-664]]. Live check issued until corrected form received.
+
+LIVE CHECKS (printed on MICR stock, signed by [[PERSON|G. Lindahl]])
+  20417  [[PERSON|RAMIREZ ECHEVERRIA JOSE LUIS]]    [[MONEY|1,570.15]]   mailed to [[ADDRESS|2318 N 48th St, Lincoln NE 68504]]
+  20418  [[MINOR|VOSS EMMETT J]]                   [[MONEY|304.75]]    hand-delivered (c/o parent [[PERSON|Renata Voss]])
+  20419  [[PERSON|PRZYBYLSKI-WARD ANNELIESE]]      [[MONEY|2,160.58]]   hand-delivered
+  ⑆[[ROUTING_NUMBER|104994588]]⑆ [[BANK_ACCOUNT|220044719083]]⑈ 020417
+--------------------------------------------------------------------------------------------------------------------------- continued ---
+[[EMPLOYER?|TALLGRASS MILLWORK & CABINET CO.]]   Check Date [[DATE?|10/16/2026]]   EMPLOYEE MASTER FILE CHANGES                        Page 5 of 5
+
+NEW HIRE  Emp 1033  eff. [[DATE|09/29/2026]]   (NE New Hire Report submitted [[DATE?|10/06/2026]], conf. [[ID_NUMBER?|NH-26-884120]])
+  Name:     [[PERSON|PRZYBYLSKI-WARD, ANNELIESE]] (pref. "[[PERSON|Annie]]")      SSN [[SSN|508-74-4472]]
+  DOB:      [[DATE_OF_BIRTH|06/02/1994]]          Address: [[ADDRESS|7740 Old Cheney Rd Apt 214, Lincoln NE 68516]]
+  Phone:    [[PHONE|(402) 555-0193]]      Email: [[EMAIL|annie.pw@examplemail.com]]
+  W-4 (2020+): Married filing jointly; Step 2 not checked; Step 3 [[MONEY|$2,000]]; extra WH $0.
+  I-9:      List A - U.S. Passport [[PASSPORT|A04418827]], exp. [[DATE?|03/2033]]   (verified by [[PERSON|F. Oyelaran]] [[DATE?|10/01/2026]])
+  Emergency contact: [[PERSON|Dominic Ward]] (spouse) [[PHONE|402-555-0158]]
+  Salary [[MONEY|$70,000.00]]/yr; benefits eligible 1st of month after 60 days; 401(k) auto-enroll 3% on [[DATE|12/01/2026]].
+  Direct deposit form pending (see R03 above).
+
+TERMINATION  Emp 1032  [[PERSON|DELACROIX-BAHR, YVETTE N]]   Last day worked [[DATE|10/09/2026]]   Reason: voluntary resignation
+  Final pay includes 0 hrs PTO (balance 0.00). COBRA notice not required (not enrolled). Forwarding address:
+  [[ADDRESS|1405 Garfield St, Apt 3, Omaha NE 68108]].  Personal email [[EMAIL|yvette.db@examplemail.net]].
+
+GARNISHMENT SETUP  Emp 1015  [[PERSON|McALLISTER, DEVONTE L]]
+  Income Withholding for Support, [[ORGANIZATION?|Lancaster County District Court]] Case No. [[CASE_NUMBER|CI 24-3318]]
+  Obligee: [[PERSON|Tiana R. Batts]]   Children: [[MINOR|D'Andre McAllister]] (DOB [[DATE_OF_BIRTH|04/11/2015]]), [[MINOR|Nia McAllister]] (DOB [[DATE_OF_BIRTH|09/27/2018]])
+  Current support [[MONEY|$677.00]]/mo + arrears [[MONEY|$100.00]]/mo = [[MONEY|$312.46]] per bi-weekly pay; CCPA limit 50% of disposable earnings.
+
+IRS LEVY  Emp 1029  [[PERSON|ODUYA, MARCUS K]]   Form 668-W(c) serial [[CASE_NUMBER|668W-26-0091447]]  Revenue Officer [[PERSON|L. Kirchner-Pham]], ID [[ID_NUMBER?|1000287341]]
+  Exempt amount per Pub. 1494 (Single, 1 dependent): [[MONEY|$1,587.50]] per pay; levy amount capped by agreement at [[MONEY|$250.00]].
+
+RATE / ADDRESS CHANGES
+  Emp 1007  [[PERSON|BRZYCKI, STANLEY J]]   Rate 30.25 -> 31.75 eff. [[DATE?|09/28/2026]] (annual review)
+  Emp 1012  [[PERSON|NGUYEN-HALVORSEN, BAO T]]   New address [[ADDRESS|5620 Holdrege St, Lincoln NE 68507]]; new phone [[PHONE|402.555.0132]]
+  Emp 1019  [[PERSON|RAMÍREZ ECHEVERRÍA, JOSÉ LUIS]]   W-4 updated: Head of household; Step 3 dependents [[MONEY|$4,000]]
+
+Report generated by [[ORGANIZATION?|PayCrest]] Payroll v8.4   User [[USERNAME|fo.oyelaran]]   [[DATE?|10/14/2026]] 16:42 CDT   CONFIDENTIAL - CONTAINS SSNs

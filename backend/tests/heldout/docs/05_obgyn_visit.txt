@@ -1,0 +1,91 @@
+[[ORGANIZATION?|WESTSIDE WOMEN'S HEALTH ASSOCIATES, P.A.]]
+Obstetrics * Gynecology * Maternal Fetal Medicine
+[[ADDRESS?|9750 Bellaire Blvd, Suite 210]] | [[ADDRESS?|Houston, TX 77036]] | Tel [[PHONE|(713) 771-4420]] | Fax [[PHONE|(713) 771-4499]]
+
+PRENATAL VISIT NOTE
+
+Patient: [[PERSON|LE, THI KIM THUY]]          Preferred name: "[[PERSON|Thuy]]"       Chart #: [[MRN|WWH-118204]]
+DOB: [[DATE_OF_BIRTH|01/09/1994]]   Age: [[AGE|31]]          Language: Vietnamese (interpreter [[PERSON|Tran]], ID [[ID_NUMBER|V-2231]], in person)
+Visit date: [[DATE|October 6, 2025]]            Provider: [[PERSON|Adaeze Nwosu]], MD, FACOG
+Insurance: [[ORGANIZATION?|Texas Medicaid / CHIP Perinatal]]  ID [[HEALTH_PLAN_ID|523118974]]
+Partner: [[PERSON|Bùi Quang Huy]] (present for visit), cell [[PHONE|832-819-0457]]
+
+OB SUMMARY
+  [[SEXUAL_REPRODUCTIVE_HEALTH|G3 P1011]]    LMP [[DATE|06/23/2025]] (certain)    EDD [[DATE|03/30/2026]] by LMP c/w 8w US
+  Gestational age today: [[SEXUAL_REPRODUCTIVE_HEALTH|14w 2d]]
+  OB history:
+    1) [[DATE?|2016]] -- [[SEXUAL_REPRODUCTIVE_HEALTH|elective termination of pregnancy, 7 weeks, medication (mifepristone/
+       misoprostol)]], no complications
+    2) [[DATE?|2020]] -- [[SEXUAL_REPRODUCTIVE_HEALTH|SVD at 39w1d, female 3,240 g]], 2nd degree laceration, uncomplicated
+    3) Current
+  Gyn history: [[SEXUAL_REPRODUCTIVE_HEALTH|Chlamydia 2018, treated, TOC negative]]. Last Pap [[DATE?|05/2023]] NILM, HPV neg.
+  Contraception prior to pregnancy: [[SEXUAL_REPRODUCTIVE_HEALTH|combined OCP, stopped 04/2025 to conceive]].
+
+SUBJECTIVE
+  Pt reports nausea improving, vomiting 1x/day (was 4-5x). Tolerating [[MEDICATION?|doxylamine-pyridoxine]].
+  No vaginal bleeding, no cramping, no LOF, no dysuria. Mild fatigue. Denies headache,
+  visual changes. Fetal movement not yet perceived (expected).
+  Pt asks whether fetal sex is known -- yes from NIPT; pt and partner WISH TO KNOW
+  (disclosed today, see below). Pt asks about tubal sterilization at delivery.
+
+  Psychosocial: lives with partner and 5-year-old daughter, [[PERSON MINOR|Bảo Ngọc]], in an apartment at
+  [[ADDRESS|8100 Corporate Dr #1417, Houston TX 77036]]. Works as a nail technician at [[EMPLOYER|Lotus Nails &
+  Spa]] in the [[INDIRECT_LOCATION|Bellaire Chinatown strip next to the pho restaurant]]; concerned about
+  solvent exposure. IPV screen (HITS): 4 -- negative. EPDS: 6.
+  [[SUBSTANCE_USE?|Tobacco: none. EtOH: none since LMP. Drugs: none.]]
+
+OBJECTIVE
+  BP 108/66   P 82   Wt 54.9 kg (pre-preg 53.0)   BMI 21.6   Urine: prot neg, glu neg
+  FHT 156 bpm by Doppler.
+  Abd soft, non-tender. Fundus not palpable above symphysis.
+  Ultrasound (bedside, limited): single [[SEXUAL_REPRODUCTIVE_HEALTH|intrauterine pregnancy]], CRL 80.1 mm c/w 14w1d,
+  NT previously 1.4 mm (normal), placenta posterior.
+
+LABS
+  Prenatal panel ([[DATE|08/14/2025]]): Blood type A POS, antibody screen neg, Hgb 11.8,
+  Plt 241, rubella immune, varicella immune, HBsAg neg, HCV Ab neg,
+  [[SEXUAL_REPRODUCTIVE_HEALTH|HIV 1/2 Ag/Ab nonreactive]], [[SEXUAL_REPRODUCTIVE_HEALTH|RPR nonreactive]], [[SEXUAL_REPRODUCTIVE_HEALTH|GC/CT NAAT negative]], urine culture neg,
+  Hgb electrophoresis: [[MEDICAL_CONDITION|alpha-thalassemia trait (silent carrier) suspected]], MCV 74.
+  NIPT (cell-free DNA, [[DATE|09/22/2025]]): low risk T21/T18/T13/sex chromosome aneuploidy;
+  [[SEXUAL_REPRODUCTIVE_HEALTH|fetal sex: female]].
+
+[[ORGANIZATION?|Westside Women's Health Associates]] -- Prenatal Visit -- [[PERSON|LE, THI KIM THUY]] -- DOB [[DATE_OF_BIRTH|01/09/1994]] -- Chart [[MRN|WWH-118204]]
+Page 2 of 2
+----------------------------------------------------------------------------------------------
+
+ASSESSMENT
+  1. [[SEXUAL_REPRODUCTIVE_HEALTH|Intrauterine pregnancy at 14w2d]], dating confirmed (Z3A.14)
+  2. [[MEDICAL_CONDITION?|Nausea and vomiting of pregnancy]], improving (O21.0)
+  3. [[MEDICAL_CONDITION|Microcytosis -- probable alpha-thalassemia carrier]] (D56.3)
+  4. [[SEXUAL_REPRODUCTIVE_HEALTH|History of elective abortion]] (Z87.59 not applicable -- coded O09.299 supervision of
+     pregnancy w/ other poor reproductive history: N/A; documented for history only)
+  5. Occupational chemical exposure, low level (Z57.5)
+  6. [[SEXUAL_REPRODUCTIVE_HEALTH|Desires permanent sterilization]]
+
+PLAN
+  - Partner carrier screening: Hgb electrophoresis + CBC for Mr. [[PERSON|Bùi]] ordered today; if
+    partner is also a carrier, refer MFM (Dr. [[PERSON|Sandeep Kulkarni]]) for genetic counseling and
+    possible CVS/amniocentesis.
+  - Continue PNV with iron, [[MEDICATION?|doxylamine-pyridoxine]] PRN.
+  - Low-dose aspirin NOT indicated (no risk factors).
+  - Anatomy ultrasound at 19-20 weeks: [[DATE|Nov 3, 2025]] 9:30 a.m. -- MFM suite.
+  - Occupational: recommended nitrile gloves, N95 or respirator when using acrylics,
+    ventilation; letter for employer provided at patient request (states "pregnant,
+    should avoid prolonged solvent exposure" -- patient approved wording).
+  - Sterilization: Medicaid Title XIX sterilization consent (HHS-687) reviewed with
+    interpreter; pt signed today [[DATE|10/06/2025]]; 30-day waiting period begins; valid
+    through 180 days. Pt aware it is permanent; alternatives (LARC, vasectomy for partner)
+    discussed.
+  - Influenza vaccine given today (lot FL4471B, L deltoid). Tdap at 27-36 weeks.
+  - RTC 4 weeks.
+
+  Time: 30 minutes, including interpreter.
+
+  [[PERSON|Adaeze Nwosu]], MD, FACOG     NPI [[NPI|2230952188]]
+  e-signed [[DATE|10/06/2025]] 11:58
+
+  Interpreter attestation: I interpreted the above encounter from English to Vietnamese
+  and Vietnamese to English accurately. -- [[PERSON|Tran Minh Chau]], CHI   ID [[ID_NUMBER|V-2231]]
+
+cc: Patient portal ([[USERNAME|thuyle0109]]), [[ORGANIZATION?|Gulfgate Southwest Hospital]] L&D (prenatal record copy at
+    28 weeks).

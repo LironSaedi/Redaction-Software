@@ -1,0 +1,200 @@
+                                                                        Page 1
+ 1                       CAUSE NO. [[CASE_NUMBER|D-1-GN-25-002918]]
+ 2   [[PERSON|MARIA ELENA DELGADO-RUIZ]],   )    IN THE DISTRICT COURT OF
+     Individually and as Next     )
+ 3   Friend of [[PERSON MINOR|M.A.R.]], a Minor,    )
+          Plaintiff,              )
+ 4                                )
+     VS.                          )    [[LOCATION?|TRAVIS COUNTY]], TEXAS
+ 5                                )
+     [[PERSON|HUNTER JAMES WELLS]] and        )
+ 6   [[ORGANIZATION?|SWIFTLINE FREIGHT LLC]],        )
+          Defendants.             )    345TH JUDICIAL DISTRICT
+ 7
+ 8   ******************************************************************
+ 9                 ORAL AND VIDEOTAPED DEPOSITION OF
+10                         [[PERSON|HUNTER JAMES WELLS]]
+11                         [[DATE|JULY 29, 2025]]
+12   ******************************************************************
+13
+14        ORAL AND VIDEOTAPED DEPOSITION OF [[PERSON|HUNTER JAMES WELLS]],
+15   produced as a witness at the instance of the Plaintiff, and duly
+16   sworn, was taken in the above-styled and numbered cause on the
+17   [[DATE|29th day of July, 2025]], from 9:32 a.m. to 1:14 p.m., before
+18   [[PERSON|Tamara J. Hollis]], CSR in and for the State of Texas, reported by
+19   machine shorthand, at the offices of [[ORGANIZATION?|Kim & Abernathy PLLC]],
+20   [[ADDRESS?|600 Congress Avenue, Suite 1450]], [[ADDRESS?|Austin, Texas 78701]], pursuant to
+21   the Texas Rules of Civil Procedure and the provisions stated on
+22   the record or attached hereto.
+23
+24
+25
+                                                                        Page 2
+ 1                       A P P E A R A N C E S
+ 2
+ 3   FOR THE PLAINTIFF:
+ 4        Ms. [[PERSON|Rachel Kim]]
+          Mr. [[PERSON|Jordan Abernathy]]
+ 5        [[ORGANIZATION?|KIM & ABERNATHY PLLC]]
+          [[ADDRESS?|600 Congress Avenue, Suite 1450]]
+ 6        [[ADDRESS?|Austin, Texas 78701]]
+          [[PHONE|(512) 480-3300]]
+ 7        [[EMAIL|rkim@kimabernathy.com]]
+ 8   FOR THE DEFENDANTS [[PERSON|HUNTER JAMES WELLS]] AND [[ORGANIZATION?|SWIFTLINE FREIGHT LLC]]:
+ 9        Ms. [[PERSON|Courtney Ashford]]
+          [[ORGANIZATION?|HOLLOWAY BRANDT & PIERCE LLP]]
+10        [[ADDRESS?|111 Congress Avenue, Suite 2700]]
+          [[ADDRESS?|Austin, Texas 78701]]
+11        [[PHONE|512.474.9100]]
+          [[EMAIL|cashford@hbplaw.com]]
+12
+13   ALSO PRESENT:
+14        [[PERSON|Gina Tolliver]], Safety Director, [[ORGANIZATION?|Swiftline Freight LLC]]
+          [[PERSON|Marco Ibarra]], Videographer, [[ORGANIZATION?|Lone Star Legal Video]]
+15        [[PERSON|Maria Delgado-Ruiz]] (from 10:40 a.m.)
+16
+17                            I N D E X
+18                                                           PAGE
+19   Examination by Ms. [[PERSON|Kim]] .................................  5
+     Examination by Ms. [[PERSON|Ashford]] .............................. 118
+20   Reporter's Certificate .................................. 131
+21
+22                         E X H I B I T S
+23   NO.   DESCRIPTION                                        PAGE
+     12    Driver Qualification File (SWIFT 000211-000298)       41
+24   13    ELD log, [[DATE|3/14/25]] (SWIFT 000412-000415)                 63
+     14    Lytx event video still frames (SWIFT 000901-000906)   77
+25   15    Meridian Wireless call detail records                 88
+                                                                        Page 8
+ 1        Q.   (BY MS. [[PERSON|KIM]]) Please state your full name for the record.
+ 2        A.   [[PERSON|Hunter James Wells]].
+ 3        Q.   And your date of birth, Mr. [[PERSON|Wells]]?
+ 4        A.   [[DATE_OF_BIRTH|November 2nd, '79]].
+ 5        Q.   Where do you live?
+ 6        A.   [[ADDRESS|3318 Wagon Trail Road]], [[LOCATION?|Lockhart]].
+ 7        Q.   Who lives there with you?
+ 8        A.   My wife, [[PERSON|Tammy]], and my youngest, [[PERSON|Colt]]. He's [[AGE|19]]. And my
+ 9   mother-in-law stays with us part of the year.
+10        Q.   What's your cell phone number?
+11        A.   [[PHONE|512-398-0047]].
+12        Q.   Is that the same number you had on [[DATE|March 14th]] of this
+13   year?
+14        A.   Yes, ma'am.
+15        Q.   Who is the carrier on that phone?
+16        A.   Meridian. It's on my wife's plan.
+17        Q.   Do you have a Facebook or Instagram?
+18        A.   Facebook. It's "[[USERNAME|Hunter Wells Lockhart]]," I think. I don't really
+19   post. My wife posts.
+20        Q.   Any other names you've gone by?
+21        A.   "[[PERSON|Bubba]]," growing up. That's it.
+22        Q.   How long have you held a commercial driver's license?
+23        A.   Since 2004. Class A.
+24        Q.   Your CDL number is [[DRIVERS_LICENSE|28471936]]?
+25        A.   If that's what it says. I don't know it by heart.
+                                                                        Page 9
+ 1        Q.   Before [[EMPLOYER|Swiftline]], where did you work?
+ 2        A.   I drove for [[EMPLOYER|Caliche Transport]] out of [[LOCATION?|San Marcos]] about eleven
+ 3   years. Then [[EMPLOYER|Hill Country Aggregates]], dump truck, two years. I started
+ 4   at [[EMPLOYER|Swiftline]] in [[DATE?|August of '21]].
+ 5        Q.   Why did you leave [[EMPLOYER|Caliche]]?
+ 6        A.   They were sold.
+ 7        Q.   Were you ever terminated by any employer?
+ 8        A.   No.
+ 9        Q.   Have you ever been arrested?
+10             MS. [[PERSON|ASHFORD]]:  Objection, form.
+11        A.   [[CRIMINAL_HISTORY|In 2008. DWI. In Caldwell County. I got probation]] and did
+12   the classes.
+13        Q.   (BY MS. [[PERSON|KIM]]) Was that disclosed to [[EMPLOYER|Swiftline]] when you applied?
+14        A.   It's on my MVR, so yes. It was more than ten years.
+15        Q.   Any medical conditions that affect your driving?
+16        A.   I have [[MEDICAL_CONDITION|sleep apnea]]. I use a [[MEDICAL_CONDITION?|CPAP]]. I'm compliant, I
+17   have the card from my DOT doctor.
+18        Q.   Who is your DOT medical examiner?
+19        A.   Dr. [[PERSON|Patel]] at [[ORGANIZATION?|WorkWell]] in [[LOCATION?|Kyle]].
+20        Q.   Do you take any medications?
+21        A.   [[MEDICATION|Lisinopril]] for [[MEDICAL_CONDITION|blood pressure]], [[MEDICATION|metformin]]. That's it.
+22        Q.   [[MEDICATION|Metformin]] is for [[MEDICAL_CONDITION|diabetes]]?
+23        A.   [[MEDICAL_CONDITION|Pre-diabetes]], he says. [[MEDICAL_CONDITION|Type 2 borderline]].
+24        Q.   Anything for sleep or anxiety, anything like that?
+25        A.   No ma'am.
+                                                                        Page 63
+ 1        Q.   Let's look at Exhibit 13, the ELD log. You went on duty at
+ 2   3:12 a.m. on [[DATE|March 14th]]?
+ 3        A.   That sounds right. I picked up the load at the
+ 4   [[INDIRECT_LOCATION|H-E-B distribution center in San Marcos]] at 4:00.
+ 5        Q.   And the collision was at 5:38 p.m.?
+ 6        A.   Yes.
+ 7        Q.   So you'd been on duty about 14 hours and 26 minutes?
+ 8             MS. [[PERSON|ASHFORD]]:  Objection, form, misstates the document.
+ 9   There's a 10-hour break --
+10             MS. [[PERSON|KIM]]:  No speaking objections, Counsel.
+11        A.   I had a 45-minute break in Temple. I wasn't over my hours.
+12        Q.   (BY MS. [[PERSON|KIM]]) What were you doing in the 30 seconds before
+13   the collision?
+14        A.   Driving. I was talking to [[PERSON|Darnell]] in dispatch on the
+15   headset about my next pickup.
+16        Q.   Was the phone in your hand?
+17        A.   No. It was in the mount.
+18        Q.   Were you looking at the phone?
+19        A.   I might have glanced at the map. For a second.
+20        Q.   What color was the signal when you first saw it?
+21        A.   Green. Then yellow. I was committed. With 70,000 pounds you
+22   can't just stop.
+23        Q.   Mr. [[PERSON|Wells]], I'm going to show you what's been marked as Exhibit
+24   14. This is a still from your inward-facing camera at 17:37:58.
+25   Where are your eyes?
+                                                                        Page 64
+ 1        A.   Looking down.
+ 2        Q.   At what?
+ 3        A.   I don't remember. Probably the phone. The map.
+ 4        Q.   And here at 17:38:01, the outward camera shows the signal.
+ 5   What color is it?
+ 6             MS. [[PERSON|ASHFORD]]:  Objection, form.
+ 7        A.   It's red on there. But the camera's -- I don't know if the
+ 8   timing's right on these.
+ 9        Q.   (BY MS. [[PERSON|KIM]]) You told the officer "it was yellow." True?
+10        A.   That's what I believed.
+11        Q.   You told a witness at the scene, Mr. [[PERSON|Carter]], "I looked down for
+12   one second." True?
+13        A.   I don't remember saying that.
+14        Q.   After the crash, did you call anybody before 911?
+15        A.   I called [[PERSON|Darnell]] back. Then my wife.
+16        Q.   What did you tell your wife?
+17        A.   That I'd hit a car and there was a little kid in it and I
+18   was going to lose my job. I was upset.
+19        Q.   Did [[EMPLOYER|Swiftline]] discipline you?
+20        A.   I was suspended two weeks without pay. Then they put me on
+21   local routes. My pay went from about [[FINANCIAL_INFO|$1,900 a week to about $1,350]].
+22        Q.   Have you ever had another accident in a commercial vehicle?
+23        A.   One in 2017, I backed into a pole at a [[INDIRECT_LOCATION|Love's in Waco]]. No
+24   injuries.
+25        Q.   Any citations in the past five years?
+                                                                        Page 131
+ 1                   REPORTER'S CERTIFICATE
+ 2        I, [[PERSON|Tamara J. Hollis]], Certified Shorthand Reporter in and for
+ 3   the State of Texas, hereby certify to the following:
+ 4        That the witness, [[PERSON|HUNTER JAMES WELLS]], was duly sworn by the
+ 5   officer and that the transcript of the oral deposition is a true
+ 6   record of the testimony given by the witness;
+ 7        That the deposition transcript was submitted on
+ 8   [[DATE|August 4, 2025]], to the witness or to the attorney for the witness for
+ 9   examination, signature and return to me by [[DATE|September 3, 2025]];
+10        That the amount of time used by each party at the deposition
+11   is as follows: Ms. [[PERSON|Kim]] -- 3 hours 21 minutes; Ms. [[PERSON|Ashford]] --
+12   9 minutes;
+13        That pursuant to information given to the deposition officer
+14   at the time said testimony was taken, the following includes
+15   counsel for all parties of record: (see Appearances).
+16        I further certify that I am neither counsel for, related to,
+17   nor employed by any of the parties in the action in which this
+18   proceeding was taken, and further that I am not financially or
+19   otherwise interested in the outcome of the action.
+20        Certified to by me this [[DATE|4th day of August, 2025]].
+21                     /s/ [[PERSON|Tamara J. Hollis]]
+                       [[PERSON|Tamara J. Hollis]], Texas CSR No. [[ID_NUMBER|7741]]
+22                     Expiration Date: [[DATE|12/31/2026]]
+                       [[ORGANIZATION?|Capital City Court Reporters]], Firm Reg. No. 1188
+23                     [[ADDRESS?|P.O. Box 4120]], [[ADDRESS?|Austin, Texas 78765]]
+                       [[PHONE|512-477-2290]]
+24
+25

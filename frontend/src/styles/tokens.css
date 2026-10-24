@@ -1,0 +1,182 @@
+/* Obscura Redaction Studio — design tokens. System fonts only; no external resources.
+   Light theme by default; the theme toggle sets <html data-theme="dark">. */
+
+:root {
+  /* ---- type -------------------------------------------------------------------------------------- */
+  --font: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+  --fs-2xs: 0.6875rem; /* 11px */
+  --fs-xs: 0.75rem; /* 12px */
+  --fs-sm: 0.8125rem; /* 13px */
+  --fs-md: 0.875rem; /* 14px — body */
+  --fs-lg: 1rem; /* 16px */
+  --fs-xl: 1.125rem; /* 18px */
+  --fs-2xl: 1.375rem; /* 22px */
+  --fw-regular: 420;
+  --fw-medium: 540;
+  --fw-semibold: 620;
+  --fw-bold: 700;
+  --lh-tight: 1.25;
+  --lh: 1.45;
+
+  /* ---- spacing (4px grid, with 2/6px half steps for dense controls) ---------------------------------- */
+  --sp-1: 2px;
+  --sp-2: 4px;
+  --sp-3: 6px;
+  --sp-4: 8px;
+  --sp-5: 12px;
+  --sp-6: 16px;
+  --sp-7: 20px;
+  --sp-8: 24px;
+  --sp-9: 32px;
+  --sp-10: 40px;
+
+  /* ---- radii ----------------------------------------------------------------------------------------- */
+  --r-xs: 3px;
+  --r-sm: 5px;
+  --r-md: 7px;
+  --r-lg: 10px;
+  --r-xl: 14px;
+  --r-pill: 999px;
+  --radius: var(--r-md);
+  --radius-sm: var(--r-sm);
+
+  /* ---- control sizes ------------------------------------------------------------------------------- */
+  --h-xs: 22px;
+  --h-sm: 28px;
+  --h-md: 32px;
+  --h-lg: 38px;
+
+  /* ---- motion -------------------------------------------------------------------------------------- */
+  --dur-1: 90ms;
+  --dur-2: 160ms;
+  --dur-3: 260ms;
+  --ease: cubic-bezier(0.2, 0.7, 0.3, 1);
+
+  /* ---- layers -------------------------------------------------------------------------------------- */
+  --z-sticky: 5;
+  --z-float: 20;
+  --z-popover: 50;
+  --z-modal: 100;
+  --z-toast: 200;
+  --z-tip: 300;
+
+  /* ---- layout ------------------------------------------------------------------------------------------ */
+  --side-w: 384px;
+  --nav-w: 224px;
+
+  /* ---- colour: neutrals -------------------------------------------------------------------------------- */
+  --bg: #f2f4f7;
+  --surface: #ffffff;
+  --surface-2: #f8f9fb;
+  --surface-3: #eef0f4;
+  --surface-4: #e4e7ec;
+  --border: #dde1e7;
+  --border-strong: #c3c9d3;
+  --text: #171b23;
+  --text-2: #444c5a;
+  --muted: #687284;
+  --placeholder: #8c95a5;
+
+  /* ---- colour: brand & state -------------------------------------------------------------------------- */
+  --primary: #2a4b8d;
+  --primary-hover: #223f78;
+  --primary-active: #1b3363;
+  --primary-soft: #e8eef9;
+  --primary-softer: #f3f6fc;
+  --on-primary: #ffffff;
+  --focus: #3b7cf0;
+  --focus-ring: 0 0 0 3px rgba(59, 124, 240, 0.32);
+  --ok: #157347;
+  --ok-soft: #e2f3e9;
+  --warn: #93590a;
+  --warn-strong: #b26a00;
+  --warn-soft: #fff2d9;
+  --bad: #bf2630;
+  --bad-soft: #fde8e8;
+  --info: #1c5db3;
+  --info-soft: #e5eefb;
+
+  /* ---- colour: shell ------------------------------------------------------------------------------------ */
+  --nav-bg: #1a2130;
+  --nav-text: #c3cbdb;
+  --nav-muted: #7a8498;
+  --nav-active: #2b3650;
+  --nav-accent: #6d95e3;
+
+  /* ---- colour: review workspace --------------------------------------------------------------------------- */
+  --viewer-bg: #d8dce3;
+  --page-shadow: 0 1px 3px rgba(15, 23, 42, 0.18), 0 6px 22px rgba(15, 23, 42, 0.14);
+  --redact: #0b0d12;
+  /* "see behind the redaction" in edit mode */
+  --redact-veil: rgba(11, 13, 18, 0.36);
+  --suggest-hover: rgba(59, 124, 240, 0.12);
+  --search-hit: rgba(255, 205, 0, 0.42);
+  --search-hit-stroke: #c99a00;
+  --text-select: rgba(59, 124, 240, 0.33);
+  --draw: #3b7cf0;
+
+  /* ---- shadows ----------------------------------------------------------------------------------------- */
+  --shadow-xs: 0 1px 1px rgba(16, 24, 40, 0.04);
+  --shadow-sm: 0 1px 2px rgba(16, 24, 40, 0.06), 0 1px 3px rgba(16, 24, 40, 0.08);
+  --shadow-md: 0 4px 12px rgba(16, 24, 40, 0.1), 0 1px 3px rgba(16, 24, 40, 0.06);
+  --shadow-lg: 0 12px 32px rgba(16, 24, 40, 0.18);
+  --shadow-overlay: 0 24px 56px rgba(16, 24, 40, 0.28);
+  --shadow: var(--shadow-sm);
+
+  color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+  --bg: #11141b;
+  --surface: #181d27;
+  --surface-2: #1d2330;
+  --surface-3: #252c3a;
+  --surface-4: #2e3646;
+  --border: #2c3443;
+  --border-strong: #3d475a;
+  --text: #e6e9ef;
+  --text-2: #b7bfcd;
+  --muted: #8a94a7;
+  --placeholder: #6c7689;
+
+  --primary: #6b93e0;
+  --primary-hover: #82a5e8;
+  --primary-active: #98b5ee;
+  --primary-soft: #222f4a;
+  --primary-softer: #1c2638;
+  --on-primary: #0c1220;
+  --focus: #7aa7ff;
+  --focus-ring: 0 0 0 3px rgba(122, 167, 255, 0.35);
+  --ok: #4cc38a;
+  --ok-soft: #15301f;
+  --warn: #f0b44c;
+  --warn-strong: #f5c26b;
+  --warn-soft: #372a12;
+  --bad: #ff6b6b;
+  --bad-soft: #3b191c;
+  --info: #7aa7ff;
+  --info-soft: #1b2842;
+
+  --nav-bg: #0c0f15;
+  --nav-text: #aab3c5;
+  --nav-muted: #6a7486;
+  --nav-active: #1f2738;
+  --nav-accent: #7aa7ff;
+
+  --viewer-bg: #0b0e13;
+  --page-shadow: 0 1px 3px rgba(0, 0, 0, 0.5), 0 8px 26px rgba(0, 0, 0, 0.5);
+  --redact: #000000;
+  --redact-veil: rgba(0, 0, 0, 0.42);
+  --suggest-hover: rgba(122, 167, 255, 0.16);
+  --text-select: rgba(122, 167, 255, 0.35);
+  --draw: #7aa7ff;
+
+  --shadow-xs: 0 1px 1px rgba(0, 0, 0, 0.3);
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.4);
+  --shadow-md: 0 4px 14px rgba(0, 0, 0, 0.45);
+  --shadow-lg: 0 12px 32px rgba(0, 0, 0, 0.55);
+  --shadow-overlay: 0 24px 56px rgba(0, 0, 0, 0.6);
+
+  color-scheme: dark;
+}

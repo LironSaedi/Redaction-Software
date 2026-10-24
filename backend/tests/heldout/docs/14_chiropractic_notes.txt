@@ -1,0 +1,111 @@
+[[ORGANIZATION?|LYLE FAMILY CHIROPRACTIC & REHAB]]
+[[ADDRESS?|2111 W. Anderson Ln, Ste C]] -- [[ADDRESS?|Austin, TX 78757]] -- [[PHONE|(512) 458-2273]] -- fax [[PHONE|(512) 458-2279]]
+[[PERSON|Brandon T. Lyle]], D.C.  |  [[PERSON|Kristen Ashby-Lyle]], D.C.
+
+DAILY TREATMENT NOTES (SOAP)                                            Printed [[DATE|05/02/2025]]
+Patient: [[PERSON|PARK, HYUN-WOO]]   ("[[PERSON|Henry]]")      Acct: [[MRN|LFC-10388]]      DOB: [[DATE_OF_BIRTH|10/05/1982]]
+Case type: PI -- auto (rear-end)   DOI: [[DATE|01/22/2025]]
+Billing: Letter of Protection -- [[ORGANIZATION?|Kim & Abernathy PLLC]]; PIP: [[ORGANIZATION?|Lakeshore General Ins.]] claim [[CLAIM_NUMBER|LG-25-0122-30418]]
+==============================================================================================
+
+VISIT 1 -- [[DATE|01/24/2025]] -- New patient exam (99204, 72040, 72100)        Provider: [[PERSON|B. Lyle]], DC
+S: [[AGE|42]] y/o M food-truck owner/operator presents 2 days s/p rear-end MVC. Pt was stopped in
+   traffic on [[INDIRECT_LOCATION|southbound MoPac just past the Far West Blvd exit]] when struck from behind by a
+   pickup (other driver's insurer: [[ORGANIZATION?|Lakeshore General]]). Pt was driving his [[VEHICLE_DESCRIPTION|black 2019 Honda
+   Odyssey]] used to haul supplies. Head snapped back against headrest. No LOC. Went to
+   [[ORGANIZATION?|MinuteMed]] same day -- x-rays negative per pt, given [[MEDICATION?|ibuprofen]] and [[MEDICATION?|methocarbamol]].
+   C/o neck pain 7/10, low back pain 6/10, HA (occipital) 5/10, L shoulder blade pain.
+   Pain worse with lifting propane tanks and 40-lb boxes, standing at the flat-top grill > 2 h.
+   Prior hx: none for neck. "Tweaked" low back in 2022 lifting a generator, 2 chiro visits
+   elsewhere ([[ORGANIZATION?|Spine & Sport ATX]]), resolved.
+O: Posture: forward head, L shoulder elevated. Palp: hypertonicity/trigger points bilat upper
+   trap, L levator, L rhomboid, bilat lumbar paraspinals L3-S1. Subluxation/segmental
+   dysfunction: C1, C5, T4, L5, R SI.
+   Cervical ROM (dual inclinometer):  Flex 35/50  Ext 30/60  LLB 25/45  RLB 30/45  LRot 50/80  RRot 55/80
+   Lumbar ROM:  Flex 45/60  Ext 15/25  LLB 20/25  RLB 20/25
+   Ortho: Cervical distraction (+) relief; Max foraminal compression (+) L local pain; Shoulder
+   depression (+) L; SLR (-) bilat; Kemp's (+) R; Yeoman's (+) R.
+   Neuro: DTR 2+ symmetric; dermatomes intact; myotomes 5/5.
+   X-ray (in-office): loss of cervical lordosis (Jackson's angle 12 deg); no fx; mild L4-5 DDD.
+A: [[MEDICAL_CONDITION?|Cervical sprain/strain (S13.4XXA); thoracic sprain (S23.3XXA); lumbar sprain (S33.5XXA);
+   cervicogenic HA (G44.309); SI sprain (S33.6XXA)]].
+P: CMT 3-4 regions (98941), manual therapy 97140 x1, e-stim unattended G0283, moist heat 97010.
+   3x/wk x 4 wks, re-eval. Home: ice 20 min, avoid heavy lifting; work note -- limit lifting
+   to 20 lb x 2 wks (pt states "I can't, it's just me and my cousin on the truck").
+
+VISIT 2 -- [[DATE|01/27/2025]] -- 98941, 97140, G0283                              [[PERSON|B. Lyle]], DC
+S: Neck 7/10, LBP 5/10. Slept poorly. Worked Sat lunch at [[INDIRECT_LOCATION|the Mueller farmers market]].
+O: Hypertonicity unchanged. C ROM: Rot L 50, R 55.
+A: No change. P: Continue.
+
+VISIT 3 -- [[DATE|01/29/2025]] -- 98941, 97140, 97110 x1                          [[PERSON|K. Ashby-Lyle]], DC
+S: Neck 6/10, LBP 5/10, HA 2-3x/wk. Pt asks if he can use his gym membership -- told no heavy
+   lifting yet.
+O: Mild improvement in L levator tone. C Ext 35.
+A: Improving slowly. P: Begin chin tucks, scapular retraction; 97110 added.
+
+[[ORGANIZATION?|Lyle Family Chiropractic]] -- [[PERSON|PARK, HYUN-WOO]] -- DOB [[DATE_OF_BIRTH|10/05/1982]] -- Acct [[MRN|LFC-10388]]          Page 2 of 3
+==============================================================================================
+
+VISIT 4 -- [[DATE|02/03/2025]] -- 98941, 97140, 97110 x2                          [[PERSON|B. Lyle]], DC
+S: 5/10 neck, 4/10 back. Pt reports he took 4 days off the truck, lost "about a grand" of
+   business. HA 2x this week.
+O: C ROM Flex 40 Ext 40 LRot 60 RRot 65. Trigger points reduced. Kemp's (+) R mild.
+A: Improving. P: Same.
+
+VISIT 5 -- [[DATE|02/05/2025]]  NO SHOW. Called pt [[PHONE|737-215-8890]] -- LVM.
+
+VISIT 6 -- [[DATE|02/10/2025]] -- 98941, 97140, 97110 x2, G0283                   [[PERSON|B. Lyle]], DC
+S: Missed last appt -- "catering a wedding in [[LOCATION?|Dripping Springs]]." Neck 6/10 after
+   catering (lifted chafing racks). LBP 5/10.
+O: Flare L upper trap / levator. C ROM Ext 35, LRot 55.
+A: Exacerbation with work activity. P: Re-educate; continue.
+
+VISITS 7-12 -- [[DATE|02/12]], [[DATE|02/14]], [[DATE|02/17]], [[DATE|02/19]], [[DATE|02/24]], [[DATE|02/26/2025]] -- 98941, 97140, 97110 x2
+   (Summary, all [[PERSON|B. Lyle]], DC): Neck trending 6 -> 4/10; LBP 5 -> 3/10; HA 1x/wk.
+   [[DATE|2/24]]: pt reports [[MENTAL_HEALTH?|"rear-ended dream" and anxiety merging on MoPac]] -- now takes Burnet Rd.
+
+RE-EXAM -- [[DATE|03/03/2025]] -- 99213-25, 98941, 97750 (FCE screen)              [[PERSON|B. Lyle]], DC
+   Cervical ROM: Flex 45/50  Ext 45/60  LLB 35/45  RLB 40/45  LRot 65/80  RRot 70/80
+   Lumbar ROM:   Flex 55/60  Ext 20/25  LLB 25/25  RLB 25/25
+   NDI 34% (moderate); Oswestry 22% (moderate); NPRS neck 4, LB 3.
+   Lift (floor-waist): 35 lb occasional (needs 50 lb for job).
+   Plan: 2x/wk x 4 wks; refer for MRI C-spine (pt agrees -- self-pay rate quoted [[MONEY?|$475]] at
+   [[ORGANIZATION?|Lakeway Open MRI]]); refer Dr. [[PERSON|Whitfield]] if MRI shows HNP.
+
+VISITS 14-20 -- [[DATE|03/05/2025]] through [[DATE|03/31/2025]] -- 98941, 97140, 97110
+   Neck 4 -> 3/10. LBP 3 -> 2/10. MRI [[DATE|03/12/2025]]: C5-6 2 mm bulge, C6-7 2.5 mm L
+   paracentral protrusion, mild L foraminal narrowing. No cord compression.
+
+[[ORGANIZATION?|Lyle Family Chiropractic]] -- [[PERSON|PARK, HYUN-WOO]] -- DOB [[DATE_OF_BIRTH|10/05/1982]] -- Acct [[MRN|LFC-10388]]          Page 3 of 3
+==============================================================================================
+
+DISCHARGE EXAM -- [[DATE|04/07/2025]] -- 99213, 98941                               [[PERSON|B. Lyle]], DC
+S: Neck 2-3/10, intermittent; LBP 1-2/10. HA rare. Back to full schedule on the truck, but
+   "I pay my cousin to do the propane and the heavy stuff now" (~[[MONEY?|$200]]/wk).
+O: Cervical ROM: Flex 50 Ext 50 LLB 40 RLB 45 LRot 70 RRot 75.  Lumbar full, pain-free.
+   NDI 16%; Oswestry 8%.
+A: [[MEDICAL_CONDITION?|Cervical sprain/strain with C6-7 disc protrusion]] -- plateau; residual
+   intermittent pain with heavy lifting. MMI from chiropractic standpoint. Prognosis: fair-guarded
+   for the cervical spine given disc findings; good for lumbar.
+P: Discharged to home exercise program. PRN flare-up care 6-12 visits/yr. Ortho/spine consult
+   recommended (Dr. [[PERSON|Whitfield]], [[PHONE|512-434-7902]]).
+
+TOTAL VISITS: 21 attended, 1 no-show.     TOTAL CHARGES: [[MONEY?|$6,845.00]]     PAID: [[MONEY?|$0.00]] (LOP)
+
+ITEMIZED CHARGES (abbrev.)
+  99204 x1 [[MONEY?|$285]]  |  72040 x1 [[MONEY?|$145]]  |  72100 x1 [[MONEY?|$145]]  |  98941 x21 [[MONEY?|$95]] = [[MONEY?|$1,995]]
+  97140 x20 [[MONEY?|$75]] = [[MONEY?|$1,500]]  |  97110 x34 units [[MONEY?|$55]] = [[MONEY?|$1,870]]  |  G0283 x12 [[MONEY?|$35]] = [[MONEY?|$420]]
+  97010 x8 [[MONEY?|$20]] = [[MONEY?|$160]]  |  99213 x2 [[MONEY?|$150]] = [[MONEY?|$300]]  |  97750 x1 [[MONEY?|$25]]
+
+Patient info on file:
+  Address: [[ADDRESS|4512 Avenue F]], [[ADDRESS|Austin TX 78751]]   Cell: [[PHONE|737-215-8890]]
+  Email: [[EMAIL|henry.park@seoulfoodatx.com]]   Instagram (for appointment DMs): [[USERNAME|@seoulfoodatx]]
+  Emergency contact: [[PERSON|Ji-eun Park]] (wife) [[PHONE|737.215.8891]]
+  Health ins: none (pt states "too expensive since I went on my own")
+  Card on file (non-LOP items only): Mastercard [[CREDIT_CARD|5336 0549 3093 6415]]  exp [[CARD_EXPIRY|11/27]]  CVV [[CVV|382]]
+             billing ZIP [[ADDRESS?|78751]] -- cardholder [[PERSON|HYUN W PARK]]
+  DL: TX [[DRIVERS_LICENSE|40921187]]
+
+I certify the above records are true and correct. /s/ [[PERSON|Brandon T. Lyle]], D.C., TX Lic. [[ID_NUMBER|DC 9917]]
+NPI [[NPI|2398658387]]

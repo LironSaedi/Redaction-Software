@@ -1,0 +1,13 @@
+Welcome to Obscura Redaction Studio
+
+AI redaction for legal and medical records: documents, photos, audio and video.
+
+  * Private by design. Everything runs on this computer. Nothing is uploaded, ever.
+  * Encrypted. Case files are stored with AES-256 encryption.
+  * No account needed when only this computer uses it. An office can share one server.
+
+After installation, open Obscura from the Start menu. A short setup assistant opens in your browser and guides you
+through the rest (this computer or office server, where to keep case files, AI models).
+
+To remove Obscura later: Settings > Apps > Obscura Redaction Studio > Uninstall, the "Uninstall Obscura" Start-menu
+entry, or the Uninstall button inside the app. You will be asked whether to keep your case files.

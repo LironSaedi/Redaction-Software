@@ -1,0 +1,143 @@
+[[ORGANIZATION?|TRINITY BEHAVIORAL HEALTH HOSPITAL]]
+[[ADDRESS?|2600 N. Stemmons Fwy]], [[ADDRESS?|Dallas, Texas 75207]]  *  Tel [[PHONE|214.630.5500]]  *  Fax [[PHONE|214.630.5591]]
+
+                    INITIAL PSYCHIATRIC EVALUATION -- INPATIENT ADULT UNIT
+
+Patient:  [[PERSON|HADDAD, Ahmed Khalil]]                     MR#: [[MRN|TB-0331907]]
+DOB:      [[DATE_OF_BIRTH|30-Jun-1996]]      Age: [[AGE|29]]                 Unit: [[INDIRECT_LOCATION?|2 North (Adult Acute), Rm 214]]
+Admit:    [[DATE|07-Sep-2025]] 23:40        Eval date: [[DATE|08-Sep-2025]]     Legal status: Emergency Detention
+Attending psychiatrist: [[PERSON|Farah Siddiqui]], MD                 Source: patient, brother, police EDW, outside records
+
+IDENTIFYING DATA
+  Mr. [[PERSON|Haddad]] is a [[DEMOGRAPHIC|29-year-old single Arab-American man]], [[IMMIGRATION_STATUS?|naturalized U.S. citizen]]
+  (born in [[LOCATION?|Amman]], Jordan; emigrated age 12), [[DEMOGRAPHIC|practicing Muslim]], employed as a senior
+  QA engineer at [[EMPLOYER|Tessellate Payments]] in Deep Ellum, who lives alone at [[ADDRESS|5811 Belmont Ave,
+  Apt 214, Dallas, TX 75206]]. He was brought in by Dallas Police on an Emergency Detention
+  Warrant (Tex. Health & Safety Code § 573.001) after his brother called 911.
+
+CHIEF COMPLAINT
+  "I wasn't going to do it tonight. I just wanted it to stop."
+
+HISTORY OF PRESENT ILLNESS
+  Patient reports approximately four months of [[MENTAL_HEALTH|worsening depressed mood, anhedonia,
+  early-morning awakening (3-4 a.m.), 18 lb weight loss, poor concentration, and pervasive
+  hopelessness]] following the end of a two-year engagement in May. He has missed
+  numerous days of work and was placed on a performance improvement plan on [[DATE|08/22/2025]].
+  He describes [[MENTAL_HEALTH|passive suicidal ideation]] for ~6 weeks progressing to [[MENTAL_HEALTH|active ideation
+  with a plan to shoot himself]] over the past 10 days. On [[DATE|August 29, 2025]] he purchased a
+  handgun ([[DEVICE_ID?|Glock 19 Gen5, serial BXKT417]]) from a sporting-goods store. On the evening of
+  admission he texted his brother, [[PERSON|Omar Haddad]], "take care of mama, I'm sorry," and
+  stopped answering his phone. Brother drove from [[LOCATION?|Plano]] and called 911 from the
+  parking lot. DPD officers (Ofc. [[PERSON|K. Villarreal]] #[[LAW_ENFORCEMENT_ID|10882]]) found patient in his apartment
+  with the unloaded handgun and a box of ammunition on the kitchen table and a
+  handwritten letter addressed to his mother. He was cooperative with police.
+
+  He endorses [[SUBSTANCE_USE|drinking 6-8 beers nightly for the past two months]] "to sleep" and
+  [[SUBSTANCE_USE|daily cannabis vaping]] since college. Denies other drugs. BAL on arrival 0.112.
+  Denies [[MENTAL_HEALTH|auditory or visual hallucinations]]; denies paranoia. Denies prior manic
+  episodes, although brother describes a [[MENTAL_HEALTH|4-5 day period in 2020 of decreased need for
+  sleep and excessive spending]] (~[[MONEY?|$9,000]] on electronics) -- clarify.
+
+PAST PSYCHIATRIC HISTORY
+  - [[MENTAL_HEALTH|Major depressive disorder]] first diagnosed age 22 by [[ORGANIZATION?|UT Southwestern student
+    counseling]].
+  - [[MENTAL_HEALTH|One prior psychiatric hospitalization]], [[ORGANIZATION?|Cedar Springs Behavioral Center]], [[DATE?|Nov 2019]],
+    5 days, after an [[MENTAL_HEALTH|intentional overdose of ~30 tablets of diphenhydramine]].
+  - Outpatient: Dr. [[PERSON|Raymond Ochoa]] (psychiatry), last seen [[DATE?|02/2024]]; therapist [[PERSON|Jenna Lisowski]],
+    LPC, until [[DATE?|June 2024]].
+  - Past medications: [[MEDICATION|sertraline]] (GI side effects), [[MEDICATION|bupropion]] (anxiety), currently
+    none -- self-discontinued [[MEDICATION|escitalopram]] 10 mg in [[DATE?|April 2025]].
+  - No history of violence toward others. No self-harm other than above.
+
+SUBSTANCE USE HISTORY
+  Alcohol: as above; [[SUBSTANCE_USE|no history of withdrawal seizures or DTs]]; last drink 21:00 on
+  [[DATE|9/7]]. CIWA monitoring ordered.
+  Cannabis: [[SUBSTANCE_USE|daily, ~1 g THC concentrate/day]].
+  Tobacco: none. Others: [[SUBSTANCE_USE|tried MDMA twice in college]].
+
+[[ORGANIZATION?|TRINITY BEHAVIORAL HEALTH HOSPITAL]]   Initial Psychiatric Evaluation   Pt: [[PERSON|HADDAD, Ahmed K.]]   MR# [[MRN|TB-0331907]]
+DOB [[DATE_OF_BIRTH|06/30/1996]]                                                                       Page 2 of 3
+--------------------------------------------------------------------------------------------------
+
+LEGAL HISTORY
+  [[CRIMINAL_HISTORY|Arrested for DWI in Collin County in 2021; pled to deferred adjudication, completed
+  12 months' community supervision]]. No current charges. No protective orders.
+
+FAMILY PSYCHIATRIC HISTORY
+  Father (deceased 2017, cardiac): [[MENTAL_HEALTH|"nervous breakdowns," likely bipolar I disorder, never
+  treated]]. Paternal uncle: [[MENTAL_HEALTH|completed suicide in Jordan, 1999]]. Mother, [[PERSON|Rania Haddad]] ([[AGE|61]]),
+  [[MENTAL_HEALTH|treated for depression]]. Brother: none.
+
+SOCIAL / DEVELOPMENTAL HISTORY
+  Middle of three children. Arrived in [[LOCATION?|Garland]], TX in 2008. Graduated [[SCHOOL|Naaman Forest High
+  School]] and [[SCHOOL|UT Dallas]] (B.S. Computer Science, 2018). Annual salary [[FINANCIAL_INFO|approximately
+  $118,000]]. Ex-fiancee [[PERSON|Leila]] ended relationship [[DATE|05/11/2025]]. Attends Friday prayers at the
+  [[INDIRECT_LOCATION|mosque on Abrams Rd]] "less and less." Hobbies: soccer, which he has stopped.
+  Supports: brother, mother, one close friend ("[[PERSON|Sami]]"). Has a cat. Owns no other firearms.
+
+MEDICAL HISTORY
+  [[MEDICAL_CONDITION?|Asthma]] (childhood). No head injury, no seizures. NKDA. PCP: none current.
+
+MENTAL STATUS EXAMINATION
+  Appearance: thin, unshaven, wearing hospital gown, poor hygiene, fair eye contact.
+  Behavior: cooperative, psychomotor slowing, no tremor at time of exam.
+  Speech: low volume, slow rate, normal articulation.
+  Mood: "empty."  Affect: constricted, dysphoric, tearful when discussing mother.
+  Thought process: linear, goal-directed.
+  Thought content: [[MENTAL_HEALTH|+ suicidal ideation, currently passive, with prior specific plan
+    and preparatory behavior; guilt; hopelessness]]. No homicidal ideation. No delusions.
+  Perception: no AH/VH, not responding to internal stimuli.
+  Cognition: alert, oriented x4; recalls 3/3 at 5 min; serial 7s intact.
+  Insight: partial ("I know I need help but I don't see the point").
+  Judgment: impaired by recent behavior; improving.
+
+RISK ASSESSMENT
+  C-SSRS (screen): Q1 yes, Q2 yes, Q3 yes, Q4 yes, Q5 yes, Q6 yes (past 3 months).
+  Risk factors: male, recent loss, access to firearm, [[MENTAL_HEALTH|prior attempt]], [[SUBSTANCE_USE|alcohol use]],
+  [[MENTAL_HEALTH|family history of suicide]], job jeopardy, lives alone.
+  Protective factors: connection to mother and brother, religious beliefs, help-seeking
+  today, no psychosis.
+  Formulation: HIGH acute risk. Requires inpatient level of care.
+
+LABS / STUDIES
+  BAL 0.112 g/dL (arrival). UDS + THC. CBC wnl. CMP: AST 52, ALT 61, GGT 98. TSH 1.9.
+  Lipids pending. ECG: NSR, QTc 421 ms.
+
+[[ORGANIZATION?|TRINITY BEHAVIORAL HEALTH HOSPITAL]]   Initial Psychiatric Evaluation   Pt: [[PERSON|HADDAD, Ahmed K.]]   MR# [[MRN|TB-0331907]]
+DOB [[DATE_OF_BIRTH|06/30/1996]]                                                                       Page 3 of 3
+--------------------------------------------------------------------------------------------------
+
+DSM-5-TR DIAGNOSES
+  1. [[MENTAL_HEALTH|Major depressive disorder, recurrent, severe, without psychotic features]] (F33.2)
+     -- r/o [[MENTAL_HEALTH|bipolar II disorder]] given collateral history and family history
+  2. [[SUBSTANCE_USE|Alcohol use disorder, moderate]] (F10.20)
+  3. [[SUBSTANCE_USE|Cannabis use disorder, mild]] (F12.10)
+  4. Suicidal ideation with plan (R45.851)
+
+PLAN
+  1. Admit to 2 North, Q15 minute checks -> 1:1 observation overnight. Unit-wide
+     sharps restriction. Ligature-resistant room.
+  2. Medications: start [[MEDICATION|lamotrigine]] 25 mg daily (titration per protocol) given
+     possible bipolar spectrum; [[MEDICATION|quetiapine]] 50 mg qHS PRN insomnia; [[MEDICATION?|thiamine]]
+     100 mg daily; [[MEDICATION?|folic acid]] 1 mg daily; CIWA-Ar with [[MEDICATION|lorazepam]] PRN per
+     protocol. Discussed risks/benefits/alternatives; patient consents.
+  3. Firearm: brother [[PERSON|Omar]] ([[PHONE|469-555-0182]]) agreed to retain the handgun and
+     ammunition; DPD property receipt [[LAW_ENFORCEMENT_ID|DPD-PR-25-118402]] -- handgun was taken by
+     officers. Lethal means counseling completed with patient and brother.
+  4. Legal: Application for Court-Ordered Temporary Mental Health Services to be filed
+     if patient does not sign voluntary by [[DATE|09/09/2025]]; probate court notified.
+     Patient states he will sign voluntary.
+  5. Therapy: individual and group CBT; chaplaincy (patient requests an imam visit).
+  6. Collateral: obtain records from [[ORGANIZATION?|Cedar Springs Behavioral Center]] (ROI signed) and
+     Dr. [[PERSON|Ochoa]]. Employer: patient authorizes HR contact [[PERSON|Brittany Sato]] ([[PHONE|214-555-0147
+     x 2210]], [[EMAIL|bsato@tessellatepay.com]]) only for FMLA paperwork; no clinical information.
+  7. Disposition: anticipated LOS 7-10 days; step down to IOP.
+
+  Total time: 90 min, > 50% counseling/coordination.
+
+  [[PERSON|Farah Siddiqui]], MD -- Diplomate, ABPN
+  NPI [[NPI|2457849547]]  |  TX Lic. [[ID_NUMBER|S4471]]
+  Signed electronically [[DATE|09/08/2025]] 16:12
+
+  This record contains mental health information protected under Tex. Health &
+  Safety Code ch. 611 and 45 C.F.R. § 164.501 (psychotherapy notes excluded).

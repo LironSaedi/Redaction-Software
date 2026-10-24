@@ -1,0 +1,71 @@
+STATE OF NEW MEXICO
+COUNTY OF RIO ARRIBA
+FIRST JUDICIAL DISTRICT COURT
+
+No. [[CASE_NUMBER|D-117-DV-2026-00381]]
+
+[[PERSON|MARISOL R. ARCHULETA]],
+        Petitioner,
+v.
+[[PERSON|DANIEL LUCERO VIGIL]],
+        Respondent.
+
+          VERIFIED PETITION FOR ORDER OF PROTECTION FROM DOMESTIC ABUSE
+
+1. PARTIES AND CHILDREN
+Petitioner's date of birth is [[DATE_OF_BIRTH|07/22/1990]]. Petitioner participates in the Address Confidentiality
+Program (participant no. [[ID_NUMBER|ACP-4471-NM]]); all mail should go to the program's substitute address.
+Respondent's date of birth is [[DATE_OF_BIRTH|01/05/1986]]. Respondent's cell phone is [[PHONE|(505) 555-0183]].
+The parties were divorced in [[CASE_NUMBER|D-117-DM-2022-00140]]. We have two children together:
+     [[PERSON MINOR|Isaiah Daniel Vigil]], age [[AGE|9]]
+     [[PERSON MINOR|Lucía Marisol Vigil]], age [[AGE|5]]
+
+2. DESCRIPTION OF RESPONDENT (to help the deputies serve him)
+Respondent is about [[PHYSICAL_DESCRIPTOR?|5'9"]] and [[PHYSICAL_DESCRIPTOR?|210 pounds]] and keeps his head shaved. He has [[PHYSICAL_DESCRIPTOR|a full sleeve of Aztec
+calendar tattoos on his right arm]] and [[PHYSICAL_DESCRIPTOR|a raised scar that splits his left eyebrow]]. Since his knee
+surgery he [[PHYSICAL_DESCRIPTOR|walks with a hitch on the right side]]. Respondent's employer is [[EMPLOYER|Chama Valley Propane]];
+he is [[INDIRECT_ROLE|the only delivery driver working out of their Hernandez yard]]. He drives a [[VEHICLE_DESCRIPTION|maroon 2014 Chevy
+Silverado with a ladder rack]], NM plate [[LICENSE_PLATE|BKR-417]].
+
+3. PLACES I ASK THE COURT TO ORDER RESPONDENT TO STAY AWAY FROM
+  a. [[INDIRECT_LOCATION|my mother's adobe with the turquoise gate just past the Alcalde post office]], where the children and
+     I have been living since August;
+  b. my workplace, [[INDIRECT_LOCATION|the Rio Chama Motor Lodge on Riverside Drive]] in Española, where I am [[INDIRECT_ROLE|the only
+     bilingual front-desk clerk]];
+  c. the children's school, [[SCHOOL|Velarde Elementary]], and [[INDIRECT_LOCATION|the Little League field behind the Velarde fruit
+     stands]] where [[PERSON MINOR|Isaiah]] practices.
+
+4. WHAT HAPPENED
+On [[DATE|August 30, 2026]], at about 9:30 p.m., Respondent came to my mother's house drunk. He banged on the screen door
+and yelled that he would "burn the place down with all of you in it." My mother called 911. He left before the
+deputies arrived.
+
+Respondent has told me many times that he knows I am "talking to" [[INDIRECT_ROLE|the sheriff's deputy who coaches the
+Velarde T-ball team]]. That is not true. He says it because the deputy helped me once when my car broke down.
+
+On the night of [[DATE|September 3, 2026]], Respondent sent me these texts (screenshots attached as Exhibit A):
+     11:47 PM   "u think i dont know ur at [[INDIRECT_LOCATION|ur tias by the dollar general]]"
+     11:52 PM   "seen ur car at [[INDIRECT_LOCATION|the shell by the bridge in ojo]] at 6. who u meeting"
+     11:58 PM   "tell [[INDIRECT_ROLE|ur boss at the motor lodge]] i said hi. bet he wants to know about u"
+     12:06 AM   "ill be at [[PERSON MINOR|isaiah]]s game sat dont bring the cop"
+
+On [[DATE|September 6, 2026]], Respondent was waiting in the parking lot when I got off work. He followed me to
+[[INDIRECT_LOCATION|my sister's single-wide behind the Alcalde fire station]] and sat outside in his truck for about an hour
+with the headlights pointed at the bedroom window. A neighbor came outside and Respondent drove away.
+
+Respondent's cousin is [[INDIRECT_ROLE|the night dispatcher at the Rio Arriba County Sheriff's Office]]. I am afraid that if I
+call for help at night, Respondent will know right away. I ask that this petition be served by Santa Fe County
+deputies if possible.
+
+5. PRIOR ABUSE AND HISTORY
+Respondent was convicted of [[CRIMINAL_HISTORY|battery against a household member in 2019]]. During our marriage he broke my
+left wrist ([[DATE|June 2021]]). He [[SUBSTANCE_USE|has been drinking every day and using meth again]] since he lost his license
+for a few months last year. He keeps a .30-06 rifle behind the seat of his truck.
+
+6. RELIEF REQUESTED
+I ask for temporary custody of [[PERSON MINOR|Isaiah]] and [[PERSON MINOR|Lucía]], no contact of any kind, a stay-away order for the
+places listed above, and an order that Respondent surrender all firearms.
+
+I swear or affirm under penalty of perjury that the statements above are true.
+
+/s/ [[PERSON|Marisol R. Archuleta]]                                 Date: [[DATE|09/08/2026]]

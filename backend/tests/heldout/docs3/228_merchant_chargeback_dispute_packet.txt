@@ -1,0 +1,139 @@
+[[ORGANIZATION?|NORTHWIND PAYMENTS, INC.]] - Risk & Disputes                               CHARGEBACK NOTIFICATION
+[[ADDRESS?|PO Box 2290, Sioux Falls, SD 57101]]   [[EMAIL?|disputes@northwindpay.example.com]]   [[PHONE?|1-888-555-0191]]
+
+  Notification Date:   [[DATE?|09/22/2026]]                 Response Due:   [[DATE?|10/12/2026]] (20 days)
+  Merchant:            [[ORGANIZATION?|QUILLFEATHER OUTDOOR SUPPLY CO]]      MID: [[ID_NUMBER?|4450 0918 2271 06]]   MCC 5941
+  Merchant Address:    [[ADDRESS?|19 N Willson Ave, Bozeman, MT 59715]]
+  Dispute Case No.:    [[CASE_NUMBER|NWP-DSP-2026-0418827]]          Network: [[ORGANIZATION?|Visa]]      Stage: First Chargeback (Dispute)
+  Reason Code:         13.1 - Merchandise/Services Not Received
+  Card Number:         [[CREDIT_CARD|447576******8314]]                Card Exp: [[CARD_EXPIRY|08/28]]
+  Cardholder:          [[PERSON|MEGHAN T OYELOWO-STRAND]]
+  Transaction Date:    [[DATE?|08/14/2026]]    Amount: [[MONEY|$1,286.47]]   Disputed: [[MONEY|$1,286.47]]   Auth Code 04417B
+  ARN:                 [[ID_NUMBER?|24692166227004417220913]]
+  Merchant Order Ref:  [[ID_NUMBER?|QF-118204]]                  Issuer: [[ORGANIZATION?|Tamarack Federal Credit Union]] (BIN 447576)
+
+  Issuer Message:  "CH STATES ORDER NEVER RECEIVED. CH CONTACTED MERCHANT [[DATE?|08/29]] W/O RESOLUTION. CH STATES SHE
+                    WAS OUT OF STATE ON WORK ASSIGNMENT AND NO ONE AT ADDRESS SIGNED. PLS PROVIDE PROOF OF DELIVERY
+                    TO CH ADDRESS AND SIGNATURE."
+  Amount debited from merchant settlement account ([[ORGANIZATION?|First Gallatin Bank]] RT [[ROUTING_NUMBER|092577813]] acct ...[[BANK_ACCOUNT|7720]]):
+  [[MONEY|$1,286.47]] + chargeback fee [[MONEY|$25.00]] on [[DATE?|09/22/2026]].
+                                                                                              Page 1 of 6
+=================================================================================================================
+[[ORGANIZATION?|QUILLFEATHER OUTDOOR SUPPLY CO.]]
+[[ADDRESS?|19 North Willson Avenue, Bozeman, Montana 59715]]  ·  [[PHONE?|(406) 555-0128]]  ·  quillfeather.example.com
+
+[[DATE?|October 6, 2026]]
+
+[[ORGANIZATION?|Northwind Payments]] - Dispute Response Team
+Re: Representment - Case [[CASE_NUMBER|NWP-DSP-2026-0418827]] / Order [[ID_NUMBER?|QF-118204]] / [[ORGANIZATION?|Visa]] RC 13.1
+
+To the Dispute Analyst:
+
+[[ORGANIZATION?|Quillfeather Outdoor Supply Co.]] respectfully disputes this chargeback and requests reversal. The order was
+placed online by the cardholder, [[PERSON|Meghan T. Oyelowo-Strand]], through her registered customer account
+("[[USERNAME|meghan.trailrunner]]", customer no. [[ID_NUMBER|CUST-0091774]]), shipped to the address she entered, and delivered
+with a signature on [[DATE?|August 19, 2026]]. In summary:
+
+   1. The billing address and the shipping address both match addresses the cardholder has used on prior,
+      undisputed orders. AVS result Y (address and ZIP match); CVV2 result M (match).
+   2. The order was placed from IP address [[IP_ADDRESS|98.97.14.220]] and device ID [[DEVICE_ID|fp_8c2e41d0a7b39f15]], the same IP and
+      device used for two prior undisputed transactions more than 120 days old ([[ORGANIZATION?|Visa]] Compelling Evidence 3.0; see
+      page 6).
+   3. The carrier confirms delivery to the shipping address, signed "[[PERSON|R. DELGADO]]". The shipping address is the
+      home of [[PERSON|Rosa Delgado]], whom the cardholder identified in the gift note as her grandmother.
+   4. After the dispute was filed, the cardholder posted a product review of the items under her account
+      username on [[DATE?|09/03/2026]] (page 5).
+
+We ask that the dispute be resolved in the merchant's favor. Supporting documents are enclosed.
+
+Sincerely,
+[[SIGNATURE|Callum Brightwater-Yazzie]]
+[[PERSON|Callum Brightwater-Yazzie]], Payments & Fraud Analyst
+[[EMAIL|callum.by@quillfeather.example.com]]   Direct [[PHONE|(406) 555-0154]]
+                                                                                              Page 2 of 6
+=================================================================================================================
+EXHIBIT A - ORDER DETAIL (exported from store admin)
+
+  Order:            [[ID_NUMBER?|QF-118204]]                       Placed: [[DATE?|2026-08-14]] 21:06:44 MDT   Channel: Web
+  Customer:         [[PERSON|Meghan Oyelowo-Strand]]  ([[EMAIL|meghan.os@examplemail.com]])  Customer since [[DATE?|2023-11-02]]
+  Customer phone:   [[PHONE|+1 612-555-0104]]
+  Account login:    [[USERNAME|meghan.trailrunner]]   last password reset [[DATE?|2026-06-30]]   2FA: SMS to ***-***-[[PHONE|0104]]
+
+  BILL TO                                         SHIP TO
+  [[PERSON|Meghan T. Oyelowo-Strand]]                       [[PERSON|Rosa M. Delgado]]  (gift)
+  [[ADDRESS|2817 Aldrich Ave S, Apt 3]]                       [[ADDRESS|1450 W Grove Pkwy, Unit 112]]
+  [[ADDRESS|Minneapolis, MN 55408]]                          [[ADDRESS|Tempe, AZ 85283-4410]]
+                                                  Phone [[PHONE|(480) 555-0179]]
+  Gift message: "Feliz cumpleaños Abuela!! [[AGE|80]] looks good on you 🎂 - love, [[PERSON|Meg]] & [[MINOR|Luca]]"
+
+  SKU            DESCRIPTION                                          QTY      PRICE        TOTAL
+  -------------  ---------------------------------------------------  ---  ----------  -----------
+  QF-TNT-2208    Ridgeline 2P Ultralight Tent, Sage                     1      [[MONEY|489.00]]       [[MONEY|489.00]]
+  QF-SB-0418-R   Alpenglow 20F Down Sleeping Bag, Regular, Left Zip     1      [[MONEY|419.95]]       [[MONEY|419.95]]
+  QF-PAD-1120    Loft Insulated Sleeping Pad R5.4                       1      [[MONEY|189.00]]       [[MONEY|189.00]]
+  QF-STV-0031    Ember Canister Stove + 2 fuel                          1       [[MONEY|79.50]]        [[MONEY|79.50]]
+                                                                         Subtotal              [[MONEY|1,177.45]]
+                                                                         Shipping (2-Day)         [[MONEY|24.00]]
+                                                                         Tax (AZ dest.)           [[MONEY|85.02]]
+                                                                         ORDER TOTAL          [[MONEY|$1,286.47]]
+
+  PAYMENT
+  Method: [[ORGANIZATION?|Visa]] credit  [[CREDIT_CARD|447576******8314]]   Exp [[CARD_EXPIRY|08/2028]]   Name on card: [[PERSON|MEGHAN T OYELOWO-STRAND]]
+  Gateway txn [[ID_NUMBER?|ch_3PqR77Lk2290aZ]]   Auth 04417B   AVS: Y   CVV2: M   3DS: frictionless (ECI 05)   Risk score 12/99
+  Stored cards on profile: [[ORGANIZATION?|Visa]] x-[[CREDIT_CARD|8314]] (default); Mastercard x-[[CREDIT_CARD|3871]] exp [[CARD_EXPIRY|01/27]]
+  Loyalty: Trail Points member [[ID_NUMBER|TP-00418827]]; 2,486 points; birthday on file [[DATE_OF_BIRTH|03/09]]
+                                                                                              Page 3 of 6
+=================================================================================================================
+EXHIBIT B - SHIPPING AND DELIVERY
+
+  Carrier: [[ORGANIZATION?|Summit Freightline Parcel]]   Service: 2nd Day, Adult Signature Required
+  Tracking: [[ID_NUMBER?|SFP 4471 2290 0418 8273]]       Label created [[DATE?|08/15/2026]] 09:12 MDT
+  Scan history:
+    [[DATE?|08/15/2026]] 16:40  BOZEMAN MT    Picked up
+    [[DATE?|08/16/2026]] 03:22  SALT LAKE CITY UT  Departed hub
+    [[DATE?|08/18/2026]] 06:05  PHOENIX AZ    Arrived at delivery facility
+    [[DATE?|08/18/2026]] 14:31  TEMPE AZ      Delivery attempted - no adult available. Notice left.
+    [[DATE?|08/19/2026]] 11:17  TEMPE AZ      DELIVERED - Signed by: [[PERSON|R DELGADO]]   GPS 33.3986,-111.9617 (within 25 m of address)
+  Driver note: "[[INDIRECT_LOCATION|handed to older lady at side door by the blue recycling bins, she had a walker]]"
+  Delivery photo: IMG_0819_1117.jpg (front door, unit number 112 visible)
+
+  Signature image (as captured):   ~~ [[SIGNATURE|R Delgado]] ~~
+                                                                                              Page 4 of 6
+=================================================================================================================
+EXHIBIT C - CUSTOMER COMMUNICATIONS
+
+  Chat transcript, [[DATE?|08/29/2026]] 19:02-19:20 MDT (agent: [[PERSON|Lena O.]], ID [[ID_NUMBER?|CSA-117]])
+    Customer ([[PERSON|Meghan]]): hi, my order [[ID_NUMBER?|QF-118204]] says delivered but my abuela says she never got it
+    Agent:    I'm sorry to hear that! Tracking shows it was signed for on 8/19. Has she checked with neighbors?
+    Customer: she lives alone and has [[MEDICAL_CONDITION|early dementia]] so honestly she might not remember. i can't check
+              myself, i'm [[INDIRECT_ROLE|a travel nurse on a 13-week contract at the VA in Fargo]] until oct
+    Agent:    Understood. I can open a carrier trace (2-3 business days).
+    Customer: ok but i also called my bank, they said they'd handle it
+    Agent:    Got it. Trace opened #[[ID_NUMBER?|TR-2026-08-4471]]. You can reach me at this chat or [[PHONE?|(406) 555-0128]].
+
+  Email from carrier trace, [[DATE?|09/02/2026]]: "Driver confirms handoff to adult female at address. Case closed - delivered."
+
+  Product review posted [[DATE?|09/03/2026]] 08:44 MDT by verified buyer "[[USERNAME|meghan.trailrunner]]" (★★★★☆):
+    "Bought the Ridgeline tent + Alpenglow bag for my grandma's [[AGE|80]]th (she still car-camps at [[INDIRECT_LOCATION|Roosevelt Lake
+     every Christmas]]!!). Tent is super light, bag runs a little warm. Would buy again."
+  Review metadata: IP [[IP_ADDRESS|98.97.14.220]]; device [[DEVICE_ID|fp_8c2e41d0a7b39f15]].
+
+  Voicemail from cardholder's spouse, [[DATE?|09/25/2026]] (transcribed): "Hi, this is [[PERSON|Anders Strand]], [[PERSON|Meghan]]'s husband,
+  calling about the camping gear order. Turns out [[PERSON|Rosa]]'s neighbor [[PERSON|Mr. Ibekwe]] had the box in his garage.
+  We'll call the bank to cancel the dispute. Call me back at [[PHONE|612-555-0162]]."
+                                                                                              Page 5 of 6
+=================================================================================================================
+EXHIBIT D - VISA COMPELLING EVIDENCE 3.0 (prior undisputed transactions, 120-365 days before disputed txn)
+
+  Date         Order        Amount       Card              IP Address        Device ID              Ship-to          Status
+  ----------   ----------   ----------   ---------------   ---------------   --------------------   --------------   ---------
+  [[DATE?|2025-12-02]]   [[ID_NUMBER?|QF-097731]]    [[MONEY|$214.60]]      x[[CREDIT_CARD|8314]]             [[IP_ADDRESS|98.97.14.220]]      [[DEVICE_ID|fp_8c2e41d0a7b39f15]]   [[ADDRESS|2817 Aldrich Ave S]]   Settled, no dispute
+  [[DATE?|2026-03-17]]   [[ID_NUMBER?|QF-104458]]    [[MONEY|$96.25]]       x[[CREDIT_CARD|8314]]             [[IP_ADDRESS|98.97.14.220]]      [[DEVICE_ID|fp_8c2e41d0a7b39f15]]   [[ADDRESS|1450 W Grove Pkwy]]    Settled, no dispute
+  [[DATE?|2026-08-14]]   [[ID_NUMBER?|QF-118204]]    [[MONEY|$1,286.47]]    x[[CREDIT_CARD|8314]]             [[IP_ADDRESS|98.97.14.220]]      [[DEVICE_ID|fp_8c2e41d0a7b39f15]]   [[ADDRESS|1450 W Grove Pkwy]]    DISPUTED
+
+  Matching elements: IP address + device ID + shipping address (2 of 2 prior transactions). Customer account
+  username, email [[EMAIL|meghan.os@examplemail.com]] and phone ending [[PHONE|0104]] identical across all three orders.
+
+  Processor use only:  Representment submitted [[DATE?|10/06/2026]] by [[USERNAME|qfo_callum]]; [[ORGANIZATION?|Visa]] pre-arbitration window 30 days.
+  Outcome [[DATE?|10/16/2026]]: Issuer accepted CE 3.0; chargeback reversed; [[MONEY|$1,286.47]] re-credited to settlement acct ...[[BANK_ACCOUNT|7720]].
+                                                                                              Page 6 of 6

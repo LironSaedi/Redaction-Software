@@ -1,0 +1,134 @@
+[OCR TEXT LAYER - photographed thermal receipts (2) + c0mp1aint f0rm, 4 pp. Faded print. Uncorrected.]
+
+==================== REC IB0 / RECEIPT  1 of 2 ====================
+        [[ORGANIZATION?|ENVÍAYA M0NEY TRANSFER, INC.]]
+   Agente / Agent: [[ORGANIZATION?|TIENDA LA GUADALUPANA #2]]
+   [[ADDRESS?|6l2O Harwin Dr Ste lO4, H0uston TX 77O36]]
+   Te1: [[PHONE?|(7l3) 555-Ol42]]    ID Agente: [[ID_NUMBER?|447l8-O2]]
+   Cajer0/Clerk: [[PERSON|YESENIA M.]]   Terrn: O3
+   Fecha/Date: [[DATE?|O9/l2/2O26]]  l8:47:l2 CDT
+
+   NUMER0 DE C0NTR0L (MTCN):  [[ID_NUMBER|8 4 l 7 2 2 O 9 1 3]]
+   ** N0 c0mparta este nurnero / Do not share this number **
+
+   REMITENTE / SENDER
+   N0rnbre: [[PERSON|R0SALBA ITZEL CH0C TZUL]]
+   Dir:  [[ADDRESS|98O8 Bissonnet St Apt 2l6]]
+         [[ADDRESS|H0uston TX 77O36]]
+   Te1: [[PHONE|(832) 555-Ol97]]
+   F. Nac / DOB: [[DATE_OF_BIRTH|2l/O4/l988]]
+   Identificaci0n / ID: PASAP0RTE GTM
+     No. [[PASSPORT|2O9447l8l]]   Venc/Exp [[DATE?|O3/2O29]]
+   ID secundaria: DPI [[NATIONAL_ID|254l 77lO4 O1O1]]
+   0cupaci0n: 1irnpieza / c1eaning -
+     [[EMPLOYER|Bay0u City C0rnmercia1 Janit0rial]]
+   Tarjeta [[ORGANIZATION?|Envia Ya]]+ No. [[ID_NUMBER|44O1 553 8l2]]
+
+   BENEFICIARI0 / RECEIVER
+   N0mbre: [[PERSON|MARIA CANDELARIA TZUL CAAL]]
+   Re1aci0n / Re1ationship: MADRE / M0THER
+   Dir:  [[ADDRESS|A1dea Carnpat, Caserío Las F1ores]]
+   Ciudad: [[LOCATION|San Pedr0 Carchá, A1ta Verapaz]]
+   País/Country: [[LOCATION|GUATEMALA]]
+   Te1: [[PHONE|+5O2 5544 ll87]]
+   Pr0p0sito / Purpose: MANUTENCI0N FAMILIAR / FAMILY SUPP0RT
+   Pregunta de seguridad / Test question:
+     ¿Nombre del pueb1o de su papá?
+   Respuesta / Answer: [[PASSWORD|CHAMELC0]]
+
+   Tip0 de servici0: EFECTIV0 / CASH PICKUP
+   Pagad0r / Payer: [[ORGANIZATION?|BAN RURAL]] - cua1quier agencia
+   Disp0nib1e / Avai1able: [[DATE?|O9/l2/2O26]] (rninut0s)
+
+   M0nto enviad0 / Transfer amount   USD   [[MONEY|85O.OO]]
+   Cargo / Transfer fee              USD     [[MONEY|9.99]]
+   Irnpuest0s / Transfer taxes       USD     [[MONEY|O.OO]]
+   T0TAL                             USD   [[MONEY|859.99]]
+   Tip0 de carnbio / Exchange rate   1 USD = 7.6lO2 GTQ
+   M0nt0 a entregar / Transfer amt   GTQ [[MONEY|6,468.67]]
+   Otr0s carg0s / Other fees         GTQ     [[MONEY|O.OO]]
+   T0TAL A RECIBIR / Tota1 to rec.   GTQ [[MONEY|6,468.67]]
+   Pagad0 con / Paid with: EFECTIV0 / CASH
+
+   Firrna remitente / Sender signature:
+        [[SIGNATURE|R0sa1ba Ch0c]]
+=====================================================================
+DERECH0S DEL C0NSUMID0R / Y0UR RIGHTS
+ Usted tiene derecho a disputar err0res en su transacción. Si cree
+ que hay un err0r, c0ntáctenos dentr0 de l8O días al [[PHONE?|1-8OO-555-Ol66]]
+ o en [[URL?|enviaya.example.com/ayuda]]. Puede cance1ar para un reernbo1so
+ c0rnp1eto dentr0 de 3O rninutos de pagar, a rnen0s que 1os f0ndos ya
+ hayan sid0 rec0gid0s.
+ Y0u have a right t0 dispute err0rs in y0ur transacti0n. If y0u think
+ there is an err0r, c0ntact us within l8O days at [[PHONE?|1-8OO-555-Ol66]].
+ Y0u can a1s0 c0ntact the [[ORGANIZATION?|Consumer Financia1 Pr0tection Bureau]]:
+ [[PHONE?|(855) 4ll-2372]]  [[URL?|www.consumerfinance.gov]]
+ Licensed as a M0ney Transmitter by the [[ORGANIZATION?|Texas Department of Banking]].
+=====================================================================
+
+
+==================== REC IB0 / RECEIPT  2 of 2 ====================
+        [[ORGANIZATION?|ENVÍAYA M0NEY TRANSFER, INC.]]
+   Agente / Agent: [[ORGANIZATION?|TIENDA LA GUADALUPANA #2]]   ID [[ID_NUMBER?|447l8-O2]]
+   Fecha/Date: [[DATE?|O9/l9/2O26]]  l9:O3:58 CDT     Cajer0: [[PERSON|LUIS F.]]
+
+   NUMER0 DE C0NTR0L (MTCN):  [[ID_NUMBER|5 O9 3 3l7 7 2 4]]
+
+   REMITENTE / SENDER: [[PERSON|R0SALBA ITZEL CH0C TZUL]]
+   Te1: [[PHONE|(832) 555-Ol97]]    Tarjeta+ [[ID_NUMBER|44O1 553 8l2]]
+   ID: PASAP0RTE GTM [[PASSPORT|2O9447l8l]]
+   ** M0NT0 >= $3,OOO - SE REQUIERE SSN/ITIN (31 CFR lO22.38O) **
+   ITIN: [[ITIN|9l3-8O-6274]]
+   Fuente de f0ndos / Source of funds:  AH0RR0S / SAVINGS
+   0ficio / Occupation detail: "[[INDIRECT_ROLE|supervisora turn0 n0che, edificio de 0ficinas
+     en Greenway P1aza, 22 pis0s]]"
+
+   BENEFICIARI0 / RECEIVER
+   N0mbre: [[PERSON|ERWIN 0T0NIEL CH0C TZUL]]
+   Re1aci0n: HERMAN0 / BROTHER
+   Dir:  [[ADDRESS|Ca11e 4a P0niente 2O, C0l. Centr0]]
+         [[ADDRESS|Tapachu1a, Chiapas, C.P. 3O7OO]]
+   País: [[LOCATION|MÉXIC0]]
+   Te1: [[PHONE|+52 962 l55 Ol48]]
+   CURP: [[NATIONAL_ID|C0TE94O3l2HNECZRO7]]
+   Pr0p0sit0: C0MPRA DE TERREN0 / LAND PURCHASE
+
+   Tip0 de servici0: DEP0SIT0 A CUENTA / BANK DEP0SIT
+   Banc0: [[ORGANIZATION?|BBVA MÉXIC0]]
+   CLABE: [[BANK_ACCOUNT|Ol2 l8O 99678 49l7965]]
+   Titu1ar / Account holder: [[PERSON|ERWIN 0 CH0C TZUL]]
+
+   M0nto enviad0 / Transfer amount   USD [[MONEY|3,2OO.OO]]
+   Cargo / Transfer fee              USD    [[MONEY|l4.99]]
+   T0TAL                             USD [[MONEY|3,2l4.99]]
+   Tip0 de carnbio / Exchange rate   1 USD = l8.4l5O MXN
+   T0TAL A RECIBIR / Tota1 to rec.   MXN [[MONEY|58,928.OO]]
+   Pagad0 con / Paid with: TARJETA DE DEBIT0 ****[[CREDIT_CARD|6326]]
+     Auth [[ID_NUMBER?|O447l2]]   ([[ORGANIZATION?|Bayou Heritage Federal Credit Union]])
+   Disp0nib1e: [[DATE?|O9/2O/2O26]] - puede tardar 1 día háb11
+
+   Firrna / Signature:  [[SIGNATURE|R. Ch0c T.]]
+=====================================================================
+
+
+---------------------------------------------------------------------
+F0RMULARI0 DE QUEJA / C0MPLAINT F0RM   (rec'd by agent [[DATE?|O9/22/2O26]])
+---------------------------------------------------------------------
+ Narne / N0mbre: [[PERSON|Rosalba Itzel Choc Tzul]]     Phone: [[PHONE|832-555-0197]]
+ Email: [[EMAIL|rosalba.choc88@examplemail.com]]
+ Transfer #: [[ID_NUMBER|5O933l7724]]   Date sent: [[DATE?|9/l9/26]]
+ ¿Qué pasó? / What happened?
+   "Mi herman0 [[PERSON|Erwin]] dice que n0 1e 11egó el dinero a su cuenta. El
+    banco 1e dij0 que el n0mbre n0 c0incide p0rque en el banc0 está c0m0
+    '[[PERSON|ERWIN OTHONIEL CHOC]]' con H. Su cuenta term ina en [[BANK_ACCOUNT|7965]]. Necesit0 el
+    dinero para el engache del terren0 en [[INDIRECT_LOCATION|e1 ejid0 junto a 1a gaso1inera
+    de 1a carretera a Puerto Madero]]. Tarnbién quiero saber si me van a
+    reportar a [[ORGANIZATION?|ICE]] p0rque di mi ITIN."
+   (My brother says the money did not arrive. The bank says the name
+    does not match. I need it for the land down payment.)
+ Res01ución / Resolution: Name corrected to [[PERSON|ERWIN OTHONIEL CHOC TZUL]] [[DATE?|9/23]];
+   funds credited [[DATE?|9/24/26]] l1:O2 CST. Customer advised ITIN is used only for
+   [[ORGANIZATION?|FinCEN/IRS]] recordkeeping.  Handled by: [[PERSON|M. Arredondo-Sauceda]], Compliance, ext. 3l8
+ Custorner signature: [[SIGNATURE|Rosalba Choc]]
+---------------------------------------------------------------------
+[0CR conf. 66%; therma1 fading on receipt 1 1ower half]

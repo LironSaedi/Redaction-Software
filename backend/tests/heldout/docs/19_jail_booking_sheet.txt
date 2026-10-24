@@ -1,0 +1,90 @@
+BEXAR COUNTY SHERIFF'S OFFICE -- ADULT DETENTION CENTER
+[[ADDRESS?|200 N. Comal St]], [[ADDRESS?|San Antonio, TX 78207]]       Intake/Release [[PHONE|210-335-6200]]
+                         BOOKING SHEET / INMATE INTAKE RECORD                         Page 1 of 2
+=====================================================================================================
+BOOKING #: [[LAW_ENFORCEMENT_ID|2025-0098812]]     SO #: [[LAW_ENFORCEMENT_ID|0914477]]      SID: [[LAW_ENFORCEMENT_ID|TX09887123]]      FBI #: [[LAW_ENFORCEMENT_ID|448812KD9]]
+BOOKED: [[DATE|08/17/2025]] 01:46     INTAKE OFFICER: Dep. [[PERSON|L. Arredondo]] #[[LAW_ENFORCEMENT_ID|D-6614]]     HOUSING: [[INDIRECT_LOCATION?|4-C-12 (MED-MAX)]]
+=====================================================================================================
+NAME (L, F M):  [[PERSON|KOWALCZYK, DARIUSZ PIOTR]]
+AKA/ALIASES:    [[PERSON|DAREK KOWALCZYK]]; [[PERSON|DARIUS KOWALCZYK]]; [[PERSON|D. KOWALCZYK-NOWAK]]
+DOB:            [[DATE_OF_BIRTH|12-01-1988]]      AGE: [[AGE|36]]     POB: [[LOCATION?|KRAKOW]], POL
+SEX: M   RACE: [[DEMOGRAPHIC|W]]   ETHNICITY: [[DEMOGRAPHIC|NON-HISP]]   HGT: [[PHYSICAL_DESCRIPTOR?|601]]   WGT: [[PHYSICAL_DESCRIPTOR?|215]]   HAIR: [[PHYSICAL_DESCRIPTOR?|BLN]]   EYES: [[PHYSICAL_DESCRIPTOR?|BLU]]   SKIN: [[PHYSICAL_DESCRIPTOR?|FAR]]
+SCARS/MARKS/TATTOOS:
+   TAT NECK L -- [[PHYSICAL_DESCRIPTOR|SCORPION, BLACK INK, APPROX 4"]]
+   TAT R FARM -- [[PHYSICAL_DESCRIPTOR|"PIOTR 1961-2012" W/ CROSS]]
+   TAT L CHEST -- [[PHYSICAL_DESCRIPTOR|POLISH EAGLE, RED/WHITE]]
+   SC CHIN -- [[PHYSICAL_DESCRIPTOR|3 IN VERTICAL SCAR]]
+   PRC -- none
+SSN:            [[SSN|627 18 4093]]          DL/ST: [[DRIVERS_LICENSE|41877203]] / TX
+CITIZENSHIP:    [[IMMIGRATION_STATUS|POLAND]]   ALIEN STATUS: [[IMMIGRATION_STATUS|LPR]]   A#: [[ID_NUMBER|A208 441 970]]
+                Consular notification: Consulate General of Poland (Houston) faxed [[DATE|08/17/2025]] 03:10
+                [[IMMIGRATION_STATUS|ICE IDENTIFIED -- 287(g) SCREEN COMPLETE -- I-247A DETAINER RECEIVED 08/17/2025 09:44]]
+ADDRESS:        [[ADDRESS|7420 CALLAGHAN RD APT 12B]]  [[ADDRESS|SAN ANTONIO TX 78229]]
+PHONE:          [[PHONE|(210) 393-6620]]
+OCCUPATION:     WELDER                      EMPLOYER: [[EMPLOYER|ALAMO STEEL FABRICATORS]], [[ADDRESS?|4300 SW MILITARY DR]]
+MARITAL:        SINGLE    DEPENDENTS: 1
+EMERG CONTACT:  [[PERSON|KOWALCZYK, MAREK]] (BROTHER) -- [[PHONE|+48 512 774 093]] / [[PERSON|NOWAK, ELZBIETA]] (MOTHER)
+
+ARREST INFORMATION
+  Agency: SAPD     Arresting Officer: [[PERSON|CASTANEDA, J]] #[[LAW_ENFORCEMENT_ID|4127]]     Transporting: [[PERSON|DOYLE, M]] #[[LAW_ENFORCEMENT_ID|3390]]
+  Arrest Date/Time: [[DATE|08/17/2025]] 00:22     Location: [[ADDRESS|7420 CALLAGHAN RD]]     Agency Case: [[LAW_ENFORCEMENT_ID|SAPD-25-187734]]
+
+CHARGES
+  #  OFFENSE                                    STATUTE             LVL   WARRANT/CAUSE     BOND
+  1  ASSAULT FV IMPEDE BREATH/CIRCULATION       PC 22.01(B)(2)(B)   F3    [[CASE_NUMBER|2025CR011847]]     [[MONEY?|$25,000]] SURETY
+  2  INTERFER W/ EMERG REQ FOR ASSIST           PC 42.062           MA    [[CASE_NUMBER|M25-118302]]       [[MONEY?|$2,000]]
+  3  CRIM MISCHIEF >=$100<$750                  PC 28.03(B)(2)      MB    [[CASE_NUMBER|M25-118303]]       [[MONEY?|$1,000]]
+  4  UNL POSS FIREARM BY PERSON CONV FV         PC 46.04(B)         MA    PENDING DA       --
+  HOLDS: [[IMMIGRATION_STATUS|ICE DETAINER (I-247A)]]; MAGISTRATE'S EMERGENCY PROTECTIVE ORDER issued [[DATE|08/17/2025]]
+         -- protected persons: [[PERSON|HILL, GRACE E]]; [[PERSON MINOR|KOWALCZYK, L.R.]] ([[AGE|3]]) -- 61 days -- no contact,
+         500 ft from [[ADDRESS|7420 CALLAGHAN RD]] and [[INDIRECT_LOCATION|CVS #10432]]; firearm surrender ordered.
+  Magistrate: Judge [[PERSON|Andrea Saenz-Gutierrez]], Bexar Co. Magistration, [[DATE|08/17/2025]] 08:15
+
+CRIMINAL HISTORY (summary from TCIC/NCIC, run [[DATE|08/17/2025]] 02:01 by [[USERNAME|BCSO\larredondo]])
+  [[CRIMINAL_HISTORY|2019-05-11  ASSAULT CAUSES BODILY INJURY FAMILY MEMBER  CL A  BEXAR  CONVICTED -- 90 DAYS JAIL PROB'D]]
+  [[CRIMINAL_HISTORY|2014-10-03  DWI 1ST  CL B  GUADALUPE  CONVICTED -- 12 MO PROB, COMPLETED]]
+  [[CRIMINAL_HISTORY|2012-07-22  POSS MARIJ <2OZ  CL B  COMAL  DISMISSED]]
+
+BCSO BOOKING [[LAW_ENFORCEMENT_ID|2025-0098812]] -- [[PERSON|KOWALCZYK, DARIUSZ P]] -- DOB [[DATE_OF_BIRTH|12-01-1988]]                       Page 2 of 2
+=====================================================================================================
+MEDICAL / MENTAL HEALTH INTAKE SCREENING (Nurse [[PERSON|R. Ybarra]], LVN -- [[DATE|08/17/2025]] 02:15)
+  Visible injuries: scratches dorsal hands bilat (superficial). Photographed.
+  Current meds: [[MEDICATION|lisinopril]] 10 mg (states for [[MEDICAL_CONDITION|blood pressure]]) -- not in possession
+  Chronic conditions: [[MEDICAL_CONDITION|hypertension]]; [[MEDICAL_CONDITION|L shoulder injury (work)]]
+  Alcohol/drug use: [[SUBSTANCE_USE|"5 beers tonight"; drinks daily 6-10 beers; last withdrawal "shakes" 2023]]
+    -> CIWA protocol initiated. PBT at intake: 0.094 (01:52).
+  Suicide screen: denies SI now; [[MENTAL_HEALTH|states "I'd rather die than get deported"]] -> referred MH,
+    placed on 15-min checks pending MH eval.
+  MH eval [[DATE|08/17/2025]] 10:30 ([[PERSON|J. Whitfield-Ross]], LPC): [[MENTAL_HEALTH|adjustment disorder w/ anxiety]]; SI
+    passive, no plan; cleared to general pop. w/ 30-min checks x 72h.
+  TB screen: negative symptoms; PPD placed L forearm.
+  Communicable disease: none reported.
+
+PROPERTY INVENTORY (bag # P-2508-17-0144)
+  1  Wallet, brown leather
+  2  Currency [[MONEY?|$83.00]] (3x20, 2x10, 3x1) -- verified by 2 deputies
+  3  Visa debit card, [[ORGANIZATION?|Frost Bank]], ending [[CREDIT_CARD|0840]]
+  4  TX DL [[DRIVERS_LICENSE|41877203]]
+  5  Permanent resident card (I-551), # [[ID_NUMBER|SRC1912345678]], exp [[DATE|06/14/2029]] -- held for ICE
+  6  Keys (6) on Ford fob
+  7  Belt, black; work boots (steel toe), pair
+  8  Necklace, yellow metal w/ cross
+  9  Wire transfer receipt ([[ORGANIZATION?|mBank]]) to beneficiary [[PERSON|NOWAK ELZBIETA]], IBAN [[IBAN|PL82 1140 2004 0000 3302 0441 8771]],
+     1,200 PLN, dated [[DATE|08/01/2025]]
+  Cell phone: NOT IN PROPERTY -- seized as evidence by SAPD (tag [[LAW_ENFORCEMENT_ID|P25-0816-3301]])
+
+CLASSIFICATION
+  Objective score: 14 (MEDIUM) -> override MED-MAX (FV strangulation + firearm + ICE hold).
+  Keep separate from: none.  Gang: none known.
+  Approved visitors: [[PERSON|KOWALCZYK, MAREK]]; [[PERSON|NOWAK, ELZBIETA]]; [[PERSON|LISOWSKI, TOMASZ]] (attorney, Bar # [[ID_NUMBER|24091186]])
+  PROHIBITED (MEPO): [[PERSON|HILL, GRACE E]] -- any contact incl. 3rd party, tablet messaging blocked to [[PHONE|210-614-3378]]
+
+PHONE / TABLET
+  Inmate PIN: [[PASSWORD|0098812-4417]]    Tablet acct: [[USERNAME|DKOWALCZYK0098812]]
+  Calls logged [[DATE|08/17/2025]]: 06:38 to [[PHONE|210-614-3378]] -- BLOCKED (MEPO); 06:41 text via tablet to same
+  number -- DELIVERED IN ERROR before block applied (see IA ticket 25-1182).  07:15 to [[PHONE|+48 512 774 093]] (12 min).
+
+PHOTOGRAPHS: front/profile + 4 SMT images (DIMS # 25-0817-0144-01..06)
+FINGERPRINTS: Livescan TCN [[LAW_ENFORCEMENT_ID|TX2508170146B]] -- IDENT HIT (prior SID)
+
+Inmate signature: [[PERSON|D. Kowalczyk]]   [[DATE|08/17/25]]     Booking officer: [[PERSON|L. Arredondo]] #[[LAW_ENFORCEMENT_ID|D-6614]]

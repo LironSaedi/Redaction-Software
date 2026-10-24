@@ -1,0 +1,90 @@
+=====================================================================================================
+                    MOBILE DEVICE EXTRACTION REPORT -- MESSAGES (FILTERED)
+                    Cellebrite Physical Analyzer 7.71
+=====================================================================================================
+Agency:          [[ORGANIZATION?|Milwaukee Police Department]] -- Digital Forensics Unit
+Case number:     [[LAW_ENFORCEMENT_ID|MPD 26-118-0447]]       DA case: [[CASE_NUMBER|2026CF003318]]
+Examiner:        Det. [[PERSON|Agnieszka Nowicki-Hart]] #[[LAW_ENFORCEMENT_ID|2194]]   Extraction date: [[DATE|07/02/2026]] 13:41
+Legal authority: Search warrant signed by Hon. [[PERSON|Rafael Quiñones]], [[DATE|06/30/2026]]
+Produced to:     Defense counsel [[PERSON|Simone Achebe-Larkin]], [[ORGANIZATION?|Wisconsin State Public Defender]] (discovery batch 4)
+
+DEVICE INFORMATION
+  Owner (per warrant):  [[PERSON|BANKS, TYRELL JAMAL]]            DOB [[DATE_OF_BIRTH|04/19/2003]]
+  Model:                Apple iPhone 14 (A2649), iOS 17.5.1
+  IMEI:                 [[DEVICE_ID|356847119043826]]       Serial: [[DEVICE_ID|K7QW2F9XHN]]
+  MSISDN:               [[PHONE|+1 414-688-2071]]           ICCID: [[DEVICE_ID|8901260882219044718]]
+  Apple ID:             [[EMAIL|tyrellbanks03@icloud.com]]
+  Evidence item:        [[LAW_ENFORCEMENT_ID|26-118-0447-E3]]   Extraction: Full File System (checkm8)
+  Time zone:            UTC-05:00 (CDT)
+  Filter:               Date range [[DATE|06/13/2026]] 18:00 -- [[DATE|06/14/2026]] 04:00; all chat apps
+
+CONTACTS REFERENCED IN THIS SECTION
+  Display name         Identifier                        App
+  -------------------  --------------------------------  ---------------
+  "[[PERSON|Shay]] 💜"            [[PHONE|+1 (414) 397-5512]]                 iMessage/SMS
+  "[[PERSON|Dre]] Bro"            [[PHONE|+1 (262) 501-0846]]                 SMS
+  "[[INDIRECT_ROLE?|Mama]]"               [[PHONE|+1 (414) 871-3390]]                 iMessage
+  [[USERNAME|lilmarq_414]]          Snapchat user ID [[USERNAME|lilmarq_414]]          Snapchat
+  "[[PERSON|K-Wolf]]"             [[USERNAME|kwolf.mke]] (Instagram)               Instagram DM
+  (unsaved)            [[PHONE|+1 (414) 250-7738]]                 SMS
+
+-----------------------------------------------------------------------------------------------------
+ #   Timestamp (CDT)       Dir  From / To                   App        Body                                 Status
+-----------------------------------------------------------------------------------------------------
+ 1   [[DATE|06/13/2026]] 18:22:05   In   [[PERSON|Shay]] [[PHONE|(414) 397-5512]]     iMessage   u still coming to my sisters bday     Read
+                                                                       thing? its at [[INDIRECT_LOCATION|Cool Waters pavilion at
+                                                                       Washington Park]] by the lagoon
+ 2   [[DATE|06/13/2026]] 18:24:40   Out  [[PERSON|Shay]]                         iMessage   ya after i get off. [[EMPLOYER|Kwik Trip]] till 8   Delivered
+ 3   [[DATE|06/13/2026]] 20:51:13   In   [[PERSON|Dre]] Bro [[PHONE|(262) 501-0846]]  SMS        yo u got the car tn?                 Read
+ 4   [[DATE|06/13/2026]] 20:52:30   Out  [[PERSON|Dre]] Bro                      SMS        ya moms car. the                     Sent
+                                                                       [[VEHICLE_DESCRIPTION|grey malibu w the dent on the back door]]
+ 5   [[DATE|06/13/2026]] 21:07:44   In   [[USERNAME|lilmarq_414]]                 Snapchat   pull up [[INDIRECT_LOCATION|BP on Capitol n 35th]]           Opened
+                                                                       [location shared: [[GPS|43.1176, -87.9573]]]
+ 6   [[DATE|06/13/2026]] 22:38:57   In   [[INDIRECT_ROLE?|Mama]] [[PHONE|(414) 871-3390]]     iMessage   [[PERSON|Tyrell]] where is my car. I need it    Read
+                                                                       for work at 5am at [[EMPLOYER|Froedtert]] u
+                                                                       KNOW that
+ 7   [[DATE|06/13/2026]] 22:41:15   Out  [[INDIRECT_ROLE?|Mama]]                         iMessage   bringing it back by 12 i promise     Delivered
+ 8   [[DATE|06/13/2026]] 23:16:31   In   [[PERSON|K-Wolf]] @[[USERNAME|kwolf.mke]]        Instagram  where u at. [[PERSON|Marquise]] said its      Seen
+                                                                       goin down at [[INDIRECT_LOCATION|Shays crib on N 47th,
+                                                                       upstairs rear]]
+ 9   [[DATE|06/13/2026]] 23:18:48   Out  [[PERSON|K-Wolf]] @[[USERNAME|kwolf.mke]]        Instagram  im not on that bro im chillin        Sent
+10   [[DATE|06/13/2026]] 23:49:20   In   [[PERSON|Shay]] [[PHONE|(414) 397-5512]]     iMessage   come thru [[ADDRESS|3817 N 47th St]] back      Read
+                                                                       door. code is [[PASSWORD|4471#]] my brother
+                                                                       [[PERSON|Darius]] home
+11   [[DATE|06/14/2026]] 00:47:39   In   (unsaved) [[PHONE|(414) 250-7738]]    SMS        this [[PERSON|Ronnie]]. [[PERSON|Marq]] gave me ur #.  Read
+                                                                       u got the 40 he owe me? cashapp
+                                                                       [[USERNAME|$RonDaGreat414]]
+12   [[DATE|06/14/2026]] 01:12:58   Out  [[PERSON|Shay]]                         iMessage   babe he got a gun. the               Delivered
+                                                                       [[PHYSICAL_DESCRIPTOR|light skin dude w the braids n the
+                                                                       cross tat under his eye]]
+13   [[DATE|06/14/2026]] 01:13:20   In   [[PERSON|Shay]] [[PHONE|(414) 397-5512]]     iMessage   thats [[PERSON|Ronnie]] he crazy leave       Read
+14   [[DATE|06/14/2026]] 01:31:44   Out  [[PERSON|Dre]] Bro                      SMS        call me now                          Sent
+15   [[DATE|06/14/2026]] 01:32:10   --   [[PERSON|Dre]] Bro                      Phone      Outgoing call, 00:03:47              --
+16   [[DATE|06/14/2026]] 02:05:33   In   [[INDIRECT_ROLE?|Mama]] [[PHONE|(414) 871-3390]]     iMessage   POLICE JUST CALLED ME ABOUT MY CAR   Read
+                                                                       WHAT DID YOU DO
+17   [[DATE|06/14/2026]] 02:19:51   Out  [[INDIRECT_ROLE?|Mama]]                         iMessage   i didnt do nothin ma. im at          Delivered
+                                                                       [[INDIRECT_LOCATION|unc Pookies on Hampton, the green house
+                                                                       by the church]]. somebody shot at us
+18   [[DATE|06/14/2026]] 03:44:07   Out  [[USERNAME|lilmarq_414]]                 Snapchat   delete all that                      Not opened
+-----------------------------------------------------------------------------------------------------
+Deleted items recovered (SQLite freelist, sms.db):  2
+
+D1   [[DATE|06/14/2026]] 01:58:12   Out  [[PERSON|Shay]]                         iMessage   tell ur brother take the             Deleted
+                                                                       [[VEHICLE_DESCRIPTION|black charger]] somewhere. plate [[LICENSE_PLATE|ARB-4127]]
+D2   [[DATE|06/14/2026]] 02:01:40   Out  [[PERSON|Shay]]                         iMessage   i aint touch nothin. tell detective
+                                                                       [[PERSON|Reyes]] that if she ask                       Deleted
+
+ATTACHMENTS (1)
+  IMG_4471.HEIC  [[DATE|06/14/2026]] 01:12:31  EXIF GPS [[GPS|43.0868, -87.9726]]  -- photograph of a dark sedan, partial
+  rear plate visible. Hash (SHA-256) 9f2c...e18a.
+
+LOCATION ARTIFACTS (Significant Locations / KnowledgeC)
+  [[DATE|06/13/2026]] 21:14 - 22:31   [[GPS|43.1179, -87.9569]]  ~ [[INDIRECT_LOCATION|parking lot, BP station, W Capitol Dr & N 35th St]]
+  [[DATE|06/14/2026]] 00:01 - 01:44   [[GPS|43.0841, -87.9719]]  ~ [[ADDRESS|3817 N 47th St]]
+  [[DATE|06/14/2026]] 02:10 - 03:59   [[GPS|43.1032, -88.0010]]  ~ [[INDIRECT_LOCATION?|W Hampton Ave (residential)]]
+  Wi-Fi networks joined: "[[USERNAME?|SHAYS_PLACE_5G]]" (BSSID [[DEVICE_ID|a4:2b:b0:7c:11:e9]]); Home: "[[USERNAME?|BANKS-FAM]]"
+  Last Wi-Fi IP assigned: [[IP_ADDRESS|192.168.1.47]]  /  WAN (carrier): [[IP_ADDRESS|172.58.141.206]]
+
+Examiner certification (hash-verified image):
+                       /s/ [[PERSON|A. Nowicki-Hart]], Det., CFCE, CCPA   [[DATE|07/02/2026]]
+Page 3 of 11                                                            Bates [[ID_NUMBER?|SPD-DISC-004-0193]]

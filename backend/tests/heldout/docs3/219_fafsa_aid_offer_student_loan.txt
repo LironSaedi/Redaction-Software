@@ -1,0 +1,121 @@
+2026-27 FAFSA(R) SUBMISSION SUMMARY                              Federal Student Aid -- U.S. Department of Education
+Submitted [[DATE?|10/04/2025]]   Processed [[DATE?|10/06/2025]]   Transaction 01   DRN [[ID_NUMBER|8841]]   FAFSA ID [[ID_NUMBER|F2627-0418-8826-CA]]
+
+STUDENT (at time of filing -- student was [[AGE|17]], a minor; parent signature required)
+  Name                    [[PERSON MINOR|Camila Rose Valdivia-Kemper]]
+  SSN                     [[SSN|533-71-0864]]
+  Date of birth           [[DATE_OF_BIRTH|08/21/2008]]
+  Permanent address       [[ADDRESS|2207 W Rosamond Ave, Spokane, WA 99224]]
+  Phone / email           [[PHONE|(509) 555-0627]] / [[EMAIL|camila.vk2008@gmail.com]]
+  StudentAid.gov account  username [[USERNAME|CamilaVK08]]   (FSA ID)
+  State of legal residence WA, since [[DATE?|06/2012]]
+  High school             [[SCHOOL|Ferris Crest High School]], Spokane WA -- diploma expected [[DATE?|06/2026]]
+  Citizenship             U.S. citizen        Selective Service: N/A
+  Dependency status       DEPENDENT (under 24, not married, no dependents)
+  Student income (2024)   Wages $3,218 (W-2, [[EMPLOYER|Huckleberry Creamery]]); no tax return filed
+  Colleges listed         Federal School Code  Housing
+    [[SCHOOL|Inland Northwest State University]]     003788               On campus
+    [[SCHOOL|Palouse Valley College]]                 004417               With parent
+    [[SCHOOL|Cascadia Pacific University]]            E00519               On campus
+
+PARENT CONTRIBUTOR(S)
+  Parent 1                [[PERSON|Rosario Dolores Kemper-Alcantar]]   (mother)
+    SSN / DOB             [[SSN|531-08-4472]] / [[DATE_OF_BIRTH|03/30/1981]]
+    Email                 [[EMAIL|rosario.kemper@outlook.com]]     StudentAid.gov user [[USERNAME|RKemperA81]]
+  Parent 2 (spouse)       [[PERSON|Neil Andrew Kemper]]   (stepfather)
+    SSN / DOB             [[SSN|540-22-9915]] / [[DATE_OF_BIRTH|12/11/1977]]
+    Email                 [[EMAIL|nkemper.cpa@gmail.com]]
+  Marital status          Married ([[DATE?|05/2015]])     Non-custodial parent: [[PERSON|Ethan J. Valdivia]] (not reported -- not required)
+  Family size             5  (parents, student, half-brother [[PERSON MINOR|Owen Kemper]] age [[AGE|11]], stepsister [[PERSON|Harper Kemper]] age [[AGE|20]],
+                          a student at [[SCHOOL|Lilac City College]])
+  2024 AGI (via IRS FTI, consent given) [[MONEY|$118,406]]   Income tax paid [[MONEY|$11,872]]
+  Parent employers        [[EMPLOYER|Spokane Valley Mercy Medical Center]] (P1, RN); self-employed CPA -- [[EMPLOYER|Kemper Tax & Advisory, PLLC]] (P2)
+  Assets reported         Cash/checking/savings [[MONEY|$21,400]]   Investments (excl. home, retirement) [[MONEY|$38,900]]
+                          Net worth of businesses/farms [[MONEY|$62,000]]
+  Parent signature        [[SIGNATURE|Rosario D. Kemper-Alcantar]]  (electronic, FSA ID)  [[DATE?|10/04/2025]]
+
+RESULTS
+  Student Aid Index (SAI)  9,846        Pell Grant eligibility: Not eligible (SAI > max)
+  Comments: 101 -- your FAFSA was processed. 168 -- federal tax information received from the IRS.
+
+                                                                                                    Page 1 of 4
+
+--- Page 2 ---
+
+[[SCHOOL|INLAND NORTHWEST STATE UNIVERSITY]] -- OFFICE OF STUDENT FINANCIAL AID
+[[ADDRESS?|PO Box 641068, Pullman, WA 99164]]   [[PHONE?|(509) 555-0160]]   [[EMAIL?|finaid@inwsu.example]]
+
+2026-27 FINANCIAL AID OFFER (Revised)                                  Date: [[DATE?|09/02/2026]]
+Student: [[PERSON|Camila R. Valdivia-Kemper]]          Student ID: [[ID_NUMBER|011884207]]     Enrollment: Full-time, Fall/Spring
+Mailing: [[ADDRESS|2207 W Rosamond Ave, Spokane WA 99224]]   Campus housing: [[ADDRESS|Stimson Hall Rm 318]]
+Major: Nursing (pre-licensure)   Class: Freshman   Housing: On campus   Federal School Code 003788
+
+  ESTIMATED COST OF ATTENDANCE                          Fall          Spring        Total
+  Tuition & fees (resident)                             $6,612        $6,612       $13,224
+  Housing & food                                        $6,450        $6,450       $12,900
+  Books, course materials, supplies                     $  540        $  540       $ 1,080
+  Transportation / personal                             $1,215        $1,215       $ 2,430
+  Total cost of attendance                             $14,817       $14,817       $29,634
+
+  AID OFFERED                                           Fall          Spring        Total
+  INWSU Cougar Gold Scholarship (merit)                 $2,500        $2,500        $5,000
+  Washington College Grant (WCG)                        $1,100        $1,100        $2,200
+  [[ORGANIZATION?|Spokane Nurses' Foundation]] -- [[PERSON?|Margaret Liu]] Memorial Award $  750    $  750        $1,500
+  Federal Direct Subsidized Loan                        $1,750        $1,750        $3,500
+  Federal Direct Unsubsidized Loan                      $1,000        $1,000        $2,000
+  Federal Work-Study (Student Rec Center)               $1,250        $1,250        $2,500
+  Federal Direct Parent PLUS Loan (P1: [[PERSON|R. Kemper-Alcantar]]) $4,000     $4,000        $8,000
+  Total aid                                            $12,350       $12,350       $24,700
+  Estimated remaining cost                                                          [[MONEY|$4,934]]
+
+  NOTE: You turned [[AGE|18]] on [[DATE?|August 21, 2026]]. Under FERPA, rights to your education records have
+  transferred to you. Your parents may no longer view your aid portal unless you sign a FERPA release
+  (form FA-FERPA-1). A release for [[PERSON|Rosario Kemper-Alcantar]] was signed [[DATE?|08/28/2026]].
+  Verification group V1 selected -- please submit the Verification Worksheet; your 2024 W-2 from
+  [[EMPLOYER|Huckleberry Creamery]] is on file.
+
+                                                                                                    Page 2 of 4
+
+--- Page 3 ---
+
+FEDERAL DIRECT LOAN -- DISCLOSURE STATEMENT AND NOTIFICATION OF DISBURSEMENT
+Borrower: [[PERSON|CAMILA R VALDIVIA-KEMPER]]     Borrower DOB: [[DATE_OF_BIRTH|08/21/2008]]     MPN signed [[DATE?|08/24/2026]]
+Servicer: [[ORGANIZATION?|Pathway Loan Servicing]] (assigned)   Servicer account no. [[BANK_ACCOUNT|PLS-7731804418]]
+
+  Loan type                       Award ID                    Gross       Fee (1.057%)  Net
+  Direct Subsidized               [[BANK_ACCOUNT|533710864S27G00378801]]       3,500.00         37.00    3,463.00
+  Direct Unsubsidized             [[BANK_ACCOUNT|533710864U27G00378801]]       2,000.00         21.14    1,978.86
+  Parent PLUS (4.228% fee)        [[BANK_ACCOUNT|531084472P27G00378801]]       8,000.00        338.24    7,661.76
+  (Award IDs begin with the borrower's SSN; PLUS borrower is Parent 1.)
+
+  Interest rates (fixed, first disbursed 7/1/26-6/30/27): Sub/Unsub undergraduate 6.39%; Parent PLUS 8.94%.
+  Scheduled disbursements: [[DATE?|08/19/2026]] (50%) and [[DATE?|01/06/2027]] (50%). Grace period: 6 months.
+
+  Refund of credit balance: by direct deposit to student's account at [[ORGANIZATION?|Inland Peaks Credit Union]] -- see
+  refund selection below.
+  Refund preference  [X] Direct deposit   Routing [[ROUTING_NUMBER|125108405]]   Account [[BANK_ACCOUNT|0004418822077]]   (checking)
+  Account owner      [[PERSON|Camila R Valdivia-Kemper]] (joint with [[PERSON|Rosario D Kemper-Alcantar]])
+  Fall credit balance refunded [[DATE?|08/28/2026]]: [[MONEY|$1,108.42]]
+
+PARENT PLUS CREDIT DECISION
+  Borrower [[PERSON|Rosario D. Kemper-Alcantar]], SSN XXX-XX-[[SSN|4472]] -- APPROVED [[DATE?|07/30/2026]] (no adverse credit history)
+  Endorser: none required.  PLUS MPN ID [[ID_NUMBER|MPN-P-26-0418827]].  Deferment while student enrolled: requested.
+
+                                                                                                    Page 3 of 4
+
+--- Page 4 ---
+
+LOAN COUNSELING & SPECIAL CIRCUMSTANCES NOTES (financial aid counselor, internal)
+  [[DATE?|09/09/2026]]  Student in office w/o parent (adult now). Asked whether stepfather's self-employment income should
+               count; explained FAFSA "parent" rules (stepparent married to custodial parent counts). Student mentioned
+               her father [[PERSON|Ethan Valdivia]] lives in [[LOCATION?|Boise]] and "sends money sometimes" -- advised that
+               cash support paid on her behalf may be reportable on 2027-28 FAFSA. Student works [[INDIRECT_ROLE|the 6 a.m.
+               shift as the only student lifeguard at the Rec Center pool]] (FWS position #[[ID_NUMBER|FWS-26-0447]]).
+  [[DATE?|09/16/2026]]  Professional judgment request (P1): mother's hours cut at [[EMPLOYER|Spokane Valley Mercy]] after
+               [[MEDICAL_CONDITION|her back surgery]]; 2026 projected income ~$94,000. Documentation requested: employer letter,
+               2026 YTD pay stubs. Counselor: [[PERSON?|J. Etsitty]].
+  [[DATE?|10/01/2026]]  2027-28 FAFSA opened. Student is still dependent. Reminder: student and both contributors need their own
+               StudentAid.gov accounts; stepfather's username on file [[USERNAME|NKemperCPA]].
+
+  Student emergency contact: [[PERSON|Rosario Kemper-Alcantar]] [[PHONE|(509) 555-0391]]; roommate [[PERSON|Talia Brightwater]] [[PHONE|(208) 555-0175]].
+                                                                                                    Page 4 of 4

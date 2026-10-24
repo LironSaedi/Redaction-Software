@@ -1,0 +1,116 @@
+CONFIDENTIAL STUDENT RECORD -- Family Educational Rights and Privacy Act (20 U.S.C. § 1232g; 34 C.F.R. Part 99)
+Redisclosure prohibited without parental consent except as permitted by 34 C.F.R. § 99.31.
+
+[[ORGANIZATION?|BRUSHY CREEK INDEPENDENT SCHOOL DISTRICT]] -- Department of Special Education
+[[ADDRESS?|1600 Sam Bass Rd]], [[ADDRESS?|Round Rock, TX 78681]]   Tel [[PHONE|512-464-5300]]   Fax [[PHONE|512-464-5399]]
+
+          INDIVIDUALIZED EDUCATION PROGRAM (IEP) -- ADMISSION, REVIEW AND DISMISSAL (ARD) COMMITTEE REPORT
+-------------------------------------------------------------------------------------------------------------
+Student:        [[PERSON MINOR|BANKS, JAYLEN MARCUS]]                 Student ID (local): [[ID_NUMBER|2290417]]   TSDS Unique ID: [[ID_NUMBER|8841907726]]
+DOB:            [[DATE_OF_BIRTH|03/12/2014]]   Age: [[AGE|11]]   Grade: 5        Campus: [[SCHOOL|Oak Meadow Elementary School]] (#246-909-114)
+Gender: M       Ethnicity/Race: [[DEMOGRAPHIC|Not Hispanic/Latino; Black or African American]]
+Home language:  English        LEP: No     Economically disadvantaged: [[FINANCIAL_INFO|Yes (free meals -- household income < 130% FPL)]]
+Medicaid #:     [[HEALTH_PLAN_ID|722 418 509]] (SHARS billing consent on file [[DATE|09/05/2024]])
+Parent/Guardian: [[PERSON|Tanisha L. Banks]] (mother)  -- [[ADDRESS|3805 Kenney Fort Blvd, Apt 1122, Round Rock, TX 78665]]
+                 Cell [[PHONE|(512) 739-0281]]  Email [[EMAIL|tanishabanks.rr@gmail.com]]
+Other:          Father -- [[PERSON|Marcus D. Banks]] -- [[CRIMINAL_HISTORY|currently incarcerated (TDCJ #02318874, Hughes Unit); no
+                educational decision-making restrictions on file]]. Maternal grandmother [[PERSON|Rose M. Banks]] ([[LOCATION?|Kyle]])
+                listed as emergency contact -- [[PHONE|512-268-0973]].
+ARD date:       [[DATE|04/22/2025]]    Type: Annual + Reevaluation (FIE/REED)    Next annual ARD due: [[DATE|04/21/2026]]
+Case manager:   [[PERSON|Courtney Dziedzic]], M.Ed., Special Education Teacher       Diagnostician: [[PERSON|Ramón Ibarra-Lynch]], LSSP
+
+ELIGIBILITY (34 C.F.R. § 300.8; 19 TAC § 89.1040)
+  Primary:   [[MEDICAL_CONDITION|Other Health Impairment (OHI) -- Attention-Deficit/Hyperactivity Disorder, combined presentation]]
+             (physician's certification: Dr. [[PERSON|Kwabena Owusu-Ansah]], [[ORGANIZATION?|Round Rock Pediatric Associates]], [[DATE|01/30/2025]])
+  Secondary: [[MEDICAL_CONDITION|Specific Learning Disability (SLD) -- basic reading skills and reading fluency (dyslexia)]]
+  Also considered: [[MENTAL_HEALTH|Emotional Disturbance -- NOT eligible]] (anxiety symptoms noted; see counseling below)
+
+PRESENT LEVELS OF ACADEMIC ACHIEVEMENT AND FUNCTIONAL PERFORMANCE (PLAAFP)
+  Reading:  STAAR Grade 4 Reading Language Arts (Spring 2024): Did Not Meet (scale score 1388; approaches cut 1475).
+            MAP Growth Reading (Winter 2025): RIT 189, 14th percentile. Lexile 520L (grade-level target 830L-1010L).
+            Oral reading fluency: 71 wcpm with 91% accuracy on Grade 3 passage (benchmark Grade 5: 139 wcpm).
+            Phonological processing (CTOPP-2): Elision SS 6, Blending SS 7, Phoneme Isolation SS 6.
+  Math:     STAAR Grade 4 Math: Approaches (scale score 1547). MAP Math RIT 206, 41st percentile. Strength in
+            computation; difficulty with multi-step word problems (reading load).
+  Writing:  Spells phonetically ("becuz," "frend"); writes 3-4 sentence paragraphs with prompting.
+  Behavior/Functional: Off-task 38% of intervals (momentary time sampling, 15-sec intervals, 3 observations).
+            5 office referrals in 2024-25 (leaving classroom, tearing worksheets). One incident [[DATE|02/11/2025]] -- pushed a
+            peer in the cafeteria after peer made comments about [[CRIMINAL_HISTORY|his father being "in jail"]]; 1 day ISS.
+  Health:   [[MEDICATION|Methylphenidate ER (Concerta)]] 27 mg every morning -- administered at home; [[MEDICATION|albuterol]] inhaler kept
+            in nurse's office for [[MEDICAL_CONDITION|mild intermittent asthma]]. Vision/hearing screening passed ([[DATE?|09/2024]]).
+  Social-emotional: Student reports worrying "a lot" about his mom working nights and his dad. School counselor
+            (Ms. [[PERSON|Paige Reinholt]]) sees student in a small group (Lunch Bunch -- [[MENTAL_HEALTH|grief/separation group]]) biweekly.
+  Parent input: Mother reports [[PERSON MINOR|Jaylen]] "hates reading out loud" and says he is "stupid." He loves drawing, Minecraft, and
+            the [[INDIRECT_LOCATION|Saturday art program at the Round Rock Public Library]].
+
+IEP -- [[PERSON MINOR|BANKS, JAYLEN MARCUS]] -- ID [[ID_NUMBER|2290417]] -- DOB [[DATE_OF_BIRTH|03/12/2014]] -- ARD [[DATE|04/22/2025]]                 CONFIDENTIAL -- FERPA        Page 2 of 4
+-------------------------------------------------------------------------------------------------------------
+ANNUAL GOALS AND SHORT-TERM OBJECTIVES
+  Goal 1 (Reading -- decoding): By [[DATE|04/21/2026]], when given a list of multisyllabic words with closed, open, and
+    vowel-consonant-e syllable types, [[PERSON MINOR|Jaylen]] will read them with 85% accuracy in 4 of 5 trials.
+  Goal 2 (Reading -- fluency): By [[DATE|04/21/2026]], [[PERSON MINOR|Jaylen]] will read a Grade 4 passage at 110 wcpm with 95% accuracy.
+  Goal 3 (Writing): By [[DATE|04/21/2026]], using a graphic organizer and speech-to-text, [[PERSON MINOR|Jaylen]] will write a 5-sentence
+    paragraph with topic sentence, 3 details, and conclusion, scoring 3/4 on district rubric.
+  Goal 4 (Behavior/self-regulation): By [[DATE|04/21/2026]], [[PERSON MINOR|Jaylen]] will use a break card and return to task within 5
+    minutes in 80% of opportunities, measured by weekly data sheets.
+
+SPECIAL EDUCATION AND RELATED SERVICES (Schedule of Services)
+  Service                                   Setting                  Frequency / Duration       Provider
+  ----------------------------------------  -----------------------  -------------------------  -----------------
+  Specialized reading instruction (Wilson)  Resource room            5 x 45 min/week            Sp. Ed. teacher
+  In-class support -- ELAR, Science         General education        5 x 30 min/week            Sp. Ed. aide
+  Dyslexia program (MTA)                    Small group (pull-out)   4 x 45 min/week            Dyslexia therapist
+  Counseling (related service)              Counselor's office       2 x 30 min/month           LSSP / counselor
+  Transportation                            --                       Not required               --
+  Extended School Year (ESY)                --                       Eligible -- reading, 4 wks --
+  Least restrictive environment: 75% of instructional day in general education (instructional arrangement 41).
+
+ACCOMMODATIONS (instruction and state assessment, STAAR)
+  Text-to-speech (online)  |  Spelling assistance  |  Extra time (same day)  |  Small group setting  |
+  Individualized structured reminders  |  Preferential seating near teacher  |  Breaks as needed  |
+  Oral administration of math word problems  |  Reduced assignments (50% of practice items)
+
+BEHAVIOR INTERVENTION PLAN: Yes -- attached (FBA completed [[DATE|03/28/2025]]). Target behaviors: elopement from
+  classroom, task refusal. Function: escape from reading demands. Replacement: break card, choice of task order.
+
+IEP -- [[PERSON MINOR|BANKS, JAYLEN MARCUS]] -- ID [[ID_NUMBER|2290417]] -- DOB [[DATE_OF_BIRTH|03/12/2014]] -- ARD [[DATE|04/22/2025]]                 CONFIDENTIAL -- FERPA        Page 3 of 4
+-------------------------------------------------------------------------------------------------------------
+ARD COMMITTEE DELIBERATIONS (summary)
+  Committee reviewed the FIE dated [[DATE|04/08/2025]] (WISC-V: FSIQ 94; VCI 98, VSI 104, FRI 100, WMI 82, PSI 80).
+  Parent agreed with OHI and SLD eligibility. Parent asked whether [[PERSON MINOR|Jaylen]] could be evaluated for ED because of
+  "how sad he gets about his dad." LSSP explained BASC-3 results: Anxiety (parent) T=68 at-risk, Depression T=61,
+  teacher ratings average range; committee determined ED criteria not met but added counseling as a related
+  service. Parent requested that information about [[CRIMINAL_HISTORY|the father's incarceration]] NOT be shared with [[PERSON MINOR|Jaylen]]'s
+  middle school beyond the counselor -- committee agreed; noted in confidential file only.
+  Parent stated she works [[INDIRECT_ROLE|the overnight shift as a CNA at the Avery Ranch nursing home]] and can attend meetings
+  only after 3:30 p.m. or by phone.
+  Transition to middle school: [[SCHOOL|Cedar Valley Middle School]] (Grade 6, 2025-26). Campus visit [[DATE|05/14/2025]].
+  Medicaid/SHARS: parent consented to billing for counseling and evaluation.
+  Parent received Notice of Procedural Safeguards (English) and the Parent's Guide to the ARD Process.
+
+ARD COMMITTEE MEMBERS (signature indicates participation, not agreement)
+  [[PERSON|Tanisha L. Banks]] .............. Parent (by phone)                        Agree [X]   Disagree [ ]
+  Dr. [[PERSON|Lorraine Whitfield-Okoye]] Administrator/Designee (Asst. Principal)   Agree [X]
+  [[PERSON|Courtney Dziedzic]] ............. Special Education Teacher (case manager)
+  [[PERSON|Mitchell Abara]] ................ General Education Teacher (Grade 5 ELAR)
+  [[PERSON|Ramón Ibarra-Lynch]] ............ Educational Diagnostician / LSSP (interpreter of eval results)
+  [[PERSON|Shaniqua Fortenberry]] .......... Dyslexia Therapist (CALT)
+  [[PERSON|Paige Reinholt]] ................ School Counselor
+  [[PERSON MINOR|Jaylen M. Banks]] ............... Student (attended first 10 minutes)
+
+IEP -- [[PERSON MINOR|BANKS, JAYLEN MARCUS]] -- ID [[ID_NUMBER|2290417]] -- DOB [[DATE_OF_BIRTH|03/12/2014]]                                    CONFIDENTIAL -- FERPA        Page 4 of 4
+-------------------------------------------------------------------------------------------------------------
+RECORD OF ACCESS (34 C.F.R. § 99.32)
+  Date        Name / Agency                                   Purpose                                   Authorized by
+  ----------  ----------------------------------------------  ----------------------------------------  ---------------
+  [[DATE|04/23/2025]]  [[PERSON|R. Ibarra-Lynch]], LSSP (BCISD)                  Legitimate educational interest           FERPA 99.31(a)(1)
+  [[DATE|05/02/2025]]  [[ORGANIZATION?|Cedar Valley MS]] -- Sp. Ed. dept                    Transfer (enrollment)                     FERPA 99.31(a)(2)
+  [[DATE|06/18/2025]]  [[ORGANIZATION?|Whitlock Injury Law]] ([[PERSON|D. Whitlock]])                  Records request -- grandmother's case?    DENIED -- no consent;
+                                                                                                         grandmother not a
+                                                                                                         parent
+  [[DATE|07/09/2025]]  [[ORGANIZATION?|Texas HHSC]] (SHARS audit)                         Medicaid audit                            Parent consent [[DATE|09/05/2024]]
+
+DIRECTORY INFORMATION OPT-OUT: Parent opted out of directory information disclosure on [[DATE|08/19/2024]] (no
+  yearbook photo, no honor roll publication).
+
+Prepared by: [[PERSON|C. Dziedzic]] -- [[EMAIL|cdziedzic@bcisd.org]] -- printed [[DATE|10/02/2025]] by [[USERNAME|sped_records2]]

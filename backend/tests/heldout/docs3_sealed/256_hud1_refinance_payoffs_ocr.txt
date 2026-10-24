@@ -1,0 +1,236 @@
+[Scanned closing package -- OCR output, 6 pages, uncorrected. Batch [[ID_NUMBER?|GATE-0819-114]]]
+
+A.  Sett1ement Statement (HUD-1)                     U.S. Department of Housing            OMB Approval No. 2502-0265
+                                                     and Urban Deve1opment
+B.  Type of Loan
+    1. [ ] FHA   2. [ ] RHS   3. [X] Conv. Unins.   6. Fi1e Number:            7. Loan Number:          8. Mortgage Insurance Case Number:
+    4. [ ] VA    5. [ ] Conv. Ins.                     [[ID_NUMBER|26-O4417-RF]]                [[BANK_ACCOUNT|33OO718842]]               N/A
+
+C.  Note: This forrn is furnished to give you a staternent of actua1 sett1ernent costs. Amounts paid to and by the
+    sett1ernent agent are shown. Itenns rnarked "(p.o.c.)" were paid outside the c1osing; they are shown here for
+    inforrnationa1 purposes and are not inc1uded in the tota1s.
+
+D.  Narne & Address of Borrower:                E. Narne & Address of Se11er:        F. Narne & Address of Lender:
+    [[PERSON|GERALD W. FAIRBANKS III]]                       N/A -- REFINANCE                     [[ORGANIZATION?|Summit Ridge Mortgage Corp.]]
+    [[PERSON|ANNETTE L. FAIRBANKS]]                                                              [[ADDRESS?|88OO Ward Pkwy, Ste 300]]
+    [[ADDRESS|731 Hick0ry Bend Ln]]                                                                [[ADDRESS?|Kansas City, M0 64114]]
+    [[ADDRESS|Chesterfie1d, M0 63O17]]                                                             NMLS # [[ID_NUMBER?|1188204]]
+
+G.  Property Location:                          H. Sett1ernent Agent:                  I. Sett1ernent Date:
+    [[ADDRESS|731 Hickory Bend Lane]]                       [[ORGANIZATION?|Gateway Arch Tit1e & Escrow, LLC]]       [[DATE?|O8/14/2026]]
+    [[ADDRESS|Chesterfie1d, MO 63017]]                         Place of Sett1ernent:                  Disburse: [[DATE?|08/19/2026]]
+    [[LOCATION?|St. Louis County]]                            [[ADDRESS?|16O2O Swing1ey Ridge Rd, Ste 1OO]]
+    Locator No. [[ID_NUMBER|18S-34-0127]]                     [[ADDRESS?|Chesterfield, MO 63O17]]
+    Lega1: [[INDIRECT_LOCATION|Lot 27 of HICKORY BEND ESTATES PLAT TWO, Plat Bk 352 Pg 88]]
+
+J. SUMMARY OF BORROWER'S TRANSACTION                          K. SUMMARY OF SELLER'S TRANSACTION
+100. Gross Arnount Due frorn Borrower                          400. Gross Amount Due to Se11er
+101. Contract sa1es price                                     401. Contract sa1es price           N/A
+102. Persona1 property                                         402. Persona1 property             N/A
+103. Sett1ement charges to borrower (1ine 1400)    [[MONEY|9,568.14]]
+104. Payoff 1st rntg -- [[ORGANIZATION?|Pinnac1e Home Loans]]
+       Ln # [[BANK_ACCOUNT|OO71884206]]                       [[MONEY|240,881.86]]
+105. Payoff HELOC -- [[ORGANIZATION?|Gravois Va11ey Bank]]
+       Acct # [[BANK_ACCOUNT|66OO213947]]                      [[MONEY|38,402.15]]
+106. Payoff -- [[ORGANIZATION?|Discover]] Card ending [[CREDIT_CARD|8692]]          [[MONEY|9,844.20]]
+107. Payoff -- IRS NFTL Seria1 No. [[ID_NUMBER|562118440]]      [[MONEY|6,120.33]]
+120. Gross Arnount Due frorn Borrower           [[MONEY|304,816.68]]     420. Gross Amount Due to Se11er     N/A
+
+200. Arnounts Paid by or in Beha1f of Borrower                 500. Reductions in Amount Due to Se11er
+201. Deposit or earnest rnoney                                501. Excess deposit                 N/A
+202. Principa1 amount of new 1oan(s)            [[MONEY|340,000.00]]
+203. Existing 1oan(s) taken subject to
+220. Tota1 Paid by/for Borrower                 [[MONEY|340,000.00]]     520. Total Reduction Amount         N/A
+
+300. Cash at Sett1ernent frorn/to Borrower                     600. Cash at Sett1ement to/frorn Se11er
+301. Gross amount due from borrower (1ine 120)  [[MONEY|304,816.68]]
+302. Less amounts paid by/for borrower (1ine 220) [[MONEY|(340,000.00)]]
+303. Cash [ ] Frorn  [X] To Borrower             [[MONEY|35,183.32]]     603. Cash [ ] To [ ] From Se11er     N/A
+
+     Cash to borrower disbursed by wire to [[ORGANIZATION?|Midwest Heritage Bank]] ABA [[ROUTING_NUMBER|O81264263]] acct [[BANK_ACCOUNT|2207 7183 115]]
+     ([[PERSON|Fairbanks]] joint checking) on [[DATE?|O8/19/2026]], Fed ref [[ID_NUMBER?|20260819MMQFMP2K0O1882]]
+
+Previous edition are obso1ete                         Page 1 of 3                                    HUD-1
+--- Page 2 ---
+L. SETTLEMENT CHARGES                                                   Paid From          Paid From
+                                                                        Borrower's         Se11er's
+                                                                        Funds at           Funds at
+                                                                        Sett1ement         Sett1ement
+700. Tota1 Rea1 Estate Broker Fees                                        N/A
+800. Items Payab1e in Connection with Loan
+801. Our origination charge  [[MONEY|$2,975.00]]  (from GFE #1)
+       (inc1udes 0.875% origination point)
+802. Your credit or charge (points) for the specific interest rate
+       chosen  ([[MONEY|$850.00]])  (from GFE #2)
+803. Your adjusted origination charges (from GFE #A)                    [[MONEY|2,125.00]]
+804. Appraisa1 fee to [[ORGANIZATION?|Meramec Va11ey Appraisa1 Group]] (from GFE #3)                [[MONEY|650.00]]
+805. Credit report to [[ORGANIZATION?|CoreLogic Credco]] (from GFE #3)                         [[MONEY|68.40]]
+806. Tax service to [[ORGANIZATION?|LERETA]] (from GFE #3)                                     [[MONEY|85.00]]
+807. F1ood certification to [[ORGANIZATION?|ServiceLink]] (from GFE #3)                        [[MONEY|14.00]]
+
+900. Items Required by Lender to be Paid in Advance
+901. Dai1y interest charges from [[DATE?|8/19/2026]] to [[DATE?|9/O1/2026]] @ [[MONEY|$59.38]]/day (from GFE #10)      [[MONEY|771.94]]
+902. Mortgage insurance prernium for -- months to N/A (from GFE #3)
+903. Homeowner's insurance for -- years to [[ORGANIZATION?|Show Me Mutua1]] (existing po1icy)      p.o.c.
+       Po1icy # [[POLICY_NUMBER|HO-3 77Ol 4482 19]]  renews [[DATE?|O3/O1/2027]]
+
+1000. Reserves Deposited with Lender
+1001. Initia1 deposit for your escrow account (from GFE #9)                         [[MONEY|4,226.80]]
+1002. Homeowner's insurance           3 months @ [[MONEY|$186.25]] per month    [[MONEY|$558.75]]
+1003. Mortgage insurance              -- months @ $   --  per month
+1004. Property taxes                  9 months @ $412.6O per month  $3,713.4O
+1007. Aggregate Adjustment                                            [[MONEY|-$45.35]]
+
+1100. Tit1e Charges
+1101. Tit1e services and 1ender's tit1e insurance (from GFE #4)                    [[MONEY|1,290.00]]
+1102. Sett1ement or c1osing fee   [[MONEY|$495.00]]
+1103. Owner's tit1e insurance (from GFE #5)                                         N/A
+1104. Lender's tit1e insurance    [[MONEY|$795.00]]   Po1icy No. [[POLICY_NUMBER|MO-LP-26-O441872]]
+1105. Lender's tit1e po1icy 1imit [[MONEY|$340,000.00]]
+1106. Owner's tit1e po1icy 1imit  N/A
+1107. Agent's portion of the tota1 tit1e insurance prernium to [[ORGANIZATION?|Gateway Arch Tit1e]]    [[MONEY|$636.00]]
+1108. Underwriter's portion of the tota1 tit1e insurance prerniurn to [[ORGANIZATION?|Heartland Tit1e Underwriters]] [[MONEY|$159.00]]
+
+1200. Governrnent Recording and Transfer Charges
+1201. Governrnent recording charges (from GFE #7)                                  [[MONEY|112.00]]
+1202. Deed $ --    Mortgage [[MONEY|$72.00]]    Re1ease [[MONEY|$40.00]]
+1203. Transfer taxes (from GFE #8)                                                   [[MONEY|0.00]]
+
+1300. Additiona1 Sett1ernent Charges
+1301. Payoff wire fees, 3 @ [[MONEY|$25.00]] to [[ORGANIZATION?|Gateway Arch Tit1e]]                            [[MONEY|75.00]]
+1302. HOA payoff/status 1etter to [[ORGANIZATION?|Hickory Bend Estates HOA]]                       [[MONEY|150.00]]
+1303. Appraisa1 -- p.o.c. by borrower [[MONEY|$0.00]] (inc1uded in 804)
+
+1400. Tota1 Sett1ernent Charges (enter on 1ine 103, Section J)                  [[MONEY|9,568.14]]
+
+--- Page 3 ---
+Cornparison of Good Faith Estimate (GFE) and HUD-1 Charges         Good Faith Estirnate          HUD-1
+Charges That Cannot Increase                  HUD-1 Line Number
+Our origination charge                          # 801                  [[MONEY|2,975.00]]              [[MONEY|2,975.00]]
+Your credit or charge (points) for the specific # 802                   [[MONEY|-850.00]]               [[MONEY|-850.00]]
+Your adjusted origination charges               # 803                  [[MONEY|2,125.00]]              [[MONEY|2,125.00]]
+Transfer taxes                                  # 1203                     [[MONEY|0.00]]                  [[MONEY|0.00]]
+Charges That In Tota1 Cannot Increase More Than 10%
+Governrnent recording charges                   # 1201                   [[MONEY|124.00]]                [[MONEY|112.00]]
+Tit1e services and 1ender's tit1e insurance     # 1101                 [[MONEY|1,325.00]]              [[MONEY|1,290.00]]
+                                                          Tota1        [[MONEY|1,449.00]]              [[MONEY|1,402.00]]
+                                       Increase between GFE and HUD-1 Charges  [[MONEY|$ -47.00]]   or  [[MONEY|-3.24]] %
+
+Loan Terms
+Your initia1 1oan arnount is                    [[MONEY|$340,000.00]]
+Your 1oan term is                                30 years
+Your initia1 interest rate is                   6.375 %
+Your initia1 rnonth1y amount owed for principa1, interest, and any mortgage insurance is [[MONEY|$2,121.16]]
+Can your interest rate rise?                    [X] No  [ ] Yes
+Even if you make payments on time, can your 1oan ba1ance rise?   [X] No
+Does your 1oan have a prepayrnent pena1ty?      [X] No
+Does your 1oan have a ba11oon payment?          [X] No
+Tota1 rnonth1y amount owed inc1uding escrow account payrnents: [[MONEY|$2,720.01]] (inc1udes property taxes and
+     homeowner's insurance)
+
+CERTIFICATION. I have carefu11y reviewed the HUD-1 Sett1ement Statement and to the best of my know1edge and
+be1ief, it is a true and accurate staternent of a11 receipts and disbursements made on my account or by me
+in this transaction. I further certify that I have received a copy of the HUD-1 Sett1ement Statement.
+
+   [[SIGNATURE|Gera1d W Fairbanks III]]                                  [[SIGNATURE|Annette L. Fairbanks]]
+   _______________________________________                  ______________________________________
+   Borrower  [[PERSON|GERALD W. FAIRBANKS III]]                          Borrower  [[PERSON|ANNETTE L. FAIRBANKS]]
+
+The HUD-1 Sett1ement Statement which I have prepared is a true and accurate account of this transaction. I have
+caused or wi11 cause the funds to be disbursed in accordance with this staternent.
+
+   [[SIGNATURE|Theresa M Brueggernann]]                                   Date [[DATE?|O8/14/2026]]
+   Sett1ement Agent  [[PERSON|Theresa M. Brueggemann]], Escrow Officer, MO Producer Lic. # [[ID_NUMBER?|8O4417]]
+   Notarized: [[PERSON|Kev in J. Ostermann]], Notary Pub1ic, [[LOCATION?|St. Charles County]], Commission # [[ID_NUMBER?|19632O4O]], expires [[DATE?|O6/3O/2028]]
+
+WARNING: It is a crime to knowing1y rnake fa1se staternents to the United States on this or any other sirni1ar
+form. Pena1ties upon conviction can inc1ude a fine or imprisonrnent. For details see: Tit1e 18 U.S. Code
+Section 1001 and Section 1010.
+--- Page 4 ---
+                                   [[ORGANIZATION?|PINNACLE HOME LOANS, LLC]]
+                     Payoff Department * [[ADDRESS?|PO Box 77O31]] * [[ADDRESS?|Irving, TX 75O17]]
+                     Phone [[PHONE?|1-866-555-O1O9]]  *  Fax [[PHONE?|1-866-555-O11O]]  *  [[URL?|pinnaclehomeloans.com/payoff]]
+
+                                         PAYOFF STATEMENT
+Date Issued:       [[DATE?|O8/05/2026]]                          Requested by:   [[ORGANIZATION?|Gateway Arch Tit1e & Escrow]] (fax)
+Loan Number:       [[BANK_ACCOUNT|OO71884206]]                           Requestor ref:  [[ID_NUMBER|26-04417-RF]]
+Borrower(s):       [[PERSON|GERALD W FAIRBANKS III]]
+                   [[PERSON|ANNETTE L FAIRBANKS]]
+Property:          [[ADDRESS|731 HICKORY BEND LN, CHESTERFIELD MO 63017]]
+Mai1ing:           Sarne as property
+Investor/Pool:     FNMA / Poo1 AL-4418                          Loan type: Conventiona1 Fixed 4.125%
+
+Payoff good through:  [[DATE?|O8/25/2026]]
+
+   Principa1 ba1ance                                                     [[MONEY|240,118.44]]
+   Interest from [[DATE?|O8/01/2026]] to [[DATE?|O8/25/2026]] @ 4.125%                          [[MONEY|678.42]]
+   Re1ease/recording fee                                                     [[MONEY|40.00]]
+   Payoff staternent fee (Texas-originated; permitted by note)              [[MONEY|30.00]]
+   Property inspection (corporate advance [[DATE?|O7/22/2026]])                     [[MONEY|15.00]]
+   Late charges                                                               [[MONEY|0.00]]
+   Escrow ba1ance (wi11 be refunded to borrower within 2O days -- NOT
+      deducted from payoff)                                            [[MONEY|(2,104.18)]]
+                                                                    ------------
+   TOTAL AMOUNT TO PAY OFF THROUGH [[DATE?|O8/25/2026]]                          [[MONEY|240,881.86]]
+   Per diem after [[DATE?|O8/25/2026]]: [[MONEY|$27.14]]
+
+WIRE INSTRUCTIONS (verbal verification required -- ca11 [[PHONE?|1-866-555-O1O9]], never rely on emai1ed changes)
+   Bank:              [[ORGANIZATION?|Lone Star Cornrnerce Bank]], [[LOCATION?|Da11as TX]]
+   ABA:               [[ROUTING_NUMBER|111O11784]]
+   Account:           [[BANK_ACCOUNT|44O1887260]]
+   Account narne:     [[ORGANIZATION?|Pinnac1e Home Loans]] Payoff C1earing
+   Reference:         Loan [[BANK_ACCOUNT|0071884206]] / [[PERSON|Fairbanks]]
+
+Escrow refund and the canceled note/re1ease wi11 be rnai1ed to the borrower at the address above. The borrower's
+homeowner's insurance po1icy [[POLICY_NUMBER|HO-3 77O1 4482 19]] will be updated to rernove Pinnac1e as mortgagee.
+Account history inquiries: borrower must authenticate with last 4 SSN ([[SSN|1184]]) and date of birth.
+--- Page 5 ---
+                                [[ORGANIZATION?|GRAVOIS VALLEY BANK]]
+                    [[ADDRESS?|9OO1 Gravois Rd]], [[ADDRESS?|St. Louis, MO 63123]]   Loan Servicing [[PHONE?|314-555-O167]]
+
+HELOC PAYOFF AND CLOSURE LETTER                                       Date: [[DATE?|O8/O7/2026]]
+
+RE: Horne Equity Line of Credit  Acct [[BANK_ACCOUNT|66OO213947]]
+    Borrowers: [[PERSON|Gera1d W. Fairbanks III]] & [[PERSON|Annette L. Fairbanks]]
+    Co11atera1: [[ADDRESS|731 Hickory Bend Ln, Chesterfie1d MO 63O17]]
+
+Unpaid principa1                     [[MONEY|38,210.00]]
+Accrued interest to [[DATE?|O8/20/2026]]       [[MONEY|172.15]]  (Prime + 0.50% = 8.000%; per diem [[MONEY|$8.37]])
+Annua1 fee (prorated)                    [[MONEY|0.00]]
+Ear1y c1osure fee (within 36 rnos)        [[MONEY|0.00]]  -- waived
+Recording of re1ease                    [[MONEY|20.00]]
+TOTAL PAYOFF                         [[MONEY|38,402.15]]   (good through [[DATE?|O8/2O/2026]])
+
+The line has been FROZEN as of the date of this letter. The account wi11 be CLOSED and a re1ease recorded on1y
+upon receipt of good funds AND the signed borrower authorization below. Checks or card draws presented after
+this date wi11 be returned.
+
+Wire to: [[ORGANIZATION?|Gravois Va11ey Bank]]   ABA [[ROUTING_NUMBER|O81O39O87]]   Loan Payoff GL [[BANK_ACCOUNT|19-1100-0042]]   OBI: [[BANK_ACCOUNT|66OO213947]] [[PERSON|FAIRBANKS]]
+
+BORROWER AUTHORIZATION TO FREEZE AND CLOSE
+I/we request that the above 1ine of credit be c1osed perrnanently upon payoff.
+   [[SIGNATURE|Gera1d W Fairbanks III]]     SSN 1ast 4: [[SSN|1l84]]   DOB [[DATE_OF_BIRTH|O4/22/1969]]    Date [[DATE?|8/14/26]]
+   [[SIGNATURE|Annette L Fairbanks]]        SSN 1ast 4: [[SSN|7O62]]   DOB [[DATE_OF_BIRTH|11/O3/1971]]    Date [[DATE?|8/14/26]]
+   Phone: [[PHONE|(636) 555-O193]]     Ernail: [[EMAIL|gw.fairbanks3@sbcg1oba1.net]]
+--- Page 6 ---
+[[ORGANIZATION?|DISCOVER]]                                                             Payoff Verification
+[[ADDRESS?|PO Box 3O943, Sa1t Lake City, UT 84130-O943]]                                [[DATE?|O8/O6/2026]]
+
+Cardrnernber:  [[PERSON|ANNETTE L FAIRBANKS]]           Account ending in [[CREDIT_CARD|8692]]
+Payoff amount through [[DATE?|O8/31/2026]]:  $9,844.2O   (inc1udes estimated interest at 24.24% APR)
+Mai1 payrnents to: [[ADDRESS?|Discover Financia1 Services, PO Box 6103, Caro1 Strearn IL 6O197-6103]]
+Inc1ude your fu11 account nurnber on the check:  [[CREDIT_CARD|6011 3122 2003 8692]]
+Note: Paying the ba1ance does not c1ose the account. Ca11 [[PHONE?|1-8OO-555-O183]] to request c1osure.
+
+-------------------------------------------------------------------------------------------------------------
+Departrnent of the Treasury - Interna1 Revenue Service
+Letter 3640 (Payoff Letter for Federa1 Tax Lien)                                            [[DATE?|O8/O4/2026]]
+Taxpayer(s):  [[PERSON|GERALD W & ANNETTE L FAIRBANKS]]     TIN: XXX-XX-[[SSN|1184]]
+Lien Seria1 Number:  [[ID_NUMBER|562118440]]      Recorded: [[LOCATION?|St. Louis County]] Recorder of Deeds, Book [[ID_NUMBER?|24918]] Page [[ID_NUMBER?|0211]]
+Tax Period(s):  Form 1040, 12/31/2023
+Unpaid ba1ance of assessment         [[MONEY|5,842.10]]
+Statutory additions (interest/pena1ty through [[DATE?|08/31/2026]])  [[MONEY|278.23]]
+Payoff amount, good through [[DATE?|O8/31/2026]]:  [[MONEY|6,120.33]]
+Remit to: United States Treasury -- write SSN, tax period and "Lien Payoff" on the check. Certificate of Re1ease
+(Form 668(Z)) wi11 be issued within 30 days of receipt of payment. Contact: Advisory Group, [[PHONE?|314-555-O128]].
+Revenue Officer: [[PERSON|D. Hoang-Whitfie1d]], ID # [[ID_NUMBER?|2O-O4718]]

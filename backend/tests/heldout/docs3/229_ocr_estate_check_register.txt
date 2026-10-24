@@ -1,0 +1,114 @@
+[OCR TEXT LAYER - scanned exhibit, 4 pp., 300 dpi, handwritten entries. Source: Whitcornbe_Inventory_ExB.pdf. Uncorrected.]
+
+IN THE CIRCUIT C0URT 0F BUENA VISTA C0UNTY, I0WA - PR0BATE DIVISI0N
+IN THE MATTER 0F THE ESTATE 0F [[PERSON|HAR0LD EUGENE WHITC0MBE]], Deceased          Probate No. [[CASE_NUMBER|ESPR 0l4471]]
+
+EXHIBIT B T0 REP0RT AND INVENT0RY - DECEDENT'S CHECK REGISTER ([[ORGANIZATION?|Farrners State]] Bank checking)
+Submitted by Executor: [[PERSON|Joyce W. Lindqvist]] (daughter), [[ADDRESS|2l9 W 5th St, Storm Lake IA 5O588]], [[PHONE|(7l2) 555-0l46]]
+
+  Decedent:        [[PERSON|Haro1d E. Whitcombe]]       DOB [[DATE_OF_BIRTH|O2/l1/l945]]      Date of death [[DATE|O6/O3/2026]]  (age [[AGE|eighty-one]])
+  SSN:             [[SSN|48l-3O-6627]]               Last residence: [[ADDRESS|ll07 Lake Ave, Storrn Lake, IA 5O588]]
+  Account:         [[ORGANIZATION?|Farrners State Bank]], Alta IA - checking #[[BANK_ACCOUNT|0-44l7-22 9]]  (joint w/ [[PERSON|Joyce Lindqvist]] P0D)
+  Bal. at death:   [[FINANCIAL_INFO?|$l2,9O8.l4]] per bank 1etter dated [[DATE?|O6/l9/2026]]
+
+  [voided check taped inside front cover]
+        [[PERSON|HAROLD E WHITCOMBE]]                                              1l92
+        [[PERSON|LOIS M WHITCOMBE]]  (deceased 2O2l)
+        [[ADDRESS|1l07 LAKE AVE]]
+        [[ADDRESS|ST0RM LAKE IA 5O588]]                    VOID   VOID   VOID
+     l:[[ROUTING_NUMBER|O9l9OO339]]l: [[BANK_ACCOUNT|O 44l7 22 9]]1l'  1l92
+------------------------------------------------------------------------------------------------------------------
+ NUM   DATE   DESCRIPTI0N 0F TRANSACTI0N                  PAYMENT/DEBIT   ✓   DEP0SIT/CREDIT     BALANCE
+ ----  -----  ------------------------------------------  -------------   -   --------------   ----------
+              ba1. fwd                                                                         [[FINANCIAL_INFO?|9,8l4.22]]
+ l178  [[DATE?|3/1]]    [[ORGANIZATION?|Casey's]] - gas & coffee                       [[MONEY|4l.O6]]     ✓                         [[FINANCIAL_INFO?|9,773.l6]]
+ DEP   [[DATE?|3/3]]    S0C SEC (direct)                                              ✓       [[MONEY|2,4l8.OO]]          [[FINANCIAL_INFO?|l2,l9l.l6]]
+ DEP   [[DATE?|3/3]]    [[ORGANIZATION?|IPERS]] pensi0n                                                 ✓         [[MONEY|9l2.37]]          [[FINANCIAL_INFO?|l3,1O3.53]]
+ l179  [[DATE?|3/4]]    Dr. [[PERSON|Rarnaswamy]] - eye sh0ts ([[MEDICAL_CONDITION|rnacu1ar]]) c0pay        [[MONEY|4O.OO]]      ✓                         [[FINANCIAL_INFO?|l3,O63.53]]
+ l18O  [[DATE?|3/6]]    [[PERSON|KEVIN]] (grands0n) f0r truck repair - 10AN!!         [[MONEY|1,5OO.OO]]   ✓                         [[FINANCIAL_INFO?|ll,563.53]]
+              he says pay back by Ju1y. [[PHONE|7l2-555-Ol88]]
+ l18l  [[DATE?|3/1O]]   [[ORGANIZATION?|Mid-Arnerican Energy]] acct [[ID_NUMBER|2l9 44O 7l18]]             [[MONEY|l38.4O]]     ✓                         [[FINANCIAL_INFO?|ll,425.l3]]
+ l182  [[DATE?|3/12]]   [[ORGANIZATION?|Heart1and Mutua1]] Medicare supp. P1an G            [[MONEY|2l7.55]]     ✓                         [[FINANCIAL_INFO?|ll,2O7.58]]
+              p0licy # [[POLICY_NUMBER|HM-MS-0O4471-8]]
+ ATM   [[DATE?|3/15]]   cash - [[INDIRECT_LOCATION|Hy-Vee 1akeshore]]                             [[MONEY|2OO.OO]]     ✓                         [[FINANCIAL_INFO?|ll,OO7.58]]
+ l183  [[DATE?|3/18]]   St. [[ORGANIZATION?|Mary's Cath0lic Church]] - tithe                     [[MONEY|l5O.OO]]     ✓                         [[FINANCIAL_INFO?|lO,857.58]]
+ l184  [[DATE?|3/22]]   [[PERSON|Bev]] - c1eaning (2 wks)                                [[MONEY|l2O.OO]]     ✓                         [[FINANCIAL_INFO?|lO,737.58]]
+ l185  [[DATE?|3/25]]   [[ORGANIZATION?|Bena Vista Co Treas]] - prop tax 1st ha1f            [[MONEY|1,O44.OO]]   ✓                         [[FINANCIAL_INFO?|9,693.58]]
+              parce1 # [[ID_NUMBER?|O9-l4-226-OO4]]
+ DEP   [[DATE?|3/28]]   c0rn rent - [[PERSON|Duane Hasse1brink]] (40 ac)              ✓       [[MONEY|4,8OO.OO]]          [[FINANCIAL_INFO?|l4,493.58]]
+ l186  [[DATE?|4/1]]    [[ORGANIZATION?|Faith Lutheran H0me]] - adult day (rnay)            [[MONEY|6l5.OO]]     ✓                         [[FINANCIAL_INFO?|l3,878.58]]
+ DEP   [[DATE?|4/3]]    S0C SEC                                                       ✓       [[MONEY|2,4l8.OO]]          [[FINANCIAL_INFO?|l6,296.58]]
+ DEP   [[DATE?|4/3]]    [[ORGANIZATION?|IPERS]]                                                         ✓         [[MONEY|9l2.37]]          [[FINANCIAL_INFO?|l7,2O8.95]]
+ l187  [[DATE?|4/7]]    Dr. [[PERSON|Rarnaswamy]] eye shots                             [[MONEY|4O.OO]]      ✓                         [[FINANCIAL_INFO?|l7,l68.95]]
+ l188  [[DATE?|4/9]]    [[ORGANIZATION?|Wa1greens]] - [[MEDICAL_CONDITION|e1iquis]] + [[MEDICAL_CONDITION|d0nepezi1]]                [[MONEY|l12.3O]]     ✓                         [[FINANCIAL_INFO?|l7,O56.65]]
+ l189  [[DATE?|4/14]]   [[PERSON|J0YCE]] - reirnburse groceries                        [[MONEY|286.4O]]     ✓                         [[FINANCIAL_INFO?|l6,77O.25]]
+ l19O  [[DATE?|4/l5]]   [[ORGANIZATION?|US Treasury]] - 2O25 tax ba1 due   SSN [[SSN|48l-3O-6627]]        [[MONEY|6O2.OO]]     ✓                         [[FINANCIAL_INFO?|l6,l68.25]]
+ l191  [[DATE?|4/l5]]   [[ORGANIZATION?|I0WA DEPT REV]] - 2O25                                          [[MONEY|88.OO]]      ✓                         [[FINANCIAL_INFO?|l6,O8O.25]]
+ ---   [[DATE?|4/18]]   ** gave [[PERSON|Kev]] another $5OO cash ** (not fr0rn this acct)
+ l192  VOID - taped in front
+ l193  [[DATE?|4/22]]   [[PERSON|Dar1ene Fr0st-Uba]] - "gift" ???                       [[MONEY|3,OOO.OO]]   ✓                         [[FINANCIAL_INFO?|l3,O8O.25]]
+              [different handwriting - not Dad's?? -JWL]
+ DEP   [[DATE?|5/1]]    c0rn rent ba1. - [[PERSON|Hasse1brink]]                                ✓       [[MONEY|4,8OO.OO]]          [[FINANCIAL_INFO?|l7,88O.25]]
+ l194  [[DATE?|5/2]]    [[ORGANIZATION?|Faith Lutheran H0me]] - adult day (june)             [[MONEY|6l5.OO]]     ✓                         [[FINANCIAL_INFO?|l7,265.25]]
+ DEP   [[DATE?|5/4]]    S0C SEC                                                       ✓       [[MONEY|2,4l8.OO]]          [[FINANCIAL_INFO?|l9,683.25]]
+ DEP   [[DATE?|5/4]]    [[ORGANIZATION?|IPERS]]                                                         ✓         [[MONEY|9l2.37]]          [[FINANCIAL_INFO?|2O,595.62]]
+ l195  [[DATE?|5/9]]    [[PERSON|Dar1ene Fr0st-Uba]] - "1oan"                           [[MONEY|5,OOO.OO]]   ✓                         [[FINANCIAL_INFO?|l5,595.62]]
+ l196  [[DATE?|5/l2]]   [[ORGANIZATION?|Heart1and Mutua1]] Medicare supp                     [[MONEY|2l7.55]]     ✓                         [[FINANCIAL_INFO?|l5,378.O7]]
+ l197  [[DATE?|5/2O]]   [[ORGANIZATION?|Storrn Lake Ho spita1]] - ER bi11 ([[MEDICAL_CONDITION|fa11 / hip]])        [[MONEY|35O.OO]]     ✓                         [[FINANCIAL_INFO?|l5,O28.O7]]
+ l198  [[DATE?|5/27]]   [[ORGANIZATION?|Gi1christ Rehab & Care]] - [[MEDICAL_CONDITION|ski11ed nursing (hip fx)]]      [[MONEY|2,l2O.OO]]                             [[FINANCIAL_INFO?|l2,9O8.O7]]
+              ** last entry in Dad's hand **
+------------------------------------------------------------------------------------------------------------------
+ [inside back cover - pencil, partly erased]
+    PIN f0r ATM card - [[PASSWORD|4 4 7 l]]  (sarne as garage)
+    [[ORGANIZATION?|Farrners State]] on1ine - user [[USERNAME|hwhitc0mbe45]]   pw [[PASSWORD|L0is&Har0ld1966]]
+    Safe dep. b0x #2l2 - key in s0ck drawer, 0ther key w/ [[PERSON|J0yce]]
+    [[PERSON|Darlene]] ce11 [[PHONE|7l2-555-O1l7]] -- [[INDIRECT_ROLE|she drives f0r the 0ffice on Aging, rneals on whee1s]]
+    VA c1airn # [[CLAIM_NUMBER|C-28 44l 9O3]]   (Korea? no - Vietnarn era, [[LOCATION|Ft. Leonard Wood]])
+    Medicare # [[HEALTH_PLAN_ID|7EG4-TE5-MK72]]
+------------------------------------------------------------------------------------------------------------------
+EXECUT0R'S N0TES T0 EXHIBIT B (typed)
+
+ 1. The register was kept by the decedent in his own hand through [[DATE?|May 27, 2026]]. 0n [[DATE|May 18, 2026]] the
+    decedent [[MEDICAL_CONDITION|fe11 at h0rne and fractured his 1eft hip]]; he did not return h0rne. He had been diagnosed with
+    [[MEDICAL_CONDITION|ear1y A1zheirner's disease]] in [[DATE|2O24]] (see Dr. [[PERSON|0kafor-Lund]] 1etter, Exhibit F).
+ 2. Checks l193 ([[MONEY|$3,OOO.OO]]) and l195 ([[MONEY|$5,OOO.OO]]) were payab1e to [[PERSON|Dar1ene Fr0st-Uba]], [[ADDRESS|4O8 Ontario St, Apt l,
+    Storm Lake]], [[INDIRECT_ROLE|the voIunteer driver who de1ivered his rnea1s]]. The Executor does not be1ieve these were gifts
+    and reserves a c1airn against Ms. [[PERSON|Fr0st-Uba]] for [[MONEY|$8,OOO.OO]]. The bank's irnage of check l195 shows
+    the endorsernent "[[PERSON|D. Frost-Uba]]" and deposit to [[ORGANIZATION?|Lakeside Credit Uni0n]] acct ending [[BANK_ACCOUNT|O6l9]].
+ 3. The [[MONEY|$1,5OO.OO]] advanced to grandson [[PERSON|Kevin R. Lindqvist]] (check l18O) is treated as an advancement
+    against his share under Article IV of the Wi11 (Iowa Code § 633.224).
+ 4. Check l198 cleared after death ([[DATE?|06/O8/2026]]); [[MONEY|$2,l2O.OO]] is a va1id c1aim of [[ORGANIZATION?|Gi1christ Rehab]].
+ 5. On1ine banking credentia1s and the ATM PIN on the back cover were disab1ed by the bank on [[DATE?|O6/l9/2026]].
+
+ Verified by: [[SIGNATURE|J0yce W Lindqvist]], Executor         [[DATE?|O9/3O/2026]]
+ Attorney for Estate: [[PERSON|Ga1en T. Re ichert]], [[ID_NUMBER?|AT0OO6612]], [[ORGANIZATION?|Reichert & Sobotka]], [[ADDRESS?|Ste 3, 5l7 Erie St, Storm Lake IA]]
+                                                                                       Page 4 of 5
+------------------------------------------------------------------------------------------------------------------
+EXHIBIT B-1  (bank 1etter, fax copy)
+
+[[ORGANIZATION?|FARMERS STATE BANK]]  ·  [[ADDRESS?|2O2 Main St, A1ta, IA 51OO2]]  ·  [[PHONE?|(7l2) 555-O1O9]]  ·  Member FDIC
+
+[[DATE?|June l9, 2O26]]
+
+[[PERSON|Joyce W. Lindqvist]]
+[[ADDRESS|2l9 W 5th St]]
+[[ADDRESS|Storm Lake, IA 5O588]]
+
+Re: Date-of-death ba1ances - [[PERSON|Haro1d E. Whitcornbe]] (SSN ***-**-[[SSN|6627]]), DOD [[DATE|O6/O3/2O26]]
+
+ Acct                       Type                       0wnership                   Ba1ance [[DATE?|O6/O3/26]]   Accrued int.
+ -------------------------  -------------------------  --------------------------  -----------------  ------------
+ [[BANK_ACCOUNT|0-44l7-229]]                 Senior Checking            Ind. - P0D [[PERSON|J. Lindqvist]]       [[MONEY|$l2,9O8.l4]]          0.00
+ [[BANK_ACCOUNT|6l-O0882-l]]                 l8-mo CD @ 3.9O%          Ind. - P0D [[PERSON|K. Lindqvist]]       [[MONEY|$25,OOO.OO]]       [[MONEY|$4l2.88]]
+ [[BANK_ACCOUNT|SDB 2l2]]                    Safe Dep0sit B0x          Ind.; co-1essee [[PERSON|J. Lindqvist]]      n/a              n/a
+ Debit card [[CREDIT_CARD|4l47 8l07 5690 O724]] - b10cked [[DATE?|O6/l9/26]]
+
+ The POD beneficiaries may c1airn funds on presentation of a certified death certificate (State
+ Fi1e No. [[ID_NUMBER?|l26-2O26-O44l7]]) and photo ID. Check l198 to [[ORGANIZATION?|Gi1christ Rehab & Care]] ([[MONEY|$2,l2O.OO]]) was paid
+ [[DATE?|O6/O8/26]] before the bank received notice of death. IRS Form lO99-INT for 2O26 wi11 issue under the
+ decedent's SSN through the DOD and under the beneficiary's TIN thereafter.
+
+ [[SIGNATURE|Marlys Te Ka mp]]
+ [[PERSON|Mar1ys TeKamp]], Deposit 0perations, ext. 2l4
+                                                                                       Page 5 of 5
+[OCR confidence 63%; handwriting regions; 5 words unread on p. 3]

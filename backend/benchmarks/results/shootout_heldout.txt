@@ -1,0 +1,30 @@
+== trf_nvidia
+38 documents, 270,445 chars (~108 pages), 137.4s
+REDACTION RECALL                           99.248%
+PRECISION                                  98.610%   (25 FP of 1799)
+F1                                         98.928%
+== trf_knowledgator
+38 documents, 270,445 chars (~108 pages), 59.0s
+REDACTION RECALL                           97.881%
+PRECISION                                  96.640%   (59 FP of 1756)
+F1                                         97.257%
+== nvidia_only
+38 documents, 270,445 chars (~108 pages), 116.3s
+REDACTION RECALL                           98.701%
+PRECISION                                  98.621%   (25 FP of 1813)
+F1                                         98.661%
+== knowledgator_only
+38 documents, 270,445 chars (~108 pages), 40.7s
+REDACTION RECALL                           95.899%
+PRECISION                                  96.581%   (60 FP of 1755)
+F1                                         96.239%
+== trf_only
+38 documents, 270,445 chars (~108 pages), 20.8s
+REDACTION RECALL                           91.866%
+PRECISION                                  98.606%   (22 FP of 1578)
+F1                                         95.117%
+== rules_only
+38 documents, 270,445 chars (~108 pages), 3.0s
+REDACTION RECALL                           79.016%
+PRECISION                                  98.553%   (21 FP of 1451)
+F1                                         87.709%

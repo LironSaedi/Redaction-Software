@@ -1,0 +1,73 @@
+                              CAUSE NO. [[CASE_NUMBER|D-1-GN-25-002918]]
+
+[[PERSON|MARIA ELENA DELGADO-RUIZ]], Individually and as      §      IN THE DISTRICT COURT OF
+Next Friend of [[PERSON MINOR|M.A.R.]], a Minor,                    §
+     Plaintiff,                                     §
+v.                                                  §      [[LOCATION?|TRAVIS COUNTY]], TEXAS
+[[PERSON|HUNTER JAMES WELLS]] and                              §
+[[ORGANIZATION?|SWIFTLINE FREIGHT LLC]],                             §
+     Defendants.                                    §      345TH JUDICIAL DISTRICT
+
+                       UNSWORN DECLARATION OF [[PERSON|DESHAWN MARCUS CARTER]]
+                      (Tex. Civ. Prac. & Rem. Code § 132.001)
+
+1.  My name is [[PERSON|Deshawn Marcus Carter]]. I am over 18 years of age, of sound mind, and capable
+    of making this declaration. The facts stated here are within my personal knowledge and are
+    true and correct.
+
+2.  I drive full time for rideshare apps ([[EMPLOYER?|Uber]] and [[EMPLOYER?|Lyft]]) and deliver for [[EMPLOYER?|DoorDash]]. I drive a
+    [[VEHICLE_DESCRIPTION|dark green 2021 Toyota Camry]]. I have a forward-facing dashcam mounted on my windshield that
+    records any time the car is on.
+
+3.  On Friday, [[DATE|March 14, 2025]], at about 5:35 in the afternoon, I was getting gas at [[INDIRECT_LOCATION|the Shell
+    station on the northeast corner of Ben White and South Congress]], at pump 6, which faces
+    Ben White. My car was pointed southwest toward the intersection. I was standing at the pump.
+
+4.  I saw a [[VEHICLE_DESCRIPTION|white 18-wheeler with a "SWIFTLINE" trailer]] coming westbound on Ben White in the lane
+    closest to me. It was going fast for that area -- I would estimate 45 to 50. I remember
+    thinking "he's not going to make that light," because the light for Ben White had been yellow
+    for a while and then turned red while the truck was still back by the [[INDIRECT_LOCATION|Taco Cabana]] driveway.
+
+5.  The truck did not slow down. I did not hear brakes. I heard the horn right before it hit. A
+    [[VEHICLE_DESCRIPTION|silver Nissan]] was turning left from Congress onto Ben White heading west. The truck hit
+    the Nissan right in the driver's door. The Nissan spun and slid into the median. Glass went
+    everywhere. The truck kept going and stopped way down past the intersection.
+
+6.  I ran over to the Nissan. The driver was a woman, she was conscious and screaming for her
+    son. There was a little boy in a booster seat in the back on the passenger side. He was crying
+    and had a cut on his forehead. I talked to him through the back window and told him his mom
+    was going to be okay. I think his name was [[PERSON MINOR|Mateo]] because she kept yelling it. I stayed until
+    the fire department got there.
+
+7.  The truck driver walked back to the cars. He was a [[DEMOGRAPHIC|white guy, maybe mid-40s]], [[PHYSICAL_DESCRIPTOR?|heavyset,
+    with a gray beard and a camo Bass Pro cap]]. He had a phone in his hand and was saying "it was
+    yellow, it was yellow." I told him "man, it was red, I've got it on camera." He said
+    something like "I was on with dispatch, I looked down for one second." He then walked away
+    and got on his phone.
+
+8.  I gave my information to the APD officer ([[PERSON|Okafor]]) and emailed him the video the next day.
+    I also posted a 40-second clip on my TikTok account ([[USERNAME|@dcarter_atx]]) that night because I was
+    shaken up. It got about 380,000 views. I took it down on [[DATE|March 18]] after an investigator
+    called me. I still have the full original file on my laptop and on the dashcam SD card.
+
+9.  Attached as Exhibit 1 is a true and correct copy of the full dashcam file, "20250314_173702_F.MP4"
+    (2 min 31 s). I have not edited it. The time stamp on my dashcam was about 40 seconds fast.
+
+10. Nobody has paid me or promised me anything for this declaration. An investigator for
+    Plaintiff's attorneys, [[PERSON|Ray Kowalski]], reimbursed my parking ([[MONEY?|$12]]) when I came to their office.
+
+11. Before this, I did not know anyone involved in the crash.
+
+My name is [[PERSON|Deshawn Marcus Carter]], my date of birth is [[DATE_OF_BIRTH|June 12, 1997]], and my address is
+[[ADDRESS|1107 East Oltorf Street, Apartment 233, Austin, Texas 78704]], United States of America. I declare
+under penalty of perjury that the foregoing is true and correct.
+
+Executed in [[LOCATION?|Travis County]], State of Texas, on the [[DATE|9th day of April, 2025]].
+
+                                         /s/ [[PERSON|Deshawn M. Carter]]
+                                         _______________________________
+                                         [[PERSON|DESHAWN MARCUS CARTER]], Declarant
+                                         Cell: [[PHONE|737.302.6614]]
+                                         Email: [[EMAIL|deshawn.carter.atx@gmail.com]]
+
+Prepared by: [[ORGANIZATION?|Kim & Abernathy PLLC]]  --  KA File No. 25-0318-PI  --  Bates KA-WIT 000001-000002

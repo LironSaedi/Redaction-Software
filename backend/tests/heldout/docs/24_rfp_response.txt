@@ -1,0 +1,113 @@
+                              CAUSE NO. [[CASE_NUMBER|D-1-GN-25-001477]]
+
+[[PERSON|HYUN-WOO PARK]],                           §          IN THE DISTRICT COURT OF
+     Plaintiff,                            §
+                                           §
+v.                                         §          [[LOCATION?|TRAVIS COUNTY]], TEXAS
+                                           §
+[[PERSON|TANNER REID BLAYLOCK]],                    §
+     Defendant.                            §          261ST JUDICIAL DISTRICT
+
+        PLAINTIFF'S OBJECTIONS AND RESPONSES TO DEFENDANT'S FIRST REQUEST FOR PRODUCTION
+
+TO:  Defendant [[PERSON|Tanner Reid Blaylock]], by and through his attorneys of record, [[PERSON|Brent Garrison]] and
+     [[PERSON|Alma Leal-Whitcomb]], [[ORGANIZATION?|Garrison Leal LLP]], [[ADDRESS?|919 Congress Ave., Suite 800, Austin, TX 78701]].
+
+     Plaintiff [[PERSON|Hyun-woo Park]] serves the following Objections and Responses pursuant to Tex. R. Civ.
+P. 193 and 196. Documents are produced electronically, Bates-labeled PLPROD 000001 through
+PLPROD 000764, via secure link sent to [[EMAIL|bgarrison@garrisonleal.com]] on the date below. Personal
+identifying information has been redacted pursuant to Tex. R. Civ. P. 21c except where
+specifically requested and protected by the Agreed Protective Order signed [[DATE|June 2, 2025]].
+
+REQUEST FOR PRODUCTION NO. 1: All medical records and bills for treatment you claim was necessitated
+by the collision.
+RESPONSE: See PLPROD 000001-000188 ([[ORGANIZATION?|MinuteMed Urgent Care]]; [[ORGANIZATION?|Lyle Family Chiropractic & Rehab]];
+[[ORGANIZATION?|Lakeway Open MRI]]; Dr. [[PERSON|Marcus Whitfield]]). Plaintiff will supplement.
+
+REQUEST FOR PRODUCTION NO. 2: Medical records for the five years preceding the collision relating to
+your neck, back, or head.
+RESPONSE: Plaintiff objects to the extent the request seeks records unrelated to the body parts at
+issue. Subject to the objection, see PLPROD 000189-000201 ([[ORGANIZATION?|Spine & Sport ATX]], 2 visits,
+[[DATE|05/16/2022]] and [[DATE|05/23/2022]], for [[MEDICAL_CONDITION|low back strain]]). Plaintiff has no other responsive records.
+
+REQUEST FOR PRODUCTION NO. 3: Federal income tax returns, with all schedules, for 2021 through 2024.
+RESPONSE: Plaintiff objects that tax returns are subject to heightened protection in Texas (Hall v.
+Lawlis, 907 S.W.2d 493 (Tex. 1995); In re Sullivan, 157 S.W.3d 911 (Tex. App.--Houston [14th Dist.]
+2005, orig. proceeding)). Plaintiff will produce Form 1040 pages 1-2 and Schedules C and SE for
+2023 and 2024 only, designated CONFIDENTIAL under the Protective Order, with the Social Security
+numbers of Plaintiff's spouse ([[PERSON|Ji-eun Park]]) and minor children redacted. See PLPROD 000202-000231.
+The W-2 of Plaintiff's spouse from [[EMPLOYER|Brightline CPA Group LLC]] is not relevant and is withheld; spouse's
+wages appear on line 1a.
+
+REQUEST FOR PRODUCTION NO. 4: Bank statements for any account into which revenue of your business was
+deposited, [[DATE|January 1, 2024]] to present.
+RESPONSE: See PLPROD 000232-000410 ([[ORGANIZATION?|Capital Hill Community Bank]] business checking ending [[BANK_ACCOUNT|3318]] and
+personal joint checking ending [[BANK_ACCOUNT|0471]]), produced CONFIDENTIAL. Account numbers redacted to last
+four digits.
+
+REQUEST FOR PRODUCTION NO. 5: Point-of-sale (Square) sales reports for [[EMPLOYER|Seoul Food ATX LLC]], 2023 to present.
+RESPONSE: See PLPROD 000411-000598 (monthly Square summaries; Square merchant ID [[ID_NUMBER?|MLX9C3TQ1E2R7]]).
+
+REQUEST FOR PRODUCTION NO. 6: All photographs, videos, and posts on any social media account you
+have used since [[DATE|January 22, 2024]], including Instagram, Facebook, and TikTok.
+RESPONSE: Plaintiff objects that this request is overbroad and not reasonably tailored; it is not
+limited to content relevant to the claimed injuries, and the business account
+([[USERNAME|@seoulfoodatx]]) contains thousands of food photographs. See In re Kuraray America, Inc., 656
+S.W.3d 137 (Tex. 2022). Subject to the objection, Plaintiff produces (a) all posts on his personal
+Instagram ([[USERNAME|@henrypark_atx]]) and Facebook ([[URL|facebook.com/hyunwoo.henry.park]]) from [[DATE|July 22, 2024]] to present
+depicting Plaintiff, and (b) all posts on [[USERNAME|@seoulfoodatx]] depicting Plaintiff lifting, carrying, or
+working at the truck from [[DATE|January 22, 2025]] to present. See PLPROD 000599-000702.
+
+Plaintiff's Responses to First RFP -- [[PERSON|Park]] v. [[PERSON|Blaylock]] -- Cause No. [[CASE_NUMBER|D-1-GN-25-001477]]                    Page 2 of 3
+
+REQUEST FOR PRODUCTION NO. 7: Documents reflecting any payments to [[PERSON|Jae-sung Kim]] or any other person
+for labor on the food truck since [[DATE|January 1, 2024]].
+RESPONSE: See PLPROD 000703-000731 (Venmo/Zelle records and 1099-NEC to [[PERSON|Jae-sung Kim]]; recipient TIN
+redacted). Plaintiff contends that after the collision he paid Mr. [[PERSON|Kim]] an additional [[MONEY?|$200]] per week to
+perform heavy lifting Plaintiff could no longer perform.
+
+REQUEST FOR PRODUCTION NO. 8: Your cell phone records for [[DATE|January 22, 2025]], 7:00 a.m. to 8:30 a.m.
+RESPONSE: Plaintiff objects that Plaintiff's phone use is not relevant to a rear-end collision in
+which Defendant has admitted inattention. Subject to the objection, see PLPROD 000732 (call/text
+log for [[PHONE|737-215-8890]], 7:00-8:30 a.m., reflecting no calls or texts 7:31-7:46 a.m.).
+
+REQUEST FOR PRODUCTION NO. 9: Photographs of the vehicles and the scene.
+RESPONSE: See PLPROD 000733-000758 (26 photographs of Plaintiff's [[VEHICLE_DESCRIPTION|black 2019 Honda Odyssey]], TX
+[[LICENSE_PLATE|SFD 4417]], and Defendant's [[VEHICLE_DESCRIPTION|gray 2021 Ram 1500]], TX [[LICENSE_PLATE|RKV 2290]], with EXIF data intact).
+
+REQUEST FOR PRODUCTION NO. 10: Repair estimates, invoices, and total loss documentation.
+RESPONSE: See PLPROD 000759-000764 ([[ORGANIZATION?|Cardinal Collision]] estimate [[MONEY?|$6,812.44]]; supplement [[MONEY?|$1,108.20]];
+Enterprise rental agreement no. 4471-ENT-0125).
+
+REQUEST FOR PRODUCTION NO. 11: Documents supporting any claim for lost profits.
+RESPONSE: See responses to Nos. 3-5 and 7. Plaintiff will produce the report of his CPA expert,
+[[PERSON|Grace Kwon-Mitchell]], CPA/ABV, by the expert designation deadline.
+
+REQUEST FOR PRODUCTION NO. 12: Any statement of any party or witness.
+RESPONSE: Plaintiff's recorded statement to [[ORGANIZATION?|Lakeshore General]] ([[DATE|01/28/2025]]) is in Defendant's
+possession. Plaintiff has no other statements.
+
+                                    Respectfully submitted,
+                                    [[ORGANIZATION?|KIM & ABERNATHY PLLC]]
+                                    By: /s/ [[PERSON|Jordan Abernathy]]
+                                    [[PERSON|Jordan Abernathy]], State Bar No. [[ID_NUMBER|24066150]]
+                                    [[EMAIL|jabernathy@kimabernathy.com]]
+                                    [[ADDRESS?|600 Congress Ave., Ste. 1450, Austin, Texas 78701]]
+                                    [[PHONE|(512) 480-3300]]
+                                    ATTORNEYS FOR PLAINTIFF
+
+Plaintiff's Responses to First RFP -- [[PERSON|Park]] v. [[PERSON|Blaylock]] -- Cause No. [[CASE_NUMBER|D-1-GN-25-001477]]                    Page 3 of 3
+
+                                 PRIVILEGE LOG (Tex. R. Civ. P. 193.3(b))
+
+ No.  Date        Author                  Recipient               Type      Privilege    Description
+ ---  ----------  ----------------------  ----------------------  --------  -----------  ----------------
+ 1    [[DATE|01/29/2025]]  [[PERSON|H. Park]]                 [[PERSON|J. Abernathy]]            Email     A-C          Intake questions
+ 2    [[DATE|02/04/2025]]  [[PERSON|J. Abernathy]]            [[PERSON|H. Park]]                 Letter    A-C          Fee agreement
+ 3    [[DATE|03/12/2025]]  [[PERSON|B. Nwosu-Clarke]]         [[PERSON|H. Park]]                 Text      A-C/WP       Treatment scheduling
+ 4    [[DATE|06/18/2025]]  [[PERSON|G. Kwon-Mitchell]]        [[PERSON|J. Abernathy]]            Memo      WP/Consult.  Draft lost-profit calc.
+
+                                  CERTIFICATE OF SERVICE
+     I certify that on [[DATE|July 14, 2025]], this document was served on all counsel of record via
+eFileTexas and email ([[EMAIL|bgarrison@garrisonleal.com]]; [[EMAIL|aleal@garrisonleal.com]]).
+                                    /s/ [[PERSON|Jordan Abernathy]]

@@ -1,0 +1,16 @@
+[project]
+name = "obscura"
+version = "1.0.0"
+description = "Obscura Redaction Studio — self-hosted, privacy-first redaction for documents, images, video and audio"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-p no:cacheprovider"
+markers = [
+    "ml: uses the local NER models (spaCy transformer / GLiNER) — slower",
+    "vision: uses the local face / plate detectors",
+    "audio: uses local Whisper speech recognition",
+    "slow: long-running corpus benchmarks",
+]
+filterwarnings = ["ignore::DeprecationWarning", "ignore::FutureWarning", "ignore::UserWarning"]

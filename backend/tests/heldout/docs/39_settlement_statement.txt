@@ -1,0 +1,87 @@
+                                 [[ORGANIZATION?|KIM & ABERNATHY PLLC]]
+                         CLIENT SETTLEMENT DISBURSEMENT STATEMENT
+                    (Tex. Disciplinary R. Prof'l Conduct 1.04(d), 1.15)
+
+Client:              [[PERSON|Maria Elena Delgado-Ruiz]]
+Client address:      [[ADDRESS|2209 Bluebonnet Ln.]], [[ADDRESS|Austin, TX 78704]]
+Matter:              [[PERSON|Delgado-Ruiz]] v. [[PERSON|Wells]], et al. -- KA File No. 25-0318-PI
+Cause No.:           [[CASE_NUMBER|D-1-GN-25-002918]], 345th Dist. Ct., [[LOCATION?|Travis County]]
+Paying carrier:      [[ORGANIZATION?|Granite Mutual Insurance Co.]], Claim No. [[CLAIM_NUMBER|GM-25-0314-88172]]
+Settlement date:     [[DATE|09/26/2025]]          Funds received: [[DATE|10/09/2025]] (Check # 7710042, cleared [[DATE|10/14/2025]])
+Fee agreement:       Contingent fee contract dated [[DATE|03/19/2025]] -- 33 1/3% if resolved before trial
+                     setting; 40% after.
+
+-------------------------------------------------------------------------------------------------
+A.  GROSS RECOVERY (individual claim of [[PERSON|Maria Elena Delgado-Ruiz]])                [[MONEY?|$1,000,000.00]]
+    (The minor's settlement of [[MONEY?|$65,000.00]] is governed by separate court order and is
+    NOT disbursed through this statement.)
+-------------------------------------------------------------------------------------------------
+B.  ATTORNEY'S FEES
+      33 1/3% of gross recovery                                                   [[MONEY?|($333,333.33)]]
+      Referral fee to [[ORGANIZATION?|Benavides & Lugo, PC]] (25% of fee, client consent dated [[DATE|03/19/2025]]) --
+      paid from attorney's fee, no additional charge to client                     ([[MONEY?|$83,333.33]])
+-------------------------------------------------------------------------------------------------
+C.  CASE EXPENSES ADVANCED BY FIRM
+      Filing fees, [[LOCATION?|Travis County]] District Clerk                         [[MONEY?|$  362.00]]
+      Service of process ([[ORGANIZATION?|Lone Star Process Servers]])                     [[MONEY?|$  285.00]]
+      Medical records (11 providers)                                    [[MONEY?|$1,148.62]]
+      TxDOT crash report                                                [[MONEY?|$    6.00]]
+      Deposition -- [[PERSON|H. Wells]] (transcript + video, [[ORGANIZATION?|Capital City Court Reporters]])  [[MONEY?|$3,412.50]]
+      Life Care Plan -- [[PERSON|L. Marquez-Ochoa]], RN, CLCP                         [[MONEY?|$9,450.00]]
+      Economist -- [[PERSON|T. Moyer]], PhD                                           [[MONEY?|$6,800.00]]
+      Vocational -- [[PERSON|R. Dominguez]], CRC                                      [[MONEY?|$3,250.00]]
+      Treating physician narrative reports (Drs. [[PERSON|Venkataraman]], [[PERSON|Whitfield]])     [[MONEY?|$2,500.00]]
+      Accident reconstruction ([[ORGANIZATION?|Forensic Dynamics Group]])                    [[MONEY?|$7,925.00]]
+      Investigator ([[PERSON|R. Kowalski]]) incl. mileage                                [[MONEY?|$  918.40]]
+      Mediation fee (half) -- not incurred                              [[MONEY?|$    0.00]]
+      Postage/courier/copies                                            [[MONEY?|$  212.18]]
+                                                    TOTAL EXPENSES                  [[MONEY?|($36,269.70)]]
+-------------------------------------------------------------------------------------------------
+D.  LIENS AND MEDICAL PAYMENTS (paid from client's share)
+      [[ORGANIZATION?|BCBSTX]] (ERISA self-funded plan) -- asserted [[MONEY?|$71,402.88]], negotiated to          [[MONEY?|($47,600.00)]]
+        Ref: [[ORGANIZATION?|Optum Subrogation]] file [[CLAIM_NUMBER|OPT-25-118802-TX]]; member [[HEALTH_PLAN_ID|XOD884417203]]
+      [[ORGANIZATION?|ProMotion Physical Therapy]] -- LOP balance [[MONEY?|$13,640.00]], reduced to              [[MONEY?|($10,230.00)]]
+      [[ORGANIZATION?|Clearwater Counseling]] -- LOP balance [[MONEY?|$3,850.00]], reduced to                    [[MONEY?|($3,465.00)]]
+      [[ORGANIZATION?|Capitol Ridge Medical Center]] -- hospital lien (Tex. Prop. Code ch. 55)
+        filed [[DATE|04/07/2025]], Travis Co. Clerk Doc. # 2025041187 -- released upon BCBS
+        payment; balance due after contractual adjustment                       [[MONEY?|($1,250.00)]]
+      Medicare: N/A (client not a beneficiary -- verified; see Medicare Status Affidavit)
+      Medicaid: N/A
+-------------------------------------------------------------------------------------------------
+E.  FUNDS HELD IN TRUST
+      Reserve for future wrist arthroscopy -- client's election, held 120 days     [[MONEY?|($25,000.00)]]
+-------------------------------------------------------------------------------------------------
+F.  NET TO CLIENT                                                                [[MONEY?|$542,851.97]]
+    Disbursed by wire on [[DATE|10/15/2025]] to:
+      [[ORGANIZATION?|Lone Star Credit Union]] -- Routing [[ROUTING_NUMBER|020739348]] -- Acct [[BANK_ACCOUNT|0004418827162]]
+      Account holders: [[PERSON|Maria E. Delgado-Ruiz]] and [[PERSON|Arturo Ruiz Benavides]] (joint)
+      Wire confirmation # FED-20251015-00334871
+-------------------------------------------------------------------------------------------------
+
+Settlement Statement -- [[PERSON|Delgado-Ruiz]] -- KA File No. 25-0318-PI                                Page 2 of 2
+
+CLIENT ACKNOWLEDGMENTS
+  1.  I have reviewed and approve the above distribution. The amounts are correct to the best of
+      my knowledge. I understand the attorney's fee is calculated on the gross recovery.
+  2.  I understand I am responsible for any lien or claim not listed above. I have disclosed all
+      health insurance, disability, and government benefits paid on my behalf.
+  3.  I understand that personal-injury damages received on account of physical injuries are
+      generally excluded from gross income under 26 U.S.C. § 104(a)(2), but I have been advised to
+      consult a tax professional. The firm has not provided tax advice.
+  4.  I have been advised that the [[MONEY?|$25,000.00]] reserve will be released to me upon my written
+      request or after 120 days, less any amount I direct to be paid to providers.
+  5.  The minor's settlement for my son, [[PERSON MINOR|M.A.R.]], is subject to the Order of the Court and will be
+      deposited as ordered; I will not receive those funds directly.
+
+CLIENT:                                            ATTORNEY:
+/s/ [[PERSON|Maria E. Delgado-Ruiz]]                         /s/ [[PERSON|Rachel Kim]]
+_________________________________                  _________________________________
+[[PERSON|Maria Elena Delgado-Ruiz]]       Date: [[DATE|10/14/2025]]   [[PERSON|Rachel Kim]], for the Firm   Date: [[DATE|10/14/2025]]
+
+Spouse acknowledgment (community property interest in recovery for lost earnings):
+/s/ [[PERSON|Arturo Ruiz Benavides]]   Date: [[DATE|10/14/2025]]
+
+Witness: [[PERSON|Destiny Vu]], Paralegal
+
+IOLTA ledger reference: Client ledger [[ID_NUMBER?|CL-25-0318]]; Trust account ending [[BANK_ACCOUNT|7731]] ([[ORGANIZATION?|Texas Capital
+Bank]]). Prepared by [[PERSON|D. Vu]] [[DATE|10/13/2025]]; reviewed by [[PERSON|J. Abernathy]] [[DATE|10/13/2025]].

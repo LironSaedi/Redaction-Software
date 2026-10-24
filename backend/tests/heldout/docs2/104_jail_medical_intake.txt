@@ -1,0 +1,81 @@
+PIMA COUNTY ADULT DETENTION COMPLEX -- HEALTH SERVICES          [[ORGANIZATION?|SONORAN CORRECTIONAL HEALTH PARTNERS]]
+RECEIVING SCREENING / INITIAL HEALTH ASSESSMENT  (NCCHC J-E-02)                     FORM HS-101 rev 03/25
+
+BOOKING #: [[LAW_ENFORCEMENT_ID|P26-0731-0418]]     SO #: [[LAW_ENFORCEMENT_ID|411207]]     SID: [[ID_NUMBER|AZ19847722]]     FBI: [[ID_NUMBER|488213KD7]]
+INMATE NAME: [[PERSON|ANTONE, MARCUS RAY JR]]                 AKA: "[[PERSON|BIG RAY]]", [[PERSON|MARCUS R. ANTONIO]]
+DOB: [[DATE_OF_BIRTH|10/02/1987]]   AGE: [[AGE|38]]   SEX: M   HT: [[PHYSICAL_DESCRIPTOR?|5'11"]]   WT: [[PHYSICAL_DESCRIPTOR?|262]]   HAIR: [[PHYSICAL_DESCRIPTOR?|BLK]]   EYES: [[PHYSICAL_DESCRIPTOR?|BRO]]
+SSN: [[SSN|527-81-3304]]         AHCCCS ID: [[HEALTH_PLAN_ID|A70214963]]       Tribal enrollment #: [[ID_NUMBER|TO-0028815]]
+LAST KNOWN ADDRESS: [[ADDRESS|1938 W. Calle Tiburon]], [[ADDRESS|Tucson, AZ 85746]]
+ARRESTING AGENCY: Tucson PD -- Ofc. [[PERSON|D. Valenzuela]] #[[LAW_ENFORCEMENT_ID|51177]]    ARRIVAL: [[DATE|07/31/2026]] 02:14
+CHARGES: [[CRIMINAL_HISTORY|AGG ASSAULT W/ DEADLY WEAPON (13-1204A2); DUI EXTREME (28-1382A1); FTA WARRANT CR20253318]]
+HOUSING (initial): [[INDIRECT_LOCATION?|INTAKE HOLD 4]]  ->  assigned [[INDIRECT_LOCATION?|MEDICAL OBS UNIT 2C, BED 11]]
+
+SECTION A -- OFFICER OBSERVATIONS (completed by booking officer [[PERSON|C. Ybarra]] #[[LAW_ENFORCEMENT_ID|D4472]])
+  [X] Odor of alcohol    [ ] Unconscious    [X] Visible injury    [ ] Bleeding    [X] Unsteady gait
+  Remarks: Abrasion L cheek; states "I fell when they grabbed me." BAC prelim .192 per arresting ofc.
+
+SECTION B -- NURSE SCREENING  (RN [[PERSON|Analise Montoya-Brandt]], RN  ID [[ID_NUMBER|SCH-0912]])   Time: 02:40
+  VS: BP 168/102  P 112  R 20  T 98.9  SpO2 96% RA   Glucose (POC): 284 mg/dL
+  1. Current medical problems?          YES  [[MEDICAL_CONDITION|Type 2 diabetes]]; [[MEDICAL_CONDITION|hypertension]]; [[MEDICAL_CONDITION|chronic hepatitis C]] (untreated)
+  2. Current medications?               YES  (see Med Verification below)
+  3. Allergies?                         YES  Penicillin (throat swelling)
+  4. Mental health treatment ever?      YES  [[MENTAL_HEALTH|Schizoaffective d/o, bipolar type]] -- [[ORGANIZATION?|CODAC]] clinic,
+                                             psychiatrist Dr. [[PERSON|Ibrahim]] (first name unk.)
+  5. Hospitalized for psych?            YES  [[MENTAL_HEALTH|Palo Verde Behavioral 2022 x10 days]]
+  6. Suicidal thoughts now?             NO   Ever attempted? YES -- [[MENTAL_HEALTH|overdose on pills, 2019]]
+  7. Recent loss / first incarceration? NO   Prior: [[CRIMINAL_HISTORY|ADOC 2011-2015]] (#[[ID_NUMBER|248871]]) -- see note
+  8. Alcohol use?                       YES  [[SUBSTANCE_USE|"a 30-pack a day, sometimes more"]]; last drink [[DATE|7/30]] ~22:00
+  9. Drug use?                          YES  [[SUBSTANCE_USE|fentanyl ("blues") smoked, ~10/day; meth occasionally]]; last use [[DATE|7/30]] PM
+ 10. Withdrawal history?                YES  [[SUBSTANCE_USE|DTs 2021; withdrawal seizure 2023]]
+ 11. MAT / MOUD?                        YES  [[MEDICATION|buprenorphine]] 8 mg SL BID via [[ORGANIZATION?|CODAC]] -- missed x 4 days
+ 12. Infectious disease?                Hep C as above; TB symptoms denied; [[MEDICAL_CONDITION|HIV]] status unknown (last test 2023 neg)
+ 13. Dental pain?                       YES  broken lower molar, R
+ 14. Disabilities / aids?               [[MEDICAL_CONDITION?|Reading glasses]]; [[MEDICAL_CONDITION?|hearing loss L ear]] (gunshot 2016)
+ 15. Pregnant?                          N/A
+
+  NOTE (#7): Inmate was ADOC [[ID_NUMBER|248871]] for [[CRIMINAL_HISTORY|armed robbery (2011)]]; per inmate he was "on
+  suicide watch at Tucson complex in 2013." Requests to be housed away from [[INDIRECT_ROLE|his cousin who is also in
+  custody here -- "they put him in 3-D"]]; referred to classification.
+
+SECTION C -- SCARS / MARKS / TATTOOS (photographed by ID Unit, [[PERSON|C. Ybarra]])
+  Location          Description
+  ----------------  ---------------------------------------------------------------------
+  L chest           [[PHYSICAL_DESCRIPTOR|Man-in-the-Maze (I'itoi) design, black ink, approx 4"]]
+  R side of neck    [[PHYSICAL_DESCRIPTOR|"Lupita" in script, red/black]]
+  Both knuckles     [[PHYSICAL_DESCRIPTOR|"SOUTH" (R hand) "SIDE" (L hand)]]
+  L forearm         [[PHYSICAL_DESCRIPTOR|teardrop and "520" area code, faded]]
+  Abdomen           [[PHYSICAL_DESCRIPTOR|7" healed vertical laparotomy scar]] (stab wound 2016)
+  L temple          [[PHYSICAL_DESCRIPTOR|healed GSW entry scar, round, 1 cm, with hearing loss L]]
+  Upper teeth       [[PHYSICAL_DESCRIPTOR|gold crown upper left incisor]]
+  Other             Fresh abrasion L cheek 3 x 2 cm (arrest)
+
+SECTION D -- MEDICATION VERIFICATION (pharmacy: [[INDIRECT_LOCATION|Walgreens #04471, Ajo Way & Mission]])
+  Medication                 Dose / Sig                     Last dose (per pt)   Verified   Continue?
+  -------------------------  -----------------------------  -------------------  ---------  ---------
+  [[MEDICATION|Buprenorphine]]              8 mg SL BID                   [[DATE|07/27/2026]]           CODAC      BRIDGE*
+  [[MEDICATION|Quetiapine]]                 200 mg PO qHS                 [[DATE|07/29/2026]]           Pharm      YES
+  [[MEDICATION|Divalproex ER]]              1000 mg PO qHS                [[DATE|07/29/2026]]           Pharm      YES
+  [[MEDICATION?|Metformin]]                  1000 mg PO BID                [[DATE|07/30/2026]]           Pharm      YES
+  [[MEDICATION?|Lisinopril]]                 20 mg PO daily                "a week ago"         Pharm      YES
+  [[MEDICATION?|Insulin glargine]]           not taking (lost pen)         --                   No         MD eval
+  *Bridge order per on-call provider [[PERSON|Fatima Siddiqui-Herrera]], NP, [[DATE|07/31/2026]] 03:05.
+
+SECTION E -- SCREENS
+  CIWA-Ar 14 (moderate) -- [[MEDICATION?|chlordiazepoxide]] protocol started. COWS 9 (mild). PHQ-2: 4. Columbia: neg now.
+  Mental Health referral: URGENT -- seen by [[PERSON|T. Begay]], LCSW at 06:20.
+
+SECTION F -- EMERGENCY CONTACT / RELEASE OF INFORMATION
+  Contact: [[PERSON|Guadalupe "Lupita" Antone]] (wife)   Phone: [[PHONE|(520) 306-8814]]
+  Alt:     [[PERSON|Rosalie Antone-Juan]] (mother), [[INDIRECT_LOCATION|the house next to the feast-day chapel in San Xavier
+           village]]   [[PHONE|(520) 294-1170]]
+  ROI signed for: [[ORGANIZATION?|CODAC Health]]; [[ORGANIZATION?|Banner - University Medical Center Tucson]]; Public Defender
+  [[PERSON|Elena Castillo-Rourke]] (case [[CASE_NUMBER|CR20263192-001]]).
+
+DISPOSITION:  [X] Cleared for housing w/ conditions   [ ] Refused -- send to hospital
+  Conditions: Medical Obs 72h (alcohol withdrawal + fentanyl), fingerstick AC/HS, MH f/u 24h, dental sick call.
+
+Screening RN:  [[PERSON|A. Montoya-Brandt]], RN  ______________________   [[DATE|07/31/2026]] 03:22
+Inmate signature: [[PERSON|Marcus R. Antone Jr]] (signed)   Interpreter: N/A (English)
+Reviewed by:   [[PERSON|Fatima Siddiqui-Herrera]], FNP-C  ______________________   [[DATE|07/31/2026]] 08:10
+
+                                                CONFIDENTIAL -- INMATE HEALTH RECORD. NOT FOR CLASSIFICATION USE.

@@ -1,0 +1,164 @@
+GOVERNMENT EXHIBIT 7-A                                     United States v. [[PERSON|Deshawn M. Abernathy]]
+(Lender loan file excerpt, produced by [[ORGANIZATION?|Harborview Community Bank]])          No. [[CASE_NUMBER|1:26-cr-00418-JKB]] (D. Md.)
+                                                                                         Page 1 of 6
+-----------------------------------------------------------------------------------------------------------------
+OMB Control No.: 3245-0407                              Paycheck Protection Program
+Expiration Date: 07/31/2021              Borrower Application Form for Schedule C Filers Using Gross Income
+                                                     [[ORGANIZATION?|SBA]] Form 2483-C (3/21)
+
+Check one:  [X] Sole proprietor   [ ] Independent contractor   [ ] Eligible self-employed individual
+            [X] First Draw PPP Loan   [ ] Second Draw PPP Loan
+
+Business Legal Name ("Borrower")                       DBA or Tradename, if applicable
+  [[PERSON|DESHAWN MARCUS ABERNATHY]]                               [[EMPLOYER|Abernathy Mobile Detailing & Ceramic Coat]]
+
+Business TIN (EIN, SSN)       Year of Establishment    NAICS Code    Business Phone
+  [[EIN|85-1104417]] (EIN)             2017                     811192        [[PHONE|(410) 555-0147]]
+
+Business Address                                       Primary Contact            E-mail Address
+  [[ADDRESS|3307 Ellerslie Avenue]]                                [[PERSON|Deshawn Abernathy]]          [[EMAIL|deshawn@abernathydetail.example.com]]
+  [[ADDRESS|Baltimore, MD 21218-3021]]
+
+Gross income from 2019 or 2020 Form 1040 Schedule C, line 7 (capped at $100,000):  [[MONEY|$96,400.00]]  (year: 2020)
+Average Monthly Gross Income (line 7 / 12):                                       [[MONEY|$8,033.33]]
+x 2.5 + EIDL refinance (net of advance), if applicable ($0):                      = Loan Request [[MONEY|$20,083.00]]
+Number of Employees (including owner): 1
+
+Purpose of the loan (select more than one):  [X] Payroll costs (owner compensation)  [X] Rent/Mortgage Interest
+  [X] Utilities  [ ] Covered Operations Expenditures  [ ] Covered Property Damage  [X] Covered Supplier Costs
+  [ ] Covered Worker Protection Expenditures  [ ] Other (explain): ______________
+
+Applicant Ownership  (List all owners of 20% or more of the equity of the Applicant)
+  Owner Name                    Title          Ownership %    TIN (EIN, SSN)       Address
+  [[PERSON|Deshawn Marcus Abernathy]]      Owner/Sole Prop    100%       [[SSN|216-73-9041]]          [[ADDRESS|3307 Ellerslie Ave, Baltimore MD 21218]]
+
+If questions (1), (2), (5), or (6) are answered "Yes," the loan will not be approved.
+                                                                            Question                                     Yes  No
+  1. Is the Applicant or any owner of the Applicant presently suspended, debarred, proposed for
+     debarment, declared ineligible, voluntarily excluded from participation in this transaction by any
+     Federal department or agency, or presently involved in any bankruptcy?                                  [ ]  [X]
+  2. Has the Applicant, any owner of the Applicant, or any business owned or controlled by any of them,
+     ever obtained a direct or guaranteed loan from [[ORGANIZATION?|SBA]] or any other Federal agency that is (a) currently
+     delinquent, or (b) has defaulted in the last 7 years and caused a loss to the government?               [ ]  [X]
+  3. Is the Applicant or any owner of the Applicant an owner of any other business, or have common
+     management (including a management agreement) with any other business?                                 [ ]  [X]
+  4. Has the Applicant received an [[ORGANIZATION?|SBA]] Economic Injury Disaster Loan between January 31, 2020 and
+     April 3, 2020?  If yes, provide details:                                                                [ ]  [X]
+  5. Is the Applicant (if an individual) or any individual owning 20% or more of the equity of the
+     Applicant subject to an indictment, criminal information, arraignment, or other means by which formal
+     criminal charges are brought in any jurisdiction, or presently incarcerated?                            [ ]  [X]
+  6. Within the last 1 year, for any felony involving fraud, bribery, embezzlement, or a false statement
+     in a loan application or an application for federal financial assistance, has the Applicant (if an
+     individual) or any owner of the Applicant 1) been convicted; 2) pleaded guilty; 3) pleaded nolo
+     contendere; or 4) commenced any form of parole or probation (including probation before judgment)?     [ ]  [X]
+  7. Is the United States the principal place of residence for all employees included in the
+     Applicant's payroll calculation above?                                                                  [X]  [ ]
+  8. Is the Applicant a franchise?                                                                           [ ]  [X]
+                                                                                         Page 2 of 6
+-----------------------------------------------------------------------------------------------------------------
+[[ORGANIZATION?|SBA]] Form 2483-C (3/21)                                                                   Page 3 of 6
+
+DEMOGRAPHIC INFORMATION OF PRINCIPALS (optional)
+  Principal Name: [[PERSON|Deshawn M. Abernathy]]     Position: Owner     Veteran: 1 = Non-Veteran
+  Gender: M     Race: [[CUSTOM?|Black or African American]]     Ethnicity: N = Not Hispanic or Latino
+
+By Signing Below, You Make the Following Representations and Certifications
+  ([[SIGNATURE|DMA]])  I certify that the Applicant was in operation on February 15, 2020, has not permanently closed,
+         and was either an eligible self-employed individual, independent contractor, or sole proprietorship
+         with no employees, or had employees for whom it paid salaries and payroll taxes ...
+  ([[SIGNATURE|DMA]])  The funds will be used to retain workers and maintain payroll; or make payments for mortgage
+         interest, rent, utilities ... as specified under the Paycheck Protection Program Rules.
+  ([[SIGNATURE|DMA]])  I certify that the information provided in this application and the information provided in
+         all supporting documents and forms is true and accurate in all material respects. I understand
+         that knowingly making a false statement to obtain a guaranteed loan from [[ORGANIZATION?|SBA]] is punishable under
+         the law, including under 18 U.S.C. 1001 and 3571 ...; under 15 U.S.C. 645 ...; and, if submitted to
+         a federally insured institution, under 18 U.S.C. 1014 ...
+
+  Signature of Authorized Representative of Applicant: [[SIGNATURE|Deshawn M Abernathy]]      Date: [[DATE?|03/19/2021]]
+  Print Name: [[PERSON|DESHAWN M. ABERNATHY]]                                      Title: Owner
+
+  ---------------- electronic signature certificate ------------------------------------------------
+  Envelope ID: [[ID_NUMBER?|7C1E44A2-0F9B-4D3E-8A51-29C3B0D84471]]      Status: Completed
+  Signer: [[PERSON|Deshawn M Abernathy]]  <[[EMAIL|deshawn@abernathydetail.example.com]]>
+  Signed: [[DATE?|3/19/2021]] 11:47:02 PM EDT   Using IP Address: [[IP_ADDRESS|73.162.44.210]]
+  Device: iPhone; Mobile Safari 14.4   Signature adoption: Pre-selected style   Authentication: Email + SMS to [[PHONE|***-***-0147]]
+                                                                                         Page 3 of 6
+-----------------------------------------------------------------------------------------------------------------
+LENDER'S APPLICATION - PAYCHECK PROTECTION PROGRAM LOAN GUARANTY        [[ORGANIZATION?|SBA]] Form 2484-C (3/21)   Page 4 of 6
+
+  Lender Name: [[ORGANIZATION?|Harborview Community Bank]]          [[ORGANIZATION?|SBA]] Lender Location ID: 448210
+  Lender Contact: [[PERSON|Priscilla Oyewole-Grant]], VP Small Business Lending    [[PHONE|(410) 555-0112]]
+  Lender Loan Number: [[BANK_ACCOUNT|HCB-PPP-21-004417]]             [[ORGANIZATION?|SBA]] Loan Number: [[BANK_ACCOUNT|5537148406]]
+  Applicant: [[PERSON|DESHAWN MARCUS ABERNATHY]]  DBA [[EMPLOYER|ABERNATHY MOBILE DETAILING & CERAMIC COAT]]
+  Applicant TIN: [[EIN|85-1104417]]       Loan Amount: [[MONEY|$20,083.00]]      Interest 1.00%  Maturity 60 months
+  Loan Approval / E-Tran submission: [[DATE?|03/22/2021]]      Disbursement: [[DATE?|03/26/2021]]
+
+  Lender documentation checklist:
+   [X] 2020 IRS Form 1040 Schedule C (filed)                  [X] Gov't ID - MD driver's license (see p. 6)
+   [X] 2020 bank statements evidencing operation in Feb 2020  [ ] Form 1099-MISC (n/a)
+   [X] Beneficial ownership certification                    [X] OFAC / SAM.gov exclusion check - clear
+   [ ] Form 912 required (Q5/Q6 = No)   ** but see compliance note below **
+
+  Disbursement instructions:
+     Credit to Borrower's DDA at [[ORGANIZATION?|Harborview Community Bank]]
+     ABA [[ROUTING_NUMBER|059654737]]     Account [[BANK_ACCOUNT|3301-004471-2]]     Title: [[PERSON|DESHAWN M ABERNATHY]] DBA
+     [[EMPLOYER|ABERNATHY MOBILE DETAIL]]
+
+  Compliance note ([[DATE?|04/02/2021]], [[PERSON|R. Castellanos]], BSA Officer): Post-funding background check returned
+  [[CRIMINAL_HISTORY|2019 conviction - Baltimore City Circuit Court, felony theft scheme over $25,000 (CR 118-204-772)]];
+  probation through [[DATE|05/2022]]. Applicant answered Q6 "No"; Q6 asks only about the last 1 year, but the
+  conviction plus active probation should have been disclosed under the PPP IFR effective 3/3/2021. Referred to
+  [[ORGANIZATION?|SBA OIG]] Hotline; ref. [[CASE_NUMBER|OIG-HL-21-0044718]].
+                                                                                         Page 4 of 6
+-----------------------------------------------------------------------------------------------------------------
+SCHEDULE C (Form 1040) 2020 - Profit or Loss From Business (Sole Proprietorship)   OMB No. 1545-0074   Page 5 of 6
+  Name of proprietor: [[PERSON|DESHAWN M ABERNATHY]]                     Social security number (SSN): [[SSN|216-73-9041]]
+  A  Principal business or profession: Mobile auto detailing / ceramic coating      B  Enter code: 811192
+  C  Business name: [[EMPLOYER|ABERNATHY MOBILE DETAILING & CERAMIC COAT]]           D  Employer ID number (EIN): [[EIN|85-1104417]]
+  E  Business address: [[ADDRESS|3307 ELLERSLIE AVE]]     City, town, state, ZIP: [[ADDRESS|BALTIMORE MD 21218]]
+  F  Accounting method: (1) [X] Cash   (2) [ ] Accrual      G  Did you materially participate? [X] Yes
+  I  Did you make any payments in 2020 that would require you to file Form(s) 1099?  [ ] Yes [X] No
+
+  Part I - Income
+   1  Gross receipts or sales ......................................................  1   [[FINANCIAL_INFO?|101,250]]
+   2  Returns and allowances ........................................................  2     [[FINANCIAL_INFO?|4,850]]
+   3  Subtract line 2 from line 1 ...................................................  3    [[FINANCIAL_INFO?|96,400]]
+   4  Cost of goods sold ...........................................................  4            0
+   7  Gross income ...................................................................  7    [[FINANCIAL_INFO?|96,400]]
+  Part II - Expenses
+   9  Car and truck expenses ......  9   [[FINANCIAL_INFO?|14,210]]      22  Supplies .................. 22   [[FINANCIAL_INFO?|9,880]]
+  10  Commissions and fees ........ 10    [[FINANCIAL_INFO?|2,918]]      25  Utilities ................. 25   [[FINANCIAL_INFO?|1,420]]
+  20b Rent - other business prop. . 20b   [[FINANCIAL_INFO?|7,200]]      27a Other expenses ............ 27a  [[FINANCIAL_INFO?|3,615]]
+  28  Total expenses ...............................................................  28   [[FINANCIAL_INFO?|39,243]]
+  31  Net profit or (loss) ..........................................................  31   [[FINANCIAL_INFO?|57,157]]
+  Paid preparer: [[PERSON|Lorraine Fitzhugh-Mbeki]], EA   PTIN [[ID_NUMBER?|P00884127]]   Firm EIN [[EIN?|52-1904418]]   [[ORGANIZATION?|Fitzhugh Tax & Bookkeeping]]
+                                                                                         Page 5 of 6
+-----------------------------------------------------------------------------------------------------------------
+SUPPORTING DOCUMENTS (lender scans)                                                      Page 6 of 6
+
+  (a) Maryland driver's license (front):
+      MARYLAND  ·  DRIVER'S LICENSE  ·  CLASS C
+      DL NO [[DRIVERS_LICENSE|A-156-482-913-207]]      DOB [[DATE_OF_BIRTH|09/04/1988]]      EXP [[DATE?|09/04/2023]]
+      [[PERSON|ABERNATHY, DESHAWN MARCUS]]
+      [[ADDRESS|3307 ELLERSLIE AVE]]  [[ADDRESS|BALTIMORE, MD 21218]]
+      SEX M  HGT 6-01  EYES BRO  RESTR B    DD [[ID_NUMBER?|11202019 02741186]]
+
+  (b) Bank statement page used to evidence operations on 2/15/2020 ([[ORGANIZATION?|Harborview Community Bank]], Free Biz Checking):
+      Account Number ...[[BANK_ACCOUNT|4471-2]]    Statement period [[DATE?|02/01/2020]] - [[DATE?|02/29/2020]]
+      [[DATE?|02/03]]  [[ORGANIZATION?|SQUARE INC]]  SQ200203 [[EMPLOYER|ABERNATHY MOB]]          +  [[MONEY|1,240.00]]
+      [[DATE?|02/07]]  ZELLE FROM [[PERSON|KAMARA FATMATA]] "detail 2 cars"   +    [[MONEY|380.00]]
+      [[DATE?|02/11]]  SHINEWORKS SUPPLY #0418 TOWSON                  -    [[MONEY|612.44]]
+      [[DATE?|02/15]]  ZELLE FROM [[PERSON|O'NEILL BRENDAN P]] "boat wax - [[INDIRECT_LOCATION|slip 22 at the Canton marina]]"  +  [[MONEY|450.00]]
+      [[DATE?|02/18]]  CHECK 1043 TO [[PERSON|TAVON ABERNATHY]] (helper)                 -    [[MONEY|300.00]]
+      [[DATE?|02/26]]  ACH  MD SDAT PERSONAL PROP RETURN FILING FEE  -    [[MONEY|300.00]]
+      Ending balance [[DATE?|02/29/2020]]                         [[FINANCIAL_INFO?|$3,118.27]]
+
+  (c) Owner's statement in lieu of payroll records: "I am the only employee. My cousin [[PERSON|Tavon]] helps on weekends
+      and I pay him by check. I [[INDIRECT_ROLE|do the detailing for the Towson import dealership service drive on contract]]."
+      - [[SIGNATURE|D. Abernathy]]  [[DATE?|3/19/21]]
+
+  (d) Form 3508S (Loan Forgiveness) excerpt, submitted [[DATE?|08/30/2021]]:
+      [[ORGANIZATION?|SBA]] PPP Loan Number: [[BANK_ACCOUNT|5537148406]]   Lender PPP Loan Number: [[BANK_ACCOUNT|HCB-PPP-21-004417]]
+      PPP Loan Amount: [[MONEY|$20,083.00]]   Forgiveness Amount: [[MONEY|$20,083.00]]   Employees at application: 1  at forgiveness: 1
+      Covered Period: [[DATE?|03/26/2021]] - [[DATE?|09/09/2021]]   Borrower's 2020 Sch. C line 31 net profit: [[FINANCIAL_INFO?|$57,157]]
+      Signed: [[SIGNATURE|Deshawn M. Abernathy]]  (forgiven in full [[DATE?|10/14/2021]])

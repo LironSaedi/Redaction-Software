@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<installer-gui-script minSpecVersion="2">
+    <title>Obscura Redaction Studio</title>
+    <organization>com.obscura</organization>
+    <welcome file="welcome.html" mime-type="text/html"/>
+    <license file="license.html" mime-type="text/html"/>
+    <conclusion file="conclusion.html" mime-type="text/html"/>
+    <background file="background.png" alignment="bottomleft" scaling="none"/>
+    <background-darkAqua file="background.png" alignment="bottomleft" scaling="none"/>
+    <!-- "Install for me only" needs no administrator password (installs into ~/Applications) -->
+    <domains enable_anywhere="false" enable_currentUserHome="true" enable_localSystem="true"/>
+    <options customize="never" require-scripts="false" hostArchitectures="arm64"/>
+    <volume-check>
+        <allowed-os-versions><os-version min="12.0"/></allowed-os-versions>
+    </volume-check>
+    <choices-outline>
+        <line choice="default"><line choice="com.obscura.redaction"/></line>
+    </choices-outline>
+    <choice id="default"/>
+    <choice id="com.obscura.redaction" visible="false">
+        <pkg-ref id="com.obscura.redaction"/>
+    </choice>
+    <pkg-ref id="com.obscura.redaction" version="@VERSION@" onConclusion="none">obscura-app.pkg</pkg-ref>
+</installer-gui-script>

@@ -1,0 +1,84 @@
+AOC-275.1                                                  Case No. [[CASE_NUMBER|26-D-00871-001]]
+Rev. 1-26                                                   Court: [[ORGANIZATION?|FAYETTE FAMILY COURT]], Division 8
+Commonwealth of Kentucky
+Court of Justice  www.kycourts.gov
+KRS 403.715 et seq.; KRS 456.030
+
+                  PETITION / MOTION FOR ORDER OF PROTECTION
+                  [X] Domestic Violence   [X] Interpersonal Protective Order (Stalking)
+
+PETITIONER:  [[PERSON|BRIANNA LYNN CARRICO]]                   DOB: [[DATE_OF_BIRTH|06/03/1994]]    Sex: F
+             Address CONFIDENTIAL -- on file with Circuit Clerk (KRS 403.735 confidentiality requested)
+             Safe contact phone: [[PHONE|(859) 940-2276]]
+
+RESPONDENT:  [[PERSON|TRAVIS DEWAYNE SPURLOCK]]                DOB: [[DATE_OF_BIRTH|11/21/1990]]    Sex: M
+             Address: [[ADDRESS|418 Wyatt Lane]], [[ADDRESS|Nicholasville, KY 40356]] (his mother's house)
+             Phone: [[PHONE|(859) 319-6640]]    SSN (last 4): [[SSN|5521]]    KY OL#: [[DRIVERS_LICENSE|S06-418-822]]
+             Description: [[PHYSICAL_DESCRIPTOR|6'1", about 230 lbs, shaved head, red beard, "Spurlock" tattooed across the
+             back of his neck, scar through left eyebrow]]
+             Employer: [[EMPLOYER|Bluegrass Paving & Sealcoat]], [[ADDRESS?|2950 Old Frankfort Pike]], Lexington
+             Vehicle: [[VEHICLE_DESCRIPTION|black 2019 Ram 1500, lifted, chrome stacks, Punisher skull decal on back glass,
+             dented tailgate]], KY plate [[LICENSE_PLATE|U4R 718]]
+             Weapons: owns at least 2 handguns and a deer rifle; carries a pistol in the truck console.
+
+Relationship: [X] Former unmarried couple, lived together [[DATE?|2017-2025]]  [X] Have child(ren) in common
+
+MINOR CHILDREN TO BE PROTECTED:
+   [[PERSON MINOR|H.G.S.]]  (age [[AGE|6]])  -- 1st grade, [[SCHOOL|Sycamore Run Elementary]]
+   [[PERSON MINOR|W.T.S.]]  (age [[AGE|4]])  -- [[SCHOOL|Little Acorns Learning Center]] (Tates Creek Rd)
+
+Prior/pending cases: [[CASE_NUMBER|25-CI-02214]] (custody, Fayette Circuit); [[CRIMINAL_HISTORY|Respondent: 2021 Assault 4th DV
+(Jessamine Dist., conditionally discharged); 2023 Terroristic Threatening 3rd, dismissed]]
+
+                                         AFFIDAVIT
+I, [[PERSON|Brianna Lynn Carrico]], being first duly sworn, state:
+
+1. [[PERSON|Travis]] and I separated in [[DATE?|October 2025]] when I moved out with our children. Since then he has
+   followed me, shown up where I work and where the children go to school, and threatened me.
+
+2. On [[DATE|August 29, 2026]] at about 7:10 a.m., I was dropping [[PERSON MINOR|H.]] off at the car-rider line at [[SCHOOL|Sycamore Run]].
+   [[PERSON|Travis]]'s truck was parked across the street in [[INDIRECT_LOCATION|the lot of the Speedway at Tates Creek and Gainesway]],
+   where he has parked at least six mornings since school started. When I pulled out he followed me
+   to work, about two car lengths behind, the whole way down New Circle.
+
+3. I work as [[INDIRECT_ROLE|the front desk lead at the Hamburg urgent care]] ([[EMPLOYER|Baptist Health Urgent Care -- Hamburg]],
+   [[ADDRESS?|2365 Sir Barton Way]]). On [[DATE|September 2]] and [[DATE|September 4]], 2026, my coworker [[PERSON|Chantel Rucker]]
+   saw his truck in [[INDIRECT_LOCATION|the back row of the Meijer lot that faces our entrance]] at closing (8 p.m.). On
+   [[DATE|September 4]] he walked up to my car and said, "You're going to wish you never took my kids. Nobody
+   would even find you." He put his hand on the pistol in his waistband when he said it.
+
+4. On [[DATE|September 6, 2026]], I found a small black GPS tracker zip-tied under my rear bumper. The
+   Lexington Police officer (Ofc. [[PERSON|Kenji Watanabe]], #[[LAW_ENFORCEMENT_ID|2207]]) took it as evidence, report
+   [[LAW_ENFORCEMENT_ID|LPD 26-118804]]. The tracker was a LandAirSea 54, serial [[DEVICE_ID|LAS54-0091847]]. [[PERSON|Travis]] knew things like
+   that I went to [[INDIRECT_LOCATION|my Thursday night Celebrate Recovery group at Southland Christian]] and that I
+   went to [[INDIRECT_LOCATION|my sister's apartment at The Lofts at Hamburg, unit 3214]], which I never told him.
+
+5. He contacts me from new numbers and fake accounts after I block him: [[PHONE|(859) 208-4471]], [[PHONE|(606) 315-0098]],
+   Facebook "[[USERNAME|Trav Dewayne]]" ([[URL|facebook.com/trav.dewayne.7]]), Instagram [[USERNAME|@ts_ky_outlaw]], and through
+   Cash App ([[USERNAME|$TravisSpur90]]) sending $1 with messages like "u can't hide" and "tick tock." Screenshots
+   attached as Exhibit A (14 pages).
+
+6. In [[DATE?|January 2025]] while we lived together on [[ADDRESS?|Liberty Road]] he choked me against the refrigerator
+   until I blacked out. I did not report it then because he said he would take the kids to his cousin
+   in [[LOCATION?|Hazard]] and I would never see them. I was treated at [[ORGANIZATION?|UK HealthCare Good Samaritan]] for a
+   [[MEDICAL_CONDITION|broken nose]] that night and said I fell. I still have [[PHYSICAL_DESCRIPTOR|a bump on the bridge of my nose]].
+
+7. [[PERSON|Travis]] has told me he is "off his meds" ([[MEDICATION|lithium]]) and he has [[MENTAL_HEALTH|bipolar disorder]]. He has been
+   drinking heavily since he lost his CDL. On [[DATE|September 7]] he texted that he "might as well end it and
+   take everybody with" him.
+
+8. I am afraid for my life and my children's lives. I am in counseling at [[ORGANIZATION?|Bluegrass.org]] for
+   [[MENTAL_HEALTH|PTSD]] and take [[MEDICATION|prazosin]] for nightmares.
+
+RELIEF REQUESTED: No contact; stay 500 feet away from me, my residence, my work, [[SCHOOL|Sycamore Run Elementary]],
+and [[SCHOOL|Little Acorns Learning Center]]; temporary custody; surrender of firearms; restrain from
+tracking/monitoring my location; respondent to vacate any contact with my sister, [[PERSON|Kayla Carrico-Nunn]].
+
+I swear or affirm the above is true.     /s/ [[PERSON|Brianna L. Carrico]]                 Date: [[DATE|09/08/2026]]
+
+Subscribed and sworn before me by [[PERSON|Brianna Lynn Carrico]] on [[DATE|09/08/2026]].
+     [[PERSON|Marla J. Pennington]], Deputy Clerk, Fayette Circuit Court   ID [[ID_NUMBER|DC-0418]]
+
+Victim advocate: [[PERSON|Rosalind Ochoa]], [[ORGANIZATION?|GreenHouse17]] -- [[PHONE|(859) 233-0657]]
+EPO entered [[DATE|09/08/2026]] by Judge [[PERSON|Harlan T. Mattingly]]; hearing set [[DATE|09/22/2026]] 1:30 p.m., Courtroom 8B.
+LINK/NCIC entry: [[LAW_ENFORCEMENT_ID|KY26DV0441872]]   Served on respondent: ____________  by Dep. ____________

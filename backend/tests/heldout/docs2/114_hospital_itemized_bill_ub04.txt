@@ -1,0 +1,73 @@
+UB-04 CMS-1450 (facsimile -- data print)                                       [[ORGANIZATION?|THREE RIVERS UNIVERSITY HOSPITAL]]
+----------------------------------------------------------------------------------------------------------------
+FL1  [[ORGANIZATION?|THREE RIVERS UNIVERSITY HOSPITAL]]          FL3a PAT CNTL #  [[MRN|TRU2604118837]]         FL4 TYPE OF BILL 0111
+     [[ADDRESS?|3500 Forbes Avenue]]                        FL3b MED REC #   [[MRN|MR-00731552]]
+     [[ADDRESS?|PITTSBURGH PA 15213]]  [[PHONE|412-647-8000]]         FL5  FED TAX NO  25-0965480   FL6 STATEMENT [[DATE|041226]]-[[DATE|042026]]
+FL8  PATIENT NAME  [[PERSON|BONDARENKO, KATERYNA O]]            FL9 PATIENT ADDRESS  [[ADDRESS|227 S. MILLVALE AVE APT 3]]
+                                                         [[ADDRESS|PITTSBURGH PA 15224]]
+FL10 BIRTHDATE [[DATE_OF_BIRTH|08211984]]   FL11 SEX F   FL12 ADMIT DATE [[DATE|041226]]  FL13 HR 22  FL14 TYPE 1  FL15 SRC 7
+FL16 DHR 14   FL17 STAT 01   FL18-28 CONDITION CODES  02 (auto accident)
+FL31 OCCURRENCE  01 [[DATE|041226]]  (accident/medical coverage)    FL32  24 [[DATE|041526]]
+FL38 RESPONSIBLE PARTY  [[PERSON|BONDARENKO KATERYNA]] [[ADDRESS|227 S MILLVALE AVE APT 3 PITTSBURGH PA 15224]]
+----------------------------------------------------------------------------------------------------------------
+FL42 REV  FL43 DESCRIPTION                       FL44 HCPCS/RATE   FL45 SERV DT  FL46 UNITS  FL47 TOTAL CHARGES
+0450      EMERGENCY ROOM LVL 5 / TRAUMA ACT       99285 / G0390     [[DATE|041226]]         1          14,862.00
+0360      OR SERVICES 1ST HR                                        [[DATE|041326]]         1           9,410.00
+0361      OR SERVICES ADDL 15 MIN                                   [[DATE|041326]]         6           7,224.00
+0370      ANESTHESIA                                                [[DATE|041326]]         1           3,880.00
+0278      MEDICAL/SURG SUPPLIES - IMPLANTS         IM nail tibia    [[DATE|041326]]         1          18,640.50
+0320      DX X-RAY                                                  [[DATE|041226]]         7           2,331.00
+0350      CT SCAN HEAD/CSPINE/CAP                  70450,72125,74177 [[DATE|041226]]        3          11,925.00
+0300      LABORATORY                                                [[DATE|041226]]        22           3,104.75
+0250      PHARMACY                                                  [[DATE|041226]]        48           5,612.38
+0636      DRUGS REQ DETAIL CODING                  J2270 x 14        [[DATE|041226]]       14             896.00
+0200      ICU                                      @ 6,950.00       [[DATE|041226]]         2          13,900.00
+0120      ROOM & BOARD SEMI-PVT                    @ 2,410.00       [[DATE|041426]]         6          14,460.00
+0420      PHYSICAL THERAPY                                          [[DATE|041526]]         5           1,975.00
+0430      OCCUPATIONAL THERAPY                                      [[DATE|041726]]         2             640.00
+0001      TOTAL CHARGES                                                                       108,860.63
+----------------------------------------------------------------------------------------------------------------
+FL50 PAYER                         FL51 HEALTH PLAN ID   FL54 PRIOR PMTS   FL55 EST AMT DUE
+A  [[ORGANIZATION?|KEYSTONE AUTO MUTUAL]] - PIP/FPB     KAM-PA                0.00         5,000.00
+B  [[ORGANIZATION?|ALLEGHENY HEALTH CHOICE]] HMO       AHC-HMO               0.00       103,860.63
+C  SELF PAY
+FL58 INSURED'S NAME              FL59 REL  FL60 INSURED'S UNIQUE ID     FL61 GROUP NAME        FL62 GROUP NO
+A  [[PERSON|BONDARENKO KATERYNA]]            18     [[CLAIM_NUMBER|KAM-26-PA-0442918]]          FIRST PARTY BENEFITS   [[POLICY_NUMBER|PAP-7720418]]
+B  [[PERSON|HRYTSENKO MYKOLA]]               01     [[HEALTH_PLAN_ID|AHC883104471-01]]           [[EMPLOYER|DUQUESNE STEEL SVC]]    [[HEALTH_PLAN_ID|G-55018]]
+FL63 TREATMENT AUTH  [[ID_NUMBER?|AUTH260413-0091]]     FL65 EMPLOYER NAME  B: [[EMPLOYER|DUQUESNE STEEL SERVICE CENTER]]
+FL66 DX  S82.201A  S06.0X1A  S22.31XA  F10.10  V03.10XA  Z23     FL69 ADM DX S82.201A   FL72 ECI V03.10XA
+FL74 PRINCIPAL PROC  0QSG06Z  [[DATE|041326]]
+FL76 ATTENDING  NPI [[ID_NUMBER?|1306891174]]  [[PERSON|LEIBOWITZ]]  [[PERSON|AARON]]
+FL77 OPERATING  NPI [[ID_NUMBER?|1952418806]]  [[PERSON|OSEI-BONSU]]  [[PERSON|KWAKU]]
+FL80 REMARKS  PEDESTRIAN STRUCK BY VEHICLE [[INDIRECT_LOCATION|BUTLER ST AT 40TH ST BRIDGE]]. PIP CLM [[CLAIM_NUMBER|KAM-26-PA-0442918]].
+              AT-FAULT DRIVER CARRIER [[ORGANIZATION?|ERIE SHORE INS]] CLM [[CLAIM_NUMBER|ES-0418-77310]]. POLICE RPT [[LAW_ENFORCEMENT_ID|PBP 26-071194]]
+================================================================================================================
+
+                    PATIENT ITEMIZED STATEMENT -- GUARANTOR COPY                               Page 1 of 1
+Guarantor:   [[PERSON|Kateryna O. Bondarenko]]              Account #: [[MRN|TRU2604118837]]   Guarantor #: [[MRN|G-1188402]]
+Statement date: [[DATE|09/01/2026]]                       Due date: [[DATE|09/30/2026]]
+Mail to:     [[ADDRESS|227 S. Millvale Ave, Apt 3]], [[ADDRESS|Pittsburgh, PA 15224]]
+Language:    Ukrainian -- interpreter used ([[PERSON|Oksana Melnyk]], ID [[ID_NUMBER|INT-3307]])
+
+Date        Description                                              Charges      Pmt/Adj
+[[DATE|04/12/26]]    Total facility charges (see UB-04 detail)               108,860.63
+[[DATE|05/02/26]]    Keystone Auto Mutual -- PIP first party benefits                       -5,000.00
+[[DATE|06/19/26]]    Allegheny Health Choice -- payment                                    -41,220.18
+[[DATE|06/19/26]]    Allegheny Health Choice -- contractual adjustment                     -57,408.10
+[[DATE|07/08/26]]    Patient payment -- Visa ending [[CREDIT_CARD|4417]] (phone, auth 662013)                -150.00
+[[DATE|08/08/26]]    Patient payment -- ACH checking [[BANK_ACCOUNT|****0918]]                            -150.00
+                                                          PATIENT BALANCE DUE:   [[FINANCIAL_INFO|$4,932.35]]
+
+Plan copay/coinsurance: [[FINANCIAL_INFO|deductible $2,500 met; 20% coinsurance to OOP max]]. Payment plan: [[FINANCIAL_INFO|$150/month
+auto-draft on the 8th]] from [[ORGANIZATION?|Dollar Bank]] checking acct [[BANK_ACCOUNT|****0918]], routing [[ROUTING_NUMBER|243074017]].
+Financial assistance application received [[DATE|08/21/2026]]: household of 3 ([[PERSON|Kateryna]], spouse [[PERSON|Mykola Hrytsenko]],
+daughter [[PERSON MINOR|Sofiia]], [[AGE|11]]); [[FINANCIAL_INFO|reported gross household income $58,200/yr]] -- under review.
+Patient reports she has been unable to return to work as [[INDIRECT_ROLE|the overnight baker at the Lawrenceville
+location of Prospect Bakehouse]] since the injury.
+
+NOTE: Charges related to a third-party liability claim. Hospital has filed a lien under 40 P.S.
+1303.712 notice to counsel: [[PERSON|Nadia Kostiuk]], Esq., [[ORGANIZATION?|Kostiuk & Farrow LLC]], [[PHONE|(412) 281-4400]],
+[[EMAIL|nkostiuk@kostiukfarrow.com]].
+
+Questions? Patient Financial Services [[PHONE|412-647-3500]], M-F 8-5. Pay online: portal user [[USERNAME|kbondarenko84]]
+Prepared by: [[PERSON|T. Wierzbicki]], PFS Rep II   [[DATE|09/01/2026]]

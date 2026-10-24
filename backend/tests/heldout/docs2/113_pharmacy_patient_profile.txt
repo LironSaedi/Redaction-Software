@@ -1,0 +1,65 @@
+RIO GRANDE DRUG #0412            PATIENT PROFILE / RX HISTORY                    Printed [[DATE|09/29/2026]] 15:07
+[[ADDRESS?|2216 Isleta Blvd SW]]          Store NCPDP 3219904   NPI 1588237710                  User: [[USERNAME|RPH_LKAUR]]
+[[ADDRESS?|Albuquerque, NM 87105]]   Ph [[PHONE|(505) 873-4410]]  Fax [[PHONE|(505) 873-4419]]                Page 1 of 2
+================================================================================================================
+PATIENT: [[PERSON|DE LA CRUZ-BENAVIDEZ, ESTEBAN RAMON]]          Pt ID: [[MRN|0412-0088713]]    Family ID: [[MRN|F-22918]]
+DOB:     [[DATE_OF_BIRTH|11/04/1958]]  Age: [[AGE|67]]  Sex: M            Ht: [[PHYSICAL_DESCRIPTOR?|5'7"]]   Wt: [[PHYSICAL_DESCRIPTOR?|214 lb]]
+ADDR:    [[ADDRESS|1408 Arenal Rd SW, Apt 23]]  [[ADDRESS|ALBUQUERQUE NM 87105]]   ([[INDIRECT_LOCATION|Casa Feliz Apartments]] -- bldg C, ground floor)
+PHONE:   Home [[PHONE|(505) 877-2093]]   Cell [[PHONE|(505) 440-6118]]   Text OK: Y   Lang: Spanish (pref) / English
+EMAIL:   [[EMAIL|estebandlc58@hotmail.com]]
+DL/ID:   NM [[DRIVERS_LICENSE|512408839]]   (verified for C-II pickup [[DATE|06/14/2026]])
+LAST4 SSN on file: [[SSN|xxx-xx-2207]]
+
+PRIMARY INS:  [[ORGANIZATION?|Presbyterian Medicare Advantage]] Part D   BIN 004336  PCN MEDDADV  Grp [[HEALTH_PLAN_ID|RX8812]]
+              Member ID: [[HEALTH_PLAN_ID|PHP90044718201]]    MBI: [[MEDICARE_ID|7HK2-WD8-QN55]]     Person code 01
+SECONDARY:    [[ORGANIZATION?|NM Medicaid (Turquoise Care)]]  Member ID [[HEALTH_PLAN_ID|300418822]]   LIS level 2
+DISCOUNT:     Ryan White Part B (ADAP) -- cert exp [[DATE|03/31/2027]]   ADAP ID [[HEALTH_PLAN_ID|NMADAP-04471]]
+
+ALLERGIES:    SULFONAMIDES (anaphylaxis) | CODEINE (nausea) | IODINATED CONTRAST (hives)
+CONDITIONS:   [[MEDICAL_CONDITION|HIV-1 infection]] | [[MEDICAL_CONDITION?|Type 2 DM]] | [[MEDICAL_CONDITION?|HTN]] | [[MEDICAL_CONDITION?|CKD stage 3a]] | [[SUBSTANCE_USE|Opioid use d/o, in remission]] |
+              [[MENTAL_HEALTH|Major depressive d/o]] | [[MEDICAL_CONDITION?|Peripheral neuropathy]] | [[MEDICAL_CONDITION?|Chronic hep B]] (inactive carrier)
+CAREGIVER / AUTHORIZED PICKUP:
+              [[PERSON|Imelda Benavidez]] (wife)  Cell [[PHONE|(505) 440-6127]]  -- may pick up all Rx
+              [[PERSON|Joaquin De La Cruz]] (son)  -- may pick up non-controlled ONLY
+              ** Pt requests HIV meds NOT be discussed with son. Bag HIV meds separately, label "[[PERSON?|E.D.C.]]" **
+NOTES:        Prefers drive-thru window. Delivery Thursdays when back is bad (driver [[PERSON|Ray Montaño]]). Blister
+              packs for AM/PM meds. Pt is [[INDIRECT_ROLE|the retired school custodian who runs the Sunday food pantry at
+              San José parish]] -- often asks staff to hold meds until after 1 p.m. Sunday.
+              Gate code for delivery: [[PASSWORD|*2318]]. Dog in unit.
+================================================================================================================
+RX#       FILL DATE   DRUG / STRENGTH                      QTY   DAYS  PRESCRIBER              REF  PAYER   COPAY
+--------  ----------  -----------------------------------  ----  ----  ----------------------  ---  ------  ------
+[[ID_NUMBER?|7710442]]   [[DATE|09/22/2026]]  [[MEDICATION|BIKTARVY 50-200-25 MG TAB]]           30    30   [[PERSON|NAKAMURA-REYES, E]]       4   ADAP    0.00
+[[ID_NUMBER?|7710443]]   [[DATE|09/22/2026]]  [[MEDICATION|BUPRENORPHINE-NALOX 8-2 MG FILM]]     28    14   [[PERSON|OKONJO, D]] (X-waiver)    0   MCD     0.00
+[[ID_NUMBER?|7708191]]   [[DATE|09/15/2026]]  [[MEDICATION?|METFORMIN ER 500 MG TAB]]            120   30   [[PERSON|GALLEGOS, M]]             5   PART D  0.00
+[[ID_NUMBER?|7708192]]   [[DATE|09/15/2026]]  [[MEDICATION?|LOSARTAN 50 MG TAB]]                 30    30   [[PERSON|GALLEGOS, M]]             5   PART D  0.00
+[[ID_NUMBER?|7708193]]   [[DATE|09/15/2026]]  [[MEDICATION|SERTRALINE 100 MG TAB]]              30    30   [[PERSON|PATEL-ARCHULETA, S]]      2   PART D  1.55
+[[ID_NUMBER?|7706004]]   [[DATE|09/08/2026]]  [[MEDICATION|BUPRENORPHINE-NALOX 8-2 MG FILM]]     28    14   [[PERSON|OKONJO, D]]               0   MCD     0.00
+[[ID_NUMBER?|7705512]]   [[DATE|09/01/2026]]  [[MEDICATION?|GABAPENTIN 300 MG CAP]]              90    30   [[PERSON|GALLEGOS, M]]             3   PART D  1.55
+[[ID_NUMBER?|7705513]]   [[DATE|09/01/2026]]  [[MEDICATION?|INSULIN GLARGINE U-100 PEN]]        15ML  30   [[PERSON|GALLEGOS, M]]             2   PART D  11.20
+[[ID_NUMBER?|7704480]]   [[DATE|08/25/2026]]  [[MEDICATION|BIKTARVY 50-200-25 MG TAB]]           30    30   [[PERSON|NAKAMURA-REYES, E]]       5   ADAP    0.00
+[[ID_NUMBER?|7704481]]   [[DATE|08/25/2026]]  [[MEDICATION|BUPRENORPHINE-NALOX 8-2 MG FILM]]     28    14   [[PERSON|OKONJO, D]]               0   MCD     0.00
+[[ID_NUMBER?|7701977]]   [[DATE|08/18/2026]]  [[MEDICATION?|ENTECAVIR 0.5 MG TAB]] (renal adj)    15    30   [[PERSON|NAKAMURA-REYES, E]]       1   PART D  4.15
+[[ID_NUMBER?|7701978]]   [[DATE|08/18/2026]]  [[MEDICATION|NALOXONE 4 MG NASAL SPRAY]]           2     1   [[PERSON|OKONJO, D]]               1   MCD     0.00
+[[ID_NUMBER?|7699310]]   [[DATE|08/11/2026]]  [[MEDICATION|TRAZODONE 50 MG TAB]]                 30    30   [[PERSON|PATEL-ARCHULETA, S]]      0   PART D  1.55
+[[ID_NUMBER?|7698002]]   [[DATE|08/04/2026]]  [[MEDICATION?|OXYCODONE-APAP 5-325 MG]]  ** REFUSED **  --    --   [[PERSON|FRITZ, ALAN]] (ER)       --   --      --
+          RPh note: PMP shows active bup Rx; called Dr. [[PERSON|Fritz]] ([[ORGANIZATION?|Lovelace ED]]) -- Rx cancelled, pt counseled.
+================================================================================================================
+PRESCRIBERS
+  [[PERSON|Eriko Nakamura-Reyes]], MD   [[ORGANIZATION?|UNM Truman Health Services]]   DEA [[ID_NUMBER?|BN4471882]]  Ph [[PHONE|(505) 272-1312]]
+  [[PERSON|Dayo Okonjo]], DO            [[ORGANIZATION?|First Choice Recovery Clinic]]  DEA [[ID_NUMBER?|BO6620913]]  Ph [[PHONE|(505) 873-0099]]
+  [[PERSON|Marisol Gallegos]], CNP      [[ORGANIZATION?|South Valley Family Health]]   DEA [[ID_NUMBER?|MG2209184]]  Ph [[PHONE|(505) 877-4410]]
+  [[PERSON|Sunil Patel-Archuleta]], MD  [[ORGANIZATION?|Westside Behavioral Health]]   DEA [[ID_NUMBER?|BP3318407]]  Ph [[PHONE|(505) 831-2207]]
+
+PMP (NM PMP AWARxE) query [[DATE|09/22/2026]]: 1 active prescriber of buprenorphine; 0 benzodiazepines; MME 0.
+Clinical alerts overridden: DDI BIKTARVY / METFORMIN (monitor) -- RPh [[PERSON|L. Kaur]] [[DATE|09/22/2026]].
+
+PICKUP SIGNATURE LOG (last 3)
+  [[DATE|09/22/2026]] 16:41  Drive-thru  Signed: "[[PERSON|I. Benavidez]]"   ID shown: NM DL [[DRIVERS_LICENSE|509911274]]  Rx [[ID_NUMBER?|7710442]], [[ID_NUMBER?|7710443]]
+  [[DATE|09/15/2026]] 11:05  Delivery    Signed: "[[PERSON|E. de la Cruz]]"   Driver: [[PERSON|R. Montaño]]  [[ADDRESS|1408 Arenal Rd SW #23]]
+  [[DATE|09/08/2026]] 17:52  Counter     Signed: "[[PERSON|Esteban DLC]]"     ID shown: NM DL [[DRIVERS_LICENSE|512408839]]
+
+Counsel: [[PERSON|Lakhvinder Kaur]], PharmD -- discussed adherence; pt reports missing PM bup dose after
+"bad week since the fall at the bus stop." (see attorney records request on file, [[DATE|09/25/2026]])
+
+CONFIDENTIAL: Contains HIV and SUD (42 CFR Part 2) information. Redisclosure prohibited without consent.

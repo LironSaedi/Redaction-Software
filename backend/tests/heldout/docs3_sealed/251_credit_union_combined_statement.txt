@@ -1,0 +1,224 @@
+[[ORGANIZATION?|ALLEGHENY RIDGE FEDERAL CREDIT UNION]]
+[[ADDRESS?|1500 Pleasant Valley Blvd]]  |  [[ADDRESS?|Altoona, PA 16602-4470]]
+Member Service Center [[PHONE?|814-555-0190]]  |  Toll-free [[PHONE?|1-800-555-0144]]  |  [[URL?|www.arfcu.org]]
+Routing / Transit No. [[ROUTING_NUMBER|231399179]]                                  Federally insured by NCUA
+
+                                                    STATEMENT OF ACCOUNTS
+                                                    Statement Period:  [[DATE?|09/01/2026]] thru [[DATE?|09/30/2026]]
+[[PERSON|RENATA M KOWALCZYK]]                                   Member Number:     [[ID_NUMBER|0048817265]]
+[[PERSON|TOMASZ J KOWALCZYK]]                                   Home Branch:       [[LOCATION?|Logan Valley Office]]
+[[ADDRESS|2217 JUNIATA GAP RD]]                                  Statement Date:    [[DATE?|09/30/2026]]
+[[ADDRESS|ALTOONA PA 16601-2295]]                                Page 1 of 4
+
+----------------------------------------------------------------------------------------------------------
+ IMPORTANT: Your Holiday Club (S09) balance will automatically transfer to your Share Draft (D70) on
+ [[DATE?|11/01/2026]]. Visit any branch or call [[PHONE?|1-800-555-0144]] to change the transfer account.
+----------------------------------------------------------------------------------------------------------
+
+ACCOUNT SUMMARY
+ID    Description                    Account Number              Previous Balance    Ending Balance   Div/Int YTD
+----  -----------------------------  ------------------------  ----------------  ----------------  -----------
+S00   Primary Savings                [[BANK_ACCOUNT|0048817265-S00]]                    [[MONEY|4,912.08]]          [[MONEY|4,412.65]]         [[MONEY|4.91]]
+S05   Youth Savings - UTMA           [[BANK_ACCOUNT|0048817265-S05]]                    [[MONEY|1,206.55]]          [[MONEY|1,278.80]]         [[MONEY|1.96]]
+S09   Holiday Club                   [[BANK_ACCOUNT|0048817265-S09]]                      [[MONEY|675.00]]            [[MONEY|825.00]]         [[MONEY|0.00]]
+D70   Share Draft Checking           [[BANK_ACCOUNT|0048817265-D70]]                    [[MONEY|2,418.77]]          [[MONEY|1,868.29]]         [[MONEY|1.02]]
+L41   New Auto Loan                  [[BANK_ACCOUNT|0048817265-L41]]                   [[MONEY|18,904.12]]         [[MONEY|18,602.76]]       [[MONEY|822.37]]
+VSA   Platinum Rewards Visa          XXXX XXXX XXXX [[CREDIT_CARD|2656]]                   [[MONEY|1,487.30]]          [[MONEY|1,733.42]]       [[MONEY|141.20]]
+                                                                         ----------------  ----------------
+                                         Total Shares (S00-D70)                  [[MONEY|9,212.40]]          [[MONEY|8,384.74]]
+                                         Total Loans and Credit                 [[MONEY|20,391.42]]         [[MONEY|20,336.18]]
+
+ACCOUNT OWNERS
+  Primary:   [[PERSON|RENATA M KOWALCZYK]]          Joint:  [[PERSON|TOMASZ J KOWALCZYK]] (all shares except S05)
+  S05 Custodian: [[PERSON|RENATA M KOWALCZYK]]   for  [[MINOR|ZOFIA K KOWALCZYK]], a minor, under the PA Uniform Transfers to
+             Minors Act (Minor's date of birth on file: [[DATE_OF_BIRTH|03/14/2015]])
+  S00 Payable-on-Death beneficiary: [[PERSON|DANUTA WISNIEWSKI]]
+
+==========================================================================================================
+S00  PRIMARY SAVINGS                                            Account [[BANK_ACCOUNT|0048817265-S00]]
+==========================================================================================================
+Date   Description                                                  Withdrawals    Deposits      Balance
+-----  --------------------------------------------------------  ----------  ----------  -----------
+[[DATE?|09/01]]  Beginning Balance                                                                     [[MONEY|4,912.08]]
+[[DATE?|09/05]]  WITHDRAWAL - [[LOCATION?|LOGAN VALLEY BRANCH]] TELLER 14                  [[MONEY|500.00]]               [[MONEY|4,412.08]]
+[[DATE?|09/30]]  DIVIDEND 0.150% APY                                                       [[MONEY|0.57]]    [[MONEY|4,412.65]]
+[[DATE?|09/30]]  Ending Balance                                                                        [[MONEY|4,412.65]]
+
+       Dividend period [[DATE?|09/01/2026]]-[[DATE?|09/30/2026]]   Annual Percentage Yield Earned 0.15%   Days in period 30
+       Average daily balance [[MONEY|4,478.73]]
+
+==========================================================================================================
+S05  YOUTH SAVINGS - UTMA                                       Account [[BANK_ACCOUNT|0048817265-S05]]
+     [[PERSON|RENATA M KOWALCZYK]] CUST FOR [[MINOR|ZOFIA K KOWALCZYK]] UNDER PA UTMA
+==========================================================================================================
+Date   Description                                                  Withdrawals    Deposits      Balance
+-----  --------------------------------------------------------  ----------  ----------  -----------
+[[DATE?|09/01]]  Beginning Balance                                                                     [[MONEY|1,206.55]]
+[[DATE?|09/08]]  TRANSFER FROM SHARE DRAFT D70                                            [[MONEY|50.00]]    [[MONEY|1,256.55]]
+[[DATE?|09/19]]  CASH DEPOSIT - [[LOCATION?|LOGAN VALLEY BRANCH]]                                       [[MONEY|22.00]]    [[MONEY|1,278.55]]
+[[DATE?|09/30]]  DIVIDEND 0.250% APY                                                       [[MONEY|0.25]]    [[MONEY|1,278.80]]
+[[DATE?|09/30]]  Ending Balance                                                                        [[MONEY|1,278.80]]
+
+     Kids Club note: Congratulations [[MINOR|Zofia]]! You reached your "[[AGE|11]]th birthday" savings goal. Your
+     Saver Star certificate is ready for pick-up. Ask about our school savings day at [[SCHOOL|Piney Ridge Elementary]].
+
+
+[[PERSON|RENATA M KOWALCZYK]]                Member [[ID_NUMBER|0048817265]]                             Page 1 of 4
+--- Page 2 ---
+[[ORGANIZATION?|ALLEGHENY RIDGE FCU]]           [[PERSON|RENATA M KOWALCZYK]]          Member [[ID_NUMBER|0048817265]]            Page 2 of 4
+
+==========================================================================================================
+S09  HOLIDAY CLUB                                               Account [[BANK_ACCOUNT|0048817265-S09]]
+==========================================================================================================
+[[DATE?|09/01]]  Beginning Balance                                                                       [[MONEY|675.00]]
+[[DATE?|09/25]]  TRANSFER FROM SHARE DRAFT D70                                           [[MONEY|150.00]]      [[MONEY|825.00]]
+[[DATE?|09/30]]  Ending Balance                                                                          [[MONEY|825.00]]
+
+==========================================================================================================
+D70  SHARE DRAFT CHECKING - "Everyday Free"                     Account [[BANK_ACCOUNT|0048817265-D70]]
+     ACH / Direct Deposit / MICR account no. [[BANK_ACCOUNT|70048817265]]     Routing [[ROUTING_NUMBER|231399179]]
+     Debit Mastercard ending [[CREDIT_CARD|8812]] ([[PERSON|R KOWALCZYK]])   ending [[CREDIT_CARD|0349]] ([[PERSON|T KOWALCZYK]])
+==========================================================================================================
+Date   Description                                                    Debits     Credits      Balance
+-----  --------------------------------------------------------  ----------  ----------  -----------
+[[DATE?|09/01]]  Beginning Balance                                                                     [[MONEY|2,418.77]]
+[[DATE?|09/02]]  ACH DEP [[EMPLOYER|JUNIATA VALLEY HLTH]] PAYROLL CO ID [[ID_NUMBER?|1251887340]]                  [[MONEY|1,884.32]]    [[MONEY|4,303.09]]
+[[DATE?|09/03]]  POS [[ORGANIZATION?|SHEETZ]] #0371 [[LOCATION?|ALTOONA PA]] CARD [[CREDIT_CARD|8812]]                         [[MONEY|48.17]]               [[MONEY|4,254.92]]
+[[DATE?|09/04]]  SHARE DRAFT #2214                                            [[MONEY|125.00]]               [[MONEY|4,129.92]]
+[[DATE?|09/05]]  ACH [[ORGANIZATION?|PENELEC/FIRSTENERGY]] ACCT [[ID_NUMBER|110088412770]]                    [[MONEY|164.38]]               [[MONEY|3,965.54]]
+[[DATE?|09/06]]  ZELLE TO [[PERSON|DANUTA WISNIEWSKI]] "pharmacy + groceries"            [[MONEY|200.00]]               [[MONEY|3,765.54]]
+[[DATE?|09/08]]  TRANSFER TO SHARE S05 YOUTH SAVINGS                           [[MONEY|50.00]]               [[MONEY|3,715.54]]
+[[DATE?|09/09]]  POS [[ORGANIZATION?|GIANT EAGLE]] #6214 [[LOCATION?|HOLLIDAYSBURG PA]] CARD [[CREDIT_CARD|8812]]             [[MONEY|112.40]]               [[MONEY|3,603.14]]
+[[DATE?|09/10]]  TRANSFER TO LOAN L41 PAYMENT                                 [[MONEY|389.50]]               [[MONEY|3,213.64]]
+[[DATE?|09/11]]  ATM W/D [[ADDRESS?|3801 E PLEASANT VALLEY BLVD ALTOONA]]                   [[MONEY|60.00]]               [[MONEY|3,153.64]]
+[[DATE?|09/12]]  ACH DEP [[EMPLOYER|LOGAN HILLS ASD]] PAYROLL                                     [[MONEY|1,126.40]]    [[MONEY|4,280.04]]
+[[DATE?|09/14]]  SHARE DRAFT #2215                                          [[MONEY|1,150.00]]               [[MONEY|3,130.04]]
+[[DATE?|09/15]]  ACH [[ORGANIZATION?|ERIE INS EXCHANGE]] AUTO POL [[POLICY_NUMBER|Q09-4418827]]                   [[MONEY|142.66]]               [[MONEY|2,987.38]]
+[[DATE?|09/16]]  ACH DEP [[EMPLOYER|JUNIATA VALLEY HLTH]] PAYROLL CO ID [[ID_NUMBER?|1251887340]]                  [[MONEY|1,884.32]]    [[MONEY|4,871.70]]
+[[DATE?|09/17]]  POS [[ORGANIZATION?|AMAZON MKTPL]]*2K41T8RQ0 AMZN.COM/BILL WA                   [[MONEY|67.89]]               [[MONEY|4,803.81]]
+[[DATE?|09/18]]  TRANSFER TO VISA XXXX[[CREDIT_CARD|2656]]                                    [[MONEY|300.00]]               [[MONEY|4,503.81]]
+[[DATE?|09/19]]  ZELLE FROM [[PERSON|KAROLINA NOWAK]] "half of [[MINOR|Zofia]] b-day cake"                     [[MONEY|45.00]]    [[MONEY|4,548.81]]
+[[DATE?|09/21]]  POS [[ORGANIZATION?|BLAIR COUNTY ORTHODONTICS]] [[LOCATION?|ALTOONA]] CARD [[CREDIT_CARD|8812]]              [[MONEY|235.00]]               [[MONEY|4,313.81]]
+[[DATE?|09/22]]  ACH [[ORGANIZATION?|VERIZON WIRELESS]] PAYMENTS                                [[MONEY|146.21]]               [[MONEY|4,167.60]]
+[[DATE?|09/23]]  SHARE DRAFT #2216                                          [[MONEY|2,600.00]]               [[MONEY|1,567.60]]
+[[DATE?|09/24]]  POS [[ORGANIZATION?|WAL-MART]] #2338 [[LOCATION?|DUNCANSVILLE PA]] CARD [[CREDIT_CARD|8812]]                 [[MONEY|183.55]]               [[MONEY|1,384.05]]
+[[DATE?|09/25]]  TRANSFER TO SHARE S09 HOLIDAY CLUB                           [[MONEY|150.00]]               [[MONEY|1,234.05]]
+[[DATE?|09/26]]  ACH K12PAYMENTCTR [[SCHOOL|PINEY RIDGE ELEM]] LUNCH                      [[MONEY|40.00]]               [[MONEY|1,194.05]]
+[[DATE?|09/26]]  ACH DEP [[EMPLOYER|LOGAN HILLS ASD]] PAYROLL                                     [[MONEY|1,126.40]]    [[MONEY|2,320.45]]
+[[DATE?|09/28]]  ZELLE TO [[PERSON|DANUTA WISNIEWSKI]] "Oct rent help"                   [[MONEY|400.00]]               [[MONEY|1,920.45]]
+[[DATE?|09/29]]  POS [[ORGANIZATION?|SHEETZ]] #0371 [[LOCATION?|ALTOONA PA]] CARD [[CREDIT_CARD|8812]]                         [[MONEY|52.30]]               [[MONEY|1,868.15]]
+[[DATE?|09/30]]  DIVIDEND 0.050% APY                                                       [[MONEY|0.14]]    [[MONEY|1,868.29]]
+[[DATE?|09/30]]  Ending Balance                                                                        [[MONEY|1,868.29]]
+
+     SHARE DRAFTS CLEARED
+     Number    Date        Amount        Number    Date        Amount        Number    Date        Amount
+     2214      [[DATE?|09/04]]        [[MONEY|125.00]]        2215      [[DATE?|09/14]]      [[MONEY|1,150.00]]        2216*     [[DATE?|09/23]]      [[MONEY|2,600.00]]
+     * indicates a gap in sequence
+
+     Total Courtesy Pay fees this period          [[MONEY|$0.00]]        Total Courtesy Pay fees year-to-date     [[MONEY|$35.00]]
+     Total Returned Item fees this period         [[MONEY|$0.00]]        Total Returned Item fees year-to-date     [[MONEY|$0.00]]
+
+[[PERSON|RENATA M KOWALCZYK]]                Member [[ID_NUMBER|0048817265]]                             Page 2 of 4
+--- Page 3 ---
+[[ORGANIZATION?|ALLEGHENY RIDGE FCU]]           [[PERSON|RENATA M KOWALCZYK]]          Member [[ID_NUMBER|0048817265]]            Page 3 of 4
+
+==========================================================================================================
+L41  NEW AUTO LOAN                                              Account [[BANK_ACCOUNT|0048817265-L41]]
+==========================================================================================================
+  Collateral:          [[VEHICLE_DESCRIPTION|2022 SUBARU OUTBACK PREMIUM, CRYSTAL BLACK SILICA]]
+  VIN:                 [[VIN|4S4BTANC6N3218874]]
+  Lienholder title #:  PA [[ID_NUMBER|76604418-201]]
+  Original loan:       [[MONEY|27,500.00]] on [[DATE?|06/18/2024]]         Term: 72 months       Annual Percentage Rate: 5.49%
+  Payment amount:      [[MONEY|389.50]] due on the 10th                Next payment due:  [[DATE?|10/10/2026]]
+
+  Date   Description                  Payment     Principal    Interest     Late Fee    Principal Balance
+  -----  -------------------------  ----------  ----------  ----------  ----------  -----------------
+  [[DATE?|09/01]]  Beginning Balance                                                            [[MONEY|18,904.12]]
+  [[DATE?|09/10]]  PAYMENT FROM D70               [[MONEY|389.50]]      [[MONEY|301.36]]       [[MONEY|88.14]]        [[MONEY|0.00]]          [[MONEY|18,602.76]]
+  [[DATE?|09/30]]  Ending Balance                                                               [[MONEY|18,602.76]]
+
+  Interest paid year-to-date: [[MONEY|822.37]]     Payoff amount good through [[DATE?|10/15/2026]]: [[MONEY|18,646.92]] (per diem [[MONEY|2.80]])
+  GAP waiver on file: Yes          Credit life/disability: Declined          Insurance verified: [[ORGANIZATION?|Erie Insurance]]
+                                                                                      Policy [[POLICY_NUMBER|Q09-4418827]]
+
+==========================================================================================================
+VSA  PLATINUM REWARDS VISA                     Card Number XXXX XXXX XXXX [[CREDIT_CARD|2656]]
+     Cardholders: [[PERSON|RENATA M KOWALCZYK]] (primary)  [[PERSON|TOMASZ J KOWALCZYK]] (authorized user, card ending [[CREDIT_CARD|7731]])
+==========================================================================================================
+  Billing cycle [[DATE?|08/26/2026]] - [[DATE?|09/25/2026]]   Days in cycle 31   Payment due [[DATE?|10/20/2026]]
+
+  Trans  Post   Reference Number            Description                                         Amount
+  -----  -----  -------------------------   ----------------------------------------------  ----------
+  [[DATE?|09/03]]  [[DATE?|09/04]]  [[ID_NUMBER?|24431066245000181740822]]     [[ORGANIZATION?|BOSCOV'S]] #41  [[LOCATION?|ALTOONA PA]]                              [[MONEY|84.12]]
+  [[DATE?|09/07]]  [[DATE?|09/08]]  [[ID_NUMBER?|24692166249000420017361]]     [[ORGANIZATION?|LOWES]] #00591*  [[LOCATION?|ALTOONA PA]]                            [[MONEY|219.48]]
+  [[DATE?|09/13]]  [[DATE?|09/13]]  [[ID_NUMBER?|24011346256400063325519]]     [[ORGANIZATION?|STREAMBOX]]* MEMBERSHIP [[PHONE?|888-555-0136]] CA              [[MONEY|15.49]]
+  [[DATE?|09/18]]  [[DATE?|09/18]]  [[ID_NUMBER?|74431066261000003318904]]     PAYMENT - THANK YOU  FROM SHARE DRAFT                [[MONEY|-300.00]]
+  [[DATE?|09/20]]  [[DATE?|09/22]]  [[ID_NUMBER?|24164076263091001148831]]     [[ORGANIZATION?|ALTOONA REGIONAL IMAGING]]  [[LOCATION?|ALTOONA PA]]              [[MONEY|145.00]]
+  [[DATE?|09/23]]  [[DATE?|09/24]]  [[ID_NUMBER?|24431066266000171124003]]     [[ORGANIZATION?|DICK'S SPORTING GOODS]] #0712  [[LOCATION?|ALTOONA PA]]             [[MONEY|62.37]]
+  [[DATE?|09/25]]  [[DATE?|09/25]]                              INTEREST CHARGE ON PURCHASES                            [[MONEY|19.66]]
+
+  Previous Balance        [[MONEY|1,487.30]]        Credit Limit            [[MONEY|6,500.00]]
+  Payments/Credits         [[MONEY|-300.00]]        Available Credit        [[MONEY|4,766.58]]
+  Purchases                 [[MONEY|526.46]]        Minimum Payment Due        [[MONEY|35.00]]
+  Cash Advances               [[MONEY|0.00]]        Payment Due Date        [[DATE?|10/20/2026]]
+  Fees Charged                [[MONEY|0.00]]
+  Interest Charged           [[MONEY|19.66]]        Rewards points earned this cycle: 526   Points balance: 14,882
+  New Balance             [[MONEY|1,733.42]]
+
+  INTEREST CHARGE CALCULATION                       Annual Percentage   Balance Subject     Interest
+                                                    Rate (APR)          to Interest Rate    Charge
+  Purchases                                         17.99% (v)          [[MONEY|1,334.11]]            [[MONEY|19.66]]
+  Balance Transfers                                 17.99% (v)              [[MONEY|0.00]]             [[MONEY|0.00]]
+  Cash Advances                                     22.99% (v)              [[MONEY|0.00]]             [[MONEY|0.00]]
+  (v) = Variable Rate
+
+  Late Payment Warning: If we do not receive your minimum payment by the date listed above, you may have
+  to pay a late fee of up to [[MONEY|$41.00]]. Minimum Payment Warning: If you make only the minimum payment each
+  period, you will pay more in interest and it will take you longer to pay off your balance.
+
+[[PERSON|RENATA M KOWALCZYK]]                Member [[ID_NUMBER|0048817265]]                             Page 3 of 4
+--- Page 4 ---
+[[ORGANIZATION?|ALLEGHENY RIDGE FCU]]           [[PERSON|RENATA M KOWALCZYK]]          Member [[ID_NUMBER|0048817265]]            Page 4 of 4
+
+MEMBER NOTICES
+
+1. CHANGE OF ADDRESS CONFIRMATION. As you requested at the [[LOCATION?|Logan Valley Office]] on [[DATE?|09/12/2026]], we updated
+   the mailing address for Member [[ID_NUMBER|0048817265]] from [[ADDRESS|118 CRAWFORD AVE, ALTOONA PA 16602]] to the address
+   shown on page 1. Contact information on file: home [[PHONE|(814) 555-0127]], mobile [[PHONE|(814) 555-0163]],
+   e-mail [[EMAIL|renata.kowalczyk@ptd.net]]. If you did not request this change, call us immediately.
+
+2. TAX REPORTING. Dividends of [[MONEY|$10]] or more paid in 2026 will be reported to the IRS on Form 1099-INT under the
+   taxpayer identification number on file ending in [[SSN|4471]]. Mortgage and auto loan interest is not reported on
+   Form 1098 for consumer auto loans. See IRS Publication 550 for more information.
+
+3. BENEFICIARY REVIEW. Our records show a payable-on-death beneficiary only on S00 ([[PERSON|DANUTA WISNIEWSKI]], relationship:
+   mother). Members over age 70 or with minor children are encouraged to review beneficiaries annually. Youth
+   accounts (S05) pass to the minor at age 21 under PA UTMA; custodial accounts cannot name a POD beneficiary.
+
+4. DIRECT DEPOSIT. To set up payroll direct deposit to your checking, give your employer Routing Number
+   [[ROUTING_NUMBER|231399179]] and Account Number [[BANK_ACCOUNT|70048817265]] (account type: checking). Do NOT use the
+   member number with the share suffix (e.g. -D70) for ACH. Savings direct deposit uses account
+   [[BANK_ACCOUNT|10048817265]].
+
+5. RATE CHANGE. Effective [[DATE?|11/01/2026]] the dividend rate on Primary Savings changes from 0.150% to 0.200% APY.
+   Rates on Holiday Club (0.100% APY) and Youth Savings (0.250% APY on balances up to [[MONEY|$2,500.00]]) are unchanged.
+
+IN CASE OF ERRORS OR QUESTIONS ABOUT YOUR ELECTRONIC TRANSFERS (Regulation E)
+Telephone us at [[PHONE?|1-800-555-0144]] or write to us at [[ORGANIZATION?|Allegheny Ridge FCU]], Attn: Card & EFT Disputes,
+[[ADDRESS?|PO Box 2210, Altoona PA 16603-2210]], as soon as you can, if you think your statement or receipt is wrong or if
+you need more information about a transfer listed on the statement or receipt. We must hear from you no
+later than 60 days after we sent the FIRST statement on which the problem or error appeared.
+  (1) Tell us your name and account number (if any).
+  (2) Describe the error or the transfer you are unsure about, and explain as clearly as you can why you
+      believe it is an error or why you need more information.
+  (3) Tell us the dollar amount of the suspected error.
+We will investigate your complaint and will correct any error promptly. If we take more than 10 business
+days to do this, we will credit your account for the amount you think is in error, so that you will have
+the use of the money during the time it takes us to complete our investigation.
+
+BILLING RIGHTS SUMMARY (Visa)  What To Do If You Think You Find A Mistake On Your Statement: write to us at
+[[ADDRESS?|PO Box 2210, Altoona PA 16603-2210]] within 60 days. Your notice must include your name, account number, the
+dollar amount of the suspected error, and why you believe there is an error.
+
+Your savings federally insured to at least [[MONEY|$250,000]] and backed by the full faith and credit of the United
+States Government. National Credit Union Administration, a U.S. Government Agency.   ARFCU-STMT-0426 (Rev. 04/26)

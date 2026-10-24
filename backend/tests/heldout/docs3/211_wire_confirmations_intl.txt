@@ -1,0 +1,136 @@
+[[ORGANIZATION?|HUDSON PALISADES BANK]]                                     Wire Transfer Services
+[[ADDRESS?|200 River St, Hoboken, NJ 07030]]   Wire Room [[PHONE?|(201) 555-0108]]   Fax [[PHONE?|(201) 555-0109]]
+
+=========================================================================================================
+                          OUTGOING DOMESTIC WIRE -- CONFIRMATION / RECEIPT
+=========================================================================================================
+Confirmation No.     [[ID_NUMBER?|HPB-W-2026-0928-00417]]              Status         COMPLETED
+Request Date/Time    [[DATE?|09/28/2026]] 09:14:22 ET             Value Date     [[DATE?|09/28/2026]]
+Channel              Online Banking (dual-auth: SMS OTP) Released by    WRM-07 / [[PERSON?|T. Gallardo]]
+
+ORIGINATOR (Sender)
+  Name               [[PERSON|MAXIMILIAN J OSEI-BAUMGARTNER]]
+  Address            [[ADDRESS|1015 Bloomfield St Apt 4F, Hoboken NJ 07030]]
+  Debit Account      Premier Checking  [[BANK_ACCOUNT|3301 7720 4418]]
+  Phone              [[PHONE|(201) 555-0631]]
+
+BENEFICIARY
+  Name               [[PERSON|SUNITA REDDY-KALRA]]
+  Address            [[ADDRESS|88 Hamilton Ave, Unit 12, Jersey City NJ 07302]]
+  Bank               [[ORGANIZATION?|GARDEN STATE COMMUNITY BANK]], [[LOCATION?|Montclair NJ]]
+  ABA / Routing      [[ROUTING_NUMBER|028907347]]
+  Account            [[BANK_ACCOUNT|000 1188 2093 4]]
+  Amount             [[MONEY|USD 14,250.00]]           Wire fee  USD 30.00          Total debit [[MONEY|USD 14,280.00]]
+  OBI / Memo         "Security deposit + 1st mo rent -- 88 Hamilton #12 -- [[PERSON|Osei-Baumgartner]]"
+
+Fedwire Reference    IMAD [[ID_NUMBER?|20260928QMGFNP31000417]]   OMAD [[ID_NUMBER?|20260928B1QGC07C001133]]
+Online session       IP [[IP_ADDRESS|73.212.18.44]]   Device "[[DEVICE_ID|MacBook Pro (Max) - HPB-DID-8F3A22C1]]"   User [[USERNAME|max.ob.hoboken]]
+
+Wires are final once released and cannot be recalled without the beneficiary bank's cooperation. If you suspect
+fraud call [[PHONE?|(201) 555-0108]] immediately.
+                                                                                                Page 1 of 4
+
+--- Page 2 ---
+
+=========================================================================================================
+                INTERNATIONAL WIRE TRANSFER REQUEST  (Form HPB-INTL-02, rev. 03/2025)
+=========================================================================================================
+SECTION A -- SENDER (as on account)
+  Full legal name        [[PERSON|Maximilian Johannes Osei-Baumgartner]]
+  Account to debit       [[BANK_ACCOUNT|330177204418]]          Account type  Checking
+  Date of birth          [[DATE_OF_BIRTH|12/05/1987]]             Citizenship   USA / Germany (dual)
+  ID verified            U.S. Passport no. [[PASSPORT|A04418829]]  exp. [[DATE?|07/2031]]   (verified in branch by [[PERSON?|R. Vance]])
+  Occupation / employer  Senior Firmware Engineer, [[EMPLOYER|Lenape Robotics, Inc.]]
+  Daytime phone          [[PHONE|(201) 555-0631]]        Email  [[EMAIL|max.osei.b@icloud.com]]
+
+SECTION B -- BENEFICIARY
+  Beneficiary name       [[PERSON|Hildegard Baumgartner]]
+  Beneficiary address    [[ADDRESS|Lindenstrasse 14, 79098 Freiburg im Breisgau, Germany]]
+  Beneficiary phone      [[PHONE|+49 761 5550 1234]]
+  IBAN                   [[IBAN|DE41 5455 6681 7963 9756 32]]
+  Beneficiary bank       [[ORGANIZATION?|Sparkasse Breisgau-Suedschwarzwald]]   SWIFT/BIC [[SWIFT_BIC?|SKBSDE6FXXX]]
+  Bank address           [[ADDRESS?|Kaiser-Joseph-Str. 186, 79098 Freiburg]]
+  Intermediary bank      [[ORGANIZATION?|Nordic Continental Bank NY]]   SWIFT/BIC [[SWIFT_BIC?|NCBKUS33XXX]]
+
+SECTION C -- PAYMENT
+  Currency / amount      EUR 9,500.00  (debit USD at rate below)
+  Relationship           Mother
+  Purpose of payment     Family support -- contribution toward care home costs ([[ORGANIZATION?|Haus Lindenhof Pflegeheim]])
+  Source of funds        Salary / savings
+  Charges                [X] OUR (sender pays all)   [ ] SHA   [ ] BEN
+
+  Sender signature  [[SIGNATURE|M. J. Osei-Baumgartner]]              Date  [[DATE?|10/02/2026]]
+  Callback verification: [[PHONE|(201) 555-0631]] -- spoke w/ customer [[DATE?|10/02/2026]] 11:05; confirmed IBAN last 4 "[[IBAN|5632]]"
+  OFAC / sanctions screen: NO HIT (Bridger XG ref [[ID_NUMBER?|BXG-1002-44817]])
+
+                                                                                                Page 2 of 4
+
+--- Page 3 ---
+
+REMITTANCE TRANSFER RECEIPT (Regulation E, Subpart B)
+  Sender:       [[PERSON|Maximilian J. Osei-Baumgartner]], [[ADDRESS|1015 Bloomfield St Apt 4F, Hoboken NJ 07030]]
+  Recipient:    [[PERSON|Hildegard Baumgartner]], [[ADDRESS|Freiburg im Breisgau, DE]]
+  Pick-up / deposit: credited to recipient's account [[IBAN|DE41 5455 6681 7963 9756 32]]
+  Date of transfer   [[DATE?|10/02/2026]]          Date available  [[DATE?|10/05/2026]] (may be available sooner)
+  Transfer amount                                 USD 10,377.21
+  Transfer fees                                 + USD     45.00
+  Transfer taxes                                + USD      0.00
+  Total                                           USD 10,422.21
+  Exchange rate used                              USD 1.00 = EUR 0.91546
+  Transfer amount (EUR)                           EUR  9,500.00
+  Other fees (OUR -- none deducted)               EUR      0.00
+  Total to recipient                              EUR  9,500.00
+
+  You have a right to dispute errors in your transaction. If you think there is an error, contact us within 180
+  days at [[PHONE?|(201) 555-0108]] or hpb.example/wires. You can also contact us for a written explanation of your
+  rights. You can cancel for a full refund within 30 minutes of payment, unless the funds have been picked up or
+  deposited. For questions or complaints about Hudson Palisades Bank, contact the Consumer Financial Protection
+  Bureau at [[PHONE?|855-555-0119]] or www.consumerfinance.gov.
+
+SWIFT MT103 -- COPY (as transmitted)
+  {1:F01HUDPUS33AXXX0418229071}{2:I103SKBSDE6FXXXXN}{3:{121:5a1e44b7-0d3c-4f1e-9a17-77c0e1b2d418}}
+  :20:HPBINTL0417726
+  :23B:CRED
+  :32A:261002EUR9500,00
+  :33B:USD10377,21
+  :50K:/[[BANK_ACCOUNT|330177204418]]
+  [[PERSON|MAXIMILIAN J OSEI-BAUMGARTNER]]
+  [[ADDRESS|1015 BLOOMFIELD ST APT 4F]]
+  [[ADDRESS|HOBOKEN NJ 07030 US]]
+  :56A:[[SWIFT_BIC?|NCBKUS33XXX]]
+  :57A:[[SWIFT_BIC?|SKBSDE6FXXX]]
+  :59:/[[IBAN|DE41545566817963975632]]
+  [[PERSON|HILDEGARD BAUMGARTNER]]
+  [[ADDRESS|LINDENSTRASSE 14]]
+  [[ADDRESS|79098 FREIBURG IM BREISGAU DE]]
+  :70:FAMILY SUPPORT HAUS LINDENHOF
+  :71A:OUR
+  -}
+
+                                                                                                Page 3 of 4
+
+--- Page 4 ---
+
+INCOMING INTERNATIONAL WIRE -- ADVICE OF CREDIT
+  Credit to account      [[BANK_ACCOUNT|3301 7720 4418]]   [[PERSON|OSEI-BAUMGARTNER MAXIMILIAN J]]
+  Credit date            [[DATE?|10/09/2026]]        Amount  [[MONEY|GBP 6,200.00]] -> [[MONEY|USD 8,247.86]] (rate 1.33030)
+  Ordering customer      [[PERSON|PRIYA NAIDOO-FINCH]], [[ADDRESS|Flat 3, 27 Marchmont Rd, Edinburgh EH9 1HY, UK]]
+  Ordering acct (IBAN)   [[IBAN|GB27 NWBK 6581 4340 2738 54]]
+  Ordering institution   [[ORGANIZATION?|NatWest, Edinburgh Bruntsfield branch]]   BIC [[SWIFT_BIC?|NWBKGB2LXXX]]
+  Remittance info        "REPAY LOAN MAX THANKS P"
+  Our ref                [[ID_NUMBER?|HPB-IN-1009-22710]]    Incoming fee  USD 15.00
+
+SECOND OUTGOING INTERNATIONAL (non-IBAN country) -- PENDING COMPLIANCE REVIEW
+  Beneficiary            [[PERSON|Kwame Osei Mensah]] (cousin), [[ADDRESS|House No. 14, Asokwa Rd, Kumasi, Ghana]]
+  Beneficiary acct       [[BANK_ACCOUNT|1441 0088 2031 7]]   at [[ORGANIZATION?|Ashanti Commercial Bank]] SWIFT [[SWIFT_BIC?|ASCBGHACXXX]]
+  Amount                 USD 2,000.00     Purpose: school fees for [[PERSON MINOR|Akosua]] and [[PERSON MINOR|Yaw]] ([[SCHOOL|Prempeh Junior High]])
+  Hold reason            Purpose-of-payment documentation requested [[DATE?|10/10/2026]]; customer to upload fee invoice.
+  Compliance analyst     [[PERSON?|D. Ferraro]]  case [[CASE_NUMBER|AML-26-1010-0882]]
+
+ACCOUNT HOLDER NOTES (branch CRM)
+  [[DATE?|10/10/2026]] -- Customer visited the Hoboken [[INDIRECT_LOCATION|Washington St branch across from his office]]; asked
+  whether recurring EUR transfers to his mother can be automated. Advised Global Transfer Plus (form HPB-INTL-07).
+  Customer's sister [[PERSON|Annika Baumgartner]] (POA for mother) may contact us from [[PHONE|+49 170 5550 8812]]; no
+  authority on this account -- do not discuss.
+
+                                                                                                Page 4 of 4

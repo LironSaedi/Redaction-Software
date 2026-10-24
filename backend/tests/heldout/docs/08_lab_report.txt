@@ -1,0 +1,91 @@
+[[ORGANIZATION?|CAPITOL RIDGE CLINICAL LABORATORY]]                      CLIA# 45D2088174   CAP# 7219044
+[[ADDRESS?|4100 Ridgeline Pkwy]], [[ADDRESS?|Austin, TX 78731]]       Lab Director: [[PERSON|Ruth Anne Calloway]], MD, PhD
+Client Services [[PHONE|1-800-434-7733]]
+
+CUMULATIVE LABORATORY REPORT                                              Page 1 of 2
+--------------------------------------------------------------------------------
+Patient Name : [[PERSON|DELGADO-RUIZ, MARIA E]]          Patient ID (MRN): [[MRN|00847721]]
+Date of Birth: [[DATE_OF_BIRTH|04/17/1986]]   Age: [[AGE|38]]   Sex: F    Account #: [[MRN|9100234587]]
+Address      : [[ADDRESS|2209 Bluebonnet Ln]], [[ADDRESS|Austin TX 78704]]
+Phone        : [[PHONE|(512)836-2290]]
+Ordering MD  : [[PERSON|SZYMANSKI, DANIEL]]   NPI [[NPI|1839067919]]
+Location     : TRAUMA STEPDOWN 4W        Collection Dates: [[DATE|03/14/2025]] - [[DATE|03/18/2025]]
+--------------------------------------------------------------------------------
+
+HEMATOLOGY
+                        [[DATE|03/14/25]]  [[DATE|03/15/25]]  [[DATE|03/16/25]]  [[DATE|03/17/25]]  [[DATE|03/18/25]]   Units      Reference
+                        20:10     06:00     06:00     05:50     05:45
+WBC                     13.2 H    11.8 H     9.4       8.6       8.1     K/uL       4.0 - 11.0
+RBC                     3.81 L    3.22 L    3.30 L    3.41 L    3.47 L   M/uL       3.90 - 5.20
+Hemoglobin              11.4 L     9.6 L     9.9 L    10.1 L    10.3 L   g/dL       12.0 - 15.5
+Hematocrit              34.1 L    28.9 L    29.6 L    30.4 L    31.0 L   %          35.0 - 45.0
+MCV                      89.5      89.8      89.7      89.1      89.3    fL         80 - 100
+RDW                      13.1      13.4      13.6      13.8      14.0    %          11.5 - 14.5
+Platelets                 238       201       219       241       264    K/uL       150 - 400
+Neutrophils %            84.2 H    78.1 H    70.3      66.0      63.8    %          40 - 75
+Lymphocytes %            10.1 L    14.6 L    19.8 L    23.4      25.1    %          20 - 45
+
+COAGULATION
+PT                       12.8       --        --        --        --     sec        11.0 - 13.5
+INR                       1.0       --        --        --        --                0.8 - 1.2
+aPTT                     27.4       --        --        --        --     sec        25 - 35
+Fibrinogen                248       --        --        --        --     mg/dL      200 - 400
+
+CHEMISTRY
+Sodium                    139       138       140       139       141    mmol/L     135 - 145
+Potassium                 3.6       3.9       4.1       4.0       4.2    mmol/L     3.5 - 5.1
+Chloride                  104       106       105       104       104    mmol/L     98 - 107
+CO2                        21 L      23        25        26        26    mmol/L     22 - 29
+BUN                        14        11         9         8        10    mg/dL      7 - 20
+Creatinine               0.71      0.66      0.62      0.64      0.65    mg/dL      0.50 - 1.10
+eGFR (CKD-EPI 2021)      >90       >90       >90       >90       >90     mL/min
+Glucose                  162 H      118 H      97        92        94    mg/dL      70 - 99
+Calcium                   8.9       8.3 L     8.5 L     8.7       8.9    mg/dL      8.6 - 10.3
+Magnesium                  --       1.9        --        --        --    mg/dL      1.6 - 2.6
+AST                        41 H      38        29        --        --    U/L        10 - 35
+ALT                        33        30        27        --        --    U/L        7 - 35
+Lipase                     28        --        --        --        --    U/L        13 - 60
+Lactate                   2.4 H     1.1        --        --        --    mmol/L     0.5 - 2.0
+CK                        612 H      --        --        --        --    U/L        26 - 192
+TSH                        --      2.84        --        --        --    mIU/L      0.45 - 4.50
+Hemoglobin A1c             --       5.3        --        --        --    %          <5.7
+
+CUMULATIVE LABORATORY REPORT                                              Page 2 of 2
+Patient: [[PERSON|DELGADO-RUIZ, MARIA E]]   MRN: [[MRN|00847721]]   DOB: [[DATE_OF_BIRTH|04/17/1986]]
+--------------------------------------------------------------------------------
+
+URINALYSIS ([[DATE|03/14/25]] 20:22, clean catch)
+Color                    YELLOW                                     YELLOW
+Clarity                  CLEAR                                      CLEAR
+Specific gravity         1.022                                      1.005 - 1.030
+pH                       6.0                                        5.0 - 8.0
+Protein                  NEG                                        NEG
+Blood                    TRACE   A                                  NEG
+Leukocyte esterase       NEG                                        NEG
+RBC/hpf                  3-5                                        0-2
+[[SEXUAL_REPRODUCTIVE_HEALTH?|hCG, urine qual]]          [[SEXUAL_REPRODUCTIVE_HEALTH?|NEGATIVE]]                                   NEGATIVE
+
+TOXICOLOGY ([[DATE|03/14/25]] 20:10)  -- screening only, not for forensic use
+Ethanol, serum           <10                                        mg/dL   <10
+Amphetamines, urine      NEG                cutoff 1000 ng/mL
+Barbiturates             NEG                cutoff 200
+Benzodiazepines          NEG                cutoff 200
+Cannabinoids (THC)       NEG                cutoff 50
+Cocaine metabolite       NEG                cutoff 300
+Opiates                  POS  *             cutoff 300   (fentanyl/morphine given by EMS/ED)
+Fentanyl                 POS  *             cutoff 1.0   (see above)
+Oxycodone                NEG                cutoff 100
+Note: Positive opiate/fentanyl results are consistent with documented
+administration of fentanyl 100 mcg IV (EMS 18:02) and morphine 4 mg IV (ED 19:20).
+
+BLOOD BANK
+ABO/Rh                   O POSITIVE
+Antibody screen          NEGATIVE
+Specimen #               [[MRN?|BB25-073-0417]]   Expires [[DATE|03/17/2025]] 23:59
+
+--------------------------------------------------------------------------------
+H = High   L = Low   A = Abnormal   * = see comment
+Specimen IDs: [[MRN?|C25073-11842]], [[MRN?|C25074-00218]], [[MRN?|C25075-00307]], [[MRN?|C25076-00199]], [[MRN?|C25077-00244]]
+Reported by: [[PERSON|D. Vu]], MLS(ASCP)  /  [[PERSON|K. Ramaswamy]], MT     Verified [[DATE|03/18/2025]] 07:02
+Report printed [[DATE|04/02/2025]] for ROI request ROI-25-03391 (requestor: [[ORGANIZATION?|Kim & Abernathy PLLC]])
+Bates KA-MED 000061 - KA-MED 000062

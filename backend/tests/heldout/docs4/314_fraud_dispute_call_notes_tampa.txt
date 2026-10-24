@@ -1,0 +1,43 @@
+SUNCOAST HARBOR FEDERAL CREDIT UNION -- MEMBER SERVICES / CARD FRAUD
+CRM CALL NOTES (exported [[DATE?|09/24/2026]])                         Case: [[CASE_NUMBER|FRD-2026-0918-0442]]
+
+Member:        [[PERSON|Evangelina R. Castellanos]]              Member No.: [[ID_NUMBER|0081177342]]
+DOB:           [[DATE_OF_BIRTH|02/27/1941]]                          SSN (last 4): [[SSN|4418]]
+Address:       [[ADDRESS|5019 Lakeview Oaks Dr, Unit 114, Tampa, FL 33624]]
+Phone:         [[PHONE|(813) 555-0164]]
+Accounts:      Checking [[BANK_ACCOUNT|2260015520]]   Savings [[BANK_ACCOUNT|2260015538]]   Debit card ending [[CREDIT_CARD|7731]]
+
+----------------------------------------------------------------------------------------------------------------
+[[DATE|09/18/2026]] 10:14   Inbound   Agent: [[PERSON|T. Brantley]] (x3307)
+Caller is member's niece, [[PERSON|Dolores Fuentes]] ([[PHONE|(813) 555-0119]]). Member on speaker; verbally authorized niece to
+speak for her. Verified member w/ DOB + last 4 SSN. No POA on file -- advised niece to bring POA to branch.
+Niece reports 11 ATM withdrawals member does not recognize on checking ...[[BANK_ACCOUNT|5520]] between [[DATE|08/29/2026]] and [[DATE|09/16/2026]],
+total [[MONEY|$4,400.00]]. Member states she has not used her debit card since she stopped driving in June; card is kept in
+an envelope in the kitchen drawer with the PIN written on it.
+Niece suspects [[INDIRECT_ROLE|the Monday-Wednesday-Friday aide from Gentle Hands Home Care]] -- "the tall one with [[PHYSICAL_DESCRIPTOR|the
+butterfly tattoo on her neck]]." Member disagrees and thinks it may be [[INDIRECT_ROLE|her grandson's girlfriend]], who
+"borrowed" the member's car in August. Member also mentioned she gave her PIN once to [[INDIRECT_ROLE|the Sunday driver from Our
+Lady of the Rosary]] who takes her to Mass so he could get cash for her at the church festival.
+Action: card [[CREDIT_CARD|7731]] blocked 10:31. Reg E claim opened. Dispute form emailed to niece at [[EMAIL|dfuentes.tpa@outlook.com]].
+
+[[DATE|09/19/2026]] 15:02   Fraud analyst review   [[PERSON|R. Okonkwo]]
+ATM terminal data: 9 of 11 withdrawals at [[INDIRECT_LOCATION|the drive-up ATM at the Publix on Gunn Hwy and Ehrlich]];
+2 at [[INDIRECT_LOCATION|the Shell station across from Citrus Park mall]]. All between 06:40 and 07:15 -- per niece, aide's shift
+does not start until 08:00, so timing is not consistent with the aide. Requested camera stills from ATM network.
+
+[[DATE|09/22/2026]] 11:47   Fraud analyst review   [[PERSON|R. Okonkwo]]
+Stills received for [[DATE?|09/05]], [[DATE?|09/09]], [[DATE?|09/12]]. All show the same individual: [[DEMOGRAPHIC|white male]], approx. 20s, [[PHYSICAL_DESCRIPTOR|full sleeve
+tattoos on both arms]], [[PHYSICAL_DESCRIPTOR|bleached buzz cut]], wearing a green deli apron in two of the three frames. Not the aide.
+
+[[DATE|09/23/2026]] 09:20   Outbound to niece   Agent: [[PERSON|T. Brantley]]
+Described stills (did not send images per policy). Niece immediately identified the man as [[INDIRECT_ROLE|the grandson's roommate
+from the Publix deli counter]]; she believes the roommate took the card while visiting with the grandson over Labor Day.
+Niece states grandson "probably knew." Advised member may file a police report; member reluctant because "it will hurt
+my grandson." Explained Reg E liability and that a police report is not required but helps the investigation.
+
+[[DATE|09/24/2026]] 14:05   Resolution   Supervisor: [[PERSON|A. Delgado-Price]]
+Provisional credit [[MONEY|$4,400.00]] posted to checking ...[[BANK_ACCOUNT|5520]] (final pending 45-day investigation). New card ending
+[[CREDIT_CARD|0946]] mailed to address on file; member asked that it be mailed to the clubhouse instead because her mailbox at
+[[INDIRECT_LOCATION|the end unit by the retention pond]] has been opened twice -- declined, must go to address of record.
+Elder financial exploitation referral filed with Florida APS (intake [[CASE_NUMBER|APS-26-0923-7718]]). Added verbal password and
+in-person-only withdrawal flag at member's request.

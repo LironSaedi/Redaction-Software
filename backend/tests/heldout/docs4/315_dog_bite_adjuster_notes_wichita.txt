@@ -1,0 +1,38 @@
+PRAIRIE HOMESTEAD MUTUAL INSURANCE -- CLAIM FILE NOTES (LIABILITY)
+Claim #: [[CLAIM_NUMBER|PHM-HO-26-071144]]      Policy: [[POLICY_NUMBER|HO3-4418820-02]]      Date of loss: [[DATE|07/14/2026]]
+Line: Homeowners Section II -- bodily injury (dog bite)      Reserve: [[MONEY|$35,000]]
+Named insureds: [[PERSON|Gerald Hoch]] and [[PERSON|Linda Hoch]]      Risk address: [[ADDRESS|2215 N Kessler St, Wichita, KS 67204]]
+Claimant: [[PERSON|Antoine Sloan]]      DOB [[DATE_OF_BIRTH|04/30/1983]]      Atty: [[PERSON|Megan Fairbanks]], [[ORGANIZATION?|Fairbanks Injury Law]]
+Adjuster: [[PERSON|Jeff K. Ruhl]] (JKR)
+
+[[DATE|07/16/2026]] JKR -- FNOL by phone from insured [[PERSON|Linda Hoch]], [[PHONE|(316) 555-0172]]. Dog is a 4-yr-old neutered male
+pit/lab mix ("Diesel"), current on rabies. Insured states [[INDIRECT_ROLE|her 14-year-old grandson]], [[PERSON MINOR|Tyler]], was taking the
+dog out front on a leash when the dog pulled free and bit the mail carrier on the leg at the curb. Insured
+[[PERSON|Gerald Hoch]] [[PHYSICAL_DESCRIPTOR|uses a wheelchair]] since a [[MEDICAL_CONDITION|stroke]] in [[DATE?|2022]] and was inside; did not see it.
+
+[[DATE|07/18/2026]] JKR -- Recorded statement, claimant (attorney present by phone). Claimant is [[INDIRECT_ROLE|the regular letter
+carrier for the Riverside route that covers Kessler]]; 9 yrs USPS. States the dog "came off the porch already loose,"
+no leash in the boy's hand. Bitten on back of L calf, then fell on the curb and hurt his R wrist. Taken by a coworker to
+the hospital. Received sutures and a rabies series was NOT needed (dog vaccinated).
+
+[[DATE|07/22/2026]] JKR -- Scene visit. Front yard has 4-ft chain-link with a gate latch that does not catch. Canvassed
+neighbors. [[INDIRECT_ROLE|The retired Boeing machinist across the street]] saw the boy "running after the dog with the leash in
+his hand." Second neighbor declined to talk. Animal control records show one prior complaint ([[DATE?|2025]]) made by
+[[INDIRECT_ROLE|the in-home daycare provider two doors down]] -- dog loose, no bite. A prior incident is also reported with
+[[INDIRECT_ROLE|the FedEx Ground driver who covers that subdivision]] (dog jumped on him; no injury, no claim).
+
+[[DATE|08/05/2026]] JKR -- Medical records received. Claimant ED dx [[MEDICAL_CONDITION|dog bite L calf with puncture wounds]] and
+[[MEDICAL_CONDITION|R distal radius fracture, nondisplaced]]. Cast x 6 wks. Specials to date [[MONEY|$11,842.60]].
+
+[[DATE|08/19/2026]] JKR -- Photos from atty: [[PHYSICAL_DESCRIPTOR|a 9 cm crescent-shaped scar on the back of the left calf]] with
+discoloration. Lost wages claimed from USPS (OWCP handling, lien expected) and from second job -- claimant is also
+[[INDIRECT_ROLE|the weekend head groundskeeper at the McAdams Park softball complex]]; lost [[MONEY|$2,160]] there.
+Claimant has been staying at [[INDIRECT_LOCATION|his sister's place in the duplexes behind the Dillons on 21st]] since the
+injury because his own apartment is [[INDIRECT_LOCATION|the third-floor walkup over the barbershop on Hillside]].
+
+[[DATE|08/27/2026]] JKR -- Insured advises Diesel has been moved to [[INDIRECT_LOCATION|their son's farm east of Andover, the place with
+the red pole barn]]. Underwriting notified per animal liability guideline.
+
+[[DATE|09/10/2026]] JKR -- Demand received from [[ORGANIZATION?|Fairbanks Injury Law]]: [[MONEY|$65,000]]. Strict liability for known propensity
+is arguable but likely given the prior complaint. Requested authority from supervisor
+[[PERSON|D. Ortiz]] to [[MONEY|$40,000]]. Diary 10 days.

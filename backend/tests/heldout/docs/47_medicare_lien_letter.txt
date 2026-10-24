@@ -1,0 +1,83 @@
+Medicare Secondary Payer Recovery Program
+Benefits Coordination & Recovery Center (BCRC)
+[[ADDRESS?|P.O. Box 138832, Oklahoma City, OK 73113]]
+Phone: [[PHONE|1-855-798-2627]]   TTY/TDD: [[PHONE|1-855-797-2627]]
+=====================================================================================================
+                              CONDITIONAL PAYMENT LETTER
+
+Date of this letter:      [[DATE|August 18, 2025]]
+Medicare Beneficiary:     [[PERSON|ROSE M BANKS]]
+Medicare Number (MBI):    [[MEDICARE_ID|5QR7-HN2-WD84]]
+Date of Birth:            [[DATE_OF_BIRTH|02/14/1955]]
+Case ID:                  [[CASE_NUMBER|202508812441]]
+Date of Incident:         [[DATE|05/02/2025]]
+Insurance Type:           Liability
+Recovery Agent:           [[PERSON|DANIEL R WHITLOCK]], [[ORGANIZATION?|WHITLOCK INJURY LAW]]
+
+[[PERSON|DANIEL R WHITLOCK]]
+[[ORGANIZATION?|WHITLOCK INJURY LAW]]
+[[ADDRESS?|210 N LBJ DR STE 2]]
+[[ADDRESS?|SAN MARCOS TX 78666-5523]]
+
+Dear Mr. [[PERSON|Whitlock]]:
+
+The Benefits Coordination & Recovery Center (BCRC) is writing to you about Medicare's recovery of
+conditional payments related to the above-referenced case. The BCRC has identified payments that Medicare
+made conditionally for services related to the beneficiary's case. Medicare made these payments because
+we were informed that another party may be responsible for payment. The enclosed Payment Summary Form lists
+each claim that Medicare has identified as related to this case. The current total conditional payment
+amount is [[MONEY?|$38,412.17]].
+
+THIS IS NOT A DEMAND FOR REPAYMENT. This letter provides interim conditional payment information. A final
+demand will be issued after you notify the BCRC that the case has settled, by submitting the settlement
+date, total settlement amount, attorney fees, and procurement costs (42 C.F.R. § 411.37) via the MSPRP
+portal (www.cob.cms.hhs.gov/MSPRP) or by mail.
+
+If you believe any claim listed is unrelated to the incident (for example, treatment for the beneficiary's
+[[MEDICAL_CONDITION|dementia]], [[MEDICAL_CONDITION|type 2 diabetes]], or [[MEDICAL_CONDITION|chronic kidney disease]]), you may submit a dispute with supporting
+documentation. Do not send payment until you receive a demand letter. Interest accrues from the date of the
+demand letter if the debt is not repaid within 60 days. 42 U.S.C. § 1395y(b)(2)(B)(ii).
+
+To verify the beneficiary's identity, our records reflect the following beneficiary address:
+     [[ADDRESS|LOT 22, SHADY ACRES MHP, 4110 FM 150 W]]
+     [[ADDRESS|KYLE TX 78640]]
+Authorized representative on file: [[PERSON|LORRAINE BANKS-WHITAKER]] (Proof of Representation received [[DATE|06/02/2025]]).
+
+Sincerely,
+BCRC -- Recovery Team 4
+Enclosures: Payment Summary Form (2 pages); Rights and Responsibilities; Proof of Representation form
+
+PAYMENT SUMMARY FORM -- Case ID [[CASE_NUMBER|202508812441]] -- Beneficiary [[PERSON|ROSE M BANKS]] -- MBI [[MEDICARE_ID|5QR7-HN2-WD84]]
+Page 1 of 2
+-----------------------------------------------------------------------------------------------------------------
+ #   ICN / Claim No.        Provider (NPI)                                    From       Thru       Dx (ICD-10)          Total Charges   Reimbursed
+ --  ---------------------  ------------------------------------------------  ---------  ---------  -------------------  --------------  -----------
+ 1   [[CLAIM_NUMBER?|21125122018840]]         [[ORGANIZATION?|HAYS CO ESD #4]] EMS ([[NPI?|1699833970]])                       [[DATE|05/02/25]]   [[DATE|05/02/25]]   S72.142A, W19.XXXA   [[MONEY?|$1,940.00]]       [[MONEY?|$612.80]]
+ 2   [[CLAIM_NUMBER?|22125124004417]]         [[ORGANIZATION?|HAYS REGIONAL MED CTR]] ([[NPI?|2260007051]])                   [[DATE|05/02/25]]   [[DATE|05/07/25]]   S72.142A, F03.90     [[MONEY?|$96,880.12]]      [[MONEY?|$21,418.40]]
+ 3   [[CLAIM_NUMBER?|21125130112093]]         [[PERSON|OYELARAN BABAJIDE]] MD ([[NPI|2148970710]])                     [[DATE|05/03/25]]   [[DATE|05/03/25]]   S72.142A             [[MONEY?|$6,750.00]]       [[MONEY?|$1,688.12]]
+ 4   [[CLAIM_NUMBER?|21125130112094]]         [[PERSON|MONTEMAYOR ALEJANDRA]] MD ([[NPI|1481075699]])                  [[DATE|05/02/25]]   [[DATE|05/02/25]]   S72.142A, S00.03XA   [[MONEY?|$612.00]]         [[MONEY?|$98.34]]
+ 5   [[CLAIM_NUMBER?|21125131008812]]         [[ORGANIZATION?|CAPITOL ANESTHESIA GROUP]] ([[NPI?|1072003175]])                [[DATE|05/03/25]]   [[DATE|05/03/25]]   S72.142A             [[MONEY?|$3,120.00]]       [[MONEY?|$544.07]]
+ 6   [[CLAIM_NUMBER?|22125152001120]]         [[ORGANIZATION?|GREEN OAKS SKILLED NURSING & REHAB]] ([[NPI?|1671234312]])      [[DATE|05/07/25]]   [[DATE|06/18/25]]   S72.142D, F03.90     [[MONEY?|$41,296.00]]      [[MONEY?|$12,866.20]]
+ 7   [[CLAIM_NUMBER?|21125183009917]]         [[ORGANIZATION?|ACCESS HOME HEALTH OF CENTRAL TX]] ([[NPI?|2533314789]])        [[DATE|06/19/25]]   [[DATE|07/31/25]]   S72.142D             [[MONEY?|$4,410.00]]       [[MONEY?|$1,013.66]]
+ 8   [[CLAIM_NUMBER?|21125190004471]]         [[ORGANIZATION?|HILL COUNTRY ORTHO & SPINE]] ([[NPI?|2873331138]])               [[DATE|06/12/25]]   [[DATE|06/12/25]]   S72.142D             [[MONEY?|$385.00]]         [[MONEY?|$102.18]]
+ 9   [[CLAIM_NUMBER?|21125201118820]]         [[INDIRECT_LOCATION|WALGREENS #11820]] (Part D -- excluded; see note)           --         --         --                   --              --
+-----------------------------------------------------------------------------------------------------------------
+                                                                                        TOTAL CONDITIONAL PAYMENTS:  [[MONEY?|$38,412.17]]
+                                                                                        (Part A [[MONEY?|$34,284.60]]; Part B [[MONEY?|$4,127.57]])
+
+Notes:
+ - Line 2 includes inpatient DRG 481 (hip & femur procedures except major joint w/ CC). Secondary diagnosis
+   F03.90 ([[MEDICAL_CONDITION|unspecified dementia]]) is listed for severity; the stay is related to the incident.
+ - Line 6 (SNF) -- 42 covered days; beneficiary coinsurance days 21-42 billed to Medigap ([[ORGANIZATION?|AARP]]/[[ORGANIZATION?|UHC]]
+   Plan G, member [[HEALTH_PLAN_ID|38841920711]]) -- Medigap payments are NOT included in Medicare's recovery.
+ - Part D prescription drug claims are not included in this summary. If a Part D plan paid for incident-
+   related drugs, that plan may assert its own recovery right.
+ - Claims for dates of service [[DATE|07/14/2025]] ([[ORGANIZATION?|Kyle Family Medicine]] -- E11.65 [[MEDICAL_CONDITION|diabetes with hyperglycemia]])
+   and [[DATE|07/22/2025]] ([[ORGANIZATION?|Memory Care Associates]] -- G30.9 [[MEDICAL_CONDITION|Alzheimer's disease]]) were reviewed and EXCLUDED
+   as unrelated.
+
+-----------------------------------------------------------------------------------------------------------------
+Attorney's handwritten notes on copy (scanned, [[DATE|08/21/2025]]):
+  "Dispute line 9 -- not ours. Ask [[PERSON|Lorraine]] re: Medigap EOBs. [[PERSON|Rose]]'s [[MEDICAL_CONDITION|dementia dx predates fall]] -- line 2 sec. dx
+   fine. Settlement w/ Dollar General carrier ([[ORGANIZATION?|Sedgwick]] clm [[CLAIM_NUMBER|30225118804471-0001]]) -- policy [[MONEY?|$1M]]; offer
+   [[MONEY?|$165K]] on table. Procurement cost reduction -> 33.3% + costs [[MONEY?|$4,180]]. -- [[PERSON?|DRW]]"

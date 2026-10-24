@@ -1,0 +1,61 @@
+FLATBUSH COMMUNITY BEHAVIORAL HEALTH -- ADULT OUTPATIENT
+PSYCHIATRIC INTAKE EVALUATION
+
+Patient: [[PERSON|Nadège Pierre-Louis]]      DOB: [[DATE_OF_BIRTH|08/14/1996]]      Age: [[AGE|30]]      MRN: [[MRN|FCBH-221874]]
+Date of evaluation: [[DATE|10/13/2026]]      Evaluator: [[PERSON|Aaron Feldstein]], MD (PGY-4)      Attending: [[PERSON|Leticia Osei]], MD
+Insurance: [[ORGANIZATION?|Fidelis Care]] Medicaid, member ID [[HEALTH_PLAN_ID|FC77104523]]
+Language: English and Haitian Creole; patient declined interpreter.
+Referral: ED discharge follow-up (seen [[DATE|10/09/2026]] for passive suicidal ideation; not admitted).
+
+CHIEF COMPLAINT
+"I can't sleep. Every time the elevator stops on my floor I think it's him."
+
+HISTORY OF PRESENT ILLNESS
+Ms. [[PERSON|Pierre-Louis]] is a [[DEMOGRAPHIC|30-year-old Haitian-American woman]] who works as [[INDIRECT_ROLE|the overnight cashier at the Key Food on
+Nostrand by the Newkirk station]]. She describes six weeks of insomnia, nightmares, startle, and low mood following an
+incident in early September in which [[INDIRECT_ROLE|the super of her building on Rogers Avenue]] followed her into
+[[INDIRECT_LOCATION?|the basement laundry room]], blocked the door, and grabbed her. She got away and did not report it to police
+because "he has the keys to every apartment." Since then she avoids the laundry room, does laundry at [[INDIRECT_LOCATION|the 24-hour laundromat next to the bodega on Clarkson]],
+and sleeps with a chair under the doorknob. She reports passive death wishes ("sometimes I wish I wouldn't wake up")
+without plan or intent; she cites [[INDIRECT_ROLE|her 6-year-old daughter]] as her main reason for living.
+
+PAST PSYCHIATRIC HISTORY
+[[MENTAL_HEALTH|Major depressive disorder]] diagnosed [[DATE?|2016]]. One psychiatric admission ([[DATE|2019]]) after an overdose of
+acetaminophen. History of cutting from age 14 to 22; on exam she has [[PHYSICAL_DESCRIPTOR|multiple healed linear scars on the
+left inner forearm]]. No cutting since [[DATE?|2018]]. Previously treated with [[MEDICATION|fluoxetine]], which she stopped in [[DATE?|2022]].
+
+SUBSTANCE USE
+[[SUBSTANCE_USE|Drinks two to three beers nightly after her shift]], up from "a few on weekends." Denies cannabis or other drugs.
+Nicotine: none.
+
+SOCIAL HISTORY
+Lives with her daughter, [[PERSON MINOR|Esther]], and [[INDIRECT_ROLE|her aunt, a home attendant who works double shifts in Canarsie]]. Daughter
+attends first grade at [[SCHOOL|P.S. 139]]. Daughter's father is [[INDIRECT_ROLE|a corrections officer on the night tour at the
+Brooklyn House of Detention]]; they separated in [[DATE?|2021]] and he pays support irregularly. Patient attends [[INDIRECT_LOCATION|the
+Saturday evening Creole service at Église Baptiste Shalom on Church Avenue]] and is close to [[INDIRECT_ROLE|the youth choir
+director there]], who is the only person she has told about the incident. Completed one year at a CUNY college.
+
+MENTAL STATUS EXAMINATION
+Appearance: thin woman appearing stated age, with [[PHYSICAL_DESCRIPTOR|short bleached-blond locs]], [[PHYSICAL_DESCRIPTOR|a septum ring]], and
+[[PHYSICAL_DESCRIPTOR|a small heart tattoo below the left ear]]; dressed in work uniform. Behavior: cooperative, good eye contact,
+startles once at a door closing. Speech: normal rate, soft. Mood: "tired and scared." Affect: anxious, constricted,
+tearful at times. Thought process: linear. Thought content: passive SI as above; no HI; no psychotic content.
+Cognition: alert, oriented x4. Insight: good. Judgment: fair.
+
+RISK ASSESSMENT
+Chronic risk elevated (prior attempt, prior self-harm, depression, alcohol). Acute risk judged low-moderate: no plan,
+no intent, future-oriented, strong protective factor (daughter), engaged in care. No firearms in home.
+
+DIAGNOSES
+[[MENTAL_HEALTH|Posttraumatic stress disorder]]; [[MENTAL_HEALTH|major depressive disorder, recurrent, moderate]]; [[SUBSTANCE_USE|alcohol use, hazardous]].
+
+PLAN
+1. Start [[MEDICATION|sertraline 50 mg daily]]; [[MEDICATION|prazosin 1 mg at bedtime]] for nightmares, titrate.
+2. Weekly trauma-focused therapy with [[PERSON|Joelle Baptiste]], LCSW.
+3. Safety plan completed. For the next week the patient and her daughter will stay at [[INDIRECT_LOCATION|her cousin's apartment
+   above the botanica on Flatbush near Clarkson]]. Crisis numbers given (988).
+4. Discussed reporting options; patient will consider a police report and a complaint to the building's management
+   company. Provided legal services referral.
+5. Return in 2 weeks.
+
+[[PERSON|A. Feldstein]], MD / reviewed and agree, [[PERSON|L. Osei]], MD

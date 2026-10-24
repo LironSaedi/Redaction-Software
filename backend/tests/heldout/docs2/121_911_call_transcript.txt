@@ -1,0 +1,86 @@
+BALTIMORE CITY EMERGENCY COMMUNICATIONS -- 911 CALL TRANSCRIPT
+Prepared for: Office of the Public Defender, MPIA/subpoena response   Request # [[CASE_NUMBER|MPIA-26-04418]]
+
+CAD Incident #:   [[LAW_ENFORCEMENT_ID|P261103-0218]]         Call date: [[DATE|11/03/2026]]        Call start: 02:17:41
+Nature:           MEDICAL -- UNCONSCIOUS / NOT BREATHING (MPDS 9-E-1) -> OVERDOSE (23-D-1)
+ANI (caller #):   [[PHONE|(443) 509-1182]]      Carrier: T-Mobile (wireless Phase II)
+ALI:              [[ADDRESS|3109 N. CALVERT ST]] -- [[INDIRECT_LOCATION|WYMAN PARK TERRACE APTS]]   Unc. radius 14 m
+Lat/Long:         [[GPS|39.32418, -76.61902]]
+Call-taker:       [[PERSON|T. Okonkwo-Barnes]], Pos. 14, ID [[ID_NUMBER|ECD-2271]]
+Units:            Medic 15, Engine 31, BPD 512 (Ofc. [[PERSON|M. Szczepanski]] #[[LAW_ENFORCEMENT_ID|H4417]])
+Audio file:       [[ID_NUMBER?|ECD_20261103_021741_P14.wav]]   (duration 00:11:52)
+
+Speakers: CT = call-taker; C1 = caller; C2 = second voice in background
+-------------------------------------------------------------------------------------------------
+[00:00]  CT:  Baltimore City 911, what is the address of your emergency?
+[00:03]  C1:  [[ADDRESS|Three-one-oh-nine North Calvert, apartment 4F]], [[INDIRECT_LOCATION?|4F]], please, he's not breathing.
+[00:07]  CT:  [[ADDRESS|3109 North Calvert Street, apartment 4F]]?
+[00:09]  C1:  Yes. [[INDIRECT_LOCATION|The Wyman Park Terrace, the building with the green awning]]. The front door's
+              locked, the code is [[PASSWORD|1-9-7-4 star]].
+[00:15]  CT:  Okay, I'm sending help. What's the phone number you're calling from?
+[00:18]  C1:  [[PHONE|443-509-1182]].
+[00:20]  CT:  Tell me exactly what happened.
+[00:22]  C1:  My roommate, he's on the bathroom floor, he's blue, he -- I think he took something.
+              [[PERSON|Devon]]! [[PERSON|Devon]], wake up!
+[00:28]  CT:  How old is he?
+[00:29]  C1:  He's [[AGE|twenty-nine]]. [[PERSON|Devon Tsai-Whitaker]].
+[00:32]  CT:  Is he awake at all?
+[00:33]  C1:  No. His lips are purple. He's making like a snoring sound.
+[00:37]  CT:  Is he breathing normally?
+[00:39]  C1:  No, it's like every -- like gasping.
+[00:41]  CT:  Okay. Do you know what he took?
+[00:43]  C1:  [[SUBSTANCE_USE|He's been clean like eight months, he was on the methadone]] at [[INDIRECT_LOCATION|the clinic on
+              Greenmount by the Royal Farms]]. But there's a baggie here, I think it's [[SUBSTANCE_USE|fentanyl]], and
+              [[SUBSTANCE_USE|his Xanax bottle is out]].
+[00:52]  CT:  Is there any Narcan in the apartment?
+[00:54]  C1:  Yes! Yes, he has the kit from the clinic.
+[00:56]  CT:  Get it now. Is anyone else with you?
+[00:58]  C1:  My girlfriend. [[PERSON|Keisha]]! Get the Narcan, it's in his backpack, the black Under Armour
+              one -- [[PERSON|Keisha]] works at the hospital, she knows --
+[01:04]  C2:  [inaudible] -- got it.
+[01:06]  CT:  Okay, peel the package, put the tip in one nostril and press the plunger all the way.
+[01:12]  C2:  It's in. I did it.
+[01:14]  CT:  Good. Now get him flat on his back on the floor. What's your name, ma'am?
+[01:17]  C2:  [[PERSON|Keisha Arrington]]. I'm [[INDIRECT_ROLE|a unit clerk on the night shift in the Hopkins ED]], not a nurse.
+[01:21]  CT:  Okay [[PERSON|Keisha]]. And the caller, sir, your name?
+[01:23]  C1:  [[PERSON|Ezequiel]]. [[PERSON|Ezequiel Fonseca-Lima]].
+[01:26]  CT:  [[PERSON|Ezequiel]], I'm going to tell you how to do chest compressions. Is he on his back?
+[01:29]  C1:  Yeah.
+[01:30]  CT:  Put the heel of your hand in the center of his chest, right between the nipples...
+              [CT provides CPR instructions; caller counts compressions 01:30 - 03:58]
+[04:01]  C2:  He moved! His arm moved!
+[04:03]  CT:  Is he breathing now?
+[04:05]  C1:  He's -- yes, he's breathing, he's coughing. [[PERSON|Dev]], [[PERSON|Dev]], stay with me.
+[04:10]  CT:  Okay, stop compressions. Turn him on his side. Don't give him anything to eat or drink.
+[04:16]  C1:  He's got a seizure thing too, he has [[MEDICAL_CONDITION|epilepsy]], he takes [[MEDICATION|Keppra]]. Should I --
+[04:20]  CT:  Keep him on his side. Does he have any other medical problems?
+[04:23]  C1:  [[MEDICAL_CONDITION|Hep C]], I think. And he's [[MENTAL_HEALTH|bipolar]], he gets the shot every month.
+[04:28]  CT:  Okay. The medics are about two minutes out. Is the dog put away?
+[04:31]  C1:  How did you -- yeah, there's a dog, she's in my room.
+[04:34]  CT:  Is there anyone who can go down and let them in?
+[04:36]  C2:  I'll go down. I'm wearing [[PHYSICAL_DESCRIPTOR|the pink scrubs, I've got braids]].
+[04:40]  CT:  What does your roommate look like, so the officer knows who he's looking for?
+[04:43]  C1:  [[PHYSICAL_DESCRIPTOR|He's like six foot, skinny, he has a beard and a big tattoo of a koi fish on his left
+              arm, and he has a scar on his chin]]. He's wearing gray sweatpants.
+[04:51]  CT:  Does he have any weapons in the apartment?
+[04:53]  C1:  No. No.
+[04:55]  CT:  Does he have family I should note?
+[04:57]  C1:  His mom, Mrs. [[PERSON|Whitaker]] -- [[PERSON|Linda]]. She lives in [[LOCATION?|Towson]]. Her number's in his phone, it's
+              locked, his code is -- I think it's [[PASSWORD|082497]], his birthday.
+[05:07]  CT:  That's okay, the hospital will get that. I'm staying on the line until the medics are with you.
+...      [05:10 - 07:44 caller reassurance; patient vomiting, breathing spontaneously]
+[07:46]  C2:  They're here, they're coming up.
+[07:49]  CT:  Okay. Medic 15 is at the door. I'm going to disconnect now.
+[07:52]  C1:  Thank you, thank you.
+-------------------------------------------------------------------------------------------------
+CAD NARRATIVE (selected)
+02:18:12  [[PERSON|TOB]] CALLER ADVSD PT [[AGE?|29YOM]] UNC NOT BREATHING, POSS FENTANYL. NARCAN ADMIN BY BYSTANDER 02:18:55
+02:21:47  M15 ENRT. E31 ONSCN 02:24:10. FD GATE CODE [[PASSWORD|1974*]]
+02:25:33  BPD 512 ONSCN. PT BREATHING, GCS 10. 2ND NARCAN 4MG BY E31.
+02:38:04  M15 TRANSPORTING PRIORITY 2 TO [[ORGANIZATION?|JOHNS HOPKINS HOSP]] ED. PT ID'D AS [[PERSON|TSAI-WHITAKER, DEVON M]]
+          DOB [[DATE_OF_BIRTH|08/24/1997]]. ePCR [[MRN|BCFD-26-1103-0471]].
+02:41:20  BPD 512: NO CRIMINAL ACTION (MD Good Samaritan law, CJP 1-210). Paraphernalia photographed only.
+02:52:11  CLOSED.
+-------------------------------------------------------------------------------------------------
+Certified true and accurate copy of recording and CAD record.  [[PERSON|R. Adeyemi-Coles]], Records Custodian,
+Baltimore City Emergency Communications, [[DATE|11/20/2026]].   Contains health information -- release limited.

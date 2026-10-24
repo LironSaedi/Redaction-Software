@@ -1,0 +1,98 @@
+PRIVILEGED & CONFIDENTIAL -- ATTORNEY-CLIENT COMMUNICATION / ATTORNEY WORK PRODUCT
+Exported from Clio Manage -- Matter [[CASE_NUMBER|2025-0418-PI]] [[PERSON|Ferreira-Doyle]], A. v. [[PERSON|Hollingsworth]] -- exported [[DATE|10/06/2026]]
+
+-----------------------------------------------------------------------------------------------
+From:     [[PERSON|Margaret Oyelaran-Pruitt]] <[[EMAIL|moyelaran@pruitthaskins.com]]>
+To:       [[PERSON|Ana Lucía Ferreira-Doyle]] <[[EMAIL|analu.ferreira@gmail.com]]>
+Cc:       [[PERSON|Destiny Albright]] <[[EMAIL|dalbright@pruitthaskins.com]]>
+Date:     Mon, [[DATE|5 Oct 2026]] 16:42:09 -0500
+Subject:  RE: RE: Offer from Volunteer Mutual -- please read before our call
+
+[[PERSON|Ana]],
+
+Thank you for sending the updated pharmacy receipts and the letter from your manager. Quick summary
+before we talk Wednesday:
+
+1. Volunteer Mutual (insurer for [[PERSON|Clayton Hollingsworth]], the driver who ran the light at
+   [[INDIRECT_LOCATION?|Nolensville Pike and Harding Place]]) has raised its offer from [[MONEY?|$62,500]] to [[MONEY?|$95,000]] on claim
+   [[CLAIM_NUMBER|VM-26-0388174]]. His policy limit is [[MONEY?|$100,000]] (policy [[POLICY_NUMBER|TNA-4471902-11]]).
+2. Your underinsured motorist coverage with Tennessee Farmers ([[POLICY_NUMBER|TF 88-201-6634]]) adds up to
+   [[MONEY?|$50,000]]. We have sent the required notice.
+3. Liens: BlueCross BlueShield of Tennessee (your plan through [[PERSON|Rafael]]'s former employer, member
+   ID [[HEALTH_PLAN_ID|ZXP901446128]]) asserts [[FINANCIAL_INFO|$38,412.66]]. Vanderbilt's hospital lien is [[FINANCIAL_INFO|$11,980.00]]. I expect
+   to negotiate both down.
+4. Dr. [[PERSON|Ravindran]]'s office confirmed the second epidural (for the [[MEDICAL_CONDITION|L5-S1 herniation]]) is scheduled
+   [[DATE|October 22]]. If he recommends the [[MEDICAL_CONDITION?|microdiscectomy]], we should not settle yet.
+
+I know money is tight with [[PERSON|Rafael]] out of work. Please don't feel pressured by the adjuster's
+"offer expires" language. Call me at [[PHONE|615-742-3381]] (direct) if anything comes up.
+
+[[PERSON|Meg]]
+
+[[PERSON|Margaret "Meg" Oyelaran-Pruitt]] | Partner
+[[ORGANIZATION?|PRUITT HASKINS INJURY LAW, PLLC]] | [[ADDRESS?|211 Commerce Street, Suite 900]], [[ADDRESS?|Nashville, TN 37201]]
+Main [[PHONE|(615) 742-3300]] | Fax [[PHONE|(615) 742-3399]]
+
+-----------------------------------------------------------------------------------------------
+From:     [[PERSON|Ana Lucía Ferreira-Doyle]] <[[EMAIL|analu.ferreira@gmail.com]]>
+To:       [[PERSON|Margaret Oyelaran-Pruitt]] <[[EMAIL|moyelaran@pruitthaskins.com]]>
+Date:     Sun, [[DATE|4 Oct 2026]] 22:17:51 -0500
+Subject:  RE: Offer from Volunteer Mutual -- please read before our call
+Attachments: CVS_receipts_Sept.pdf; Letter_from_[[PERSON?|Gina]].pdf; IMG_3318.jpg
+
+Hi [[PERSON|Meg]],
+
+Sorry this is so late, the kids just went down. Attached are the receipts from [[INDIRECT_LOCATION|the CVS on
+Nolensville by the Kroger]] for the [[MEDICATION|gabapentin]] and [[MEDICATION|cyclobenzaprine]], and the [[MEDICATION|sertraline]] Dr.
+[[PERSON|Abernathy]] started me on in August because [[MENTAL_HEALTH|I wasn't sleeping and kept having panic attacks
+driving past Harding]]. I hope it's ok that's in there, I don't really want that out there.
+
+The letter is from my manager [[PERSON|Gina Castellano]] at [[EMPLOYER|Cumberland Dental Lab]]. It says I went from
+40 hours to 24 since the wreck because I can't sit at the bench more than 2 hours. [[FINANCIAL_INFO|I was making
+$23.50 an hour so that's about $376 less a week]].
+
+About the money -- honestly, we need it soon. [[PERSON|Rafael]] got laid off from [[EMPLOYER|Opry Mills Mechanical]] in
+August and his unemployment ends in November. [[FINANCIAL_INFO|We're two months behind on the mortgage (about
+$4,200) and the Capital One card is maxed at $9,800]]. And [[PERSON MINOR|Sofia]] needs her [[MEDICAL_CONDITION|tonsils out]] in
+December.
+
+Can the settlement go straight into our checking so it doesn't sit? It's Pinnacle, routing
+[[ROUTING_NUMBER|064008637]], account [[BANK_ACCOUNT|1104471893]]. (Or should I come sign something?)
+
+Also -- the adjuster, Mr. [[PERSON|Teague]], called me directly on my cell [[PHONE|(615) 509-2287]] Friday and
+asked if I was "still doing my Zumba." I haven't been back to [[INDIRECT_LOCATION|the class at the Edmondson Pike
+YMCA]] since March. Is he allowed to call me?? I think someone told him about my Instagram ([[USERNAME|@analu.smiles]]).
+I made it private.
+
+One more thing, [[PERSON MINOR|Mateo]] ([[AGE|8]]) has been having [[MENTAL_HEALTH|nightmares since the crash too]]; his counselor
+at [[SCHOOL|Glencliff Elementary]], Mr. [[PERSON|Okafor]], said he should see someone. Does that go in the claim? He was
+in the back seat.
+
+Thank you for everything,
+[[PERSON|Ana]]
+[[PHONE|(615) 509-2287]]
+[[ADDRESS|5129 Packard Drive]], [[ADDRESS|Nashville, TN 37211]]
+
+-----------------------------------------------------------------------------------------------
+From:     [[PERSON|Destiny Albright]] <[[EMAIL|dalbright@pruitthaskins.com]]>
+To:       [[PERSON|Margaret Oyelaran-Pruitt]] <[[EMAIL|moyelaran@pruitthaskins.com]]>
+Date:     Mon, [[DATE|5 Oct 2026]] 09:03:12 -0500
+Subject:  FW: RE: Offer from Volunteer Mutual -- INTERNAL
+
+[[PERSON|Meg]] -- FYI before you respond:
+- Do NOT put [[PERSON|Ana]]'s bank info in the file notes; I moved it to the secure vault (trust disbursement
+  form). Our IOLTA can't direct-deposit; check or wire after release is signed and liens resolved.
+- [[PERSON|Teague]]'s direct contact = Rule 4.2 issue. Draft letter in the folder.
+- [[PERSON|Ana]]'s DOB [[DATE_OF_BIRTH|02/14/1989]], SSN on file ends [[SSN|6610]] -- needed for the Medicare query (she's not
+  a beneficiary but carrier asks). TennCare: none.
+- Medical specials to date: [[FINANCIAL_INFO|$71,906.43]] (Vanderbilt ED, Dr. [[PERSON|Ravindran]], [[ORGANIZATION?|Music City PT]], imaging).
+- [[PERSON MINOR|Mateo]]'s school counselor info for a possible minor claim (court approval needed under T.C.A.
+  34-1-121 if we settle for him): [[PERSON|Chidi Okafor]], [[PHONE|(615) 333-5016]].
+- Police report [[LAW_ENFORCEMENT_ID|MNPD 2026-0217733]]; [[PERSON|Hollingsworth]] cited for red light + [[CRIMINAL_HISTORY|prior DUI 2023 per
+  driving record]].
+
+[[PERSON|Destiny Albright]] | Senior Paralegal | ext. 3312
+
+-----------------------------------------------------------------------------------------------
+CONFIDENTIALITY: This message may contain privileged attorney-client communications. If you
+received it in error, notify the sender and delete it.

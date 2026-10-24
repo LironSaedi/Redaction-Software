@@ -1,0 +1,158 @@
+[[ORGANIZATION?|MERIDIAN FORENSIC ACCOUNTING GROUP, P.A.]]
+[[ADDRESS?|501 E Kennedy Blvd, Suite 1400, Tampa, FL 33602]]  |  [[PHONE?|(813) 555-0175]]
+
+PRIVILEGED AND CONFIDENTIAL -- PREPARED AT THE REQUEST OF COUNSEL IN ANTICIPATION OF LITIGATION
+ATTORNEY WORK PRODUCT -- FLA. STAT. 90.502 / FLA. FAM. L. R. P. 12.285
+
+MEMORANDUM
+
+TO:       [[PERSON?|Cynthia A. Bellweather, Esq.]], [[ORGANIZATION?|Bellweather Family Law]], counsel for Wife
+FROM:     [[PERSON?|Rohan T. Mistry, CPA/CFF, CFE]]
+DATE:     [[DATE?|October 16, 2026]]
+RE:       In re the Marriage of [[PERSON|Danielle R. Hollis]] and [[PERSON|Garrett M. Hollis]]
+          Circuit Court, Thirteenth Judicial Circuit, Hillsborough County, Case No. [[CASE_NUMBER|2025-DR-011874]]
+          Interim report -- tracing of marital funds, Jan. 2024 through Aug. 2026
+
+1. ENGAGEMENT AND SCOPE
+
+We were retained on [[DATE?|June 2, 2026]] to trace marital funds and identify assets not disclosed on Husband's
+Financial Affidavit (Form 12.902(c)) sworn [[DATE?|April 30, 2026]]. We reviewed bank and brokerage statements
+produced by both parties and by third parties under subpoena (Bates HOLLIS-000001 through HOLLIS-004418),
+corporate records for [[EMPLOYER|Hollis Comfort Air, Inc.]] (Husband's HVAC company, an S corporation, EIN
+[[EIN|59-3318204]]), Florida Division of Corporations filings, and blockchain data. Our work is ongoing; this memo is
+not an opinion on value and should not be filed without our final report.
+
+2. SUMMARY OF FINDINGS
+
+  (a) $187,450 moved from marital accounts to an undisclosed entity, [[ORGANIZATION?|Bluewater Strand Holdings, LLC]];
+  (b) $41,326 in identifiable expenditures for the benefit of a third party, [[PERSON|Brianna L. Castellucci]];
+  (c) approximately 2.41 BTC and 18.6 ETH withdrawn to self-custody wallets that do not appear on the affidavit;
+  (d) a change of beneficiary on a $1,000,000 term-life policy that appears to violate the Standing Temporary
+      Domestic Relations Order entered [[DATE?|September 15, 2025]].
+
+3. ACCOUNTS IDENTIFIED
+
+  Ref  Institution / titling                              Account no.                   Discl.      Balance
+  A-1  [[ORGANIZATION?|Bayshore National Bank]] -- joint checking           [[BANK_ACCOUNT|0029-4471-63]]                  Yes         [[MONEY|$12,880]]
+  A-2  [[ORGANIZATION?|Bayshore National Bank]] -- joint savings            [[BANK_ACCOUNT|0029-4471-71]]                  Yes         [[MONEY|$4,102]]
+  B-1  [[ORGANIZATION?|Gulf Harbor Bank]] -- Hollis Comfort Air operating   [[BANK_ACCOUNT|8800172264]]                    Yes (co.)   [[MONEY|$66,415]]
+  C-1  [[ORGANIZATION?|Coastal Ledger Bank]] -- Bluewater Strand Holdings   [[BANK_ACCOUNT|3017750219]]                    NO          [[MONEY|$93,770]]
+  D-1  [[ORGANIZATION?|Coinbase]] -- individual (Husband)                   user [[USERNAME|g.hollis.hvac@gmail.com]]  NO          [[MONEY|$3,915]]
+  E-1  Self-custody BTC wallet                            see Sec. 6                    NO          [[MONEY|~$151,000]]
+  E-2  Self-custody ETH wallet                            see Sec. 6                    NO          [[MONEY|~$58,000]]
+  F-1  [[ORGANIZATION?|Fidelity]] Rollover IRA (Husband)                    [[BANK_ACCOUNT|Z71-804418]]                    Yes         [[MONEY|$212,660]]
+
+                                                                                                    Page 1 of 5
+
+--- Page 2 ---
+
+4. BLUEWATER STRAND HOLDINGS, LLC
+
+Florida Sunbiz records show that [[ORGANIZATION?|Bluewater Strand Holdings, LLC]] (document no. [[ID_NUMBER?|L25000088147]]) was
+organized on [[DATE?|February 11, 2025]] -- nine days after Wife first consulted counsel -- with a principal address of
+[[ADDRESS|4100 Harbour Point Dr, Unit 1207, Tampa, FL 33602]]. The sole authorized member is listed as "[[PERSON|G. M.
+Hollis]]," and the registered agent is [[ORGANIZATION?|Sunshine Registered Agents, Inc.]] The LLC obtained EIN [[EIN|99-1182047]] on
+[[DATE?|February 13, 2025]] (IRS Form SS-4 produced at HOLLIS-003302 lists the responsible party's SSN as
+XXX-XX-[[SSN|6158]], which matches Husband's).
+
+The LLC's only bank account, C-1 at Coastal Ledger Bank, was opened online on [[DATE?|February 20, 2025]] from IP address
+[[IP_ADDRESS|172.58.114.230]] (a mobile carrier address) using Husband's Florida driver license, [[DRIVERS_LICENSE|H412-718-79-204-0]].
+Between [[DATE?|March 2025]] and [[DATE?|July 2026]] the account received 23 transfers totaling $187,450:
+
+  - 14 ACH transfers from B-1 (the HVAC operating account) coded in the company's QuickBooks as "Subcontractor --
+    Bluewater" and "Equipment lease -- Bluewater," totaling $132,800. We found no evidence that Bluewater performed
+    any HVAC work or owns any equipment; Hollis Comfort Air's 2025 Form 1120-S deducted these amounts.
+  - 6 online transfers from joint checking A-1 (memo "BW") totaling $38,650.
+  - 3 cash deposits at Coastal Ledger's [[INDIRECT_LOCATION|Channelside branch two blocks from the Harbour Point condo]], each
+    $5,000-$5,500, structured below the $10,000 CTR threshold ([[DATE?|04/03/2025]], [[DATE?|04/07/2025]], [[DATE?|04/10/2025]]).
+
+Outflows from C-1 include $4,350 per month to [[ORGANIZATION?|Harbour Point Residences HOA / Lessor]] for Unit 1207 (the lease
+is in the LLC's name; occupant listed on the move-in form is [[PERSON|Brianna Castellucci]]), $1,912.47 per month to
+[[ORGANIZATION?|Porsche Financial Services]] (contract [[BANK_ACCOUNT|PFS-2025-0418877]]) for a [[VEHICLE_DESCRIPTION|2025 Porsche Macan 4, Gentian
+Blue]], VIN [[VIN|WP1AA2A50SLB41187]], registered to the LLC and garaged at the Harbour Point address (Florida tag
+[[LICENSE_PLATE|BWS-H12]]), and two wires to Coinbase account D-1 ($20,000 and $15,000).
+
+                                                                                                    Page 2 of 5
+
+--- Page 3 ---
+
+5. EXPENDITURES FOR THE BENEFIT OF MS. CASTELLUCCI
+
+Ms. [[PERSON|Castellucci]], [[AGE|29]], is [[INDIRECT_ROLE|the front-desk manager at the Hyde Park boutique gym where Husband has
+trained since 2023]]; her personal mailing address before [[DATE?|March 2025]] was [[ADDRESS|2817 W Azeele St, Apt 3, Tampa, FL 33609]].
+Excluding the rent and vehicle payments discussed above, we identified the following charges and transfers from
+marital or company funds:
+
+  Date        Source            Description                                               Amount
+  [[DATE?|02/14/2025]]  A-1 card ...[[CREDIT_CARD|8826]]  Swann Ave Jewelers -- "BC" engraved bracelet                   $6,840.00
+  [[DATE?|03/02/2025]]  A-1               Zelle to [[EMAIL|brianna.castellucci@icloud.com]] "deposit"              $4,350.00
+  [[DATE?|05/19/2025]]  B-1 Amex ...[[CREDIT_CARD|31009]] Delta -- TPA-SJU x2 ([[PERSON|CASTELLUCCI/BRIANNA]])                      $1,286.40
+  [[DATE?|05/20/2025]]  B-1 Amex ...[[CREDIT_CARD|31009]] Dorado Beach resort, 4 nights                                  $7,912.66
+  [[DATE?|08/2025-07/2026]] A-1           Monthly Zelle "BC" (12 x $1,000)                              $12,000.00
+  [[DATE?|11/28/2025]]  B-1               Check 7714 to [[PERSON|Castellucci]] memo "consulting -- marketing"       $5,000.00
+  [[DATE?|01/06/2026]]  A-1 card ...[[CREDIT_CARD|8826]]  Tampa Bay Cosmetic Surgery -- deposit                          $3,937.00
+                                                                      Total                   $41,326.06
+
+The "consulting -- marketing" check (HOLLIS-002871) was endorsed "[[SIGNATURE|Brianna L Castellucci]]" and deposited to an
+account at [[ORGANIZATION?|Seabreeze Members CU]] ending [[BANK_ACCOUNT|5502]]. Hollis Comfort Air issued her no Form 1099-NEC.
+
+Note on the children: the parties' children, [[PERSON MINOR|Ava]] ([[AGE|11]]) and [[PERSON MINOR|Liam]] ([[AGE|7]]), attend [[SCHOOL|Bayview Preparatory
+School]]; tuition of $31,880 for 2025-26 was paid from A-1 and is a legitimate marital expense. We excluded it.
+
+                                                                                                    Page 3 of 5
+
+--- Page 4 ---
+
+6. DIGITAL ASSETS
+
+Coinbase records (HOLLIS-003901-3988) show that between [[DATE?|April 2025]] and [[DATE?|June 2026]] Husband purchased 2.47 BTC
+and 19.1 ETH, funded chiefly by the two wires from C-1 and by ACH from A-1. Almost all of it was withdrawn:
+
+  Bitcoin -- 6 withdrawals totaling 2.41 BTC to address
+      [[CRYPTO_WALLET|bc1qm0uhddsvge8kljxrxz05qdl9f8nzejs6wmc47d]]
+    On-chain review shows the address has received no other deposits and has spent nothing; balance at
+    [[DATE?|08/31/2026]] was 2.41 BTC. The first withdrawal is txid [[ID_NUMBER?|7c1e0a5d...e4417f]] ([[DATE?|05/02/2025]]).
+
+  Ether -- 4 withdrawals totaling 18.6 ETH to address [[CRYPTO_WALLET|0x713846c567badd9643cf3d42b4f1c4b09f9fffac]]
+    That address later sent 2.0 ETH to [[CRYPTO_WALLET|0x15f9a3c6115387262f34694b23efafe18e66f06a]], which is the deposit
+    address of a Kraken account. Kraken's subpoena response (pending) should identify the account holder; the ENS
+    name "[[USERNAME|bluewaterbri.eth]]" resolves to that address.
+
+The Coinbase account's 2-step verification phone is [[PHONE|(813) 555-0140]], which is not Husband's known cell
+([[PHONE|(813) 555-0166]]); carrier records list the subscriber as [[PERSON|B. Castellucci]].
+
+7. LIFE INSURANCE
+
+[[ORGANIZATION?|Gulfstream Life]] term policy [[POLICY_NUMBER|GL-T20-0071184]] ($1,000,000; insured: Husband) named Wife as 100% primary
+beneficiary from 2016. A change-of-beneficiary form dated [[DATE?|October 2, 2025]] -- after entry of the standing order --
+designates "[[PERSON|Brianna Castellucci]], friend" (60%) and "[[ORGANIZATION?|Bluewater Strand Holdings, LLC]]" (40%). The form gives
+Ms. [[PERSON|Castellucci]]'s DOB as [[DATE_OF_BIRTH|08/19/1997]] and her phone as [[PHONE|(813) 555-0140]].
+
+                                                                                                    Page 4 of 5
+
+--- Page 5 ---
+
+8. RECOMMENDATIONS
+
+  1. Amend discovery to request all records of Bluewater Strand Holdings, LLC, including its operating agreement
+     and the Coastal Ledger signature card for account [[BANK_ACCOUNT|3017750219]].
+  2. Subpoena Kraken for the account associated with [[CRYPTO_WALLET|0x15f9a3c6115387262f34694b23efafe18e66f06a]] and seek an order
+     requiring Husband to disclose the private keys or seed phrase for the wallets in Section 6 (a hardware wallet,
+     Ledger Nano X serial [[DEVICE_ID|0001-4418-2C7A]], appears in an Amazon order on [[DATE?|04/28/2025]]).
+  3. Depose Ms. [[PERSON|Castellucci]] regarding Unit 1207, the Porsche, and the $5,000 check. She may be served at
+     [[ADDRESS|4100 Harbour Point Dr, Unit 1207]] or at her workplace (see Sec. 5).
+  4. Notice Hollis Comfort Air's outside CPA, [[PERSON?|Marvin Teague, CPA]], regarding the $132,800 "subcontractor"
+     deductions; there may be tax exposure that affects the business valuation.
+  5. Seek temporary relief restoring Wife as beneficiary on policy [[POLICY_NUMBER|GL-T20-0071184]].
+
+Preliminary dissipation claim (subject to revision):          $187,450 (Bluewater, net of $0 returned)
+                                                              + $41,326 (third-party benefit)
+                                                              + ~$209,000 (digital assets, at 8/31/26 prices)
+
+Husband's counsel of record is [[PERSON?|Lionel Okafor-Strand, Esq.]] Wife's address for service remains
+[[ADDRESS|8811 Bayshore Palms Ct, Tampa, FL 33611]]; Husband moved out on or about [[DATE?|January 9, 2025]].
+
+[[PERSON?|R. T. Mistry]]
+[[ORGANIZATION?|Meridian Forensic Accounting Group, P.A.]]
+Engagement no. [[ID_NUMBER|MFA-26-0602-HOL]]
+                                                                                                    Page 5 of 5

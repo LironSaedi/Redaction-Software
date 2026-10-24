@@ -1,0 +1,151 @@
+                                CAUSE NO. [[CASE_NUMBER|2025-CI-16520]]
+
+IN THE MATTER OF                           §          IN THE DISTRICT COURT
+[[PERSON|GRACE ELIZABETH HILL]],                     §
+     Applicant,                            §
+                                           §          225TH JUDICIAL DISTRICT
+AND                                        §
+                                           §
+[[PERSON|DARIUSZ PIOTR KOWALCZYK]],                  §
+     Respondent,                           §          [[LOCATION?|BEXAR COUNTY]], TEXAS
+                                           §
+ON BEHALF OF [[PERSON MINOR|L.R.K.]], A CHILD                §
+
+                     APPLICATION FOR PROTECTIVE ORDER AND
+          TEMPORARY EX PARTE PROTECTIVE ORDER (TEX. FAM. CODE CH. 82, 83, 85)
+
+TO THE HONORABLE JUDGE OF SAID COURT:
+
+     [[PERSON|GRACE ELIZABETH HILL]] ("Applicant") files this Application for Protective Order on her own
+behalf and on behalf of the parties' child, and in support shows:
+
+I. DISCOVERY LEVEL
+     Discovery is not anticipated. This application is governed by Chapter 82 of the Texas Family
+Code.
+
+II. PARTIES
+  1. Applicant is [[PERSON|Grace Elizabeth Hill]], a [[DEMOGRAPHIC|31-year-old female]]. The last three digits of her
+     driver's license number are [[DRIVERS_LICENSE|554]] and the last three digits of her Social Security number
+     are [[SSN|108]]. Pursuant to Tex. Fam. Code § 82.011, Applicant requests that her residential
+     address, the address of the child's child-care facility, and her telephone number be
+     excluded from the application and from any notice or order. Applicant's mailing address for
+     service of notices is c/o her attorney.
+
+  2. Respondent is [[PERSON|Dariusz Piotr Kowalczyk]], a [[DEMOGRAPHIC|36-year-old male]], who may be served at the
+     Bexar County Adult Detention Center, booking no. [[LAW_ENFORCEMENT_ID|2025-0098812]], or, if released, at his
+     place of employment, [[EMPLOYER|Alamo Steel Fabricators]], [[ADDRESS|4300 SW Military Dr., San Antonio, TX 78211]]
+     (day shift, 6:00 a.m.-2:30 p.m.), or at [[ADDRESS|1915 W. Mulberry Ave., San Antonio, TX 78201]] (residence
+     of his friend, [[PERSON|Tomek Zielinski]]).
+
+     Respondent's description for service: [[DEMOGRAPHIC|white male]], [[PHYSICAL_DESCRIPTOR?|6'1", approx. 215 lbs, blond hair,
+     blue eyes]], [[PHYSICAL_DESCRIPTOR|tattoo of a scorpion on the left side of his neck]], [[PHYSICAL_DESCRIPTOR|scar on his chin]].
+     DOB [[DATE_OF_BIRTH|12/01/1988]]. Texas DL [[DRIVERS_LICENSE|41877203]]. Drives a [[VEHICLE_DESCRIPTION|gray 2018 Ford F-150 crew cab]], TX
+     plate [[LICENSE_PLATE|PKD7731]].
+
+  3. The child the subject of this application is:
+        Name                          Sex    Date of Birth     Age
+        [[PERSON MINOR|L.R.K.]]                        F      [[DATE_OF_BIRTH|03/22/2022]]        [[AGE|3]]
+     The child resides with Applicant.
+
+III. RELATIONSHIP / FAMILY VIOLENCE
+  4. Applicant and Respondent have a dating relationship (Tex. Fam. Code § 71.0021), have resided
+     together in the same household (§ 71.005), and are the parents of the child (§ 71.003).
+  5. Respondent has committed family violence against Applicant, as defined by § 71.004, and
+     family violence is likely to occur in the future. Respondent has been arrested and charged
+     with Assault Family Violence -- Impeding Breath (Bexar County Cause No. [[CASE_NUMBER|2025CR011847]]).
+  6. A Magistrate's Order for Emergency Protection was issued on [[DATE|August 17, 2025]], and expires
+     on [[DATE|October 17, 2025]]. A copy is attached as Exhibit B.
+  7. Applicant is not aware of any other protective order or pending SAPCR/divorce suit between
+     the parties. No court has continuing, exclusive jurisdiction over the child.
+
+IV. FINDINGS REQUESTED UNDER § 85.022 AND § 85.025(a-1)
+  8. Applicant requests that the Court find that Respondent committed an act constituting a
+     felony offense involving family violence against Applicant (strangulation) and render a
+     protective order effective for the duration of the parties' lives or a period exceeding two
+     years, pursuant to § 85.025(a-1).
+
+Application for Protective Order -- Cause No. [[CASE_NUMBER|2025-CI-16520]]                                Page 2 of 3
+
+V. RELIEF REQUESTED
+  9. Applicant asks the Court to prohibit Respondent from:
+     a. committing family violence against Applicant or the child;
+     b. communicating with Applicant directly or through any person (including Respondent's
+        brother, [[PERSON|Marek Kowalczyk]], and Respondent's friend [[PERSON|Tomek Zielinski]]) except through counsel;
+     c. going within 500 feet of Applicant's residence, Applicant's place of employment
+        ([[INDIRECT_LOCATION|CVS Pharmacy Store #10432]], [[ADDRESS|8302 Fredericksburg Rd]]), the child's child-care facility
+        ([[INDIRECT_LOCATION|Little Sprouts Learning Center on Wurzbach Rd]]), and the residence of Applicant's sister
+        ([[PERSON|Hannah Hill]]) in [[LOCATION?|New Braunfels]], Texas;
+     d. tracking or monitoring Applicant's location or communications, including through the
+        Life360 account "[[USERNAME|darek_k88]]", the shared Apple ID [[EMAIL|gracehill.sa93@icloud.com]], or any GPS
+        device placed on Applicant's [[VEHICLE_DESCRIPTION|white 2017 Toyota Corolla]] (TX plate [[LICENSE_PLATE|NRV2264]]);
+     e. possessing a firearm or ammunition (§ 85.022(b)(6)); Respondent's Taurus G2C 9mm is
+        currently in SAPD custody;
+     f. removing the child from Bexar County or from the United States, and applying for a Polish
+        or U.S. passport for the child;
+     g. accessing Applicant's bank account at [[ORGANIZATION?|Frost Bank]] ending in [[BANK_ACCOUNT|7720]].
+ 10. Temporary orders for the child (§ 85.021): Applicant requests she be appointed temporary sole
+     managing conservator; that Respondent's possession be denied pending further hearing or, in
+     the alternative, supervised at a supervised visitation center; and that Respondent pay child
+     support under Chapter 154.
+ 11. Applicant requests exclusive use of the [[VEHICLE_DESCRIPTION|white 2017 Toyota Corolla]] (VIN [[VIN|2T1BURHE1FC448103]])
+     and of the parties' household goods.
+ 12. Respondent should be ordered to complete a Battering Intervention and Prevention Program
+     (BIPP) and to pay attorney's fees and costs (§ 81.005).
+
+VI. REQUEST FOR TEMPORARY EX PARTE ORDER
+ 13. Based on the attached affidavit, there is a clear and present danger of family violence.
+     Applicant requests a temporary ex parte order under § 83.001 without notice.
+
+                                    Respectfully submitted,
+                                    [[ORGANIZATION?|BEXAR FAMILY ADVOCACY LEGAL PROJECT]]
+                                    [[ADDRESS?|1222 N. Main Ave., Suite 410]]
+                                    [[ADDRESS?|San Antonio, Texas 78212]]
+                                    Tel. [[PHONE|(210) 555-0139]]  Fax [[PHONE|(210) 555-0140]]
+                                    By: /s/ [[PERSON|Nkechi Eze-Bramlett]]
+                                    [[PERSON|Nkechi Eze-Bramlett]], State Bar No. [[ID_NUMBER|24103377]]
+                                    [[EMAIL|neze@bfalp.org]]
+                                    ATTORNEY FOR APPLICANT
+
+Application for Protective Order -- Cause No. [[CASE_NUMBER|2025-CI-16520]]                                Page 3 of 3
+
+                              AFFIDAVIT OF [[PERSON|GRACE ELIZABETH HILL]]
+
+     My name is [[PERSON|Grace Elizabeth Hill]]. I am over 18 and competent to make this affidavit. The facts
+stated here are within my personal knowledge and are true and correct.
+
+     [[PERSON|Darek]] and I met in 2020 at a friend's barbecue in [[LOCATION?|Seguin]]. We moved in together at the [[INDIRECT_LOCATION|Pinecrest
+Apartments]] in 2021. Our daughter was born [[DATE|March 22, 2022]]. After she was born I was diagnosed with
+[[MENTAL_HEALTH|postpartum depression]] and I take [[MEDICATION|escitalopram]]. [[PERSON|Darek]] calls me "crazy" and tells people I am
+[[MENTAL_HEALTH|bipolar]], which is not true.
+
+     In [[DATE?|December 2024]], [[PERSON|Darek]] came home drunk from the icehouse and punched a hole in the bathroom
+door while I was holding our daughter. In [[DATE?|March 2025]], in the parking lot of [[INDIRECT_LOCATION|the H-E-B at Bandera
+and Loop 1604]], he grabbed my throat in the truck because I wanted to leave a party early. He let go
+when someone walked by. I did not call the police because he told me if he got arrested again he
+would be [[IMMIGRATION_STATUS|deported]] and our daughter would never see her father, and that it would be my fault.
+
+     On [[DATE|August 16, 2025]], [[PERSON|Darek]] came home after 10:30 p.m. He had been drinking. He grabbed my
+phone and accused me of sleeping with [[INDIRECT_ROLE|the pharmacist I work with]]. He threw my phone and broke it.
+When I went to get my iPad to call 911, he pushed me into the hall wall and choked me with both
+hands. I could not breathe. Everything went dark at the edges. I wet myself. I thought I was going
+to die in front of my daughter. He only let go because she started screaming "Mama." He said "if
+you call them I'll finish it." My neighbor called the police.
+
+     I went to [[ORGANIZATION?|Mission Trail Medical Center]] that night. I had a CT scan of my neck. My throat
+hurt for a week and my voice is still hoarse. I am now seeing a counselor at the Family Justice
+Center for [[MENTAL_HEALTH|nightmares and panic attacks]].
+
+     After he was arrested, [[PERSON|Darek]] sent me a message from jail saying "drop it or else." He knows my
+phone passcode ([[PASSWORD|0917]]) and he set up Life360 on my phone so he always knows where I am. He has
+said many times that he will take our daughter to his mother in [[LOCATION?|Kraków]] and I will never find her.
+He has a brother in [[LOCATION?|Chicago]] and family in Poland. I am afraid he will take her.
+
+     I am asking the Court to protect me and my daughter.
+
+                                    /s/ [[PERSON|Grace E. Hill]]
+                                    [[PERSON|GRACE ELIZABETH HILL]], Affiant
+
+SWORN TO AND SUBSCRIBED before me on [[DATE|August 25, 2025]].
+                                    /s/ [[PERSON|Yolanda Paredes]]
+                                    Notary Public, State of Texas -- Notary ID [[ID_NUMBER|13208841-5]]
+                                    My commission expires: [[DATE|04/02/2028]]

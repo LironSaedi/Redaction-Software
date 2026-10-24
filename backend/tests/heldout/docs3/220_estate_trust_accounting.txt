@@ -1,0 +1,175 @@
+COMMONWEALTH OF MASSACHUSETTS
+THE TRIAL COURT -- PROBATE AND FAMILY COURT DEPARTMENT
+Middlesex Division                                              Docket No. [[CASE_NUMBER|MI26P0418EA]]
+
+ESTATE OF:  [[PERSON|EUGENE MALCOLM FAIRBANKS]]                            Date of Death: [[DATE|January 22, 2026]]
+Domicile at death: [[ADDRESS|41 Whittemore Road, Lexington, MA 02420]]
+
+        FIRST AND FINAL ACCOUNT OF PERSONAL REPRESENTATIVE (MPC 815) -- and --
+        FIRST ACCOUNT OF TRUSTEES OF THE EUGENE M. FAIRBANKS REVOCABLE TRUST u/a/d [[DATE?|May 14, 2009]]
+        Accounting period: [[DATE?|January 22, 2026]] through [[DATE?|September 30, 2026]]
+
+Personal Representative:  [[PERSON|Lorraine F. Castellano]] (daughter), [[ADDRESS|17 Fern Hollow Ln, Concord, MA 01742]]
+                          [[PHONE|(978) 555-0236]]   [[EMAIL|lorraine.castellano@verizon.net]]
+Co-Trustees:              [[PERSON|Lorraine F. Castellano]] and [[ORGANIZATION?|Charles River Trust Company]] (Trust Officer [[PERSON?|Avery Lindgren]])
+Counsel:                  [[PERSON?|Simon P. Abernathy, Esq.]], BBO #[[ID_NUMBER?|661044]], [[ORGANIZATION?|Abernathy & Wolcott LLP]], [[PHONE?|(781) 555-0128]]
+
+Decedent:  SSN [[SSN|014-44-6609]]   DOB [[DATE_OF_BIRTH|04/03/1941]]   age at death [[AGE|84]] (widower; wife [[PERSON|Constance R. Fairbanks]] d. [[DATE?|2019]])
+Estate EIN [[EIN|39-7104418]]          Trust EIN [[EIN|39-7104426]]   (Form SS-4s filed [[DATE?|02/2026]])
+
+BENEFICIARIES (per Article IV of Trust; pour-over will dated [[DATE?|05/14/2009]])
+  1/3  [[PERSON|Lorraine F. Castellano]]           daughter     outright
+  1/3  [[PERSON|Peter J. Fairbanks]]               son          outright -- [[ADDRESS|2291 Larch Way, Bozeman, MT 59718]]
+  1/3  Issue of predeceased son [[PERSON|Daniel E. Fairbanks]] (d. [[DATE?|2021]]), per stirpes, in continuing trust to age 25:
+       [[PERSON MINOR|Ava M. Fairbanks]], age [[AGE|13]], DOB [[DATE_OF_BIRTH|02/09/2013]]   } held in separate shares under Art. VI;
+       [[PERSON MINOR|Theodore ("Theo") D. Fairbanks]], age [[AGE|nine]], DOB [[DATE_OF_BIRTH|07/30/2017]]   } guardian of the estate: their mother,
+       [[PERSON|Naomi K. Fairbanks-Hale]], [[ADDRESS|8 Juniper Ct, Burlington, VT 05401]]
+  Specific bequest  [[PERSON|Marisol Pena]] ([[INDIRECT_ROLE|decedent's live-in caregiver for his last three years]])   $10,000
+  Specific bequest  [[ORGANIZATION?|Lexington Historical Society]]                                  $5,000
+  Tangible personal property: per memorandum (Art. III) -- grandfather clock to [[PERSON MINOR|Theo]]; stamp collection to [[PERSON|Peter]]
+
+                                                                                                    Page 1 of 6
+
+--- Page 2 ---
+
+SUMMARY OF ACCOUNT                                                              Amount
+  Schedule A  -- Inventory value of assets at date of death / funding of trust         [[MONEY|$3,118,604.27]]
+  Schedule B  -- Receipts of principal                                                    [[MONEY|$47,218.40]]
+  Schedule C  -- Gains on sale or disposition of principal                                [[MONEY|$58,612.33]]
+  Schedule D  -- Receipts of income                                                       [[MONEY|$41,906.18]]
+                 TOTAL CHARGES                                                         [[MONEY|$3,266,341.18]]
+  Schedule E  -- Losses on sale or disposition of principal                                $4,107.12
+  Schedule F  -- Payments of administration expenses, debts, taxes                       $118,662.75
+  Schedule G  -- Distributions to beneficiaries                                        $1,520,000.00
+  Schedule H  -- Assets on hand at end of period                                       $1,623,571.31
+                 TOTAL CREDITS                                                         [[MONEY|$3,266,341.18]]
+
+SCHEDULE A -- ASSETS AT DATE OF DEATH (probate and trust)
+  No.  Description                                                                  Date-of-death value
+  A-1  Residence, [[ADDRESS|41 Whittemore Road, Lexington, MA 02420]] (trust-titled, deed Bk 71188 Pg 204);
+       appraised [[DATE?|03/09/2026]] by [[PERSON?|Kathleen M. Brennan]], MA Certified Residential Appraiser
+       Lic. [[ID_NUMBER?|RA-104471]], [[ORGANIZATION?|Brennan Valuation Group]] -- 3,140 sf colonial, 0.62 ac            1,385,000.00
+  A-2  [[ORGANIZATION?|Middlesex Federal Savings]] checking (POD none), acct [[BANK_ACCOUNT|0118-447-2093]]                   38,416.20
+  A-3  [[ORGANIZATION?|Middlesex Federal Savings]] 12-mo CD, acct [[BANK_ACCOUNT|0118-447-9104]] (matured [[DATE?|04/2026]])           100,000.00
+  A-4  [[ORGANIZATION?|Charles River Trust Co.]] brokerage (trust), acct [[BANK_ACCOUNT|CRT-771-04418]]:                   1,421,388.07
+         2,400 sh Procter & Gamble (PG, CUSIP 742718109); 1,850 sh Johnson & Johnson (JNJ);
+         3,100 sh Vanguard Wellington Admiral (VWENX); US Treasury 4.25% 11/15/2034 par $300,000 (CUSIP 91282CLW9)
+  A-5  2015 Buick LaCrosse, VIN [[VIN|1G4ZR5SS2FU141187]], 61,200 mi (Kelley Blue Book private party) 9,800.00
+  A-6  Tangible personal property (furniture, clock, stamp collection appraised by [[PERSON?|R. Ostrowski]]) 42,000.00
+  A-7  Refund -- [[ORGANIZATION?|Brookhaven at Lexington]] entrance-fee deposit (never moved in), contract [[ID_NUMBER|BHL-2024-0118]] 25,000.00
+  A-8  Federal income tax refund, 2025 Form 1040 (decedent's final return)                  3,412.00
+  A-9  Uncashed Social Security payment for January (returned to SSA; not an asset)             0.00
+  A-10 [[ORGANIZATION?|Bay State Mutual Life]] whole life policy [[POLICY_NUMBER|WL-1104418-F]] -- payable to Trust            93,588.00
+       Total Schedule A                                                                 3,118,604.27
+  Non-probate, not included: Traditional IRA ([[ORGANIZATION?|Charles River]] acct [[BANK_ACCOUNT|CRT-IRA-55120]]), bene. designations:
+  [[PERSON|Lorraine Castellano]] 50% / [[PERSON|Peter Fairbanks]] 50% -- inherited IRAs established [[DATE?|04/2026]] (10-year rule).
+
+                                                                                                    Page 2 of 6
+
+--- Page 3 ---
+
+SCHEDULE B -- RECEIPTS OF PRINCIPAL
+  [[DATE?|03/02/2026]]  Brookhaven entrance-fee refund (A-7) received by check                       25,000.00
+  [[DATE?|03/20/2026]]  IRS refund (A-8) incl. interest $19.40, ck payable "Estate of [[PERSON|Eugene M. Fairbanks]]" 3,431.40
+  [[DATE?|04/15/2026]]  Life insurance death benefit in excess of reported cash value (A-10)         11,412.00
+  [[DATE?|05/01/2026]]  Refund of homeowners premium, [[ORGANIZATION?|Bay Colony Mutual]] policy [[POLICY_NUMBER|HO-MA-4471820]]            875.00
+  [[DATE?|06/30/2026]]  Medicare Part B premium refund / [[ORGANIZATION?|Emerson Health]] overpayment refund            6,500.00
+       Total Schedule B                                                                    47,218.40
+
+SCHEDULE C -- GAINS ON SALE
+  [[DATE?|06/18/2026]]  Sale of residence A-1 to [[PERSON|Hyun-woo Park]] and [[PERSON|Grace S. Park]], sale price $1,422,000.00 vs.
+               inventory value $1,385,000.00 (broker: [[ORGANIZATION?|Lexington Realty Group]]; closing costs in Sch. E) 37,000.00
+  [[DATE?|07/09/2026]]  Sold 2,400 sh PG and 1,850 sh JNJ (rebalancing for distributions)            21,612.33
+       Total Schedule C                                                                    58,612.33
+
+SCHEDULE D -- RECEIPTS OF INCOME
+  Dividends and interest, brokerage acct [[BANK_ACCOUNT|CRT-771-04418]]                                     34,880.42
+  Interest, checking and CD (A-2, A-3)                                                      1,925.76
+  Rent -- [[PERSON|Marisol Pena]], occupancy of residence [[DATE?|02/01/2026]]-[[DATE?|05/31/2026]] at $1,275/mo per agreement 5,100.00
+       Total Schedule D                                                                    41,906.18
+
+SCHEDULE E -- LOSSES ON SALE
+  Closing costs and title adjustments on residence (excise stamps $6,483.84 paid by buyer credit -- net) 4,107.12
+
+SCHEDULE F -- ADMINISTRATION EXPENSES, DEBTS AND TAXES
+  [[DATE?|02/03/2026]]  [[ORGANIZATION?|Douglass Funeral Home]], Lexington -- funeral and interment                    14,860.00
+  [[DATE?|02/27/2026]]  [[ORGANIZATION?|Emerson Health Hospital]] -- final illness, patient acct [[MRN|EH-0441-87720]]          6,214.33
+                (admitted with [[MEDICAL_CONDITION|end-stage congestive heart failure]]; Medicare secondary balance)
+  [[DATE?|03/15/2026]]  [[ORGANIZATION?|Hospice of the Minuteman Region]] -- room & board not covered                   3,880.00
+  [[DATE?|04/10/2026]]  Brennan Valuation Group -- appraisal of residence                               850.00
+  [[DATE?|04/30/2026]]  Abernathy & Wolcott LLP -- legal fees through 4/30/26                        28,400.00
+  [[DATE?|06/18/2026]]  Discharge of HELOC, [[ORGANIZATION?|Middlesex Federal]] loan [[BANK_ACCOUNT|HL-0118-55902]], at closing         31,224.42
+  [[DATE?|07/15/2026]]  Massachusetts estate tax (Form M-706), estimated payment                     22,500.00
+  [[DATE?|08/01/2026]]  Charles River Trust Co. -- trustee fee (0.6% annual, prorated)                8,234.00
+  [[DATE?|09/02/2026]]  [[PERSON|Marisol Pena]] -- caregiver wages owed for [[DATE?|January 2026]] (W-2 issued; SSN XXX-XX-[[SSN|7718]]) 2,500.00
+       Total Schedule F                                                                   118,662.75
+
+                                                                                                    Page 3 of 6
+
+--- Page 4 ---
+
+SCHEDULE G -- DISTRIBUTIONS TO BENEFICIARIES
+  [[DATE?|07/20/2026]]  [[PERSON|Lorraine F. Castellano]] -- partial distribution, wire to [[ORGANIZATION?|Concord Cooperative Bank]]
+                ABA [[ROUTING_NUMBER|211370448]] acct [[BANK_ACCOUNT|4471 0920 18]]                                           500,000.00
+  [[DATE?|07/20/2026]]  [[PERSON|Peter J. Fairbanks]] -- partial distribution, wire to [[ORGANIZATION?|Gallatin Valley Bank]]
+                ABA [[ROUTING_NUMBER|092905278]] acct [[BANK_ACCOUNT|7730-118-2265]]                                          500,000.00
+  [[DATE?|07/22/2026]]  Fairbanks Grandchildren's Trust f/b/o [[PERSON MINOR|Ava M. Fairbanks]] -- funding, acct [[BANK_ACCOUNT|CRT-771-04419]] 250,000.00
+  [[DATE?|07/22/2026]]  Fairbanks Grandchildren's Trust f/b/o [[PERSON MINOR|Theodore D. Fairbanks]] -- funding, acct [[BANK_ACCOUNT|CRT-771-04420]] 250,000.00
+  [[DATE?|08/05/2026]]  [[PERSON|Marisol Pena]] -- specific bequest, check 1044                                 10,000.00
+  [[DATE?|08/05/2026]]  Lexington Historical Society -- specific bequest, check 1045                  5,000.00
+  [[DATE?|08/12/2026]]  Tangible property per memorandum -- grandfather clock delivered to [[PERSON|Naomi Fairbanks-Hale]]
+                for [[PERSON MINOR|Theo]] at [[ADDRESS|8 Juniper Ct, Burlington VT]] (shipping paid by estate, in Sch. F) 5,000.00
+       Total Schedule G                                                                 1,520,000.00
+
+SCHEDULE H -- ASSETS ON HAND AT END OF PERIOD ([[DATE?|09/30/2026]])
+  H-1  Estate checking, [[ORGANIZATION?|Middlesex Federal Savings]], acct [[BANK_ACCOUNT|0118-449-0012]] (EIN [[EIN|39-7104418]])     61,833.06
+  H-2  Trust brokerage, [[ORGANIZATION?|Charles River Trust Co.]], acct [[BANK_ACCOUNT|CRT-771-04418]] -- VWENX 3,100 sh;
+       US Treasury 4.25% 11/15/2034 par $300,000; money market                          1,519,738.25
+  H-3  Tangible personal property not yet distributed (stamp collection, held pending appraisal dispute) 42,000.00
+       Total Schedule H                                                                 1,623,571.31
+
+  Reserve retained for: final Form 1041 and M-2 (fiduciary income tax), MA estate tax balance, final legal fees,
+  and possible claim of [[PERSON|Gerald Fairbanks]] (decedent's nephew), who has filed a Notice of Claim alleging an
+  oral promise of the stamp collection (Middlesex Superior Ct. No. [[CASE_NUMBER|2681CV01188]]).
+
+                                                                                                    Page 4 of 6
+
+--- Page 5 ---
+
+NOTES TO ACCOUNT
+ 1. Real estate. The residence was listed [[DATE?|04/12/2026]] at $1,449,000 and sold [[DATE?|06/18/2026]] for $1,422,000 to unrelated
+    buyers ([[PERSON|Hyun-woo Park]] and [[PERSON|Grace S. Park]], then of [[ADDRESS|90 Mass Ave Apt 6C, Arlington MA 02474]]). The appraisal
+    (A-1) valued the property at $1,385,000 based on three comparables on Hancock St and Adams St. Ms. [[PERSON|Pena]] vacated
+    [[DATE?|05/31/2026]] under a written occupancy agreement and was paid her bequest after signing a receipt and release.
+ 2. Minor beneficiaries. The shares of [[PERSON MINOR|Ava]] and [[PERSON MINOR|Theo]] are held by the Co-Trustees under Article VI until each
+    attains age 25, with discretionary distributions for health, education, maintenance and support. Their mother
+    is not a trustee. [[PERSON MINOR|Ava]] attends [[SCHOOL|Champlain Valley Union Middle School]]; [[PERSON MINOR|Theo]]'s 2026-27 tuition at [[SCHOOL|the Lake
+    Champlain Waldorf School]] ($14,200) was approved for payment from his share on [[DATE?|09/10/2026]].
+ 3. Decedent's medical history is described only to the extent it relates to claims (Sch. F). Final illness began at
+    [[INDIRECT_LOCATION|the Lexington senior center on Marrett Road, where he volunteered every Tuesday morning]].
+ 4. Online accounts. Decedent's Middlesex Federal online banking (user [[USERNAME|gene.fairbanks41]]) was closed [[DATE?|02/10/2026]].
+    Password manager master file located in safe deposit box no. [[ID_NUMBER|418-B]] (Lexington Center branch) -- not used.
+ 5. The Personal Representative served without bond per Will Art. IX. No compensation is claimed by [[PERSON|Lorraine Castellano]].
+
+                                                                                                    Page 5 of 6
+
+--- Page 6 ---
+
+VERIFICATION
+I, [[PERSON|Lorraine F. Castellano]], Personal Representative and Co-Trustee, certify under the penalties of perjury that
+the foregoing account is true and complete to the best of my knowledge and belief.
+
+  [[SIGNATURE|/s/ Lorraine F. Castellano]]                                Date: [[DATE?|October 9, 2026]]
+
+  [[ORGANIZATION?|CHARLES RIVER TRUST COMPANY]], Co-Trustee
+  By: [[SIGNATURE?|/s/ Avery Lindgren]], Vice President & Trust Officer    Date: [[DATE?|October 9, 2026]]
+
+ASSENTS OF INTERESTED PERSONS (MPC 805)
+  [[PERSON|Peter J. Fairbanks]]                    [[SIGNATURE|/s/ Peter J. Fairbanks]]              [[DATE?|10/12/2026]]
+  [[PERSON|Naomi K. Fairbanks-Hale]], as mother/guardian [[SIGNATURE|/s/ N. Fairbanks-Hale]]         [[DATE?|10/13/2026]]
+    of [[PERSON MINOR|Ava M. Fairbanks]] and [[PERSON MINOR|Theodore D. Fairbanks]], minors
+  Guardian ad litem for minors (appointed [[DATE?|08/2026]]): [[PERSON?|Hon. (Ret.) Patricia Odum, Esq.]] -- report filed [[DATE?|10/01/2026]]
+
+Mail notice to: all beneficiaries at addresses above; Massachusetts Department of Revenue, Estate Tax Unit; Division
+of Medical Assistance (MassHealth Estate Recovery -- no claim, letter [[DATE?|03/04/2026]] ref [[CLAIM_NUMBER|ER-26-041188]]).
+                                                                                                    Page 6 of 6

@@ -1,0 +1,42 @@
+== rules_only
+45 documents, 274 pages, 301,487 chars, 2.6s (103.8 pages/s)
+REDACTION RECALL                           99.860%
+PRECISION                                 100.000%   (0 FP of 1508)
+F1                                         99.930%
+hard-negative hits              0
+== trf_nvidia
+45 documents, 274 pages, 301,487 chars, 146.6s (1.9 pages/s)
+REDACTION RECALL                          100.000%
+PRECISION                                  99.649%   (6 FP of 1709)
+F1                                         99.824%
+hard-negative hits              0
+== trf_knowledgator
+45 documents, 274 pages, 301,487 chars, 68.6s (4.0 pages/s)
+REDACTION RECALL                           99.511%
+PRECISION                                  99.430%   (9 FP of 1578)
+F1                                         99.470%
+hard-negative hits              0
+== lg_nvidia
+45 documents, 274 pages, 301,487 chars, 129.0s (2.1 pages/s)
+REDACTION RECALL                          100.000%
+PRECISION                                  91.325%   (161 FP of 1856)
+F1                                         95.466%
+hard-negative hits              0
+== lg_knowledgator
+45 documents, 274 pages, 301,487 chars, 49.4s (5.5 pages/s)
+REDACTION RECALL                           99.791%
+PRECISION                                  90.454%   (164 FP of 1718)
+F1                                         94.893%
+hard-negative hits              0
+== nvidia_only
+45 documents, 274 pages, 301,487 chars, 125.2s (2.2 pages/s)
+REDACTION RECALL                          100.000%
+PRECISION                                  99.649%   (6 FP of 1707)
+F1                                         99.824%
+hard-negative hits              0
+== trf_only
+45 documents, 274 pages, 301,487 chars, 26.6s (10.3 pages/s)
+REDACTION RECALL                           99.511%
+PRECISION                                 100.000%   (0 FP of 1495)
+F1                                         99.755%
+hard-negative hits              0

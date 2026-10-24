@@ -1,0 +1,182 @@
+[[ORGANIZATION?|SOUTHWEST RECOVERY PARTNERS, INC.]]  --  DEBTOR ACCOUNT HISTORY & CONTACT LOG
+TX Third-Party Debt Collector Bond No. [[ID_NUMBER?|TX-TPDC-20118]]   |   [[ADDRESS?|9100 IH-10 West, Suite 640, San Antonio TX 78230]]
+Export generated [[DATE?|10/05/2026]] 08:41 CT by [[USERNAME|lgarza_qa]] for: compliance review / attorney request          CONFIDENTIAL
+
+==================================================================================================================
+SECTION 1 -- DEBTOR PROFILE (from creditor placement files)
+==================================================================================================================
+SRP Debtor ID:        [[ID_NUMBER|SRP-4471-88021]]                   Placement date: [[DATE?|07/02/2026]]
+Name:                 [[PERSON|TRAVIS JAMES MCCREADY]]                 AKA: [[PERSON|T.J. McCready]]
+DOB:                  [[DATE_OF_BIRTH|06/02/1993]]  (age [[AGE|33]])                SSN: [[SSN|461-28-7735]]
+Driver license:       TX [[DRIVERS_LICENSE|41882097]]  exp [[DATE?|06/02/2029]]
+Current address:      [[ADDRESS|6218 Pinewood Hollow Dr]], [[ADDRESS|San Antonio TX 78244]]      (verified via USPS NCOA [[DATE?|07/01/2026]])
+Prior address:        [[ADDRESS|1427 W Southcross Blvd Apt 112, San Antonio TX 78211]]      (to [[DATE?|01/2026]])
+Phones:               Mobile [[PHONE|(210) 555-0147]] (consent to call: YES, text: NO)     Alt [[PHONE|(726) 555-0115]] (prepaid, [[ORGANIZATION?|Boost]])
+E-mail:               [[EMAIL|tjmccready93@yahoo.com]]  (e-mail consent: YES, opt-out link required)
+Employer at app:      [[EMPLOYER|Cibolo Creek Fulfillment Center]], [[LOCATION?|Schertz TX]] -- Picker/Packer, Tier 1   Work ph [[PHONE?|(210) 555-0108]]
+Stated net income:    [[FINANCIAL_INFO?|$2,640/mo]], paid biweekly Fridays (direct deposit)
+Bank on file (ACH):   [[ORGANIZATION?|Mission City Federal Credit Union]]   ABA [[ROUTING_NUMBER|314074227]]   Acct [[BANK_ACCOUNT|1100448219]] (checking)
+Debit card on file:   Visa ending [[CREDIT_CARD|0562]]  exp [[CARD_EXPIRY|04/28]]  (tokenized; CVV not stored)
+References:           1) [[PERSON|Kendra McCready]] (spouse)   [[PHONE|(210) 555-0193]]
+                      2) [[PERSON|Luis Bermea]] (co-worker)   [[PHONE|(210) 555-0172]]
+Online account:       [[ORGANIZATION?|QuickBridge]] user [[USERNAME|tj_mccready93]]; security Q "Name of your first pet?" A: "[[PASSWORD|Biscuit]]"
+Application metadata: IP [[IP_ADDRESS|70.121.44.208]]  device [[DEVICE_ID|ANDROID-9f3c2a71b88e4d10]]  submitted [[DATE?|03/14/2026]] 07:52 CT
+Flags:                ATTORNEY REPRESENTED ([[DATE?|08/20/2026]])  |  DISPUTED (BNPL fees)  |  CEASE DIRECT CONTACT
+
+SRP Debtor ID [[ID_NUMBER|SRP-4471-88021]]   [[PERSON|MCCREADY, TRAVIS J]]                                              Page 1 of 4
+--- Page 2 ---
+SRP Debtor ID [[ID_NUMBER|SRP-4471-88021]]   [[PERSON|MCCREADY, TRAVIS J]]                                              Page 2 of 4
+
+==================================================================================================================
+SECTION 2 -- PLACEMENT 1:  [[ORGANIZATION?|QUICKBRIDGE CASH ADVANCE, LLC]] (Credit Access Business, OCCC Lic. CAB-13562)
+           Third-party lender: [[ORGANIZATION?|Riverwalk Lending Partners]]   Store [[LOCATION?|TX-0417 (SW Military Dr)]]
+==================================================================================================================
+Loan No.:          [[BANK_ACCOUNT|QB-L-2026-004471]]           Product: Deferred presentment (single-pay)
+Customer No.:      [[ID_NUMBER|QB-7718204]]
+Originated:        [[DATE?|03/14/2026]]    Amount advanced [[MONEY|500.00]]    CAB fee [[MONEY|115.00]]    Lender interest (10% APR) [[MONEY|1.92]]
+Disclosed APR:     598.26%    Term 14 days    Total of payments [[MONEY|616.92]]    First due [[DATE?|03/28/2026]]
+
+Date        Transaction                                         Method / Ref                     Amount     Balance
+----------  --------------------------------------------------  ------------------------------  ---------  ---------
+[[DATE?|03/14/2026]]  Loan originated                                     Cash at store                      [[MONEY|616.92]]     [[MONEY|616.92]]
+[[DATE?|03/28/2026]]  Renewal #1 -- fees paid, principal renewed            ACH ****[[BANK_ACCOUNT|8219]]  TC 27           [[MONEY|-116.92]]     [[MONEY|500.00]]
+[[DATE?|03/28/2026]]  Renewal fees assessed                               CAB [[MONEY|115.00]] + int [[MONEY|1.92]]              [[MONEY|116.92]]     [[MONEY|616.92]]
+[[DATE?|04/11/2026]]  Renewal #2 -- fees paid, principal renewed            ACH ****[[BANK_ACCOUNT|8219]]  TC 27           [[MONEY|-116.92]]     [[MONEY|500.00]]
+[[DATE?|04/11/2026]]  Renewal fees assessed                               CAB [[MONEY|115.00]] + int [[MONEY|1.92]]              [[MONEY|116.92]]     [[MONEY|616.92]]
+[[DATE?|04/25/2026]]  ACH presentment                                     ACH ****[[BANK_ACCOUNT|8219]]  TC 27           [[MONEY|-616.92]]       [[MONEY|0.00]]
+[[DATE?|04/27/2026]]  ACH RETURN R01 (Insufficient Funds)                 Trace [[ID_NUMBER?|314074220041871]]           [[MONEY|616.92]]     [[MONEY|616.92]]
+[[DATE?|04/27/2026]]  Returned payment fee                                Tex. Fin. Code 393.602              [[MONEY|30.00]]     [[MONEY|646.92]]
+[[DATE?|04/30/2026]]  ACH re-presentment                                  ACH ****[[BANK_ACCOUNT|8219]]  TC 27           [[MONEY|-616.92]]      [[MONEY|30.00]]
+[[DATE?|05/02/2026]]  ACH RETURN R01 (Insufficient Funds)                 Trace [[ID_NUMBER?|314074220043302]]           [[MONEY|616.92]]     [[MONEY|646.92]]
+                      ** 2 consecutive failed attempts -- further ACH debits disabled (12 CFR 1041.8) **
+[[DATE?|05/09/2026]]  Debit card payment (customer-initiated, phone)      Visa ****[[CREDIT_CARD|0562]] auth 08812        [[MONEY|-200.00]]     [[MONEY|446.92]]
+[[DATE?|06/10/2026]]  Charged off                                                                                     [[MONEY|446.92]]
+[[DATE?|07/02/2026]]  Placed with [[ORGANIZATION?|Southwest Recovery Partners]] (contingency 35%)                                         [[MONEY|446.92]]
+[[DATE?|07/17/2026]]  Payment via SRP (see contact log)                    Visa ****[[CREDIT_CARD|0562]]                   [[MONEY|-100.00]]     [[MONEY|346.92]]
+[[DATE?|08/14/2026]]  Payment via SRP (see contact log)                    Visa ****[[CREDIT_CARD|0562]]                   [[MONEY|-150.00]]     [[MONEY|196.92]]
+                                                                                       Current balance placed:    [[MONEY|196.92]]
+
+==================================================================================================================
+SECTION 3 -- PLACEMENT 2:  [[ORGANIZATION?|SPLITEASY PAY, INC.]] (buy now, pay later)
+==================================================================================================================
+[[ORGANIZATION?|SplitEasy]] account ID: [[ID_NUMBER|SEP-88104327]]       Linked card: Visa ****[[CREDIT_CARD|0562]]       Linked bank: ****[[BANK_ACCOUNT|8219]]
+
+Plan  Merchant / Order                                 Purchased    Amount      Terms                    Status
+----  -----------------------------------------------  -----------  ----------  -----------------------  ---------------
+A     [[ORGANIZATION?|Rooms Direct Furniture]]  order [[ID_NUMBER?|RDF-55190823]]          [[DATE?|02/09/2026]]     [[MONEY|1,199.96]]   Pay-in-4 (0% APR)        PAID IN FULL
+B     [[ORGANIZATION?|PixelVault Games]]  order [[ID_NUMBER?|PVG-4410782]]                 [[DATE?|04/20/2026]]       [[MONEY|349.99]]   Pay-in-4 (0% APR)        PLACED
+C     [[ORGANIZATION?|Lone Star Tire & Wheel]]  order [[ID_NUMBER?|LSTW-2026-11934]]       [[DATE?|05/02/2026]]       [[MONEY|812.40]]   6 mo. @ 29.99% APR       PLACED
+
+Plan A installments: [[DATE?|02/09]] [[MONEY|299.99]] paid | [[DATE?|02/23]] [[MONEY|299.99]] paid | [[DATE?|03/09]] [[MONEY|299.99]] paid | [[DATE?|03/23]] failed,
+                     paid [[DATE?|04/03]] [[MONEY|299.99]] + late fee [[MONEY|7.00]]
+Plan B installments: [[DATE?|04/20]] [[MONEY|87.50]] paid | [[DATE?|05/04]] [[MONEY|87.50]] FAILED +[[MONEY|7.00]] | [[DATE?|05/18]] [[MONEY|87.50]] FAILED +[[MONEY|7.00]] |
+                     [[DATE?|06/01]] [[MONEY|87.49]] FAILED +[[MONEY|7.00]]          Past due [[MONEY|262.49]] + fees [[MONEY|21.00]] = [[MONEY|283.49]]
+Plan C installments: [[DATE?|06/02]] [[MONEY|147.48]] paid | [[DATE?|07/02]] [[MONEY|147.48]] FAILED | [[DATE?|08/02]] [[MONEY|147.48]] FAILED
+                     Principal remaining [[MONEY|685.22]] + accrued interest [[MONEY|34.68]] = [[MONEY|719.90]] (acceleration [[DATE?|08/15/2026]])
+                                                                     Total placed (Plans B + C):  [[MONEY|1,003.39]]
+
+SRP Debtor ID [[ID_NUMBER|SRP-4471-88021]]   [[PERSON|MCCREADY, TRAVIS J]]                                              Page 2 of 4
+--- Page 3 ---
+SRP Debtor ID [[ID_NUMBER|SRP-4471-88021]]   [[PERSON|MCCREADY, TRAVIS J]]                                              Page 3 of 4
+
+==================================================================================================================
+SECTION 4 -- CONTACT LOG (all times Central; calls recorded; Reg F 7-in-7 counter shown)
+==================================================================================================================
+[[DATE?|07/03/2026]] 09:14  OUT  [[PHONE|(210) 555-0147]]  Agent KDE ([[PERSON|Kayla D. Ellison]])  7in7: 1   Result: no answer.
+          Left limited-content message per 12 CFR 1006.2(j). Validation notice (model form B-1) mailed same day.
+[[DATE?|07/06/2026]] 18:22  IN   [[PHONE|(726) 555-0115]]  Agent MRO ([[PERSON|Marco Ruelas-Ortiz]])  Rec [[ID_NUMBER?|26070618221147]]
+          Right-party contact. Verified DOB + last 4 SSN [[SSN|7735]]. Mini-Miranda given. Cust states he was laid off
+          from [[EMPLOYER|Cibolo Creek]] [[DATE?|06/12]] ("they cut the whole night crew"), driving [[ORGANIZATION?|DoorDash]] part-time, ~[[MONEY|$300]]/wk. Says
+          wife [[PERSON|Kendra]] "does the bills." Offered 60% settlement on P1 [[MONEY|(268.15)]] -- declined. PTP [[MONEY|$100.00]] on [[DATE?|07/17]]
+          via card ending [[CREDIT_CARD|0562]].
+[[DATE?|07/10/2026]] 11:05  IN   [[PHONE|(210) 555-0193]]  Agent KDE ([[PERSON|Kayla D. Ellison]])
+          Caller [[PERSON|Kendra McCready]] (spouse; Texas community property state -- spouse is a "consumer" under 1006.2(e)).
+          States [[PERSON|Travis]] is at [[ORGANIZATION?|Judson Park Medical Center]] w/ [[MEDICAL_CONDITION|kidney stones]], had [[MEDICAL_CONDITION|ureteroscopy]] [[DATE|07/09]], asks
+          that we not call this week. Agent placed 7-day hold. Spouse verified her DOB [[DATE_OF_BIRTH|11/23/1994]].
+[[DATE?|07/17/2026]] 08:00  SYS  Scheduled payment [[MONEY|$100.00]] card ****[[CREDIT_CARD|0562]] APPROVED (P1).
+[[DATE?|07/24/2026]] 16:47  IN   [[PHONE|(210) 555-0147]]  Agent DJW ([[PERSON|Dana J. Whitfield]])
+          Cust upset re: [[ORGANIZATION?|SplitEasy]] late fees ("charged me 21 bucks while I was in the hospital"). Logged dispute on P2
+          fees; sent to client for review. Cust asked if we can report to "the bureaus" -- advised we furnish to
+          [[ORGANIZATION?|Equifax]]/[[ORGANIZATION?|Experian]]/[[ORGANIZATION?|TransUnion]] after validation period; P2 furnishing suspended during dispute.
+[[DATE?|08/02/2026]] 21:13  EML  from [[EMAIL|tjmccready93@yahoo.com]]  "pls stop calling me at my new job at
+          [[EMPLOYER|Hill Country Grocers]], im on the floor at [[INDIRECT_LOCATION|the DC on Walzem Rd]] and cant have my phone. text or email only." -- Flag: NO
+          CALLS 06:00-15:30 M-F (inconvenient time per 1006.6(b)(1)). Employer contact prohibited.
+[[DATE?|08/14/2026]] 15:31  IN   [[PHONE|(210) 555-0147]]  Agent RVT ([[PERSON|Rolando V. Treviño]])  Rec [[ID_NUMBER?|26081415311802]]
+          Cust making payment on P1. Agent note (VERBATIM, entered in free-text):
+          "CUST READ CARD [[CREDIT_CARD|4400 7626 0007 0562]] EXP [[CARD_EXPIRY|04/28]] CVV [[CVV|318]] FOR PMT [[MONEY|$150]] -- RAN IN VT"
+          *** PCI EXCEPTION -- free-text card data. Supervisor [[PERSON|A. Castellanos]] notified [[DATE?|08/14/2026]] 15:44; note
+          to be purged from production; retained in this export under legal hold [[CASE_NUMBER|LH-2026-031]] ***
+          Payment [[MONEY|$150.00]] APPROVED. Cust asked about settlement on [[ORGANIZATION?|SplitEasy]]; agent quoted 55% [[MONEY|(551.86)]] one-time.
+[[DATE?|08/20/2026]] 10:02  MAIL Letter of representation from [[ORGANIZATION?|Lone Star Consumer Law, PLLC]], [[PERSON|Rebecca Thibault-Nuñez]], Esq.
+          (TX Bar [[ID_NUMBER?|24098812]]), [[PHONE?|(210) 555-0130]]. Directs that all communication go through counsel
+          (15 U.S.C. 1692c(a)(2)). Alleges violations re: [[DATE?|08/14]] card handling and [[DATE?|07/10]] third-party
+          contact. Account flagged ATTY REP. Auto-dialer suppression applied to [[PHONE|(210) 555-0147]],
+          [[PHONE|(726) 555-0115]], [[PHONE|(210) 555-0193]].
+[[DATE?|08/21/2026]] 09:30  OUT  [[PHONE?|(210) 555-0130]]  Agent LGZ ([[PERSON|Lucia Garza]], compliance)  Spoke w/ paralegal [[PERSON|Bree]];
+          confirmed representation; provided itemization (12 CFR 1006.34(c)(2)) for P1 and P2.
+[[DATE?|09/03/2026]] 14:10  SYS  Creditor [[ORGANIZATION?|QuickBridge]] filed suit (pre-placement authorization):
+          [[ORGANIZATION?|Riverwalk Lending Partners]] v. [[PERSON|Travis J. McCready]], Justice Court Pct. 4, [[LOCATION?|Bexar County]],
+          Cause No. [[CASE_NUMBER|JP4-SC-26-001187]]. SRP placement P1 recalled for P1 balance only.
+[[DATE?|09/15/2026]] 11:48  OUT  [[PHONE?|(210) 555-0130]]  Agent LGZ ([[PERSON|Lucia Garza]])
+          Atty offers [[MONEY|$650.00]] lump sum to resolve P2 [[MONEY|(1,003.39)]] + mutual release of FDCPA claims, payable by
+          [[DATE?|10/15/2026]]. Sent to [[ORGANIZATION?|SplitEasy]] for authority. Response due [[DATE?|09/29]].
+[[DATE?|09/30/2026]] 13:20  SYS  [[ORGANIZATION?|SplitEasy]] accepts [[MONEY|$650.00]]; settlement letter [[ID_NUMBER?|SL-26-09-4471]] issued to counsel. P2 to be
+          reported "settled for less than full balance" upon receipt.
+
+END OF CONTACT LOG -- 2 placements, 14 contact events.
+
+SRP Debtor ID [[ID_NUMBER|SRP-4471-88021]]   [[PERSON|MCCREADY, TRAVIS J]]                                              Page 3 of 4
+--- Page 4 ---
+ATTACHMENT A -- COPY OF VALIDATION NOTICE MAILED [[DATE?|07/03/2026]] (USPS First-Class, IMb [[ID_NUMBER?|00270 123 902118804 4471880210]])
+
+[[ORGANIZATION?|Southwest Recovery Partners, Inc.]]
+[[ADDRESS?|9100 IH-10 West, Suite 640]]
+[[ADDRESS?|San Antonio TX 78230]]
+Mon-Fri 8am-8pm CT  [[PHONE?|1-888-555-0162]]  [[URL?|www.swrecoverypay.com]]
+
+[[PERSON|Travis J McCready]]                                   Reference: [[ID_NUMBER|SRP-4471-88021]]
+[[ADDRESS|6218 Pinewood Hollow Dr]]
+[[ADDRESS|San Antonio TX 78244]]
+
+[[ORGANIZATION?|Southwest Recovery Partners]] is a debt collector. We are trying to collect a debt that you owe to
+[[ORGANIZATION?|Riverwalk Lending Partners]] (through [[ORGANIZATION?|QuickBridge Cash Advance, LLC]]). We will use any information you give us to
+help collect the debt.
+
+Our information shows:
+   You had a deferred presentment loan from [[ORGANIZATION?|QuickBridge Cash Advance]] with account number [[BANK_ACCOUNT|QB-L-2026-004471]].
+   As of [[DATE?|June 10, 2026]], you owed:                                                [[MONEY|$446.92]]
+   Between [[DATE?|June 10, 2026]] and today:
+      You were charged this amount in interest:                                  +    [[MONEY|$0.00]]
+      You were charged this amount in fees:                                      +    [[MONEY|$0.00]]
+      You paid or were credited this amount toward the debt:                     -    [[MONEY|$0.00]]
+   Total amount of the debt now:                                                       [[MONEY|$446.92]]
+
+How can you dispute the debt?
+   - Call or write to us by [[DATE?|August 11, 2026]], to dispute all or part of the debt. If you do not, we will
+     assume that our information is correct.
+   - If you write to us by [[DATE?|August 11, 2026]], we must stop collection on any amount you dispute until we
+     send you information that shows you owe the debt. You may use the form below or write to us without
+     the form. You may also include supporting documents. We accept disputes electronically at
+     [[URL?|www.swrecoverypay.com/dispute]].
+
+What else can you do?
+   - Write to ask for the name and address of the original creditor, if different from the current creditor.
+   - Go to www.cfpb.gov/debt-collection to learn more about your rights under federal law.
+   - Contact us about your payment options.
+   - Póngase en contacto con nosotros para solicitar una copia de este formulario en español.
+
+Texas law: This collection agency is licensed/bonded with the Texas Secretary of State. Complaints may be
+directed to the Office of Consumer Credit Commissioner, 2601 N. Lamar Blvd., Austin, Texas 78705.
+
+- - - - - - - - - - - - - - - - - - - - - - - tear here - - - - - - - - - - - - - - - - - - - - - - - - - -
+How do you want to respond?            Mail this form to: [[ADDRESS?|SRP, PO Box 791055, San Antonio TX 78279-1055]]
+                                       [[PERSON|Travis J McCready]]   Reference: [[ID_NUMBER|SRP-4471-88021]]
+Check all that apply:
+[ ] I want to dispute the debt because I think:
+      [ ] This is not my debt.   [ ] The amount is wrong.   [ ] Other (please describe on reverse or attach)
+[ ] I want you to send me the name and address of the original creditor.
+[ ] I enclosed this amount: $ ____________  Make your check payable to [[ORGANIZATION?|Southwest Recovery Partners]]. Include
+    the reference number [[ID_NUMBER|SRP-4471-88021]].
+[ ] Quiero este formulario en español.
+
+SRP Debtor ID [[ID_NUMBER|SRP-4471-88021]]   [[PERSON|MCCREADY, TRAVIS J]]                                              Page 4 of 4

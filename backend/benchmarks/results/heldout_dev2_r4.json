@@ -1,0 +1,988 @@
+{
+ "recall": 0.9079965606190885,
+ "precision": 0.9897233201581027,
+ "f1": 0.9471001276542704,
+ "per_type": {
+  "PHONE": {
+   "gold": 96,
+   "caught": 96
+  },
+  "PERSON": {
+   "gold": 527,
+   "caught": 516
+  },
+  "MRN": {
+   "gold": 20,
+   "caught": 20
+  },
+  "DATE_OF_BIRTH": {
+   "gold": 36,
+   "caught": 36
+  },
+  "HEALTH_PLAN_ID": {
+   "gold": 13,
+   "caught": 11
+  },
+  "INDIRECT_LOCATION": {
+   "gold": 62,
+   "caught": 25
+  },
+  "INDIRECT_ROLE": {
+   "gold": 32,
+   "caught": 18
+  },
+  "PHYSICAL_DESCRIPTOR": {
+   "gold": 36,
+   "caught": 21
+  },
+  "LICENSE_PLATE": {
+   "gold": 11,
+   "caught": 7
+  },
+  "LAW_ENFORCEMENT_ID": {
+   "gold": 35,
+   "caught": 35
+  },
+  "ADDRESS": {
+   "gold": 58,
+   "caught": 55
+  },
+  "SCHOOL": {
+   "gold": 18,
+   "caught": 17
+  },
+  "EMPLOYER": {
+   "gold": 38,
+   "caught": 32
+  },
+  "USERNAME": {
+   "gold": 29,
+   "caught": 27
+  },
+  "EMAIL": {
+   "gold": 21,
+   "caught": 21
+  },
+  "SSN": {
+   "gold": 11,
+   "caught": 11
+  },
+  "ID_NUMBER": {
+   "gold": 22,
+   "caught": 21
+  },
+  "VIN": {
+   "gold": 6,
+   "caught": 6
+  },
+  "DRIVERS_LICENSE": {
+   "gold": 10,
+   "caught": 7
+  },
+  "DEVICE_ID": {
+   "gold": 10,
+   "caught": 9
+  },
+  "CREDIT_CARD": {
+   "gold": 8,
+   "caught": 7
+  },
+  "GPS": {
+   "gold": 7,
+   "caught": 7
+  },
+  "CLAIM_NUMBER": {
+   "gold": 14,
+   "caught": 13
+  },
+  "POLICY_NUMBER": {
+   "gold": 9,
+   "caught": 7
+  },
+  "MEDICARE_ID": {
+   "gold": 3,
+   "caught": 3
+  },
+  "PASSWORD": {
+   "gold": 5,
+   "caught": 3
+  },
+  "IP_ADDRESS": {
+   "gold": 3,
+   "caught": 3
+  },
+  "ROUTING_NUMBER": {
+   "gold": 3,
+   "caught": 3
+  },
+  "BANK_ACCOUNT": {
+   "gold": 15,
+   "caught": 14
+  },
+  "NATIONAL_ID": {
+   "gold": 4,
+   "caught": 4
+  },
+  "PASSPORT": {
+   "gold": 1,
+   "caught": 1
+  }
+ },
+ "misses": [
+  {
+   "doc": "103_sexual_health_clinic_note",
+   "value": "Keyonna R.",
+   "coverage": 0.78,
+   "context": ": Corinne Abernathy-Moss, CNM, WHNP-BC\u23ceMA:        Keyonna R.    Interpreter: none needed\u23ce-",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "111_text_message_extraction_report",
+   "value": "K-Wolf",
+   "coverage": 0.0,
+   "context": "Snapchat user ID lilmarq_414          Snapchat\u23ce  \"K-Wolf\"             kwolf.mke (Insta",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "111_text_message_extraction_report",
+   "value": "K-Wolf",
+   "coverage": 0.0,
+   "context": "ise     Delivered\u23ce 8   06/13/2026 23:16:31   In   K-Wolf @kwolf.mke        Instagram  ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "111_text_message_extraction_report",
+   "value": "K-Wolf",
+   "coverage": 0.0,
+   "context": "    upstairs rear\u23ce 9   06/13/2026 23:18:48   Out  K-Wolf @kwolf.mke        Instagram  ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "115_auto_dec_page_claim_notes",
+   "value": "Tran Van Minh",
+   "coverage": 0.27,
+   "context": "            RAYTOWN MO 64138-2214\u23ceAGENT:          Tran Van Minh Agency, LLC  (agent code 0447",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "117_u_visa_declaration",
+   "value": "Rosa A. Tzul X.",
+   "coverage": 0.5,
+   "context": "                                               ___Rosa A. Tzul X._____________\u23ce                ",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "118_ocr_handwritten_witness_statement",
+   "value": "Halvors0n",
+   "coverage": 0.0,
+   "context": "k\" I think his rea1 narne is Mackenzie s0rnething Halvors0n?? He is ta11, 6'3 rnaybe,\u23cebuz",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "118_ocr_handwritten_witness_statement",
+   "value": "0rnar",
+   "coverage": 0.0,
+   "context": " 911 0n rny ce11 at 1:2O. Deshawn and a cust0mer, 0rnar (I d0nt kn0w\u23ce1ast narne, he d",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "118_ocr_handwritten_witness_statement",
+   "value": "AMB",
+   "coverage": 0.0,
+   "context": "                                        Initials: AMB     Page 1 of 2\u23ce=============",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "118_ocr_handwritten_witness_statement",
+   "value": "R Lindb0rg",
+   "coverage": 0.89,
+   "context": "             Date/Tirne: 7/18/26 O2:31\u23ceWitness:   R Lindb0rg #l184\u23ceSupervis0r rev: Sgt. D.",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "121_911_call_transcript",
+   "value": "TOB",
+   "coverage": 0.0,
+   "context": "--------------\u23ceCAD NARRATIVE (selected)\u23ce02:18:12  TOB CALLER ADVSD PT 29YOM UNC NOT",
+   "entity": "PERSON"
+  },
+  {
+   "doc": "114_hospital_itemized_bill_ub04",
+   "value": "AHC883104471-01",
+   "coverage": 0.0,
+   "context": "-7720418\u23ceB  HRYTSENKO MYKOLA               01     AHC883104471-01           DUQUESNE STEEL SVC ",
+   "entity": "HEALTH_PLAN_ID"
+  },
+  {
+   "doc": "114_hospital_itemized_bill_ub04",
+   "value": "G-55018",
+   "coverage": 0.0,
+   "context": "  AHC883104471-01           DUQUESNE STEEL SVC    G-55018\u23ceFL63 TREATMENT AUTH  AUTH2604",
+   "entity": "HEALTH_PLAN_ID"
+  },
+  {
+   "doc": "101_pediatric_er_dog_bite",
+   "value": "the splash-pad playground at Cedar Bend MetroPark,\n  next to the Patterson Road picnic shelter",
+   "coverage": 0.38,
+   "context": "utes\u23ce  after being bitten by an unfamiliar dog at the splash-pad playground at Cedar Bend MetroPark,\u23ce  next to the Patterson Road picnic shelter. Per mother, Amara and her 11",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "102_psychotherapy_intake",
+   "value": "the basement of St. Brendan's on S. Yakima Ave, Thursday nights",
+   "coverage": 0.72,
+   "context": "attempt at cutting down (2018) via\u23ceAA meetings in the basement of St. Brendan's on S. Yakima Ave, Thursday nights.\u23ceClient reports she typically",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "102_psychotherapy_intake",
+   "value": "the Rusty Anchor on Ruston Way",
+   "coverage": 0.0,
+   "context": "ay nights.\u23ceClient reports she typically drinks at the Rusty Anchor on Ruston Way after her shift ends\u23ceat 6 a.m",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "102_psychotherapy_intake",
+   "value": "the Five Mile Drive loop at Point Defiance, usually\nby the Owen Beach stairs around 2 p.m.",
+   "coverage": 0.0,
+   "context": "t\u23cebut no violence.\" Client walks her dog daily on the Five Mile Drive loop at Point Defiance, usually\u23ceby the Owen Beach stairs around 2 p.m. Spends Sundays at her mother'",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "102_psychotherapy_intake",
+   "value": "her mother's condo at the Stadium\nDistrict high-rise on N. E St",
+   "coverage": 0.0,
+   "context": "Owen Beach stairs around 2 p.m. Spends Sundays at her mother's condo at the Stadium\u23ceDistrict high-rise on N. E St. Finances strained: about $9,",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "103_sexual_health_clinic_note",
+   "value": "the CVS at North Decatur Rd and\n       Clairmont",
+   "coverage": 0.74,
+   "context": ":  1. Doxycycline 100 mg PO BID x 7 days, e-Rx to the CVS at North Decatur Rd and\u23ce       Clairmont (pt request -- \"not the one b",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "105_police_supplemental_hit_and_run",
+   "value": "E. State St at N. Alpine Rd, eastbound curb lane",
+   "coverage": 0.54,
+   "context": " OCC:     05/22/2026 approx. 21:47      LOCATION: E. State St at N. Alpine Rd, eastbound curb lane\u23ceSUPP DATE:         05/29/2026",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "105_police_supplemental_hit_and_run",
+   "value": "store #188 at the NE corner of State & Alpine",
+   "coverage": 0.33,
+   "context": "    Cell: 779-221-0876\u23ce  Employer: Road Ranger -- store #188 at the NE corner of State & Alpine (overnight clerk)\u23ce\u23ceSUSPECT VE",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "105_police_supplemental_hit_and_run",
+   "value": "the Ace Hardware lot",
+   "coverage": 0.0,
+   "context": "e Subaru stop for \"maybe two seconds\" in front of the Ace Hardware lot.\u23ceHe said its passenger-side m",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "105_police_supplemental_hit_and_run",
+   "value": "Kozak's Collision on Broadway, behind the old Sears building",
+   "coverage": 0.1,
+   "context": "ll Ruffin #1142 located V1 inside the rear bay of\u23ceKozak's Collision on Broadway, behind the old Sears building. Owner Mirek Kozak stated a y",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "105_police_supplemental_hit_and_run",
+   "value": "the Woodhaven Lakes apartments off Perryville, building 6, top floor on the end",
+   "coverage": 0.75,
+   "context": "irlfriend, Kaylee Rae Durbin (DOB\u23ce02/14/2005), at the Woodhaven Lakes apartments off Perryville, building 6, top floor on the end.\u23ceMrs. Schuster said Brayden \"",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "106_deposition_forklift_injury",
+   "value": "Building C, the one by the train tracks",
+   "coverage": 0.0,
+   "context": "ods distribution center in the Raritan park,\u23ce17   Building C, the one by the train tracks.\u23ce18         Q.   Did you have",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "106_deposition_forklift_injury",
+   "value": "dock door forty-one",
+   "coverage": 0.0,
+   "context": " aisle. You go\u23ce 4   down the main travel aisle by dock door forty-one. There's yellow\u23ce 5   lines fo",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "108_workers_comp_claim_nurse",
+   "value": "6 NORTH -- MEDICAL/SURGICAL, ROOM 6N-22, BED A",
+   "coverage": 0.0,
+   "context": "-4000\u23ce   Department / Unit where injury occurred: 6 NORTH -- MEDICAL/SURGICAL, ROOM 6N-22, BED A\u23ce   Supervisor: Kristin Aalton",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "108_workers_comp_claim_nurse",
+   "value": "the last room at the end of the north hallway, out of sight of the nurses' station",
+   "coverage": 0.0,
+   "context": "17/2026 and 02/18/2026, not filled.\u23ceRoom 6N-22 is the last room at the end of the north hallway, out of sight of the nurses' station.\u23ceCorrective actions: Behavior",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "109_ssa_function_report",
+   "value": "the old Archuleta place, last trailer past the Cuchara turnoff, blue roof",
+   "coverage": 0.0,
+   "context": " CO 81055   Physical: 22870 County Road 421\u23ce     (the old Archuleta place, last trailer past the Cuchara turnoff, blue roof)\u23ce4.   With whom do you live? ",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "110_school_504_plan",
+   "value": "the Media Center conference room B",
+   "coverage": 0.0,
+   "context": ".\u23ce   b. Testing in reduced-distraction setting -- the Media Center conference room B; ESE proctor.\u23ce   c. Preferent",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "110_school_504_plan",
+   "value": "the PE office\n      next to the boys' locker room",
+   "coverage": 0.0,
+   "context": "sa Tran. Glucagon (Baqsimi) kept in clinic and in the PE office\u23ce      next to the boys' locker room.\u23ce   j. Field trips / athletic",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "110_school_504_plan",
+   "value": "the corner of NW 43rd St and 71st Pl, in front of the Circle K",
+   "coverage": 0.79,
+   "context": ".\u23ce\u23ceTRANSPORTATION\u23ce   Rides bus #418 (AM), stop at the corner of NW 43rd St and 71st Pl, in front of the Circle K.\u23ce   Driver Mr. Odell Washingt",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "111_text_message_extraction_report",
+   "value": "Cool Waters pavilion at\n                                                                       Washington Park",
+   "coverage": 0.53,
+   "context": "                                    thing? its at Cool Waters pavilion at\u23ce                                                                       Washington Park by the lagoon\u23ce 2   06/13/2026",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "111_text_message_extraction_report",
+   "value": "Shays crib on N 47th,\n                                                                       upstairs rear",
+   "coverage": 0.0,
+   "context": "                                     goin down at Shays crib on N 47th,\u23ce                                                                       upstairs rear\u23ce 9   06/13/2026 23:18:48   Ou",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "111_text_message_extraction_report",
+   "value": "unc Pookies on Hampton, the green house\n                                                                       by the church",
+   "coverage": 0.55,
+   "context": "                                                  unc Pookies on Hampton, the green house\u23ce                                                                       by the church. somebody shot at us\u23ce18   06/",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "111_text_message_extraction_report",
+   "value": "parking lot, BP station, W Capitol Dr & N 35th St",
+   "coverage": 0.46,
+   "context": "  06/13/2026 21:14 - 22:31   43.1179, -87.9569  ~ parking lot, BP station, W Capitol Dr & N 35th St\u23ce  06/14/2026 00:01 - 01:44   ",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "116_protective_order_affidavit",
+   "value": "the lot of the Speedway at Tates Creek and Gainesway",
+   "coverage": 0.72,
+   "context": "   Travis's truck was parked across the street in the lot of the Speedway at Tates Creek and Gainesway,\u23ce   where he has parked at le",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "116_protective_order_affidavit",
+   "value": "the back row of the Meijer lot that faces our entrance",
+   "coverage": 0.0,
+   "context": "6, my coworker Chantel Rucker\u23ce   saw his truck in the back row of the Meijer lot that faces our entrance at closing (8 p.m.). On\u23ce   Se",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "116_protective_order_affidavit",
+   "value": "my Thursday night Celebrate Recovery group at Southland Christian",
+   "coverage": 0.0,
+   "context": "091847. Travis knew things like\u23ce   that I went to my Thursday night Celebrate Recovery group at Southland Christian and that I\u23ce   went to my sist",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "116_protective_order_affidavit",
+   "value": "my sister's apartment at The Lofts at Hamburg, unit 3214",
+   "coverage": 0.55,
+   "context": "roup at Southland Christian and that I\u23ce   went to my sister's apartment at The Lofts at Hamburg, unit 3214, which I never told him.\u23ce\u23ce5. ",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "117_u_visa_declaration",
+   "value": "the aldea of\n   Chuixchimal, municipio de Momostenango, department of Totonicap\u00e1n",
+   "coverage": 0.0,
+   "context": "alia Tzul Xiloj. I was born on March 12, 1990, in the aldea of\u23ce   Chuixchimal, municipio de Momostenango, department of Totonicap\u00e1n, Guatemala. I am Maya K'iche'",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "117_u_visa_declaration",
+   "value": "the field on Old Stage Road near the Graniterock\n   quarry",
+   "coverage": 0.87,
+   "context": "se.\u23ce\u23ce6. On March 14, 2025, at about 5:30 a.m., at the field on Old Stage Road near the Graniterock\u23ce   quarry, I told Chato I would complai",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "118_ocr_handwritten_witness_statement",
+   "value": "in sguad car behind the bar",
+   "coverage": 0.0,
+   "context": "aken by: 0fc. R. Lindb0rg #l184         Location: in sguad car behind the bar\u23ce\u23ce----------------------------",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "118_ocr_handwritten_witness_statement",
+   "value": "the Ca sey's by the interstate",
+   "coverage": 0.0,
+   "context": "s0rnething. He 1eft s0uth 0n Minnes0ta Ave t0ward\u23cethe Ca sey's by the interstate. Mack's friend, a wornan with",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "118_ocr_handwritten_witness_statement",
+   "value": "by the zoo in the duplex with the b0at in the yard",
+   "coverage": 0.74,
+   "context": "gfie1d f0r an assau1t.\u23ceHe t01d rne 0nce he 1ives \"by the zoo in the duplex with the b0at in the yard\" and he w0rks\u23cef0r Midwest Roo",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "119_business_bank_statement",
+   "value": "Dearborn - Michigan Ave #0221",
+   "coverage": 0.0,
+   "context": "                                          Branch: Dearborn - Michigan Ave #0221\u23ceDEARBORN MI 48126-1442       ",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "119_business_bank_statement",
+   "value": "GLCB ATM - SCHAEFER RD & FORD RD",
+   "coverage": 0.68,
+   "context": "    8,411.60     13,448.36\u23ce08/28  ATM WITHDRAWAL  GLCB ATM - SCHAEFER RD & FORD RD               400.00         ",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "120_obituary_estate_inventory",
+   "value": "Hummingbird\nfamily cemetery",
+   "coverage": 0.44,
+   "context": " Fourkiller Indian Baptist Church, with burial at Hummingbird\u23cefamily cemetery. Arrangements by Green Countr",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "121_911_call_transcript",
+   "value": "The Wyman Park Terrace, the building with the green awning",
+   "coverage": 0.59,
+   "context": " Calvert Street, apartment 4F?\u23ce[00:09]  C1:  Yes. The Wyman Park Terrace, the building with the green awning. The front door's\u23ce           ",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "122_ime_report_lumbar",
+   "value": "the loading dock behind Ciccone's Package Store on Shrewsbury Street",
+   "coverage": 0.66,
+   "context": "roximately 10:30 a.m., while making a delivery to\u23cethe loading dock behind Ciccone's Package Store on Shrewsbury Street, he was hand-trucking four ha",
+   "entity": "INDIRECT_LOCATION"
+  },
+  {
+   "doc": "104_jail_medical_intake",
+   "value": "his cousin who is also in\n  custody here -- \"they put him in 3-D\"",
+   "coverage": 0.0,
+   "context": "complex in 2013.\" Requests to be housed away from his cousin who is also in\u23ce  custody here -- \"they put him in 3-D\"; referred to classification.\u23ce",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "105_police_supplemental_hit_and_run",
+   "value": "RMTD bus operator, Route 4 (was stopped at the E. State/Alpine shelter)",
+   "coverage": 0.22,
+   "context": "d, IL 61114    Cell: (815) 670-3349\u23ce  Occupation: RMTD bus operator, Route 4 (was stopped at the E. State/Alpine shelter)  Badge RMTD-2207\u23ce\u23ceWITNESS 2\u23ce ",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "105_police_supplemental_hit_and_run",
+   "value": "the driver buys Zyn and Monster from me\nalmost every night around 9",
+   "coverage": 0.0,
+   "context": "same car \"a bunch of times\" at the store because \"the driver buys Zyn and Monster from me\u23cealmost every night around 9.\" He knows him only as \"Bray\"",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "106_deposition_forklift_injury",
+   "value": "the second-shift lead, only guy certified on the reach truck",
+   "coverage": 0.0,
+   "context": "A.   Vinny. Vincent Caruso. He's the -- he's\u23ce12   the second-shift lead, only guy certified on the reach truck.\u23ce13         Q.   Did you see ",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "107_recorded_statement_grocery_fall",
+   "value": "The produce manager, the older Vietnamese lady",
+   "coverage": 0.0,
+   "context": "him say that?\u23ceCLMT:  The produce lady, Miss Linh. The produce manager, the older Vietnamese lady.\u23ce       She came over and she",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "107_recorded_statement_grocery_fall",
+   "value": "a little boy in the\n       buggy seat",
+   "coverage": 0.0,
+   "context": "she helped me sit up. And a customer, a lady with a little boy in the\u23ce       buggy seat, she said she slipped there t",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "108_workers_comp_claim_nurse",
+   "value": "night charge nurse, 6N",
+   "coverage": 0.0,
+   "context": "n-Sato\u23ce   Witnesses:        Abdirahman Yusuf, RN (night charge nurse, 6N) ext. 4618;\u23ce                 ",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "108_workers_comp_claim_nurse",
+   "value": "an 81-year-old retired Duluth firefighter admitted for a hip fracture who has\ndementia and sundowns every night",
+   "coverage": 0.0,
+   "context": " alarm went off in 6N-22. The\u23cepatient in bed A is an 81-year-old retired Duluth firefighter admitted for a hip fracture who has\u23cedementia and sundowns every night. He was trying to climb over ",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "110_school_504_plan",
+   "value": "the only student in Mrs. Wolfe's study skills section with a pump",
+   "coverage": 0.5,
+   "context": "ybody\" and prefers to bolus at his desk. He is\u23ce   the only student in Mrs. Wolfe's study skills section with a pump, and has asked that peers not",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "115_auto_dec_page_claim_notes",
+   "value": "the fuel-tanker driver who was unloading at the store",
+   "coverage": 0.0,
+   "context": "exists (cams 2, 4); will hold\u23ce  30 days. Witness: the fuel-tanker driver who was unloading at the store, name per KCPD supp:\u23ce  Gordon",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "118_ocr_handwritten_witness_statement",
+   "value": "he w0rks at the Sanford 1ab\n0n nights and c0rnes in after his shift",
+   "coverage": 0.17,
+   "context": "15 Tanner carne in. Tanner Ree1, he is a regu1ar, he w0rks at the Sanford 1ab\u23ce0n nights and c0rnes in after his shift. Tanner sat at the end by the",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "118_ocr_handwritten_witness_statement",
+   "value": "(0ur d00r guy)",
+   "coverage": 0.0,
+   "context": "thern and said I was ca11ing the\u23cec0ps and Deshawn (0ur d00r guy) carne 0ver.\u23ce\u23ceMack picked up a",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "118_ocr_handwritten_witness_statement",
+   "value": "he drives f0r the Dakota Ca b c0mpany",
+   "coverage": 0.27,
+   "context": "wn and a cust0mer, 0rnar (I d0nt kn0w\u23ce1ast narne, he drives f0r the Dakota Ca b c0mpany) h e1d Mack d0wn but he g0t l",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "122_ime_report_lumbar",
+   "value": "his son's U-12 team at Worcester Youth Soccer",
+   "coverage": 0.0,
+   "context": "ving. Sleeps 4 hours. He has been\u23ceunable to coach his son's U-12 team at Worcester Youth Soccer this season.\u23ce\u23cePAST MEDICAL HI",
+   "entity": "INDIRECT_ROLE"
+  },
+  {
+   "doc": "104_jail_medical_intake",
+   "value": "healed GSW entry scar, round, 1 cm, with hearing loss L",
+   "coverage": 0.4,
+   "context": "rotomy scar (stab wound 2016)\u23ce  L temple          healed GSW entry scar, round, 1 cm, with hearing loss L\u23ce  Upper teeth       gold crow",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "104_jail_medical_intake",
+   "value": "gold crown upper left incisor",
+   "coverage": 0.0,
+   "context": "nd, 1 cm, with hearing loss L\u23ce  Upper teeth       gold crown upper left incisor\u23ce  Other             Fresh abr",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "105_police_supplemental_hit_and_run",
+   "value": "a young white guy, skinny, with his hair up in a bun",
+   "coverage": 0.63,
+   "context": "ribed the driver, seen in the bus\u23ceheadlights, as \"a young white guy, skinny, with his hair up in a bun,\" and a front passenger she\u23ceb",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "107_recorded_statement_grocery_fall",
+   "value": "A young boy, red hair, had a ring in his nose",
+   "coverage": 0.0,
+   "context": "ought one.\u23ceADJ:   Which employee was that?\u23ceCLMT:  A young boy, red hair, had a ring in his nose. His tag said Colby. He was\u23ce ",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "109_ssa_function_report",
+   "value": "My knuckles are big and twisted, you\n     can see it",
+   "coverage": 0.0,
+   "context": "\u23ce     I am also diabetic now from the prednisone. My knuckles are big and twisted, you\u23ce     can see it, and I lost weight down to 11",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "109_ssa_function_report",
+   "value": "I lost weight down to 112 lbs",
+   "coverage": 0.0,
+   "context": "les are big and twisted, you\u23ce     can see it, and I lost weight down to 112 lbs.\u23ce\u23ceSECTION H - CERTIFICATION\u23ce ",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "110_school_504_plan",
+   "value": "pump pod on the back of his left arm (visible)",
+   "coverage": 0.0,
+   "context": "ISHING HEALTH INFO FOR SUBSTITUTE FOLDER\u23ce   Wears pump pod on the back of his left arm (visible); medical alert bracelet, blac",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "110_school_504_plan",
+   "value": "medical alert bracelet, black, right wrist",
+   "coverage": 0.0,
+   "context": "s pump pod on the back of his left arm (visible); medical alert bracelet, black, right wrist;\u23ce   healed 4 cm scar above ri",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "111_text_message_extraction_report",
+   "value": "light skin dude w the braids n the\n                                                                       cross tat under his eye",
+   "coverage": 0.0,
+   "context": "                                                  light skin dude w the braids n the\u23ce                                                                       cross tat under his eye\u23ce13   06/14/2026 01:13:20   In",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "116_protective_order_affidavit",
+   "value": "6'1\", about 230 lbs, shaved head, red beard, \"Spurlock\" tattooed across the\n             back of his neck, scar through left eyebrow",
+   "coverage": 0.28,
+   "context": "    KY OL#: S06-418-822\u23ce             Description: 6'1\", about 230 lbs, shaved head, red beard, \"Spurlock\" tattooed across the\u23ce             back of his neck, scar through left eyebrow\u23ce             Employer: Bluegr",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "116_protective_order_affidavit",
+   "value": "a bump on the bridge of my nose",
+   "coverage": 0.0,
+   "context": "ken nose that night and said I fell. I still have a bump on the bridge of my nose.\u23ce\u23ce7. Travis has told me he is",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "118_ocr_handwritten_witness_statement",
+   "value": "he has a tatt00 0f a w01f head 0n the 1eft side 0f his neck",
+   "coverage": 0.89,
+   "context": " heavy, he had 0n a purp1e Vikings jersey #18 and\u23cehe has a tatt00 0f a w01f head 0n the 1eft side 0f his neck. He was a1ready drunk when he",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "118_ocr_handwritten_witness_statement",
+   "value": "1ong b1ack hair and\na n0se ring, rea11y thin",
+   "coverage": 0.89,
+   "context": "s by the interstate. Mack's friend, a wornan with 1ong b1ack hair and\u23cea n0se ring, rea11y thin, was with hirn, she paid with",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "121_911_call_transcript",
+   "value": "the pink scrubs, I've got braids",
+   "coverage": 0.22,
+   "context": " them in?\u23ce[04:36]  C2:  I'll go down. I'm wearing the pink scrubs, I've got braids.\u23ce[04:40]  CT:  What does your",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "121_911_call_transcript",
+   "value": "He's like six foot, skinny, he has a beard and a big tattoo of a koi fish on his left\n              arm, and he has a scar on his chin",
+   "coverage": 0.79,
+   "context": "officer knows who he's looking for?\u23ce[04:43]  C1:  He's like six foot, skinny, he has a beard and a big tattoo of a koi fish on his left\u23ce              arm, and he has a scar on his chin. He's wearing gray sweatpants",
+   "entity": "PHYSICAL_DESCRIPTOR"
+  },
+  {
+   "doc": "105_police_supplemental_hit_and_run",
+   "value": "DX 20915",
+   "coverage": 0.0,
+   "context": " Kia Soul with a\u23ce  pink \"Baby on Board\" decal, IL DX 20915.\u23ce\u23ceDet. N. Wojcik #D-6614   05",
+   "entity": "LICENSE_PLATE"
+  },
+  {
+   "doc": "118_ocr_handwritten_witness_statement",
+   "value": "1-49 ...",
+   "coverage": 0.0,
+   "context": "ssenger side. SD p1ate, I th0ught it started with 1-49 ... and\u23ceDeshawn wr0te d0wn l49 A7",
+   "entity": "LICENSE_PLATE"
+  },
+  {
+   "doc": "118_ocr_handwritten_witness_statement",
+   "value": "l49 A7KX",
+   "coverage": 0.0,
+   "context": "t it started with 1-49 ... and\u23ceDeshawn wr0te d0wn l49 A7KX 0r s0rnething. He 1eft s0uth ",
+   "entity": "LICENSE_PLATE"
+  },
+  {
+   "doc": "120_obituary_estate_inventory",
+   "value": "OK 4418 BN",
+   "coverage": 0.0,
+   "context": "Lowe jon boat w/ 25 hp Mercury & trailer, OK reg. OK 4418 BN                $3,200.00\u23ce\u23ceSCH",
+   "entity": "LICENSE_PLATE"
+  },
+  {
+   "doc": "106_deposition_forklift_injury",
+   "value": "Perth Amboy",
+   "coverage": 0.0,
+   "context": "\u23ce 8         A.   116 Kearny Avenue, second floor, Perth Amboy.\u23ce 9         Q.   Who lives th",
+   "entity": "ADDRESS"
+  },
+  {
+   "doc": "109_ssa_function_report",
+   "value": "22870 County Road 421",
+   "coverage": 0.83,
+   "context": "address: PO Box 417, La Veta CO 81055   Physical: 22870 County Road 421\u23ce     (the old Archuleta place",
+   "entity": "ADDRESS"
+  },
+  {
+   "doc": "118_ocr_handwritten_witness_statement",
+   "value": "Si0ux Fa11s SD 571O5",
+   "coverage": 0.0,
+   "context": "ddress: 4l17 S. Grange Ave Apt 2O6   City/St/Zip: Si0ux Fa11s SD 571O5\u23ceErnp1oyer: The B1ue Her0n Tap",
+   "entity": "ADDRESS"
+  },
+  {
+   "doc": "122_ime_report_lumbar",
+   "value": "Worcester State",
+   "coverage": 0.0,
+   "context": "e. Right ACL reconstruction 2004 (college soccer, Worcester State). No prior WC claims.\u23ceMedicat",
+   "entity": "SCHOOL"
+  },
+  {
+   "doc": "106_deposition_forklift_injury",
+   "value": "Goya",
+   "coverage": 0.0,
+   "context": "ver drive a forklift yourself?\u23ce 9         A.   At Goya, yes, sit-down. I had a card.",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "111_text_message_extraction_report",
+   "value": "Kwik Trip",
+   "coverage": 0.0,
+   "context": "                   iMessage   ya after i get off. Kwik Trip till 8   Delivered\u23ce 3   06/13",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "114_hospital_itemized_bill_ub04",
+   "value": "DUQUESNE STEEL SVC",
+   "coverage": 0.0,
+   "context": "LA               01     AHC883104471-01           DUQUESNE STEEL SVC    G-55018\u23ceFL63 TREATMENT AUT",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "115_auto_dec_page_claim_notes",
+   "value": "Ford KC Assembly",
+   "coverage": 0.0,
+   "context": "55.\u23ce08/03/2026 15:41  jkirkendall  Darius called; Ford KC Assembly (2nd shift, Claycomo) -- asks",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "116_protective_order_affidavit",
+   "value": "Baptist Health Urgent Care -- Hamburg",
+   "coverage": 0.72,
+   "context": "s the front desk lead at the Hamburg urgent care (Baptist Health Urgent Care -- Hamburg,\u23ce   2365 Sir Barton Way). On ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "119_business_bank_statement",
+   "value": "AL-HAMDANI CATERING LLC",
+   "coverage": 0.48,
+   "context": "oit, MI 48232  |  1-888-555-0177  |  glcbank.com\u23ce\u23ceAL-HAMDANI CATERING LLC                              ",
+   "entity": "EMPLOYER"
+  },
+  {
+   "doc": "106_deposition_forklift_injury",
+   "value": "hmaldonado7",
+   "coverage": 0.0,
+   "context": "147. For Atlas they gave me a scanner login,\u23ce20   hmaldonado7.\u23ce21         Q.   What was you",
+   "entity": "USERNAME"
+  },
+  {
+   "doc": "106_deposition_forklift_injury",
+   "value": "Hector Maldonado PR",
+   "coverage": 0.88,
+   "context": " social media accounts?\u23ce24         A.   Facebook. Hector Maldonado PR. And TikTok, @elboricua_hlm, ",
+   "entity": "USERNAME"
+  },
+  {
+   "doc": "120_obituary_estate_inventory",
+   "value": "108-T-4471",
+   "coverage": 0.0,
+   "context": "   (restricted Cherokee allotment land, BIA tract 108-T-4471) -- held jointly w/ spouse   ",
+   "entity": "ID_NUMBER"
+  },
+  {
+   "doc": "115_auto_dec_page_claim_notes",
+   "value": "D104471882",
+   "coverage": 0.0,
+   "context": "Rel.\u23ce  1  PETTAWAY, DARIUS L         07/22/1979   D104471882 (MO)        Rated        Insu",
+   "entity": "DRIVERS_LICENSE"
+  },
+  {
+   "doc": "115_auto_dec_page_claim_notes",
+   "value": "M082219047",
+   "coverage": 0.0,
+   "context": "ured\u23ce  2  PETTAWAY, MONIQUE A        12/02/1981   M082219047 (MO)        Rated        Spou",
+   "entity": "DRIVERS_LICENSE"
+  },
+  {
+   "doc": "115_auto_dec_page_claim_notes",
+   "value": "J180044173",
+   "coverage": 0.0,
+   "context": "ouse\u23ce  3  PETTAWAY, JAYLEN D         04/15/2009   J180044173 (MO)        Rated-Youth  Son\u23ce",
+   "entity": "DRIVERS_LICENSE"
+  },
+  {
+   "doc": "118_ocr_handwritten_witness_statement",
+   "value": "Galaxy-S23-MackH",
+   "coverage": 0.0,
+   "context": " guest W1-Fi 1og shows Mack's ph0ne\u23cec0nnected as \"Galaxy-S23-MackH\" at 12:28, MAC 7C:2E:DA:41:9B",
+   "entity": "DEVICE_ID"
+  },
+  {
+   "doc": "118_ocr_handwritten_witness_statement",
+   "value": "8O27",
+   "coverage": 0.0,
+   "context": "ink.\u23ceI have the receipt it is the Vi sa ending in 8O27.\u23ce\u23ceTanner was c0nsci0us when t",
+   "entity": "CREDIT_CARD"
+  },
+  {
+   "doc": "108_workers_comp_claim_nurse",
+   "value": "2026-118473",
+   "coverage": 0.0,
+   "context": "-----------------------------\u23ceDLI WID / File No.: 2026-118473          Insurer Claim No.: N",
+   "entity": "CLAIM_NUMBER"
+  },
+  {
+   "doc": "112_attorney_client_email_thread",
+   "value": "TF 88-201-6634",
+   "coverage": 0.0,
+   "context": "insured motorist coverage with Tennessee Farmers (TF 88-201-6634) adds up to\u23ce   $50,000. We ha",
+   "entity": "POLICY_NUMBER"
+  },
+  {
+   "doc": "114_hospital_itemized_bill_ub04",
+   "value": "PAP-7720418",
+   "coverage": 0.0,
+   "context": "KAM-26-PA-0442918          FIRST PARTY BENEFITS   PAP-7720418\u23ceB  HRYTSENKO MYKOLA          ",
+   "entity": "POLICY_NUMBER"
+  },
+  {
+   "doc": "121_911_call_transcript",
+   "value": "1-9-7-4 star",
+   "coverage": 0.0,
+   "context": "he front door's\u23ce              locked, the code is 1-9-7-4 star.\u23ce[00:15]  CT:  Okay, I'm send",
+   "entity": "PASSWORD"
+  },
+  {
+   "doc": "121_911_call_transcript",
+   "value": "082497",
+   "coverage": 0.0,
+   "context": "              locked, his code is -- I think it's 082497, his birthday.\u23ce[05:07]  CT:  ",
+   "entity": "PASSWORD"
+  },
+  {
+   "doc": "120_obituary_estate_inventory",
+   "value": "LN 88104472",
+   "coverage": 0.8,
+   "context": "B-26-OK-30418; payoff to Armstrong Bank loan\u23ce     LN 88104472                              ",
+   "entity": "BANK_ACCOUNT"
+  }
+ ],
+ "false_positives": [
+  {
+   "doc": "101_pediatric_er_dog_bite",
+   "entity": "INDIRECT_ROLE",
+   "text": "a maintenance supervisor at\n  Delco Precision Castings",
+   "score": 0.85,
+   "source": "descriptor:role",
+   "context": "royer M-F. Father works second shift as a maintenance supervisor at\u23ce  Delco Precision Castings; mother is the bilingual"
+  },
+  {
+   "doc": "105_police_supplemental_hit_and_run",
+   "entity": "PERSON",
+   "text": "Belvidere",
+   "score": 0.86,
+   "source": "ner:gliner:location city",
+   "context": " Employer: Fenwick Precision Machining, Belvidere (per mother)\u23ce-----------"
+  },
+  {
+   "doc": "106_deposition_forklift_injury",
+   "entity": "PERSON",
+   "text": "Tri-State Talent",
+   "score": 0.8,
+   "source": "propagate:token",
+   "context": "16   PAUL VENTRESCA, ESQ. for Defendant Tri-State Talent Staffing, LLC\u23ce17   ALSO "
+  },
+  {
+   "doc": "106_deposition_forklift_injury",
+   "entity": "PERSON",
+   "text": "Staffing, LLC",
+   "score": 0.88,
+   "source": "propagate:full",
+   "context": "CA, ESQ. for Defendant Tri-State Talent Staffing, LLC\u23ce17   ALSO PRESENT: Ines "
+  },
+  {
+   "doc": "106_deposition_forklift_injury",
+   "entity": "INDIRECT_LOCATION",
+   "text": "At the warehouse in Edison. Tri-State",
+   "score": 0.6,
+   "source": "quasi:named_venue",
+   "context": "where were you working?\u23ce15         A.   At the warehouse in Edison. Tri-State sent me there. The build"
+  },
+  {
+   "doc": "106_deposition_forklift_injury",
+   "entity": "INDIRECT_LOCATION",
+   "text": "the Atlas Home Goods distribution center in the Raritan park",
+   "score": 0.6,
+   "source": "quasi:named_venue",
+   "context": "ate sent me there. The building\u23ce16   is the Atlas Home Goods distribution center in the Raritan park,\u23ce17   Building C, the on"
+  },
+  {
+   "doc": "107_recorded_statement_grocery_fall",
+   "entity": "INDIRECT_LOCATION",
+   "text": "Store #14",
+   "score": 0.65,
+   "source": "quasi:numbered_store",
+   "context": "d:          Bayou Fresh Markets, LLC -- Store #14, 10155 Siegen Lane, Bato"
+  },
+  {
+   "doc": "108_workers_comp_claim_nurse",
+   "entity": "EIN",
+   "text": "41-0695512",
+   "score": 0.98,
+   "source": "pattern:ein",
+   "context": "ba Regional Medical Center        FEIN: 41-0695512\u23ce   Address:  407 E. Thir"
+  },
+  {
+   "doc": "110_school_504_plan",
+   "entity": "INDIRECT_ROLE",
+   "text": "the nurse in front of everybody\" and prefers to bolus at his desk",
+   "score": 0.59,
+   "source": "descriptor:role",
+   "context": " INPUT\u23ce   Eli stated he \"hates going to the nurse in front of everybody\" and prefers to bolus at his desk. He is\u23ce   the only stude"
+  },
+  {
+   "doc": "115_auto_dec_page_claim_notes",
+   "entity": "INDIRECT_LOCATION",
+   "text": "eastbound on Gregory Blvd",
+   "score": 0.69,
+   "source": "quasi:travel_location",
+   "context": "ttaway. Son Jaylen (17) driving Veh 3\u23ce  eastbound on Gregory Blvd, turned left into the Qu"
+  },
+  {
+   "doc": "117_u_visa_declaration",
+   "entity": "PHYSICAL_DESCRIPTOR",
+   "text": "still have a scar under my left eye and my\n   vision on that side is blurry",
+   "score": 0.75,
+   "source": "quasi:physical",
+   "context": "d number at Natividad is NMC-0771842. I still have a scar under my left eye and my\u23ce   vision on that side is blurry.\u23ce\u23ceCOOPERATION WITH LAW E"
+  },
+  {
+   "doc": "117_u_visa_declaration",
+   "entity": "PERSON",
+   "text": "EOIR ID LP",
+   "score": 0.95,
+   "source": "rule:honorific",
+   "context": "linas, CA 93906; G-28 on file. Attorney EOIR ID LP442188.\u23ce"
+  },
+  {
+   "doc": "118_ocr_handwritten_witness_statement",
+   "entity": "INDIRECT_ROLE",
+   "text": "Mack's friend",
+   "score": 0.74,
+   "source": "quasi:named_relationship",
+   "context": " t0ward\u23cethe Ca sey's by the interstate. Mack's friend, a wornan with 1ong b1ac"
+  }
+ ]
+}

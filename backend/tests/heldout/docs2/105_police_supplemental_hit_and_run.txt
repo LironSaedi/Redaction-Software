@@ -1,0 +1,87 @@
+ROCKFORD POLICE DEPARTMENT                                          SUPPLEMENTARY REPORT
+Investigative Services Bureau -- Traffic Crash Reconstruction Unit         RD # [[LAW_ENFORCEMENT_ID|26-041877]]
+[[ADDRESS?|420 W. State Street]], [[ADDRESS?|Rockford, IL 61101]]   [[PHONE|(779) 500-6555]] (non-emerg.)       Supp. # 3     Page 1 of 3
+=================================================================================================
+ORIGINAL OFFENSE:  LEAVING SCENE -- ACCIDENT INVOLVING INJURY (625 ILCS 5/11-401)   CLASS 4 FEL
+DATE/TIME OCC:     [[DATE|05/22/2026]] approx. 21:47      LOCATION: [[INDIRECT_LOCATION|E. State St at N. Alpine Rd, eastbound curb lane]]
+SUPP DATE:         [[DATE|05/29/2026]]                     REPORTING DET: [[PERSON|Natalia Wojcik]] #[[LAW_ENFORCEMENT_ID|D-6614]]
+ILLINOIS TRAFFIC CRASH REPORT #: [[LAW_ENFORCEMENT_ID|SR-1050-26-118804]]       ASSIGNED ASA: [[PERSON|Keith Ambrose-Tull]]
+
+VICTIM 1 (PEDALCYCLIST)
+  Name:     [[PERSON|HOLLIS, LAMAR DESMOND]]            DOB: [[DATE_OF_BIRTH|01/19/1968]]    Age: [[AGE|58]]
+  Address:  [[ADDRESS|2817 Clover Avenue]], [[ADDRESS|Rockford, IL 61102]]        Phone: [[PHONE|(815) 961-2204]]
+  Employer: [[EMPLOYER|Woodward Fuel Systems]] (machinist, 2nd shift -- was riding home)
+  Injuries: [[MEDICAL_CONDITION?|Open fracture R tibia/fibula, L clavicle fx, subdural hematoma]] -- transported RFD
+            Medic 3 to [[ORGANIZATION?|Rock River Regional Medical Center]], admitted Neuro ICU. Pt # [[MRN|RRR7720419]].
+
+WITNESS 1
+  Name:     [[PERSON|AL-SAYEGH, FATIMA NOOR]]            DOB: [[DATE_OF_BIRTH|07/04/1984]]
+  Address:  [[ADDRESS|5120 Spring Brook Rd, Apt 2D]], [[ADDRESS|Rockford, IL 61114]]    Cell: [[PHONE|(815) 670-3349]]
+  Occupation: [[INDIRECT_ROLE|RMTD bus operator, Route 4 (was stopped at the E. State/Alpine shelter)]]  Badge [[ID_NUMBER|RMTD-2207]]
+
+WITNESS 2
+  Name:     [[PERSON|BRANNIGAN, KYLE PATRICK]]           DOB: [[DATE_OF_BIRTH|11/30/2001]]
+  Address:  [[ADDRESS|1004 Charles St]], [[ADDRESS?|Rockford, IL 61104]]          Cell: [[PHONE|779-221-0876]]
+  Employer: [[EMPLOYER|Road Ranger]] -- [[INDIRECT_LOCATION|store #188 at the NE corner of State & Alpine]] (overnight clerk)
+
+SUSPECT VEHICLE (V1) -- LOCATED
+  [[VEHICLE_DESCRIPTION|2011 Subaru Outback, dark green, roof rack, aftermarket black steel wheels]]
+  IL plate [[LICENSE_PLATE|CK 74319]]   VIN [[VIN|4S4BRBCC5B3361872]]   Reg. owner: [[PERSON|SCHUSTER, DONNA M]], [[ADDRESS|6633 Wyndham Way]],
+  [[ADDRESS|Loves Park, IL 61111]]
+
+SUSPECT (S1) -- IDENTIFIED, NOT IN CUSTODY
+  Name:     [[PERSON|SCHUSTER, BRAYDEN MICHAEL]]          DOB: [[DATE_OF_BIRTH|03/08/2004]]   Age: [[AGE|22]]
+  DL:       IL [[DRIVERS_LICENSE|S236-4410-4068]] -- [[CRIMINAL_HISTORY|SUSPENDED (2025 DUI, Winnebago Co. case 2025DT0381)]]
+  Desc:     [[PHYSICAL_DESCRIPTOR|6'02", approx. 170, thin build, curly dark-brown hair worn in a top-knot, scraggly chin beard,
+            black rose tattoo on L side of neck]]
+  Employer: [[EMPLOYER|Fenwick Precision Machining]], Belvidere (per mother)
+-------------------------------------------------------------------------------------------------
+NARRATIVE
+
+1. On [[DATE|05/26/2026]] I re-interviewed W1 [[PERSON|Fatima Al-Sayegh]] at the RMTD garage. She stated she was stopped
+at the shelter when she saw the cyclist, who had a headlight and "one of those blinking red lights on his
+backpack," riding east in the curb lane. A dark green "station wagon, like a Subaru" passed her bus on
+the right "way too fast," clipped the rear wheel of the bicycle, and the cyclist "flew up over the hood."
+The car braked, then accelerated east toward Mulford. She described the driver, seen in the bus
+headlights, as "[[PHYSICAL_DESCRIPTOR|a young white guy, skinny, with his hair up in a bun]]," and a front passenger she
+believed was a female with [[PHYSICAL_DESCRIPTOR|long bleached-blonde hair]]. She saw a "temporary paper plate taped in the
+back window" but could not read it. The bus forward-facing camera (unit [[DEVICE_ID|RMTD-CAM-04417]]) footage was
+downloaded by RMTD Safety Officer [[PERSON|Gerald Pinkney]] and provided to me on a USB (Evidence item [[LAW_ENFORCEMENT_ID|26-041877-07]]).
+
+2. W2 [[PERSON|Kyle Brannigan]] stated he was outside the store emptying trash when he heard "a bang like a
+dumpster lid." He saw the Subaru stop for "maybe two seconds" in front of [[INDIRECT_LOCATION|the Ace Hardware lot]].
+He said its passenger-side mirror was hanging and the "hood had a big dent in it." [[PERSON|Brannigan]] said he had
+seen the same car "a bunch of times" at the store because "[[INDIRECT_ROLE|the driver buys Zyn and Monster from me
+almost every night around 9]]." He knows him only as "[[PERSON|Bray]]" and said [[PERSON|Bray]] once paid with a debit card.
+Store manager [[PERSON|Priya Sundaram]] provided transaction records; the card ending in [[CREDIT_CARD|4471]] used on [[DATE|05/20/2026]] at
+21:12 returned to an account holder named [[PERSON|Brayden M. Schuster]] (subpoena return [[CASE_NUMBER|2026-SUB-0442]]).
+
+3. A Ring doorbell camera at [[ADDRESS|2504 E. State St]] (homeowner [[PERSON|Rosa Ibarra-Kemp]], [[PHONE|815-243-0991]]), device ID
+[[DEVICE_ID|RG-8C1F64-77A2]], captured V1 eastbound at 21:47:52 with no front plate and visible front-end damage.
+Flock LPR camera at E. State & Mulford logged IL [[LICENSE_PLATE|CK 74319]] eastbound at 21:48:31 ([[GPS|42.2652, -88.9861]]).
+
+4. On [[DATE|05/28/2026]] at approx. 14:20, Ofc. [[PERSON|Darnell Ruffin]] #[[LAW_ENFORCEMENT_ID|1142]] located V1 inside the rear bay of
+[[INDIRECT_LOCATION|Kozak's Collision on Broadway, behind the old Sears building]]. Owner [[PERSON|Mirek Kozak]] stated a young man
+dropped it off [[DATE|05/23/2026]] for "deer damage," paid [[MONEY?|$400]] cash deposit, and gave the name "[[PERSON|Brady]]" and
+phone [[PHONE|779-875-1206]]. Phone subscriber return: [[PERSON|Donna Schuster]]. Damage observed: hood crease, cracked
+windshield (passenger side, "spider" pattern), missing R mirror glass, blue paint transfer consistent with
+victim's bicycle. Vehicle towed to RPD impound, hold for search warrant ([[CASE_NUMBER|26-SW-0219]], signed by Judge
+[[PERSON|Marisol Etheridge-Kwan]]).
+
+5. On [[DATE|05/29/2026]] I spoke with R/O [[PERSON|Donna Schuster]] at her residence. She stated her son [[PERSON|Brayden]] "drives
+it, it's basically his car," and that he has been staying with his girlfriend, [[PERSON|Kaylee Rae Durbin]] (DOB
+[[DATE_OF_BIRTH|02/14/2005]]), at [[INDIRECT_LOCATION|the Woodhaven Lakes apartments off Perryville, building 6, top floor on the end]].
+Mrs. [[PERSON|Schuster]] said [[PERSON|Brayden]] "has been drinking again since the DUI" and works days at [[EMPLOYER|Fenwick]]. She
+declined to provide a written statement. She stated she would "have him call a lawyer."
+
+6. Victim status: Per [[PERSON|Teresa Hollis]] (wife, [[PHONE|815-961-2210]]), [[PERSON|Lamar]] remains in ICU, intubated, s/p
+craniotomy [[DATE|05/23/2026]]; [[MEDICAL_CONDITION?|traumatic brain injury]] with poor prognosis per neurosurgeon.
+
+ACTION / FOLLOW-UP
+- Arrest warrant requested for S1 (Leaving Scene w/ Injury; Driving While License Suspended).
+- Search warrant for V1 (EDR / airbag control module download, DNA swab of windshield).
+- Locate passenger (possibly [[PERSON|Durbin]]) for interview. [[PERSON|Durbin]] vehicle: [[VEHICLE_DESCRIPTION|white 2017 Kia Soul with a
+  pink "Baby on Board" decal]], IL [[LICENSE_PLATE|DX 20915]].
+
+Det. [[PERSON|N. Wojcik]] #[[LAW_ENFORCEMENT_ID|D-6614]]   [[DATE|05/29/2026]]  16:55     Approved: Sgt. [[PERSON|L. Brandvold]] #[[LAW_ENFORCEMENT_ID|S-310]]
+cc: Winnebago County State's Attorney -- Traffic Division (ASA [[PERSON|Ambrose-Tull]])

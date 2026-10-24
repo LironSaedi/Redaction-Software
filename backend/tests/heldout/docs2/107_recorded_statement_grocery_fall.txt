@@ -1,0 +1,97 @@
+[[ORGANIZATION?|GULF SOUTH CASUALTY & SURETY]] -- GENERAL LIABILITY CLAIMS
+RECORDED STATEMENT TRANSCRIPT
+
+Claim No.:        [[CLAIM_NUMBER|GL-26-LA-0071944]]
+Insured:          [[ORGANIZATION?|Bayou Fresh Markets, LLC]] -- Store #14, [[ADDRESS?|10155 Siegen Lane]], [[ADDRESS?|Baton Rouge, LA 70810]]
+Policy:           [[POLICY_NUMBER|CGL 4410287-03]]
+Claimant:         [[PERSON|Yvette Marie Thibodeaux]]
+Date of loss:     [[DATE|04/14/2026]]
+Statement taken:  [[DATE|04/23/2026]], 2:05 p.m. CT, by telephone
+Adjuster:         [[PERSON|Corey Landreneau]], Senior Claims Representative, ext. 4418
+Transcribed by:   [[PERSON|M. Guidry]] ([[ORGANIZATION?|Acadiana Transcription Svcs]])  [[DATE|04/27/2026]]
+
+ADJ:   This is [[PERSON|Corey Landreneau]] with Gulf South Casualty. Today is [[DATE|April 23rd, 2026]], and the time is
+       about 2:05 p.m. I'm speaking by phone with [[PERSON|Yvette Thibodeaux]] regarding an incident at [[INDIRECT_LOCATION?|the Bayou
+       Fresh Market on Siegen]]. Ms. [[PERSON|Thibodeaux]], are you aware this call is being recorded?
+CLMT:  Yes, sir.
+ADJ:   And do I have your permission to record it?
+CLMT:  Yes.
+ADJ:   Is anyone else on the line or in the room with you?
+CLMT:  My daughter, [[PERSON|Monique]]. [[PERSON|Monique Thibodeaux-Batiste]]. She's helping me 'cause I can't
+       hold the phone good with this cast.
+ADJ:   That's fine. Can you give me your full name and spell your last name?
+CLMT:  [[PERSON|Yvette Marie Thibodeaux]], [[PERSON?|T-H-I-B-O-D-E-A-U-X]].
+ADJ:   Date of birth?
+CLMT:  [[DATE_OF_BIRTH|August the 9th, 1964]].
+ADJ:   And your home address?
+CLMT:  [[ADDRESS|4127 Oleander Street]], [[ADDRESS|Baton Rouge 70805]]. Off Plank Road.
+ADJ:   Best phone number?
+CLMT:  My cell is [[PHONE|225-372-6619]]. Or [[PERSON|Monique]], [[PHONE|225-505-0184]].
+ADJ:   Are you on Medicare, ma'am? We're required to ask for federal reporting.
+CLMT:  Yes. My card says [[MEDICARE_ID|5TQ8-JW2-RK61]]. And I got the Humana with it.
+ADJ:   Thank you. And for the same reporting I need your Social Security number.
+CLMT:  [[SSN|438-29-7716]].
+ADJ:   Okay. Tell me in your own words what happened on [[DATE|April 14th]].
+CLMT:  It was a Tuesday. I go every Tuesday after I get my hair done at [[INDIRECT_LOCATION|Miss Earline's shop
+       next to the Walgreens on Perkins]]. Around eleven, eleven-fifteen. I got my buggy, I went down the
+       produce, then I went to the back by the seafood counter to get some crawfish tails. Right in front
+       of the ice case with the shrimp, there was water all on the floor. I didn't see it. My feet went out
+       and I came down on my right side and put my hand out.
+ADJ:   Was there any cone or wet-floor sign?
+CLMT:  No, sir. Nothing. After, the boy brought one.
+ADJ:   Which employee was that?
+CLMT:  [[PHYSICAL_DESCRIPTOR|A young boy, red hair, had a ring in his nose]]. His tag said [[PERSON|Colby]]. He was
+       [[INDIRECT_ROLE|the one that works the seafood counter in the mornings]]. He said, "I told them that cooler
+       been leaking all week."
+ADJ:   Did anyone else hear him say that?
+CLMT:  The produce lady, Miss [[PERSON|Linh]]. [[INDIRECT_ROLE|The produce manager, the older Vietnamese lady]].
+       She came over and she helped me sit up. And a customer, a lady with [[INDIRECT_ROLE|a little boy in the
+       buggy seat]], she said she slipped there too that morning. She gave me her number. Her name is
+       [[PERSON|Shayla Fontenot]], [[PHONE|225-916-4432]].
+ADJ:   Did you speak to a manager?
+CLMT:  Yes, the store manager, Mr. [[PERSON|Rick]], [[PERSON|Rick]] something -- [[PERSON|Richard Arceneaux]]. He made a report
+       and took a picture of my wrist. He said the cameras would show it.
+ADJ:   What were you wearing on your feet?
+CLMT:  My black Skechers, the flat ones. Not slippery.
+ADJ:   Were you carrying anything or on the phone?
+CLMT:  No, sir. I had both hands on the buggy.
+ADJ:   How did you leave the store?
+CLMT:  They called the ambulance. East Baton Rouge EMS took me to [[ORGANIZATION?|Our Lady of the Lake]]. My
+       wrist was [[MEDICAL_CONDITION|broke in two places -- distal radius, the doctor said, and the ulna]]. And my
+       [[MEDICAL_CONDITION|right knee, the replaced one, it's swollen and they're worried about the implant]].
+ADJ:   Did you have surgery?
+CLMT:  On the [[DATE|16th]]. Dr. [[PERSON|Prakash Venugopal]] put a plate in. I see him again [[DATE|May 5th]].
+ADJ:   Any problems with that wrist or knee before this?
+CLMT:  The knee, I had the [[MEDICAL_CONDITION|replacement in 2022]] with Dr. [[PERSON|Hebert]] at the Bone & Joint
+       Clinic. It was doing good. The wrist, never.
+ADJ:   Do you take any blood thinners or medications that make you dizzy?
+CLMT:  I take the [[MEDICATION|Eliquis]] for my [[MEDICAL_CONDITION|A-fib]]. And [[MEDICATION|metformin]], [[MEDICATION|lisinopril]].
+       But I wasn't dizzy. I slipped in the water.
+ADJ:   Any falls in the past couple of years?
+CLMT:  One time in my yard, [[DATE?|2024]], I tripped on the hose. I didn't break nothing.
+ADJ:   Are you working, ma'am?
+CLMT:  Part-time. I'm [[INDIRECT_ROLE|the church secretary at Greater Mount Olive Baptist on Choctaw]], Monday,
+       Wednesday, Friday. [[FINANCIAL_INFO|They pay me $14 an hour, about 24 hours a week]]. I can't type with this
+       cast so they got somebody filling in.
+ADJ:   Do you live alone?
+CLMT:  Since my husband [[PERSON|Lionel]] passed, yes. My grandson [[PERSON MINOR|Jaden]], he's [[AGE|twelve]], he stays
+       with me after school -- he goes to [[SCHOOL|Park Forest Middle]]. Now [[PERSON|Monique]] got to come every day.
+ADJ:   Have you hired an attorney?
+CLMT:  Not yet. I talked to one, Mr. [[PERSON|Broussard]], but I didn't sign nothing.
+ADJ:   Okay. Is there anything else you want to add?
+[[PERSON|MONIQUE]]: Just that she had bruising all down her hip, it was black. We took pictures. Her email is
+       [[EMAIL|yvettethib64@yahoo.com]] if you need us to send them.
+ADJ:   I appreciate that. Ms. [[PERSON|Thibodeaux]], has everything you told me been true and correct to the
+       best of your knowledge?
+CLMT:  Yes, sir.
+ADJ:   Did you understand all my questions?
+CLMT:  Yes.
+ADJ:   And you knew this was being recorded and gave permission?
+CLMT:  Yes.
+ADJ:   This concludes the statement. The time is 2:31 p.m.
+
+[END OF RECORDING -- 26 min 14 sec]   Audio file: [[ID_NUMBER?|RS_GL260071944_0423.m4a]]
+
+ADJUSTER NOTE: Request CCTV (cams 7 and 9, seafood/back aisle) from store mgr [[PERSON|R. Arceneaux]], incident
+report # [[ID_NUMBER|BFM14-0414-02]]. Request maintenance log on seafood ice case. Contact witness [[PERSON|S. Fontenot]].
+Obtain OLOL records -- claimant acct [[MRN|OLL80447192]]. Medicare Section 111 query submitted.

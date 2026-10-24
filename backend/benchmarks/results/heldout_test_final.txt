@@ -1,0 +1,43 @@
+
+HELD-OUT  profile=standard  spacy=en_core_web_trf  gliner=nvidia-gliner-pii
+18 documents, 110,430 chars (~44 pages), 107.6s
+
+entity                       gold  caught   recall   typed
+PERSON                        425     409   96.24%   96.2%
+PHONE                          69      69  100.00%   98.6%
+EMAIL                          43      43  100.00%  100.0%
+INDIRECT_LOCATION              25      12   48.00%   40.0%
+LAW_ENFORCEMENT_ID             24      17   70.83%   70.8%
+DATE_OF_BIRTH                  20      20  100.00%  100.0%
+USERNAME                       20      18   90.00%   90.0%
+ID_NUMBER                      20      12   60.00%   50.0%
+ADDRESS                        15      15  100.00%  100.0%
+SCHOOL                         14      10   71.43%   64.3%
+EMPLOYER                       11      10   90.91%   90.9%
+MRN                            10       8   80.00%   80.0%
+CLAIM_NUMBER                    9       7   77.78%   77.8%
+INDIRECT_ROLE                   9       1   11.11%   11.1%
+PHYSICAL_DESCRIPTOR             8       1   12.50%   12.5%
+DEVICE_ID                       7       7  100.00%  100.0%
+HEALTH_PLAN_ID                  5       4   80.00%   80.0%
+DRIVERS_LICENSE                 5       5  100.00%  100.0%
+SSN                             5       5  100.00%  100.0%
+GPS                             4       4  100.00%  100.0%
+IP_ADDRESS                      4       4  100.00%  100.0%
+BANK_ACCOUNT                    3       3  100.00%  100.0%
+PASSWORD                        3       1   33.33%   33.3%
+NATIONAL_ID                     2       1   50.00%   50.0%
+PASSPORT                        2       2  100.00%  100.0%
+CREDIT_CARD                     2       2  100.00%  100.0%
+MEDICARE_ID                     2       2  100.00%  100.0%
+LICENSE_PLATE                   2       2  100.00%  100.0%
+VIN                             2       2  100.00%  100.0%
+ROUTING_NUMBER                  1       1  100.00%  100.0%
+IBAN                            1       1  100.00%  100.0%
+----------------------------------------------------------
+REDACTION RECALL                           90.415%
+PRECISION                                  95.217%   (44 FP of 920)
+F1                                         92.754%
+hard-negative hits              0
+
+(sealed split: 74 misses, 44 false positives — details withheld)

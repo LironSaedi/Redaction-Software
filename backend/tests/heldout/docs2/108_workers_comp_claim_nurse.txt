@@ -1,0 +1,86 @@
+MINNESOTA DEPARTMENT OF LABOR AND INDUSTRY                                   FIRST REPORT OF INJURY
+Workers' Compensation Division  *  [[ADDRESS?|PO Box 64221, St. Paul, MN 55164-0221]]                    (FR01 equivalent)
+-----------------------------------------------------------------------------------------------------------
+DLI WID / File No.: [[CLAIM_NUMBER|2026-118473]]          Insurer Claim No.: [[CLAIM_NUMBER|NSM-WC-26-030951]]
+-----------------------------------------------------------------------------------------------------------
+1. EMPLOYEE
+   Name (Last, First, MI):  [[PERSON|GALLAGHER-ORTIZ, SIOBHAN M]]                 Sex: F
+   SSN:          [[SSN|471-38-9025]]           Date of birth: [[DATE_OF_BIRTH|12/06/1986]]        Age: [[AGE|39]]
+   Home address: [[ADDRESS|3318 W. 4th Street]]   City/State/ZIP: [[ADDRESS|Duluth, MN 55806]]
+   Home phone:   [[PHONE|(218) 724-0371]]     Cell: [[PHONE|(218) 343-8826]]      Email: [[EMAIL|sgallagher.ortiz@outlook.com]]
+   Occupation:   Registered Nurse (Med/Surg)     Employee ID: [[ID_NUMBER|SCR-0047812]]     Union: MNA Local
+   Date hired:   [[DATE|05/12/2014]]    Hours/day: 12    Days/wk: 3   Shift: 1900-0730 (nights)
+   Wage:         [[FINANCIAL_INFO|$49.82/hr; avg weekly wage $1,987.40 incl. shift differential]]
+   Dependents:   2  ([[PERSON MINOR|Liam]], [[AGE|10]]; [[PERSON MINOR|Ciara]], [[AGE|7]])    Marital status: Divorced
+
+2. EMPLOYER
+   Name:     [[ORGANIZATION?|St. Columba Regional Medical Center]]        FEIN: 41-0695512
+   Address:  [[ADDRESS?|407 E. Third Street]], [[ADDRESS?|Duluth, MN 55805]]          Phone: [[PHONE|(218) 786-4000]]
+   Department / Unit where injury occurred: [[INDIRECT_LOCATION|6 NORTH -- MEDICAL/SURGICAL, ROOM 6N-22, BED A]]
+   Supervisor: [[PERSON|Kristin Aaltonen]], RN, Nurse Manager 6 North   Ph [[PHONE|(218) 786-4612]]
+
+3. INSURER / TPA
+   [[ORGANIZATION?|North Shore Mutual Insurance Co.]]   Policy No.: [[POLICY_NUMBER|WC-7700418-26]]   Adjuster: [[PERSON|Darnell Freeman]]
+   Phone: [[PHONE|(612) 455-0710]]   Email: [[EMAIL|dfreeman@northshoremutual.com]]
+
+4. INJURY / ILLNESS
+   Date of injury:  [[DATE|02/19/2026]]   Time: 03:40   Date employer notified: [[DATE|02/19/2026]]
+   Last day worked: [[DATE|02/19/2026]]   Returned to work: [ ] Yes [X] No   Lost time: [X] > 3 days
+   Nature of injury: [[MEDICAL_CONDITION|Concussion; R shoulder labral tear; cervical strain]]
+   Part of body:     Head, R shoulder, neck
+   Cause:            Struck by patient / fell against bedside table
+   Treated at:       [[ORGANIZATION?|St. Columba ED]] [[DATE|02/19/2026]]; then [[ORGANIZATION?|Lake Superior Orthopedics]] -- Dr.
+                     [[PERSON|Haruto Lindgren-Sato]]
+   Witnesses:        [[PERSON|Abdirahman Yusuf]], RN ([[INDIRECT_ROLE|night charge nurse, 6N]]) ext. 4618;
+                     [[PERSON|Brianna Kowalski]], CNA
+
+5. DESCRIBE HOW THE INJURY OCCURRED (EMPLOYEE STATEMENT -- attached page 2)
+
+-----------------------------------------------------------------------------------------------------------
+Form completed by: [[PERSON|Jodi Thorsgaard]], Employee Health/WC Coordinator  Ph [[PHONE|(218) 786-4090]]   Date: [[DATE|02/20/2026]]
+Signature: /s/ [[PERSON|Jodi Thorsgaard]]
+===========================================================================================================
+PAGE 2 -- EMPLOYEE'S STATEMENT                          Claim [[CLAIM_NUMBER|NSM-WC-26-030951]]   Employee: [[PERSON|S. Gallagher-Ortiz]]
+
+I was assigned 5 patients on 6 North that night. At about 03:30 the bed alarm went off in 6N-22. The
+patient in bed A is [[INDIRECT_ROLE|an 81-year-old retired Duluth firefighter admitted for a hip fracture who has
+dementia and sundowns every night]]. He was trying to climb over the rail. I asked the CNA to bring the
+bed alarm reset and I went in alone because [[PERSON|Brianna]] was helping with a fall in 6N-17. When I touched his
+arm to guide him back he swung and hit me on the right side of my head with his closed fist. I fell
+backward and hit my right shoulder and the side of my head on the corner of the bedside table. I don't
+think I lost consciousness but I don't remember getting up. [[PERSON|Abdirahman]] found me sitting on the floor.
+
+We had asked for a sitter for that room for two nights because of his behavior. Staffing told us there
+was no sitter available. There have been three Code Greys on our unit since January. I reported the
+injury to [[PERSON|Abdirahman]] right away and to [[PERSON|Kristin]] by voicemail. I went to the ED at 04:15.
+
+Since then I have had [[MEDICAL_CONDITION|daily headaches, light sensitivity, trouble finding words]], and I can't lift my
+right arm above my shoulder. I was off work completely until [[DATE|03/30/2026]], then light duty in the
+pre-op phone room (4 hrs/day) until my shoulder surgery on [[DATE|05/07/2026]]. I am also seeing a therapist,
+[[PERSON|Helen Moose-Larsen]], LICSW, at [[ORGANIZATION?|Northland Counseling]] because I [[MENTAL_HEALTH|have panic attacks when I walk onto the
+unit and nightmares about being hit]]. I have not been back to 6 North since.
+
+Prior injuries: [[MEDICAL_CONDITION|L wrist sprain 2019 (WC claim with St. Columba, closed)]]. No prior shoulder or head injury.
+Other employment: [[EMPLOYER|Arrowhead Home Care Services]] -- per diem home infusion visits, ~1 weekend/month
+([[FINANCIAL_INFO|$41/hr, about $650/month]]). I have not been able to do those visits since the injury.
+
+Current medications: [[MEDICATION?|sumatriptan]] PRN, [[MEDICATION?|meloxicam]], [[MEDICATION|sertraline]] 50 mg (started 4/2026),
+[[MEDICATION?|oxycodone]] 5 mg (post-op only, finished).
+
+I certify this statement is true.  /s/ [[PERSON|Siobhan M. Gallagher-Ortiz]]      Date: [[DATE|05/21/2026]]
+===========================================================================================================
+PAGE 3 -- SUPERVISOR'S INCIDENT INVESTIGATION (internal; not filed with DLI)
+
+Event report #: [[ID_NUMBER|SRS-26-02-1188]]  (Safety Reporting System)    Security response: Ofc. [[PERSON|M. Begay]] #[[ID_NUMBER|S-114]]
+Root cause: Patient with known aggression; 1:1 sitter requested [[DATE|02/17/2026]] and [[DATE|02/18/2026]], not filled.
+Room 6N-22 is [[INDIRECT_LOCATION|the last room at the end of the north hallway, out of sight of the nurses' station]].
+Corrective actions: Behavioral flag in EHR; duress badges issued to 6N night staff; review of sitter
+float pool. Patient (MRN [[MRN|SC-01478836]]) transferred to geri-psych [[DATE|02/21/2026]].
+Police report: Duluth PD report [[LAW_ENFORCEMENT_ID|DPD-26-0042116]] taken at employee's request (no charges sought).
+
+Employee was [[INDIRECT_ROLE|the only RN on 6 North that night certified in CPI de-escalation]]; per her statement she
+did not call security before entering. Supervisor comment: Staffing concern acknowledged; no policy
+violation by employee.
+
+/s/ [[PERSON|Kristin Aaltonen]], RN, BSN -- Nurse Manager, 6 North        [[DATE|02/24/2026]]
+cc: [[PERSON|J. Thorsgaard]] (Employee Health); [[PERSON|D. Freeman]] ([[ORGANIZATION?|North Shore Mutual]]); [[PERSON|Raymond Vukelich]], Risk Mgmt

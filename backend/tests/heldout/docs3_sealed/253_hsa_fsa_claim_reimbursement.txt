@@ -1,0 +1,193 @@
+[[ORGANIZATION?|BenefitBridge Administrators, LLC]]                               QUARTERLY ACCOUNT & CLAIMS STATEMENT
+[[ADDRESS?|PO Box 64190, St. Paul, MN 55164-0190]]                                 Period: [[DATE?|07/01/2026]] - [[DATE?|09/30/2026]]
+Participant Services [[PHONE?|1-866-555-0123]] (M-F 7am-7pm CT)                        Statement date: [[DATE?|10/06/2026]]
+Claims fax [[PHONE?|1-866-555-0124]]   [[URL?|www.benefitbridge-admin.com]]                     Page 1 of 4
+
+Plan Sponsor:   [[EMPLOYER|Lindqvist Marine Supply Co.]] Flexible Benefits Plan (Plan No. 503)
+Participant:    [[PERSON|HANNAH J ABERNATHY-OSEI]]
+                [[ADDRESS|88 LARCHMONT TER]]
+                [[ADDRESS|DULUTH MN 55803-1917]]
+
+Participant ID:   [[ID_NUMBER|BBA-00731-4482]]           Employee ID:  [[ID_NUMBER|LMS-20817]]          SSN: XXX-XX-[[SSN|6043]]
+Medical plan:     [[ORGANIZATION?|NorthStar Health Partners]] HDHP-PPO   Member ID [[HEALTH_PLAN_ID|NHP880417263-01]]   Group [[ID_NUMBER?|G-0074410]]
+Online user ID:   [[USERNAME|hannah.ao]]                Benefits debit card ending [[CREDIT_CARD|2216]]  exp [[CARD_EXPIRY|11/28]]
+
+-----------------------------------------------------------------------------------------------------------------
+ACCOUNT SUMMARY                     HSA                    Limited-Purpose FSA       Dependent Care FSA
+                                    (custodian: [[ORGANIZATION?|Superior]]     (dental/vision only)      (plan year 2026)
+                                    [[ORGANIZATION?|Trust Bank]] [[BANK_ACCOUNT|6601884271]])
+-----------------------------------------------------------------------------------------------------------------
+Beginning balance [[DATE?|07/01]]                  [[MONEY|2,904.17]]                     [[MONEY|612.50]]                   [[MONEY|2,500.00]]
+Contributions this period                 [[MONEY|2,775.00]]                       [[MONEY|0.00]]                   [[MONEY|1,250.00]]
+Interest/earnings                            [[MONEY|3.86]]                        n/a                        n/a
+Claims paid this period                  [[MONEY|-2,341.81]]                    [[MONEY|-598.00]]                    [[MONEY|-1,280.00]]
+Fees                                        [[MONEY|-9.00]]                       [[MONEY|0.00]]                       [[MONEY|0.00]]
+Ending balance [[DATE?|09/30]]                     [[MONEY|3,332.22]]                      [[MONEY|14.50]]                   [[MONEY|2,470.00]]
+Annual election (FSA)                          n/a                     [[MONEY|850.00]]                   [[MONEY|5,000.00]]
+Plan year run-out deadline                     n/a                 [[DATE?|03/31/2027]]                 [[DATE?|03/31/2027]]
+-----------------------------------------------------------------------------------------------------------------
+
+COVERED INDIVIDUALS
+  [[PERSON|Hannah J. Abernathy-Osei]]   (participant)         DOB [[DATE_OF_BIRTH|02/11/1988]]
+  [[PERSON|Kwame A. Osei]]              (spouse)              DOB [[DATE_OF_BIRTH|07/26/1985]]
+  [[MINOR|Abena M. Osei]]              (child, age [[AGE|9]])        DOB [[DATE_OF_BIRTH|05/02/2017]]
+  [[MINOR|Theodore K. Abernathy-Osei]] (child, age [[AGE|4]])        DOB [[DATE_OF_BIRTH|01/19/2022]]   -- DCFSA qualifying child (under 13)
+
+CLAIMS PROCESSED THIS PERIOD
+Claim No.     Rcvd    Patient          Provider / Merchant                     Svc Date(s)        Acct   Submitted   Approved     Paid   Status
+-----------   -----   --------------   -------------------------------------   ----------------   ----   ---------   --------   ------   -------
+[[CLAIM_NUMBER|C26-0718842]]   [[DATE?|07/08]]   [[MINOR|Abena]]            [[ORGANIZATION?|Lake Superior Pediatrics]]                [[DATE|06/30/2026]]         HSA        [[MONEY|35.00]]      [[MONEY|35.00]]    [[MONEY|35.00]]   PAID-DD
+[[CLAIM_NUMBER|C26-0719310]]   [[DATE?|07/15]]   [[PERSON|Hannah]]           [[ORGANIZATION?|Walgreens]] #07731 [[LOCATION?|Duluth MN]] Rx# [[ID_NUMBER|6604187]]   [[DATE|07/14/2026]]         HSA        [[MONEY|48.20]]      [[MONEY|48.20]]    [[MONEY|48.20]]   PAID-CARD
+[[CLAIM_NUMBER|C26-0722075]]   [[DATE?|07/29]]   [[PERSON|Kwame]]            [[ORGANIZATION?|Arrowhead Regional Physical Therapy]]     [[DATE|07/02]]-[[DATE|07/23/2026]]   HSA       [[MONEY|250.00]]     [[MONEY|250.00]]   [[MONEY|250.00]]   PAID-DD
+[[CLAIM_NUMBER|C26-0730518]]   [[DATE?|08/03]]   [[MINOR|Theodore]]         [[PERSON|Elif Sorensen]], DDS                       [[DATE|07/31/2026]]         LPF       [[MONEY|186.00]]     [[MONEY|186.00]]   [[MONEY|186.00]]   PAID-DD
+[[CLAIM_NUMBER|C26-0804471]]   [[DATE?|08/11]]   [[PERSON|Hannah]]           [[ORGANIZATION?|North Shore Vision Center]]               [[DATE|08/06/2026]]         LPF       [[MONEY|412.00]]     [[MONEY|412.00]]   [[MONEY|412.00]]   PAID-CARD
+[[CLAIM_NUMBER|C26-0811902]]   [[DATE?|08/19]]   [[PERSON|Kwame]]            [[ORGANIZATION?|Amazon.com]] (CPAP supplies)              [[DATE|08/17/2026]]         HSA       [[MONEY|129.95]]     [[MONEY|129.95]]   [[MONEY|129.95]]   PAID-DD *1
+[[CLAIM_NUMBER|C26-0815220]]   [[DATE?|08/22]]   [[MINOR|Theodore]]         [[PERSON|Ingrid Halvorsen]] (in-home child care)     [[DATE?|08/01]]-[[DATE?|08/15/2026]]   DCF       [[MONEY|640.00]]     [[MONEY|640.00]]   [[MONEY|640.00]]   PAID-DD
+[[CLAIM_NUMBER|C26-0826600]]   [[DATE?|08/28]]   [[PERSON|Hannah]]           [[ORGANIZATION?|Zen Harbor Day Spa]] (massage)               [[DATE|08/26/2026]]         HSA        [[MONEY|95.00]]       [[MONEY|0.00]]     [[MONEY|0.00]]   DENIED *2
+[[CLAIM_NUMBER|C26-0829014]]   [[DATE?|09/02]]   [[PERSON|Hannah]]           [[ORGANIZATION?|Lakeview Behavioral Health]]              [[DATE|08/27/2026]]         HSA       [[MONEY|140.00]]     [[MONEY|140.00]]   [[MONEY|140.00]]   PAID-DD *3
+[[CLAIM_NUMBER|C26-0903318]]   [[DATE?|09/08]]   [[MINOR|Abena]]            [[ORGANIZATION?|Lake Superior Pediatrics]]                [[DATE|09/04/2026]]         HSA        [[MONEY|35.00]]      [[MONEY|35.00]]    [[MONEY|35.00]]   PAID-DD
+[[CLAIM_NUMBER|C26-0907745]]   [[DATE?|09/11]]   [[MINOR|Theodore]]         [[PERSON|Ingrid Halvorsen]] (in-home child care)     [[DATE?|08/18]]-[[DATE?|08/29/2026]]   DCF       [[MONEY|640.00]]     [[MONEY|640.00]]   [[MONEY|640.00]]   PAID-DD
+[[CLAIM_NUMBER|C26-0915762]]   [[DATE?|09/18]]   [[PERSON|Hannah]]           [[ORGANIZATION?|Walgreens]] #07731 [[LOCATION?|Duluth MN]] (OTC)        [[DATE|09/16/2026]]         HSA        [[MONEY|25.00]]      [[MONEY|25.00]]    [[MONEY|25.00]]   PAID-CARD
+[[CLAIM_NUMBER|C26-0922040]]   [[DATE?|09/24]]   [[PERSON|Kwame]]            [[ORGANIZATION?|Harbor Ridge Medical Center]] - Emergency    [[DATE|09/10/2026]]       HSA     [[MONEY|1,850.00]]   [[MONEY|1,850.00]] [[MONEY|1,678.66]]   PARTIAL *4
+                                                                                                                                         ---------   --------   ------
+                                                                                                   Totals this period                    [[MONEY|4,486.15]]   [[MONEY|4,391.15]] [[MONEY|4,219.81]]
+
+[[PERSON|HANNAH J ABERNATHY-OSEI]]   Participant ID [[ID_NUMBER|BBA-00731-4482]]                                           Page 1 of 4
+--- Page 2 ---
+[[ORGANIZATION?|BenefitBridge Administrators]]    [[PERSON|ABERNATHY-OSEI, HANNAH J]]    ID [[ID_NUMBER|BBA-00731-4482]]          Page 2 of 4
+
+CLAIM NOTES
+*1  [[CLAIM_NUMBER|C26-0811902]] was pended on [[DATE?|08/20/2026]] for a Letter of Medical Necessity. The LMN from
+    [[PERSON|Mikael Lindgren]], MD (NPI [[ID_NUMBER?|1487720396]]) was received [[DATE?|08/26/2026]] and documents a diagnosis of
+    [[MEDICAL_CONDITION|obstructive sleep apnea]] (ICD-10 [[MEDICAL_CONDITION?|G47.33]]) for [[PERSON|Kwame A. Osei]]. LMN valid through
+    [[DATE?|08/26/2027]]; future CPAP mask, tubing and filter purchases for this patient will auto-substantiate.
+*2  [[CLAIM_NUMBER|C26-0826600]] DENIED -- Massage therapy is not a qualified medical expense under IRC Sec. 213(d)
+    unless prescribed to treat a specific medical condition. You may resubmit with an LMN within 180 days.
+    Reference: IRS Publication 502, "Medical and Dental Expenses."
+*3  [[CLAIM_NUMBER|C26-0829014]] Itemized statement shows CPT 90837 (psychotherapy, 60 min), dx
+    [[MEDICAL_CONDITION|generalized anxiety disorder]] ([[MEDICAL_CONDITION?|F41.1]]), rendering clinician [[PERSON|Priya Natarajan]], LICSW. Your
+    in-network cost after deductible was applied by [[ORGANIZATION?|NorthStar]] (EOB claim [[CLAIM_NUMBER|NHP-26-55190388]]).
+*4  [[CLAIM_NUMBER|C26-0922040]] Emergency department visit [[DATE|09/10/2026]] -- [[MEDICAL_CONDITION|right distal radius fracture]],
+    closed reduction. Approved [[MONEY|1,850.00]]; HSA available balance at processing was [[MONEY|1,678.66]]. The remaining
+    [[MONEY|171.34]] will be paid automatically as new contributions post (Pay-As-You-Go is not available for HSA;
+    pending balance is held as a "deferred reimbursement" at your request).
+
+PHYSICAL THERAPY DETAIL ([[CLAIM_NUMBER|C26-0722075]])  Patient: [[PERSON|Kwame A. Osei]]
+  Referring dx: s/p arthroscopic [[MEDICAL_CONDITION|right rotator cuff repair]] ([[DATE|05/14/2026]])
+  Visit dates: [[DATE|07/02/2026]], [[DATE|07/09/2026]], [[DATE|07/16/2026]], [[DATE|07/23/2026]]   4 visits x [[MONEY|62.50]] = [[MONEY|250.00]]
+  Therapist: [[PERSON|Joelle Marchand]], DPT
+
+DEPENDENT CARE PROVIDER ON FILE (required for Form 2441 / W-10)
+  Provider:        [[PERSON|Ingrid Halvorsen]]          Type: individual, in-home
+  Address:         [[ADDRESS|412 W Skyline Pkwy, Duluth MN 55806]]
+  Provider TIN:    SSN XXX-XX-[[SSN|7719]]              Phone: [[PHONE|(218) 555-0164]]
+  Care schedule:   M-F 7:30a-5:30p while participant works at [[INDIRECT_LOCATION|the Canal Park retail store]]
+  Provider signed attestation for [[DATE?|08/01]]-[[DATE?|08/29/2026]]: Yes
+
+PAYMENTS ISSUED
+Pay Date   Method               Destination                                Claims Included                         Amount
+--------   ------------------   ----------------------------------------   ------------------------------------   ---------
+[[DATE?|07/10/26]]   Direct deposit       [[ORGANIZATION?|Superior Trust Bank]] chk ****[[BANK_ACCOUNT|5530]]           [[CLAIM_NUMBER|C26-0718842]]                               [[MONEY|35.00]]
+[[DATE?|07/31/26]]   Direct deposit       [[ORGANIZATION?|Superior Trust Bank]] chk ****[[BANK_ACCOUNT|5530]]           [[CLAIM_NUMBER|C26-0722075]]                              [[MONEY|250.00]]
+[[DATE?|08/05/26]]   Direct deposit       [[ORGANIZATION?|Superior Trust Bank]] chk ****[[BANK_ACCOUNT|5530]]           [[CLAIM_NUMBER|C26-0730518]]                              [[MONEY|186.00]]
+[[DATE?|08/27/26]]   Direct deposit       [[ORGANIZATION?|Superior Trust Bank]] chk ****[[BANK_ACCOUNT|5530]]           [[CLAIM_NUMBER|C26-0811902]], [[CLAIM_NUMBER|C26-0815220]]                  [[MONEY|769.95]]
+[[DATE?|09/04/26]]   Direct deposit       [[ORGANIZATION?|Superior Trust Bank]] chk ****[[BANK_ACCOUNT|5530]]           [[CLAIM_NUMBER|C26-0829014]]                              [[MONEY|140.00]]
+[[DATE?|09/10/26]]   Direct deposit       [[ORGANIZATION?|Superior Trust Bank]] chk ****[[BANK_ACCOUNT|5530]]           [[CLAIM_NUMBER|C26-0903318]]                               [[MONEY|35.00]]
+[[DATE?|09/12/26]]   Direct deposit       [[ORGANIZATION?|Superior Trust Bank]] chk ****[[BANK_ACCOUNT|5530]]           [[CLAIM_NUMBER|C26-0907745]]                              [[MONEY|640.00]]
+[[DATE?|09/26/26]]   Direct deposit       [[ORGANIZATION?|Superior Trust Bank]] chk ****[[BANK_ACCOUNT|5530]]           [[CLAIM_NUMBER|C26-0922040]] (partial)                  [[MONEY|1,678.66]]
+           Card swipes          Benefits card ending [[CREDIT_CARD|2216]]                  [[CLAIM_NUMBER|C26-0719310]], [[CLAIM_NUMBER|C26-0804471]], [[CLAIM_NUMBER|C26-0915762]]     [[MONEY|485.20]]
+                                                                                                                      ---------
+                                                                                                          Total          [[MONEY|4,219.81]]
+Direct deposit routing on file: [[ROUTING_NUMBER|091388126]]   (verified by micro-deposit [[DATE?|01/09/2025]])
+
+[[PERSON|HANNAH J ABERNATHY-OSEI]]   Participant ID [[ID_NUMBER|BBA-00731-4482]]                                           Page 2 of 4
+--- Page 3 ---
+[[ORGANIZATION?|BenefitBridge Administrators]]    [[PERSON|ABERNATHY-OSEI, HANNAH J]]    ID [[ID_NUMBER|BBA-00731-4482]]          Page 3 of 4
+
+HSA CONTRIBUTIONS -- custodial account [[BANK_ACCOUNT|6601884271]] at [[ORGANIZATION?|Superior Trust Bank]]
+Date       Source                                          Tax Year    Amount
+--------   ---------------------------------------------   --------   --------
+[[DATE?|07/03/26]]   Payroll - [[EMPLOYER|Lindqvist Marine Supply Co.]] (pre-tax)     2026         [[MONEY|175.00]]
+[[DATE?|07/17/26]]   Payroll - [[EMPLOYER|Lindqvist Marine Supply Co.]] (pre-tax)     2026         [[MONEY|175.00]]
+[[DATE?|07/31/26]]   Payroll - [[EMPLOYER|Lindqvist Marine Supply Co.]] (pre-tax)     2026         [[MONEY|175.00]]
+[[DATE?|07/31/26]]   Employer seed - mid-year wellness incentive          2026         [[MONEY|500.00]]
+[[DATE?|08/14/26]]   Payroll - [[EMPLOYER|Lindqvist Marine Supply Co.]] (pre-tax)     2026         [[MONEY|175.00]]
+[[DATE?|08/28/26]]   Payroll - [[EMPLOYER|Lindqvist Marine Supply Co.]] (pre-tax)     2026         [[MONEY|175.00]]
+[[DATE?|09/02/26]]   Participant post-tax deposit (ACH from chk ****[[BANK_ACCOUNT|5530]])   2026       [[MONEY|1,050.00]]
+[[DATE?|09/11/26]]   Payroll - [[EMPLOYER|Lindqvist Marine Supply Co.]] (pre-tax)     2026         [[MONEY|175.00]]
+[[DATE?|09/25/26]]   Payroll - [[EMPLOYER|Lindqvist Marine Supply Co.]] (pre-tax)     2026         [[MONEY|175.00]]
+                                                                           --------
+                                                  Total this period       [[MONEY|2,775.00]]
+
+2026 HSA contribution tracking (family HDHP coverage)
+  IRS limit, family coverage                                         [[MONEY|8,750.00]]
+  Catch-up (age 55+), not applicable                                     [[MONEY|0.00]]
+  Employee payroll YTD                                               [[MONEY|3,325.00]]
+  Employer YTD                                                       [[MONEY|1,250.00]]
+  Participant direct deposits YTD                                    [[MONEY|1,050.00]]
+  Total 2026 contributions YTD                                       [[MONEY|5,625.00]]
+  Remaining room                                                     [[MONEY|3,125.00]]
+
+HSA INVESTMENTS  (threshold: cash balance above [[MONEY|2,000.00]] may be invested)
+  Fund                                   Ticker    Shares        Price      Value
+  Vanguard Target Retirement 2055 Fund   VFFVX     41.226     [[MONEY|$59.12]]      [[MONEY|2,437.28]]
+  Fidelity 500 Index Fund                FXAIX      9.115    [[MONEY|$221.48]]      [[MONEY|2,018.79]]
+  Investment account total                                               [[MONEY|4,456.07]]
+  Investment elections: 60% VFFVX / 40% FXAIX, auto-sweep ON.
+
+FEES
+  [[DATE?|07/31/26]]  Monthly HSA maintenance fee   [[MONEY|3.00]]      [[DATE?|08/31/26]]  [[MONEY|3.00]]      [[DATE?|09/30/26]]  [[MONEY|3.00]]
+
+ACCOUNT ACTIVITY & SECURITY LOG
+  [[DATE?|09/24/2026]] 21:47 CT   Claim submitted via mobile app, user [[USERNAME|hannah.ao]], device "[[DEVICE_ID|Pixel 8 - HJAO]]"
+  [[DATE?|09/02/2026]] 06:12 CT   Bank account ending [[BANK_ACCOUNT|5530]] used for one-time post-tax contribution
+  [[DATE?|08/19/2026]] 12:30 CT   Card ending [[CREDIT_CARD|2216]] temporarily suspended -- unsubstantiated swipe at [[ORGANIZATION?|Amazon.com]]
+                                  [[MONEY|(129.95)]]; reinstated [[DATE?|08/26/2026]] when LMN received
+  [[DATE?|07/18/2026]] 09:03 CT   Mailing address verified; e-mail on file [[EMAIL|habernathyosei@northlandmail.com]],
+                                  mobile [[PHONE|(218) 555-0139]]
+
+IMPORTANT REMINDERS
+- You must keep receipts for all HSA distributions. Distributions are reported on Form 1099-SA; contributions
+  on Form 5498-SA. File Form 8889 with your 2026 Form 1040. See IRS Publication 969.
+- Dependent Care FSA reimbursements are reported in Box 10 of your Form W-2 and on Form 2441. See IRS
+  Publication 503.
+- Limited-Purpose FSA: [[MONEY|14.50]] remaining for plan year 2026. Up to [[MONEY|640.00]] may be carried over into plan
+  year 2027 (IRS Notice 2024-80 indexed limit). Amounts above the carryover limit are forfeited.
+
+[[PERSON|HANNAH J ABERNATHY-OSEI]]   Participant ID [[ID_NUMBER|BBA-00731-4482]]                                           Page 3 of 4
+--- Page 4 ---
+[[ORGANIZATION?|Harbor Ridge Sleep Center]]
+[[ADDRESS?|1100 E 4th St, Suite 210, Duluth MN 55805]]   Tel [[PHONE?|218-555-0180]]   Fax [[PHONE?|218-555-0181]]
+
+                               LETTER OF MEDICAL NECESSITY
+                         (received by BenefitBridge [[DATE?|08/26/2026]], attached to [[CLAIM_NUMBER|C26-0811902]])
+
+Date: [[DATE?|08/24/2026]]
+
+Patient:        [[PERSON|Kwame A. Osei]]                DOB: [[DATE_OF_BIRTH|07/26/1985]]
+Health plan:    [[ORGANIZATION?|NorthStar Health Partners]], Member ID [[HEALTH_PLAN_ID|NHP880417263-02]]
+Employee/participant: [[PERSON|Hannah J. Abernathy-Osei]] (spouse), [[EMPLOYER|Lindqvist Marine Supply Co.]]
+
+To the plan administrator:
+
+I am the treating sleep medicine physician for the above patient. [[PERSON|Mr. Osei]] underwent an attended in-lab
+polysomnogram on [[DATE|06/19/2026]] which demonstrated [[MEDICAL_CONDITION|moderate obstructive sleep apnea]] with an apnea-hypopnea
+index of 23.4 events/hour and oxygen nadir of 82%. He was started on auto-titrating CPAP at 6-14 cm H2O.
+
+CPAP therapy, including the replacement of masks, cushions, tubing and filters at the frequencies below, is
+medically necessary to treat this condition and would not be purchased but for the diagnosis:
+
+     Full-face mask cushion ............. 1 per month          Disposable filters ......... 2 per month
+     Full-face mask frame ............... 1 per 3 months       Heated tubing .............. 1 per 3 months
+     Headgear ........................... 1 per 6 months       Water chamber .............. 1 per 6 months
+
+Expected duration of treatment: lifetime. Please contact my office with any questions.
+
+Sincerely,
+[[SIGNATURE|/s/ Mikael Lindgren]]
+[[PERSON|Mikael Lindgren]], MD, Diplomate, American Board of Sleep Medicine
+NPI [[ID_NUMBER?|1487720396]]     MN License [[ID_NUMBER?|56219]]
+
+-------------------------------------------------------------------------------------------------------------
+BenefitBridge use only:  Reviewer [[PERSON|T. Vang]]   Decision: LMN accepted   Categories: CPAP supplies (DME)
+Patient-specific auto-substantiation flag set for card ending [[CREDIT_CARD|2216]]. Form BB-LMN-02 (rev. 2024)

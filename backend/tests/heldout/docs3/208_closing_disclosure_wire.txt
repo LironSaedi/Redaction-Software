@@ -1,0 +1,201 @@
+Closing Disclosure                                                    This form is a statement of final loan terms and closing costs. Compare this
+                                                                      document with your Loan Estimate.
+
+Closing Information                     Transaction Information                 Loan Information
+Date Issued     [[DATE?|10/09/2026]]              Borrower  [[PERSON|Anastasia R. Kovalenko]]        Loan Term   30 years
+Closing Date    [[DATE?|10/14/2026]]                        [[PERSON|Jamal D. Pruitt]]               Purpose     Purchase
+Disbursement    [[DATE?|10/14/2026]]                        [[ADDRESS|61 NW Greeley Ave Apt B]]       Product     Fixed Rate
+Settlement Agent [[ORGANIZATION?|High Desert Title]]                [[ADDRESS|Bend, OR 97703]]                Loan Type   [X] Conventional [ ] FHA
+                 [[ORGANIZATION?|& Escrow, Inc.]]         Seller    [[PERSON|Gunnar T. Halvorsen]]                       [ ] VA [ ] ____
+File #          [[ID_NUMBER|HDT-26-04471-JR]]                   [[PERSON|Beatrix L. Halvorsen]]          Loan ID #   [[BANK_ACCOUNT|8800417263]]
+Property        [[ADDRESS|2290 NW Juniper Bluff Rd]]           [[ADDRESS|2290 NW Juniper Bluff Rd]]     MIC #       [[POLICY_NUMBER|26-14882107]]
+                [[ADDRESS|Bend, OR 97703]]                    [[ADDRESS|Bend, OR 97703]]
+Sale Price      [[MONEY|$735,000]]                Lender    [[ORGANIZATION?|Cascade Summit Bank, N.A.]]
+
+Loan Terms                              Can this amount increase after closing?
+Loan Amount           [[MONEY|$661,500]]          NO
+Interest Rate         6.25 %            NO
+Monthly Principal & Interest [[MONEY|$4,072.97]]  NO
+  See Projected Payments below for your Estimated Total Monthly Payment
+                                        Does the loan have these features?
+Prepayment Penalty                      NO
+Balloon Payment                         NO
+
+Projected Payments
+Payment Calculation               Years 1-9                 Years 10-30
+  Principal & Interest            $4,072.97                 $4,072.97
+  Mortgage Insurance              +   143.33                +        --
+  Estimated Escrow                +   770.67                +    770.67
+  Amount can increase over time
+Estimated Total Monthly Payment   [[MONEY|$4,986.97]]                 [[MONEY|$4,843.64]]
+Estimated Taxes, Insurance & Assessments   $770.67 a month   This estimate includes  [X] Property Taxes  YES
+  Amount can increase over time                         [X] Homeowner's Insurance  YES
+  See page 4 for details                                [ ] Other: HOA dues  NO
+
+Costs at Closing
+Closing Costs         [[MONEY|$18,904.36]]   Includes $9,207.50 in Loan Costs + $9,696.86 in Other Costs - $0 in Lender Credits.
+Cash to Close         [[MONEY|$88,108.02]]   Includes Closing Costs. See Calculating Cash to Close on page 3 for details.
+
+CLOSING DISCLOSURE                                                                        PAGE 1 OF 5 - LOAN ID # [[BANK_ACCOUNT|8800417263]]
+
+--- Page 2 ---
+
+Closing Cost Details
+Loan Costs                                                        Borrower-Paid     Seller-Paid     Paid by
+                                                                  At Closing  Before At Closing     Others
+A. Origination Charges                                            $5,457.50
+ 01  0.5 % of Loan Amount (Points)                                $3,307.50
+ 02  Application Fee                                              $  500.00
+ 03  Underwriting Fee                                             $1,650.00
+B. Services Borrower Did Not Shop For                             $1,212.00
+ 01  Appraisal Fee to [[ORGANIZATION?|Central Oregon Valuation LLC]]                            $650.00
+ 02  Credit Report Fee to [[ORGANIZATION?|Veritas Credit Services]]                 $   82.00
+ 03  Flood Determination Fee                                      $   14.00
+ 04  Tax Monitoring Fee                                           $   66.00
+ 05  Mortgage Insurance Premium (upfront 0.0%)  MIC [[POLICY_NUMBER|26-14882107]]   $    0.00
+ 06  Verification of Employment ([[EMPLOYER|High Lakes Medical Center]] / [[EMPLOYER|Pine Mountain Outfitters]]) $   50.00
+ 07  Tax Transcript Fee (IRS 4506-C)                              $   350.00
+C. Services Borrower Did Shop For                                 $2,538.00
+ 01  Title - Lender's Title Insurance                             $1,688.00
+ 02  Title - Settlement Fee                                       $  625.00         $  625.00
+ 03  Title - Recording Service Fee                                $   75.00
+ 04  Pest Inspection Fee to [[ORGANIZATION?|Bend Termite & Pest]]                   $  150.00
+D. TOTAL LOAN COSTS (Borrower-Paid)                               $9,207.50
+
+Other Costs
+E. Taxes and Other Government Fees                                $  221.00
+ 01  Recording Fees   Deed: $96.00   Mortgage: $125.00            $  221.00
+ 02  Transfer Tax to Deschutes County                                               $    0.00
+F. Prepaids                                                       $4,986.18
+ 01  Homeowner's Insurance Premium (12 mo.) to [[ORGANIZATION?|Three Sisters Mutual]] Policy [[POLICY_NUMBER|HO3-OR-7714820]] $1,836.00
+ 03  Prepaid Interest ($113.27 per day from 10/14/26 to 11/01/26) $2,038.86
+ 04  Property Taxes (6 mo.) to Deschutes County Acct [[ID_NUMBER|175440-B1-02100]] $1,111.32
+G. Initial Escrow Payment at Closing                              $3,008.68
+ 01  Homeowner's Insurance   $153.00 per month for 2 mo.          $  306.00
+ 03  Property Taxes          $617.67 per month for 5 mo.          $3,088.35
+ 08  Aggregate Adjustment                                         -$ 385.67
+H. Other                                                          $1,481.00
+ 01  HOA Capital Contribution                                     $    0.00
+ 02  Home Inspection Fee to [[PERSON|Ruben Szymanski]] (sole prop.)          $  575.00
+ 03  Home Warranty Fee                                                              $  560.00
+ 04  Real Estate Commission (B) [[ORGANIZATION?|Cascade Peaks Realty]]                                $18,375.00
+ 05  Real Estate Commission (S) [[ORGANIZATION?|Juniper Ridge Properties]]                            $18,375.00
+ 06  Title - Owner's Title Insurance (optional)                   $  906.00
+I. TOTAL OTHER COSTS (Borrower-Paid)                              $9,696.86
+J. TOTAL CLOSING COSTS (Borrower-Paid)                            $18,904.36
+
+CLOSING DISCLOSURE                                                                        PAGE 2 OF 5 - LOAN ID # [[BANK_ACCOUNT|8800417263]]
+
+--- Page 3 ---
+
+Calculating Cash to Close                         Loan Estimate   Final         Did this change?
+Total Closing Costs (J)                           $18,710         $18,904.36    YES - See Total Loan Costs
+Closing Costs Paid Before Closing                 $0              -$650.00      YES
+Down Payment/Funds from Borrower                  $73,500         $73,500.00    NO
+Deposit                                           -$15,000        -$15,000.00   NO
+Seller Credits                                    $0              -$5,000.00    YES - See Seller Credits in Section L
+Adjustments and Other Credits                     $0              $16,353.66    YES - See details in Sections K and L
+Cash to Close                                     $77,210         [[MONEY|$88,108.02]]
+
+Summaries of Transactions
+BORROWER'S TRANSACTION                                  SELLER'S TRANSACTION
+K. Due from Borrower at Closing   [[MONEY|$770,053.68]]           M. Due to Seller at Closing      [[MONEY|$736,742.46]]
+ 01 Sale Price of Property            $735,000.00        01 Sale Price of Property          $735,000.00
+ 03 Closing Costs Paid at Closing (J)  $18,254.36        02 Sale Price of Any Personal Property  --
+ 04 Pellet stove + hot tub (per addendum) $15,000.00    Adjustments for Items Paid by Seller in Advance
+Adjustments for Items Paid by Seller in Advance          09 County Taxes 10/14/26 to 11/15/26  $1,742.46
+ 07 County Taxes 10/14/26 to 11/15/26  $1,799.32        N. Due from Seller at Closing    [[MONEY|$471,388.19]]
+L. Paid Already by or on Behalf of Borrower at Closing   01 Excess Deposit                   --
+                                  [[MONEY|$681,945.66]]            02 Closing Costs Paid at Closing (J) $37,935.00
+ 01 Deposit (earnest money)            $15,000.00        03 Existing Loan(s) Assumed or Taken Subject to  --
+ 02 Loan Amount                       $661,500.00        04 Payoff of First Mortgage Loan  $421,688.19
+ 05 Seller Credit                       $5,000.00           to [[ORGANIZATION?|Deschutes Valley Mortgage]] Loan #[[BANK_ACCOUNT|0071-448829]]
+Other Credits                                            05 Payoff of HELOC to [[ORGANIZATION?|Mid-Oregon CU]] acct ...[[BANK_ACCOUNT|3019]]  $6,765.00
+ 06 Gift funds -- [[PERSON|Lyudmila Kovalenko]] (mother)   $0.00    06 Seller Credit                     $5,000.00
+    (gift wired directly to borrower acct [[DATE?|09/30]])        CALCULATION
+CALCULATION                                             Total Due to Seller at Closing (M)  $736,742.46
+Total Due from Borrower at Closing (K)  $770,053.68     Total Due from Seller at Closing (N)  -$471,388.19
+Total Paid Already by or on Behalf of Borrower (L) -$681,945.66 Cash  [ ] From [X] To Seller  [[MONEY|$265,354.27]]
+Cash to Close  [X] From [ ] To Borrower   [[MONEY|$88,108.02]]
+
+CLOSING DISCLOSURE                                                                        PAGE 3 OF 5 - LOAN ID # [[BANK_ACCOUNT|8800417263]]
+
+--- Page 4 ---
+
+Additional Information About This Loan
+Loan Disclosures
+ Assumption   If you sell or transfer this property to another person, your lender [ ] will allow ... [X] will not allow
+              assumption of this loan on the original terms.
+ Demand Feature   Your loan [X] does not have a demand feature.
+ Late Payment     If your payment is more than 15 days late, your lender will charge a late fee of 5% of the
+                  monthly principal and interest payment.
+ Negative Amortization (Increase in Loan Amount)   [X] Your loan payments do not cause the loan amount to increase.
+ Partial Payments   Your lender [X] may hold them in a separate account until you pay the rest of the payment.
+ Security Interest  You are granting a security interest in  [[ADDRESS|2290 NW Juniper Bluff Rd, Bend, OR 97703]]
+ Escrow Account   For now, your loan [X] will have an escrow account (also called an "impound" or "trust" account)
+                  to pay the property costs listed below.
+   Escrowed Property Costs over Year 1   $9,248.04   Estimated total amount over year 1 for your escrowed property
+                                                     costs: Homeowner's Insurance, Property Taxes
+   Initial Escrow Payment                $3,008.68
+   Monthly Escrow Payment                $  770.67
+
+Loan Calculations                                          Other Disclosures
+ Total of Payments           $1,484,602.05                 Appraisal -- If the property was appraised for your loan,
+ Finance Charge                $808,946.21                  your lender is required to give you a copy at no additional
+ Amount Financed               $652,692.50                  cost at least 3 days before closing.
+ Annual Percentage Rate (APR)        6.393 %               Contract Details -- See your note and security instrument.
+ Total Interest Percentage (TIP)   121.660 %               Liability after Foreclosure -- Oregon is a nonrecourse state
+                                                             for some purchase-money loans (ORS 86.797).
+
+Contact Information
+                Lender                  Real Estate Broker (B)          Settlement Agent
+Name            [[ORGANIZATION?|Cascade Summit Bank, N.A.]] [[ORGANIZATION?|Cascade Peaks Realty]]          [[ORGANIZATION?|High Desert Title & Escrow]]
+Address         [[ADDRESS?|1000 NW Wall St, Bend OR]] [[ADDRESS?|25 NW Minnesota Ave, Bend]]      [[ADDRESS?|640 SW Bond St, Bend OR]]
+NMLS ID         449180                  OR License 201220884            OR Escrow Lic. 0447
+Contact         [[PERSON?|Wendell Nakashima-Ford]]  [[PERSON?|Sloane Whitaker]]                 [[PERSON?|Josefina Ruiz]] (Escrow Officer)
+Contact NMLS ID [[ID_NUMBER?|1611904]]                 Lic. [[ID_NUMBER?|201244107]]                  Lic. [[ID_NUMBER?|E-20418]]
+Email           [[EMAIL?|wnakashima@cascadesummit.example]] [[EMAIL?|sloane@cascadepeaks.example]] [[EMAIL?|jruiz@hdtitle.example]]
+Phone           [[PHONE?|541-555-0110]]            [[PHONE?|541-555-0127]]                    [[PHONE?|541-555-0199]]
+                Real Estate Broker (S): [[ORGANIZATION?|Juniper Ridge Properties]], contact [[PERSON?|Ty Okafor]], [[PHONE?|541-555-0168]]
+
+Confirm Receipt  By signing, you are only confirming that you have received this form.
+  [[SIGNATURE|Anastasia R. Kovalenko]]                Date [[DATE?|10/14/2026]] [[SIGNATURE|Jamal D. Pruitt]]                   Date [[DATE?|10/14/2026]]
+
+CLOSING DISCLOSURE                                                                        PAGE 4 OF 5 - LOAN ID # [[BANK_ACCOUNT|8800417263]]
+
+--- Page 5 ---
+
+[[ORGANIZATION?|HIGH DESERT TITLE & ESCROW, INC.]]  *  [[ADDRESS?|640 SW Bond St, Suite 200, Bend, OR 97702]]  *  [[PHONE?|541-555-0199]]
+
+                  WIRING INSTRUCTIONS -- BUYER FUNDS TO CLOSE -- VERIFY BY PHONE BEFORE SENDING
+Escrow File No. [[ID_NUMBER|HDT-26-04471-JR]]     Buyer(s): [[PERSON|Kovalenko]] / [[PERSON|Pruitt]]     Property: [[ADDRESS|2290 NW Juniper Bluff Rd]]
+
+  Receiving Bank:      [[ORGANIZATION?|Columbia Basin Bank]], [[ADDRESS?|101 NW Bond St, Bend OR 97701]]
+  ABA Routing No.:     [[ROUTING_NUMBER|123006431]]
+  Beneficiary:         High Desert Title & Escrow, Inc. -- Escrow Trust Account
+  Beneficiary Acct:    [[BANK_ACCOUNT|4471 8800 29]]
+  Reference / OBI:     File [[ID_NUMBER|HDT-26-04471-JR]] -- [[PERSON|KOVALENKO]]
+  Amount:              [[MONEY|$88,108.02]] (exact amount per Closing Disclosure)
+
+  ** WIRE FRAUD ALERT ** High Desert Title will NEVER change wiring instructions by email. Before you wire, call
+  your escrow officer at a number you obtained independently (not from an email). Note: on [[DATE?|10/10/2026]] the
+  buyer reported an email from "jruiz@hdtitIe-escrow.example" (capital I instead of lower-case l) with "updated"
+  instructions to routing [[ROUTING_NUMBER|091310521]] / acct [[BANK_ACCOUNT|5501882746]]. Those instructions are FRAUDULENT. Do not use.
+
+INCOMING WIRE RECEIPT (from bank portal)
+  Fed IMAD [[ID_NUMBER?|20261013MMQFMP2F004417]]   Rec'd [[DATE?|10/13/2026]] 10:42 PT   [[MONEY|$88,108.02]]
+  Originator: [[PERSON|ANASTASIA R KOVALENKO]] / [[PERSON|JAMAL D PRUITT]]   Orig acct [[BANK_ACCOUNT|000331870224]]
+  Orig bank: [[ORGANIZATION?|MID-OREGON FCU]] ABA [[ROUTING_NUMBER|323274270]]
+
+SELLER'S PROCEEDS DISBURSEMENT AUTHORIZATION
+  I/We authorize disbursement of net proceeds ([[MONEY|$265,354.27]]) by wire to:
+  Bank: [[ORGANIZATION?|Klamath Basin Bank]], Klamath Falls branch     ABA [[ROUTING_NUMBER|323371076]]
+  Account name: [[PERSON|Gunnar T. Halvorsen]] and [[PERSON|Beatrix L. Halvorsen]]   Acct # [[BANK_ACCOUNT|9070 2214 5583]]
+  Forwarding address: [[ADDRESS|4417 Lakeshore Dr, Klamath Falls, OR 97601]]   Seller cell [[PHONE|541-555-0472]]
+  Seller SSNs (1099-S reporting): [[PERSON|G. Halvorsen]] ***-**-[[SSN|8820]]  /  [[PERSON|B. Halvorsen]] ***-**-[[SSN|1406]]
+  [[SIGNATURE|Gunnar T. Halvorsen]]   [[SIGNATURE|Beatrix L. Halvorsen]]       Date [[DATE?|10/12/2026]]
+
+  Escrow officer callback verification: called sellers at number on listing agreement [[DATE?|10/12]] 3:15 pm,
+  confirmed last 4 of acct ([[BANK_ACCOUNT|5583]]) and routing verbally. -- [[PERSON?|JR]]
+
+CLOSING DISCLOSURE ADDENDUM / ESCROW                                                      PAGE 5 OF 5

@@ -1,0 +1,96 @@
+SAN MARCOS POLICE DEPARTMENT                                                   INCIDENT REPORT
+[[ADDRESS?|2300 IH-35 S]], [[ADDRESS?|San Marcos, TX 78666]]  --  Records [[PHONE|512-753-2108]]                           Page 1 of 3
+=====================================================================================================
+Incident #: [[LAW_ENFORCEMENT_ID|SMPD25-014472]]        CAD #: [[LAW_ENFORCEMENT_ID|C25-0921-0388]]       Reported: [[DATE|09/21/2025]] 02:47
+Type: WELFARE CONCERN / OVERDOSE -- NON-FATAL; POSS CS PG1 <1G; RUNAWAY LOCATED
+Location: [[INDIRECT_LOCATION|BUDGET INN, ROOM 118]], [[ADDRESS|1600 N IH-35 FRONTAGE RD, SAN MARCOS TX 78666]]
+Beat: 12     Disposition: ARREST (1); EMERGENCY DETENTION (1); JUVENILE RETURNED TO GUARDIAN (1)
+-----------------------------------------------------------------------------------------------------
+REPORTING PARTY (RP)
+  [[PERSON|PATEL, PRAVINKUMAR B]] -- [[INDIRECT_ROLE|night manager, Budget Inn]]     DOB [[DATE_OF_BIRTH|07/19/1974]]
+  [[PHONE|(512) 392-0144]] (front desk) / [[PHONE|737.208.5519]] (cell)
+
+SUBJECT 1 (S1) -- PATIENT / ARRESTEE
+  [[PERSON|MCBRIDE, CODY RAY]]     DOB [[DATE_OF_BIRTH|02/27/1991]]   Age [[AGE|34]]   [[DEMOGRAPHIC|W/M]]   [[PHYSICAL_DESCRIPTOR?|5'09" 150 lbs, BRO/HAZ]]
+  Address: no fixed address (last known: [[ADDRESS|412 Cheatham St #3, San Marcos TX 78666]])
+  DL: TX [[DRIVERS_LICENSE|39117502]]    SID [[LAW_ENFORCEMENT_ID|TX08812244]]
+  SMT: [[PHYSICAL_DESCRIPTOR|tattoo "KAYLEE" w/ heart, L wrist]]; [[PHYSICAL_DESCRIPTOR|teardrop tattoo below R eye]]; [[PHYSICAL_DESCRIPTOR|track marks bilat antecubital]]
+  Status: [[CRIMINAL_HISTORY|ON PAROLE (TDCJ #02297741) -- Burglary of Habitation, Hays Co. 2019]]; parole officer
+          [[PERSON|J. Hennessey]], [[LOCATION?|Austin]] DPO
+  Phone: [[PHONE|(512) 805-3127]]   Facebook: [[USERNAME|cody.r.mcbride.9]]
+
+SUBJECT 2 (S2) -- JUVENILE (RUNAWAY)
+  [[PERSON MINOR|J.D.R.]]     DOB [[DATE_OF_BIRTH|04/03/2009]]   Age [[AGE|16]]   [[DEMOGRAPHIC|H/F]]
+  Reported missing [[DATE|09/18/2025]] by mother -- [[ORGANIZATION?|Kyle PD]] case [[LAW_ENFORCEMENT_ID|KPD25-08814]]; NCIC [[LAW_ENFORCEMENT_ID|M118842107]]
+  Student at [[SCHOOL|Lehman High School]] (Hays CISD), 10th grade
+  Guardian: [[PERSON|ROSARIO, YADIRA]] (mother) -- [[PHONE|512-268-4419]] -- [[ADDRESS|201 Bunton Creek Rd Apt 9, Kyle TX 78640]]
+
+VEHICLE
+  [[VEHICLE_DESCRIPTION|2009 CHEVROLET IMPALA, BLACK, 4D]]   Paper tag TX [[LICENSE_PLATE|8841T22]] (expired [[DATE?|07/2025]])   VIN [[VIN|2G1WB57K191204471]]
+  Parked in front of Rm 118. Registered owner: [[PERSON|McBRIDE, DONNA J]] ([[INDIRECT_ROLE|S1's grandmother]]). Released to tow
+  (Wilson's Wrecker) -- inventory on file.
+
+PROPERTY / EVIDENCE
+  1. 7 blue round tablets imprinted "M 30" (suspected counterfeit oxycodone / fentanyl), in plastic baggie --
+     field test NIK U: positive fentanyl. Weight 0.79 g. Tag [[LAW_ENFORCEMENT_ID|E25-14472-01]]
+  2. Glass pipe w/ burnt residue (suspected methamphetamine). Tag [[LAW_ENFORCEMENT_ID|E25-14472-02]]
+  3. Two used NARCAN 4 mg nasal devices (lot 2207NX) -- disposed by EMS
+  4. Apple iPhone (S1), black, cracked -- IMEI [[DEVICE_ID|350519110167207]] -- held pending warrant (S2's
+     contact w/ S1; possible online solicitation of a minor -- referred to CID)
+  5. Handwritten note on motel notepad (see narrative) -- photographed, retained. Tag [[LAW_ENFORCEMENT_ID|E25-14472-05]]
+
+SMPD [[LAW_ENFORCEMENT_ID|SMPD25-014472]]                                                                       Page 2 of 3
+-----------------------------------------------------------------------------------------------------
+NARRATIVE -- Ofc. [[PERSON|Hailey Brannigan]] #[[LAW_ENFORCEMENT_ID|611]]
+
+On [[DATE|09/21/2025]] at 0247 hrs I was dispatched to the [[INDIRECT_LOCATION|Budget Inn]] in reference to an unresponsive male.
+The RP, [[INDIRECT_ROLE|the night manager]] ([[PERSON|Pravinkumar Patel]]), told dispatch a teenage girl ran to the front desk
+screaming that "[[PERSON|Cody]] isn't breathing." Ofc. [[PERSON|Luis Arreola]] #[[LAW_ENFORCEMENT_ID|588]] and SMFD Engine 3 / [[ORGANIZATION?|Hays Co EMS]]
+Medic 4 were also dispatched.
+
+I arrived at 0251. Mr. [[PERSON|Patel]] met me in the parking lot and walked me to Room 118
+(ground floor, rear, facing the [[INDIRECT_LOCATION|Whataburger lot]]). The door was propped open. I observed a [[DEMOGRAPHIC|white male]],
+later identified as S1 [[PERSON|Cody Ray McBride]], lying supine on the floor between the bed and the bathroom,
+cyanotic, with pinpoint pupils and snoring respirations about 4 per minute. A [[DEMOGRAPHIC|Hispanic female juvenile]],
+later identified as S2 [[PERSON MINOR|J.D.R.]], was kneeling next to him crying. S2 stated she had already given him "the
+spray" one time. I administered NARCAN 4 mg intranasal at 0253. Ofc. [[PERSON|Arreola]] began rescue breaths with a
+BVM. At 0255 S1 gasped and became responsive and combative, stating "why'd you do that, I was fine." EMS
+arrived 0256 and assumed care; a second dose was not needed. Medic 4 crew ([[PERSON|T. Villanueva]], [[PERSON|K. Baird]]) transported
+S1 to [[ORGANIZATION?|Christus Santa Rosa San Marcos]] under police escort.
+
+On the nightstand I observed in plain view a plastic baggie with seven blue "M 30" tablets and a glass pipe.
+S1 stated, before any questions were asked, "[[SUBSTANCE_USE|those are mine, she doesn't use, I've been using since I got
+out]]." A note on the motel notepad read: "[[PERSON|Bri]] -- I'm sorry. Tell [[PERSON MINOR|Kaylee]] her daddy loved her. I can't do this
+no more." When I asked S1 about the note at the hospital, he stated "[[MENTAL_HEALTH|I wanted to go to sleep and not wake up]]."
+Based on his statements and the note, I believed S1 was a person with mental illness at substantial risk
+of serious harm to himself and that there was not sufficient time to obtain a warrant. At 0412 I completed
+an Emergency Detention (Tex. Health & Safety Code § 573.001) and S1 was transferred after medical clearance
+to [[ORGANIZATION?|Cross Creek Hospital]] ([[LOCATION?|Austin]]). Possession of a Controlled Substance PG1 < 1 g (State Jail Felony)
+charge filed at large; parole officer notified via TDCJ hotline 0430 (blue warrant expected).
+
+S2 initially gave the name "[[PERSON MINOR|Jasmine Torres]]" and stated she was 19. Through a records check her true
+identity was established and she was found to be listed as a runaway out of [[LOCATION?|Kyle]]. S2 stated she met S1 on
+Instagram ("[[USERNAME|@cody_rides_512]]") about two weeks ago and that he picked her up from [[INDIRECT_LOCATION|the Sonic on FM 1626]] on
+[[DATE|09/18]]. She denied any sexual contact. She stated S1 told her the pills were "for his back." S2 stated she
+did not use any drugs; she was evaluated by EMS and declined transport. S2 was released to her mother,
+[[PERSON|Yadira Rosario]], at 0505 at SMPD headquarters after [[ORGANIZATION?|Kyle PD]] was notified and cancelled the NCIC entry.
+Mother advised of CAC (Hays-Caldwell Children's Advocacy Center) services; forensic interview scheduled
+[[DATE|09/23/2025]]. Case referred to CID (Det. [[PERSON|R. Okonkwo-Steele]]) for investigation of possible Online
+Solicitation of a Minor (PC 33.021) and Harboring a Runaway Child (PC 25.06).
+
+SMPD [[LAW_ENFORCEMENT_ID|SMPD25-014472]]                                                                       Page 3 of 3
+-----------------------------------------------------------------------------------------------------
+SUPPLEMENT -- Ofc. [[PERSON|Luis Arreola]] #[[LAW_ENFORCEMENT_ID|588]]
+  Spoke with [[PERSON|Patel]] (RP). Room 118 was rented [[DATE|09/18]] at 23:10 for 3 nights, cash, under the name "[[PERSON|C.
+  McBride]]," [[MONEY?|$187.50]]. RP stated he saw "a young girl" coming and going and "thought it was his daughter." RP
+  provided motel lobby/parking CCTV ([[DATE|09/18]]-[[DATE|09/21]]) on USB -- tag [[LAW_ENFORCEMENT_ID|E25-14472-06]].
+  The housekeeper, [[PERSON|Marisela Duarte]], stated she was asked not to clean the room ("DO NOT DISTURB" all 3 days).
+
+SUPPLEMENT -- Ofc. [[PERSON|H. Brannigan]] #[[LAW_ENFORCEMENT_ID|611]], [[DATE|09/21/2025]] 1015
+  Contacted [[PERSON|Brianna]] (last name unknown -- "[[PERSON|Bri]]" from note) per S1's request to "tell [[PERSON|Bri]] I'm ok." S1 provided
+  number [[PHONE|512-618-2290]]; no answer, voicemail left with callback only. No further information sought.
+
+Approved: Sgt. [[PERSON|M. Treviño-Hall]] #[[LAW_ENFORCEMENT_ID|402]]  [[DATE|09/21/2025]] 1340
+
+** Contains information regarding a juvenile (Fam. Code § 58.008), medical/mental health information, and an
+   overdose victim. Protected from public release in part under Gov't Code §§ 552.101, 552.108. **

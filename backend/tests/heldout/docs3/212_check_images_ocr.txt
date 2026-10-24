@@ -1,0 +1,105 @@
+[[ORGANIZATION?|GRANITE TIDE SAVINGS BANK]] -- LEGAL PROCESSING / RESEARCH UNIT
+CHECK IMAGE TRANSCRIPTION (OCR + operator review)      Research ticket [[ID_NUMBER?|RT-2026-10-0884]]
+Requested by: NH Bureau of Elderly & Adult Services, investigator [[PERSON?|C. Desrochers]], APS ref [[CASE_NUMBER|BEAS-26-04471]]
+Account: [[PERSON|AGNES M PELLETIER-VOSS]]  Personal Checking  [[BANK_ACCOUNT|4471882093]]   Items: 3   Images: 6 (front/back)
+NOTE: OCR text below is uncorrected except where operator notes appear in [brackets].
+
+------------------------------------------------------------------------------------------------------
+ITEM 1 of 3 -- FRONT                                                  Seq# 0884-0001   Posted [[DATE?|09/04/2026]]
+------------------------------------------------------------------------------------------------------
+  [[PERSON|AGNES M. PELLETIER-V0SS]]                                               4108
+  [[ADDRESS|22 Birchw0od Terrace]]
+  [[ADDRESS|P0rtsmouth, NH 03801]]                                  DATE  [[DATE?|Sept 2, 2O26]]            [[ROUTING_NUMBER?|54-1815/2110]]
+
+  PAY T0 THE
+  0RDER 0F   [[PERSON|Tiffani R. Gauthier]] ______________________________________   $ [[MONEY|2,4OO.OO]]
+
+  Tw0 th0usand f0ur hundred and OO/1OO --------------------------------------- D0LLARS   [lock icon]
+
+  [[ORGANIZATION?|GRANITE TIDE SAVINGS BANK]]
+  [[ADDRESS?|P0RTSMOUTH, NH 03801]]
+  MEM0  Sept care + gr0ceries                     [[SIGNATURE|Agnes M Pelletier-Voss]]  [signature shaky, partly off line]
+
+  ⑆[[ROUTING_NUMBER|211018153]]⑆ [[BANK_ACCOUNT|4471882093]]⑈ 4108
+
+ITEM 1 of 3 -- BACK
+  ENDORSE HERE
+  x [[SIGNATURE|Tiffani Gauthier]]
+    F0R M0BILE DEP0SIT 0NLY AT [[ORGANIZATION?|SEAC0AST MEMBERS CU]]
+    ACCT [[BANK_ACCOUNT|55O2l187]]
+  D0 N0T WRITE, STAMP 0R SIGN BEL0W THIS LINE
+  [BOFD stamp, partially legible:]  >[[ROUTING_NUMBER|2ll390839]]<  [[DATE?|09/03/2026]]  SEACOAST MEMBERS CU  M0BILE  ITEM [[ID_NUMBER?|0003318842]]
+  [image-quality flag: ENDORSEMENT PRESENT]
+
+                                                                                          Page 1 of 3
+
+--- Page 2 ---
+
+------------------------------------------------------------------------------------------------------
+ITEM 2 of 3 -- FRONT                                                  Seq# 0884-0002   Posted [[DATE?|09/19/2026]]
+------------------------------------------------------------------------------------------------------
+  [[PERSON|AGNES M. PELLETIER-V0SS]]                                               4112
+  [[ADDRESS|22 Birchwood Terrace]]
+  [[ADDRESS|Portsm0uth, NH 03801]]                                  DATE  [[DATE?|9/19/26]]                 [[ROUTING_NUMBER?|54-1815/2110]]
+
+  PAY T0 THE
+  0RDER 0F   CASH __________________________________________________   $ [[MONEY|1,5OO.OO]]
+
+  0ne th0usand five hundred -------------------------------------------- D0LLARS
+
+  MEM0  [blank]                                   [[SIGNATURE|Agnes Pelletier Voss]]  [operator: signature style differs from item 1]
+
+  C[[ROUTING_NUMBER|211018153]]A [[BANK_ACCOUNT|4471882093]]C 4112
+  [operator: MICR rendered in E-13B ASCII (A = transit, C = on-us)]
+
+ITEM 2 of 3 -- BACK
+  x [[SIGNATURE|Tiffani R Gauthier]]
+  x [[SIGNATURE|Dale Gauthier]]    [second endorser]
+    ID: NH DL [[DRIVERS_LICENSE|NHL1O447188]]   DOB [[DATE_OF_BIRTH|O4/22/1991]]   ph [[PHONE|6O3-555-0l77]]
+  [teller stamp:] [[ORGANIZATION?|QUIK CASH CHECK CASHING]] #12  [[ADDRESS?|R0CHESTER NH]]  [[DATE?|09/19/2026]] 16:52
+                  CASHED BY: [[PERSON?|K.L.]]   FEE 3.0%  $45.00   C0NTR0L# [[ID_NUMBER?|QC12-26-088173]]
+  [BOFD stamp:]  PAY ANY BANK  [[ORGANIZATION?|LACONIA SAVINGS]] >[[ROUTING_NUMBER|011501666]]< FOR DEP0SIT
+                 [[ORGANIZATION?|QUIK CASH LLC]] ACCT [[BANK_ACCOUNT|2204 9917]]
+
+                                                                                          Page 2 of 3
+
+--- Page 3 ---
+
+------------------------------------------------------------------------------------------------------
+ITEM 3 of 3 -- FRONT                                                  Seq# 0884-0003   Posted [[DATE?|10/03/2026]]
+------------------------------------------------------------------------------------------------------
+  [[PERSON|AGNES M. PELLETIER-V0SS]]                                               4115
+  [[ADDRESS|22 Birchwood Terrace]]
+  [[ADDRESS|Portsmouth, NH 038O1]]                                  DATE  [[DATE?|Oct l, 2026]]             [[ROUTING_NUMBER?|54-1815/2110]]
+
+  PAY T0 THE
+  0RDER 0F   [[ORGANIZATION?|Granite State M0tors LLC]] ____________________________   $ [[MONEY|8,9OO.OO]]
+
+  Eight th0usand nine hundred and n0/1OO ---------------------------------- D0LLARS
+
+  MEM0  dep0sit -- [[PERSON|Tiffani]]'s car  VIN [[VIN|3C4NJDBB5MT604418]] [[SIGNATURE|Agnes M. Pelletier-Voss]]
+
+  |:[[ROUTING_NUMBER|2llOl8l53]]|: [[BANK_ACCOUNT|447l882O93]]||' 4ll5
+  [operator: OCR misread on MICR -- correct values match items 1 and 2]
+
+ITEM 3 of 3 -- BACK
+  F0R DEP0SIT 0NLY
+  [[ORGANIZATION?|GRANITE STATE M0T0RS LLC]]
+  0PERATING ACCT [[BANK_ACCOUNT|22O41887]]
+  [stamp:] [[DATE?|10/02/2026]]  [[ORGANIZATION?|C0NNECTICUT RIVER BANK]]  >[[ROUTING_NUMBER|011452605]]<   DEAL # [[ID_NUMBER?|GSM-26-3318]]
+  [handwritten:] "buyer [[PERSON|T. Gauthier]] / co-buyer [[PERSON|D. Gauthier]]  2021 Jeep Compass  plate [[LICENSE_PLATE|NH 488 2019]]"
+
+------------------------------------------------------------------------------------------------------
+RESEARCH NOTES (operator [[PERSON?|M. Theriault]], Deposit Ops)
+  1. Signature card on file (opened [[DATE?|06/1979]]): "[[SIGNATURE|Agnes Marie Pelletier-Voss]]". Joint owner [[PERSON|Raymond L. Voss]]
+     removed [[DATE?|02/2021]] (deceased). POD beneficiary: [[PERSON|Jeanne Pelletier-Albright]] (daughter), [[ADDRESS|9 Ridge Rd,
+     Kittery ME 03904]].
+  2. Payee [[PERSON|Tiffani R. Gauthier]] is identified in the APS referral as [[INDIRECT_ROLE|the customer's live-in home health
+     aide placed by the agency on Islington St]]. Customer is [[AGE|91]] years old (DOB [[DATE_OF_BIRTH|01/30/1935]]).
+  3. Items 2 and 3 show signature characteristics inconsistent with item 1 and with the signature card. Check stock
+     for 4109-4111 and 4113-4114 has not been presented; customer reported checkbook "misplaced" [[DATE?|10/06/2026]].
+  4. Stop payment placed [[DATE?|10/06/2026]] on 4116-4150. New account [[BANK_ACCOUNT|4471882107]] opened; online
+     banking user [[USERNAME|agnespv1935]] disabled; card ending [[CREDIT_CARD|0332]] hot-carded.
+  5. Branch: Market Square #04. Customer's daughter (POA dated [[DATE?|10/07/2026]]) contact [[PHONE|(207) 555-0164]].
+
+                                                                                          Page 3 of 3

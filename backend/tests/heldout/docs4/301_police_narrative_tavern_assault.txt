@@ -1,0 +1,51 @@
+SPOKANE POLICE DEPARTMENT                                        INCIDENT REPORT - NARRATIVE
+Case No.: [[CASE_NUMBER|2026-20184477]]          Reporting Officer: Ofc. [[PERSON|Dana Halvorsen]] #[[LAW_ENFORCEMENT_ID|1192]]
+Date Reported: [[DATE|09/27/2026]] 0152 hrs      Offense: ASSAULT 2ND DEGREE (RCW 9A.36.021)
+Sector: EAST / Beat 214                          Related CAD Event: [[LAW_ENFORCEMENT_ID|E26-0927-00412]]
+
+911 CALL SUMMARY (from CAD remarks)
+RP is [[INDIRECT_ROLE|the closing bartender at the Gilded Moose on East Sprague]]. RP states an older male was
+kicked repeatedly in the back lot. RP knows the victim as [[INDIRECT_ROLE|the retired mail carrier with the end
+stool by the dartboard]]. Suspect fled on foot E toward the tire shop. RP states suspect has [[PHYSICAL_DESCRIPTOR|a big
+spiderweb tat on his elbow]]. Medics requested; victim conscious and talking.
+
+NARRATIVE
+On [[DATE|09/27/2026]] at approximately 0158 hrs I arrived at the Gilded Moose Tavern, [[ADDRESS|3318 E Sprague Ave]],
+and contacted the RP, [[PERSON|Kaylee M. Ostrander]] (DOB [[DATE_OF_BIRTH|03/11/1994]]), in the parking lot. The victim
+was seated on the ground against the dumpster enclosure holding a bar towel to his forehead.
+
+V1 was identified by Washington ID card as [[PERSON|Raymond Ellis Tuckett]], age [[AGE|71]]. [[PERSON|Tuckett]] has no current
+residential address on file. He stated he rents [[INDIRECT_LOCATION|the basement room under the coin laundry on Napa]] and
+eats most of his meals at [[INDIRECT_LOCATION|the Hillyard senior center on Market]]. [[PERSON|Tuckett]] had a 4 cm laceration above
+the right eyebrow and was guarding his left ribs. He told me he has [[MEDICAL_CONDITION|atrial fibrillation]] and takes
+[[MEDICATION|Eliquis]], so I requested SFD Medic 1 for a possible head bleed.
+
+[[PERSON|Tuckett]] described the suspect as a [[DEMOGRAPHIC?|white male]] in his late twenties, around [[PHYSICAL_DESCRIPTOR?|6'2"]] and thin, wearing a
+gray hooded sweatshirt, with [[PHYSICAL_DESCRIPTOR|a spiderweb tattoo covering his left elbow]] and [[PHYSICAL_DESCRIPTOR|a gold cap on one of his
+front teeth]]. [[PERSON|Tuckett]] said the suspect accused him of "running his mouth" to [[INDIRECT_ROLE|his ex-girlfriend, the Thursday
+bartender at the Moose]], then shoved him off the curb and kicked him five or six times while he was down.
+
+[[PERSON|Ostrander]] stated she did not see the assault but heard yelling, went out the kitchen door, and saw a male run past
+the propane cage. She recognized him as [[PERSON|Corey Dale Bledsoe]], who she said is [[INDIRECT_ROLE|the overnight stocker at
+the Yoke's on Market]] and usually comes in after his shift. [[PERSON|Ostrander]] said [[PERSON|Bledsoe]] lives in [[INDIRECT_LOCATION|the upstairs
+left unit of the green fourplex across from the Hillyard VFW]].
+
+Witness W2, [[PERSON|Mateo Quintanilla]] (age [[AGE|19]]), [[INDIRECT_ROLE?|the late-shift dishwasher]], stated he was carrying trash out
+and saw the suspect kick V1 at least three times. He described the suspect's vehicle as a [[VEHICLE_DESCRIPTION|white Dodge Dakota
+with a primer-gray tailgate]], partial WA plate beginning "[[LICENSE_PLATE|C47]]."
+
+At 0231 hrs Ofc. [[PERSON|Tomoko Nakamura]] #[[LAW_ENFORCEMENT_ID|1408]] located a white Dakota with a gray tailgate parked behind
+the fourplex, WA plate [[LICENSE_PLATE|C47-8812R]]. [[PERSON|Bledsoe]] answered the door. He matched the description, including the elbow
+tattoo and capped tooth, and had fresh abrasions across the knuckles of his right hand. He declined to make a
+statement. A records check showed [[CRIMINAL_HISTORY|a 2021 conviction for Assault 4 (DV)]]. [[PERSON|Bledsoe]] was arrested and booked
+into the Spokane County Jail.
+
+V1 was transported to the hospital by Medic 1. A nurse in the emergency department later told me by phone that the
+CT scan was negative and V1 would be kept overnight for observation.
+
+FOLLOW-UP
+On [[DATE|09/28/2026]] I spoke by phone with [[INDIRECT_ROLE|the victim's only daughter, a dental hygienist in Coeur d'Alene]],
+at [[PHONE|(208) 555-0147]]. She stated her father has been threatened before by "somebody from that bar" and asked
+that his housing location not be released. Request noted for Records.
+
+Ofc. [[PERSON|D. Halvorsen]] #[[LAW_ENFORCEMENT_ID|1192]]

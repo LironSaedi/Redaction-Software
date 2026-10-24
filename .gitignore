@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+*.egg-info/
+
+# AI models (several GB; download with backend/scripts/download_models.py)
+backend/models/
+
+# case data, keys, databases — never commit
+backend/data/
+data/
+*.db
+*.db-wal
+*.db-shm
+*.key
+*.pem
+INITIAL_ADMIN_PASSWORD.txt
+DEV_TEST_CREDENTIALS.txt
+
+# build output and installers (large; built by packaging/ scripts)
+build
+dist
+build/
+dist/
+frontend/dist/
+frontend/node_modules/
+*.pkg
+*.dmg
+*.exe
+
+# benchmark caches and logs
+backend/benchmarks/.mlcache/
+*.log
+
+# local tooling
+.claude/
+.DS_Store
+.idea/
+.vscode/

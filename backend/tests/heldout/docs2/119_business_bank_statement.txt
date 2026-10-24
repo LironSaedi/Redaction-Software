@@ -1,0 +1,71 @@
+[[ORGANIZATION?|GREAT LAKES COMMERCE BANK]]                                         BUSINESS CHECKING STATEMENT
+Member FDIC  |  [[ADDRESS?|PO Box 33018, Detroit, MI 48232]]  |  [[PHONE|1-888-555-0177]]  |  glcbank.com
+
+[[EMPLOYER|AL-HAMDANI CATERING LLC]]                                      Statement Period: [[DATE|08/01/2026]] - [[DATE|08/31/2026]]
+DBA [[EMPLOYER|ZAYTOON KITCHEN & CATERING]]                                   Account Number:   [[BANK_ACCOUNT|4410 2297 1863]]
+ATTN [[PERSON|YOUSEF K AL-HAMDANI]], MEMBER                                Routing (ABA):    [[ROUTING_NUMBER|072413829]]
+[[ADDRESS|13518 W WARREN AVE]]                                                Branch: [[INDIRECT_LOCATION|Dearborn - Michigan Ave #0221]]
+[[ADDRESS|DEARBORN MI 48126-1442]]                                            Relationship Mgr: [[PERSON|Carmen Ruiz-Okafor]]
+                                                                         Direct: [[PHONE|(313) 582-0441]]
+Authorized signers: [[PERSON|Yousef K. Al-Hamdani]]; [[PERSON|Layla Al-Hamdani]]
+Business EIN on file: [[ID_NUMBER?|XX-XXX4471]]      Owner SSN on file: [[SSN|XXX-XX-8306]]
+
+ACCOUNT SUMMARY -- Business Advantage Checking
+  Beginning balance  [[DATE|08/01/2026]]                               [[FINANCIAL_INFO|$18,204.77]]
+  Deposits and credits (8)                                   [[FINANCIAL_INFO|+$39,266.15]]
+  Withdrawals and debits (18)                                [[FINANCIAL_INFO|-$45,009.33]]
+  Service fees                                                    -$25.00
+  Ending balance     [[DATE|08/31/2026]]                               [[FINANCIAL_INFO|$12,436.59]]
+  Average collected balance                                   [[FINANCIAL_INFO|$14,890.12]]
+  Overdraft line ([[BANK_ACCOUNT|ODL-0418877]]) available / used           [[FINANCIAL_INFO|$10,000.00 / $0.00]]
+
+TRANSACTION DETAIL
+Date   Description                                                     Debits       Credits      Balance
+-----  --------------------------------------------------------------  -----------  -----------  -----------
+[[DATE|08/01]]  Beginning balance                                                                         18,204.77
+[[DATE|08/01]]  SQUARE INC DEPOSIT  SQ*ZAYTOON 8817220                                       [[MONEY?|3,118.42]]     21,323.19
+[[DATE|08/02]]  ACH DEBIT  RESTAURANT DEPOT #0441 DEARBORN                        [[MONEY?|2,847.16]]                  18,476.03
+[[DATE|08/04]]  MOBILE DEPOSIT  CHK 2207 FROM [[PERSON|HADDAD, RAMI]] (WEDDING [[DATE|9/12]])                [[MONEY?|4,500.00]]     22,976.03
+[[DATE|08/05]]  ZELLE TO [[PERSON|AL-HAMDANI LAYLA]] Conf# [[ID_NUMBER?|LKQ4471882]]                     [[MONEY?|1,200.00]]                  21,776.03
+[[DATE|08/05]]  ACH DEBIT  ADP PAYROLL  CO ID 8841     PPE 08/02                  [[MONEY?|9,614.88]]                  12,161.15
+[[DATE|08/06]]  POS PURCHASE  CARD [[CREDIT_CARD|XXXX XXXX XXXX 6612]]  JETCO WHOLESALE MEATS            [[MONEY?|1,936.40]]                  10,224.75
+[[DATE|08/07]]  ACH DEBIT  DTE ENERGY  ACCT [[ID_NUMBER?|9100 448 2271 5]]                   [[MONEY?|1,104.22]]                   9,120.53
+[[DATE|08/08]]  ACH CREDIT  DOORDASH INC  MERCH 44718                                        [[MONEY?|2,640.11]]     11,760.64
+[[DATE|08/10]]  WIRE OUT  TO [[PERSON|HAMDANI KHALIL]] BANQUE LIBANO-FRANCAISE BEIRUT IBAN [[BANK_ACCOUNT|LB62 0999 0000 0001 0019 0122 9114]]  [[MONEY?|3,000.00]]   8,760.64
+[[DATE|08/10]]  WIRE FEE                                                            45.00                   8,715.64
+[[DATE|08/11]]  ACH DEBIT  GM FINANCIAL  AUTO PYMT  LN [[BANK_ACCOUNT|****04477]] (2023 Transit van)   [[MONEY?|874.19]]               7,841.45
+[[DATE|08/12]]  SQUARE INC DEPOSIT  SQ*ZAYTOON 8817220                                       [[MONEY?|6,402.85]]     14,244.30
+[[DATE|08/13]]  CHECK #1042  PAID TO [[PERSON|IBRAHIM SALEH]] (cash -- dishwasher)            [[MONEY?|650.00]]               13,594.30
+[[DATE|08/14]]  ACH DEBIT  US SMALL BUS ADMIN  EIDL  LOAN [[BANK_ACCOUNT|7720418806]]            [[MONEY?|731.00]]               12,863.30
+[[DATE|08/15]]  ACH DEBIT  CITY OF DEARBORN  WATER ACCT [[ID_NUMBER?|WS-118204]]                    [[MONEY?|388.47]]               12,474.83
+[[DATE|08/16]]  MOBILE DEPOSIT  CHK 501  [[ORGANIZATION?|ISLAMIC CENTER OF AMERICA]] -- EID EVENT                       [[MONEY?|7,800.00]]     20,274.83
+[[DATE|08/18]]  ZELLE FROM [[PERSON|NOURA BAZZI]]  "deposit -- grad party [[DATE|8/30]]"                           [[MONEY?|500.00]]     20,774.83
+[[DATE|08/19]]  ACH DEBIT  ADP PAYROLL  CO ID 8841     PPE 08/16                  [[MONEY?|9,488.21]]               11,286.62
+[[DATE|08/20]]  ACH DEBIT  MICHIGAN DEPT TREASURY  SALES TAX                    [[MONEY?|2,211.60]]                9,075.02
+[[DATE|08/21]]  ACH DEBIT  AMEX EPAYMENT  ACCT ENDING [[CREDIT_CARD|31004]]                       [[MONEY?|4,118.93]]                4,956.09
+[[DATE|08/22]]  SQUARE INC DEPOSIT  SQ*ZAYTOON 8817220                                       [[MONEY?|5,893.17]]     10,849.26
+[[DATE|08/25]]  ACH DEBIT  [[ORGANIZATION?|HARTLAND MUTUAL]]  BOP POLICY [[POLICY_NUMBER|BOP-44-1902277]]                 [[MONEY?|612.50]]               10,236.76
+[[DATE|08/26]]  ACH DEBIT  LANDLORD  WARREN AVE PROPERTIES LLC  RENT SEPT       [[MONEY?|5,200.00]]                5,036.76
+[[DATE|08/27]]  ACH CREDIT  [[ORGANIZATION?|HARTLAND MUTUAL]]  CLM [[CLAIM_NUMBER|HM-26-0771185]] (walk-in cooler)     [[MONEY?|8,411.60]]     13,448.36
+[[DATE|08/28]]  ATM WITHDRAWAL  [[INDIRECT_LOCATION|GLCB ATM - SCHAEFER RD & FORD RD]]               [[MONEY?|400.00]]               13,048.36
+[[DATE|08/29]]  ZELLE TO [[PERSON|ABDULLAH M SAAD]]  "Aug helper wages"                     [[MONEY?|586.77]]               12,461.59
+[[DATE|08/31]]  MONTHLY SERVICE FEE                                                 25.00               12,436.59
+-----  --------------------------------------------------------------  -----------  -----------  -----------
+
+CHECKS PAID:  #1042 [[DATE|08/13]] 650.00
+
+DEBIT CARD SUMMARY
+  Card ending [[CREDIT_CARD|6612]]  issued to [[PERSON|YOUSEF K AL-HAMDANI]]   Daily POS limit [[MONEY?|$5,000]]
+  Card ending [[CREDIT_CARD|9083]]  issued to [[PERSON|LAYLA AL-HAMDANI]]     no activity this period
+
+ONLINE BANKING
+  Last login [[DATE|08/30/2026]] 23:14 from IP [[IP_ADDRESS|68.43.117.209]]  user [[USERNAME|zaytoon_yousef]]  device "[[DEVICE_ID?|iPhone 15 Pro (Layla)]]"
+
+NOTICES
+  - Your Business Advantage Line of Credit renewal requires updated financials by [[DATE|10/15/2026]]. Your
+    Relationship Manager will contact you at [[EMAIL|yousef@zaytoonkitchen.com]].
+  - Garnishment notice: A writ of garnishment (Wayne County Circuit Ct. [[CASE_NUMBER|26-004118-CK]], creditor [[ORGANIZATION?|Sysco Detroit]])
+    was received [[DATE|08/27/2026]]; [[FINANCIAL_INFO|$4,862.13]] may be held pending court order.
+
+Subpoena production -- [[ORGANIZATION?|Great Lakes Commerce Bank]] Legal Process Unit, response to subpoena in
+[[PERSON|Al-Hamdani]] v. [[ORGANIZATION?|Tri-County Refrigeration, Inc.]], Bates GLCB-000214.             Page 1 of 3

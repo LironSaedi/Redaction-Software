@@ -1,0 +1,202 @@
+[[ORGANIZATION?|CASCADE POINT BANK]]  Business Rewards Mastercard(R)                        Statement Closing Date  [[DATE?|08/27/2026]]
+                                                                             Billing Period [[DATE?|07/28/26]] - [[DATE?|08/27/26]]
+Business:   [[EMPLOYER|EVERGREEN EDGE LANDSCAPE DESIGN]]                              Account Number  XXXX XXXX XXXX [[CREDIT_CARD|8935]]
+            [[PERSON|IFEOMA C OKONKWO-BRANDT]] SOLE PROP
+            [[ADDRESS|5528 NE GOING ST]]
+            [[ADDRESS|PORTLAND OR 97218-2104]]
+
+Customer Service 24/7: [[PHONE?|1-877-555-0148]]    Lost/Stolen Cards: [[PHONE?|1-877-555-0149]]    Online: [[URL?|cascadepointbank.com/business]]
+TTY: 711            Outside the U.S. call collect: [[PHONE?|1-503-555-0177]]
+
+==================================================================================================================
+ACCOUNT SUMMARY                                             PAYMENT INFORMATION
+------------------------------------------------            -----------------------------------------------------
+Previous Balance                         [[MONEY|6,218.44]]           New Balance                                  [[MONEY|8,527.18]]
+Payments                                [[MONEY|-6,218.44]]           Minimum Payment Due                            [[MONEY|113.95]]
+Other Credits                             [[MONEY|-129.99]]           Payment Due Date                           [[DATE?|09/22/2026]]
+Purchases                               +[[MONEY|8,328.49]]
+Cash Advances                             +[[MONEY|300.00]]           Late Payment Warning: If we do not receive your
+Fees Charged                               +[[MONEY|22.38]]           minimum payment by the date listed above, you may
+Interest Charged                            +[[MONEY|6.30]]           have to pay a late fee of up to [[MONEY|$41.00]] and your
+New Balance                              [[MONEY|8,527.18]]           Purchase APR may be increased to the Penalty APR
+                                                            of 29.99%.
+Credit Limit                            [[MONEY|25,000.00]]
+Available Credit                        [[MONEY|16,472.82]]           AutoPay is ON. The full statement balance will be
+Cash Access Line                         [[MONEY|5,000.00]]           debited from your checking account ending [[BANK_ACCOUNT|6630]]
+Available for Cash                       [[MONEY|4,700.00]]           on [[DATE?|09/22/2026]].
+Days in Billing Cycle                          31
+==================================================================================================================
+
+REWARDS SUMMARY                      Points
+Beginning balance                    41,209
+Earned on purchases this period       8,328      2X bonus category (Building Supplies, MCC 5211/5261): +4,128
+Redeemed (statement credit [[DATE?|08/09]])    -12,500
+Ending balance                       41,165      Next tier at 50,000 points. Points do not expire while account is open.
+
+------------------------------------------------------------------------------------------------------------------
+TRANSACTIONS
+------------------------------------------------------------------------------------------------------------------
+Trans  Post   Description                                                       Reference          Amount
+Date   Date
+------------------------------------------------------------------------------------------------------------------
+PAYMENTS AND OTHER CREDITS
+[[DATE?|08/09]]  [[DATE?|08/10]]  [[ORGANIZATION?|THE HOME DEPOT]] #4012 RETURN   [[LOCATION?|PORTLAND OR]]                         [[ID_NUMBER?|5541736JW8XK]]         [[MONEY|-129.99]]
+[[DATE?|08/15]]  [[DATE?|08/15]]  AUTOPAY PAYMENT - THANK YOU  FROM CHK ****[[BANK_ACCOUNT|6630]]                     [[ID_NUMBER?|0815AP77120]]       [[MONEY|-6,218.44]]
+
+[[PERSON|IFEOMA C OKONKWO-BRANDT]]   Card ending [[CREDIT_CARD|8935]]                                Total for this card:  [[MONEY|4,287.11]]
+[[DATE?|07/31]]  [[DATE?|08/01]]  [[ORGANIZATION?|PORTLAND NURSERY]]  SE STARK  [[LOCATION?|PORTLAND OR]]       MCC 5261       [[ID_NUMBER?|5501298QH2TM]]          [[MONEY|412.88]]
+[[DATE?|08/03]]  [[DATE?|08/04]]  [[ORGANIZATION?|THE HOME DEPOT]] #4012  [[LOCATION?|PORTLAND OR]]               MCC 5200       [[ID_NUMBER?|5541736HB0ZZ]]        [[MONEY|1,286.40]]
+[[DATE?|08/05]]  [[DATE?|08/05]]  [[ORGANIZATION?|SHELL OIL]] 57444093206  [[LOCATION?|PORTLAND OR]]             MCC 5541       [[ID_NUMBER?|5531903FF41C]]           [[MONEY|96.71]]
+[[DATE?|08/07]]  [[DATE?|08/07]]  [[ORGANIZATION?|ADOBE]] *CREATIVE CLD  [[PHONE?|408-555-0110]] CA                   MCC 5734       [[ID_NUMBER?|5517222LQ0DE]]           [[MONEY|59.99]]
+[[DATE?|08/12]]  [[DATE?|08/13]]  [[ORGANIZATION?|AMAZON.COM]]*RT4KL09Q2  AMZN.COM/BILL WA            MCC 5942       [[ID_NUMBER?|5508812PZ77A]]          [[MONEY|233.15]]
+[[DATE?|08/14]]  [[DATE?|08/14]]  SQ *[[PERSON|DMITRI KOVAC]] STUMP GRIN  [[LOCATION?|MILWAUKIE OR]]                MCC 7349       [[ID_NUMBER?|5590441KD3RV]]        [[MONEY|1,450.00]]
+[[DATE?|08/17]]  [[DATE?|08/18]]  [[ORGANIZATION?|MCMENAMINS]] KENNEDY SCHOOL  [[LOCATION?|PORTLAND OR]]          MCC 5812       [[ID_NUMBER?|5541098NN52E]]           [[MONEY|47.25]]
+[[DATE?|08/19]]  [[DATE?|08/19]]  [[ORGANIZATION?|UNITED]] [[ID_NUMBER?|0162441873301]]  [[ORGANIZATION?|UNITED.COM]] TX                      MCC 3000       [[ID_NUMBER?|5512009TT6AA]]          [[MONEY|612.33]]
+                 PASSENGER: [[PERSON|OKONKWO-BRANDT/IFEOMA C]]   PDX-BOI-PDX   DEP [[DATE?|09/10/26]]   CLASS: L
+[[DATE?|08/21]]  [[DATE?|08/22]]  [[ORGANIZATION?|PDX AIRPORT PARKING]] ECON LOT  [[LOCATION?|PORTLAND OR]]          MCC 7523       [[ID_NUMBER?|5577120CY09P]]           [[MONEY|88.40]]
+
+[[PERSON|ROSA DELGADO-PHAM]]         Card ending [[CREDIT_CARD|3865]]   Employee ID [[ID_NUMBER|EE-0417]]          Total for this card:  [[MONEY|3,693.89]]
+[[DATE?|08/04]]  [[DATE?|08/05]]  [[ORGANIZATION?|LES SCHWAB TIRE CTR]] #0331  [[LOCATION?|GRESHAM OR]]           MCC 5532       [[ID_NUMBER?|5540672WE13B]]          [[MONEY|904.66]]
+                 FLEET DATA: VEH 03  [[VEHICLE_DESCRIPTION|2018 FORD F-150 XL WHITE]]  PLATE [[LICENSE_PLATE|742 KTZ]]  ODOM 88,412  DRIVER [[ID_NUMBER|0417]]
+[[DATE?|08/06]]  [[DATE?|08/06]]  [[ORGANIZATION?|CHEVRON]] 0204417  [[LOCATION?|GRESHAM OR]]                     MCC 5542       [[ID_NUMBER?|5531455AB80Q]]          [[MONEY|118.02]]
+                 FLEET DATA: VEH 03  DIESEL 24.8 GAL @ 4.759  ODOM 88,519  DRIVER [[ID_NUMBER|0417]]
+[[DATE?|08/11]]  [[DATE?|08/12]]  [[ORGANIZATION?|SITEONE LANDSCAPE SUPPLY]] #212  [[LOCATION?|PORTLAND OR]]       MCC 5261       [[ID_NUMBER?|5501871MM20F]]        [[MONEY|2,196.75]]
+[[DATE?|08/18]]  [[DATE?|08/19]]  [[ORGANIZATION?|VANDUSEN IRRIGATION SUPPLY]]  [[LOCATION?|VANCOUVER BC]]           MCC 5261       [[ID_NUMBER?|5540012GH71K]]          [[MONEY|412.66]]
+                 [[MONEY|566.21]] CAD  Exchange Rate 0.728811
+[[DATE?|08/25]]  [[DATE?|08/25]]  [[ORGANIZATION?|FRED MEYER]] #0657 FUEL  [[LOCATION?|GRESHAM OR]]                MCC 5542       [[ID_NUMBER?|5531290RJ44U]]           [[MONEY|61.80]]
+                 FLEET DATA: VEH 03  DIESEL 12.9 GAL @ 4.791  ODOM 88,977  DRIVER [[ID_NUMBER|0417]]
+
+[[PERSON|KYLE BRANNIGAN]]            Card ending [[CREDIT_CARD|7334]]   Employee ID [[ID_NUMBER|EE-0422]]          Total for this card:    [[MONEY|347.49]]
+[[DATE?|08/06]]  [[DATE?|08/07]]  [[ORGANIZATION?|HARBOR FREIGHT TOOLS]] 0811  [[LOCATION?|CLACKAMAS OR]]          MCC 5251       [[ID_NUMBER?|5541633EE90C]]           [[MONEY|87.44]]
+[[DATE?|08/13]]  [[DATE?|08/14]]  [[ORGANIZATION?|PACIFIC TOPSOILS INC]]  [[LOCATION?|PORTLAND OR]]               MCC 5261       [[ID_NUMBER?|5501520TS38H]]          [[MONEY|149.98]]
+[[DATE?|08/20]]  [[DATE?|08/20]]  [[ORGANIZATION?|7-ELEVEN]] 39144  [[LOCATION?|HAPPY VALLEY OR]]                MCC 5499       [[ID_NUMBER?|5531720UU02W]]           [[MONEY|36.12]]
+[[DATE?|08/26]]  [[DATE?|08/26]]  [[ORGANIZATION?|BURGERVILLE]] #12  [[LOCATION?|PORTLAND OR]]                   MCC 5814       [[ID_NUMBER?|5541300BV66N]]           [[MONEY|73.95]]
+
+CASH ADVANCES
+[[DATE?|08/02]]  [[DATE?|08/02]]  CASH ADVANCE  [[ORGANIZATION?|CASCADE POINT BANK]] [[LOCATION?|HOLLYWOOD BRANCH]]  CARD [[CREDIT_CARD|8935]]  [[ID_NUMBER?|5590004CA11Z]]          [[MONEY|300.00]]
+
+FEES
+[[DATE?|08/02]]  [[DATE?|08/02]]  CASH ADVANCE FEE (5% MIN [[MONEY|$10]])                                                    [[MONEY|10.00]]
+[[DATE?|08/19]]  [[DATE?|08/19]]  FOREIGN TRANSACTION FEE  [[ORGANIZATION?|VANDUSEN IRRIGATION SUPPLY]]                          [[MONEY|12.38]]
+                                  TOTAL FEES FOR THIS PERIOD                                                       [[MONEY|22.38]]
+INTEREST CHARGED
+[[DATE?|08/27]]  [[DATE?|08/27]]  INTEREST CHARGE ON CASH ADVANCES                                                  [[MONEY|6.30]]
+                                  TOTAL INTEREST FOR THIS PERIOD                                                    [[MONEY|6.30]]
+
+[[EMPLOYER|EVERGREEN EDGE LANDSCAPE DESIGN]]    XXXX XXXX XXXX [[CREDIT_CARD|8935]]                                       Page 1 of 4
+--- Page 2 ---
+[[ORGANIZATION?|CASCADE POINT BANK]] Business Rewards Mastercard   [[PERSON|IFEOMA C OKONKWO-BRANDT]]    Closing [[DATE?|08/27/2026]]      Page 2 of 4
+
+2026 TOTALS YEAR-TO-DATE
+Total fees charged in 2026                  [[MONEY|$119.14]]
+Total interest charged in 2026               [[MONEY|$42.87]]
+
+INTEREST CHARGE CALCULATION
+Your Annual Percentage Rate (APR) is the annual interest rate on your account.
+Type of Balance              Annual Percentage        Balance Subject to        Interest Charge
+                             Rate (APR)               Interest Rate
+Purchases                    21.24% (v)(d)             [[MONEY|$0.00]]                     [[MONEY|$0.00]]
+Cash Advances                29.49% (v)(d)             [[MONEY|$300.00]]                   [[MONEY|$6.30]]
+Balance Transfers            21.24% (v)(d)             [[MONEY|$0.00]]                     [[MONEY|$0.00]]
+(v) = Variable Rate   (d) = Daily Balance Method (including new transactions)   Prime Rate + 13.74%
+
+SPEND BY CARDHOLDER AND CATEGORY (Merchant Category Codes per Mastercard Quick Reference Booklet)
+Cardholder                     Fuel/Auto      Bldg/Nursery    Travel/Dining    Other         Total
+----------------------------   ----------     ------------    -------------    ----------    ----------
+[[PERSON|OKONKWO-BRANDT, IFEOMA C]]           [[MONEY|96.71]]          [[MONEY|1,699.28]]         [[MONEY|747.98]]       [[MONEY|1,743.14]]      [[MONEY|4,287.11]]
+[[PERSON|DELGADO-PHAM, ROSA]]              [[MONEY|1,084.48]]          [[MONEY|2,609.41]]           [[MONEY|0.00]]           [[MONEY|0.00]]      [[MONEY|3,693.89]]
+[[PERSON|BRANNIGAN, KYLE]]                     [[MONEY|36.12]]            [[MONEY|237.42]]            [[MONEY|73.95]]           [[MONEY|0.00]]        [[MONEY|347.49]]
+
+EMPLOYEE CARD CONTROLS (set by account owner)
+Card      Employee                    Monthly Limit     Single-Txn Limit    Blocked MCCs                 Status
+-------   -------------------------   -------------     ----------------    --------------------------   -----------
+..[[CREDIT_CARD|3865]]    [[PERSON|Rosa Delgado-Pham]]           [[MONEY|$6,000]]            [[MONEY|$2,500]]              7995, 5813, 6051             Active
+..[[CREDIT_CARD|7334]]    [[PERSON|Kyle Brannigan]]              [[MONEY|$1,000]]            [[MONEY|$300]]                7995, 5813, 6051, 4829       Replaced
+
+CARD MAINTENANCE THIS PERIOD
+- [[DATE?|08/24/2026]]  Card ending [[CREDIT_CARD|7334]] issued to [[PERSON|KYLE BRANNIGAN]] was reported damaged by the account owner.
+            A replacement card ending [[CREDIT_CARD|7334]] (same number), expiration [[CARD_EXPIRY|08/30]], was mailed to the
+            business address on file. The old card (exp. [[CARD_EXPIRY|02/28]]) was deactivated on receipt of the new card.
+- [[DATE?|08/24/2026]]  Declined: card ending [[CREDIT_CARD|7334]], [[ORGANIZATION?|SPIRIT MOUNTAIN CASINO]] [[LOCATION?|GRAND RONDE OR]], [[MONEY|200.00]] (blocked MCC 7995).
+- [[DATE?|08/02/2026]]  Cash advance PIN used at branch counter; ID verified: OR driver license [[DRIVERS_LICENSE|7339104]].
+
+ACCOUNT OWNER INFORMATION ON FILE
+Legal name:            [[PERSON|Ifeoma Chinwe Okonkwo-Brandt]]
+Business structure:    Sole proprietorship, DBA [[EMPLOYER|Evergreen Edge Landscape Design]] (Multnomah County assumed
+                       business name reg. [[ID_NUMBER|2219044-96]])
+Business tax ID (EIN): [[EIN|84-2291736]]          Personal SSN for credit decision (last 4): [[SSN|2290]]
+Business phone:        [[PHONE|(503) 555-0182]]    Mobile: [[PHONE|(971) 555-0119]]
+E-mail:                [[EMAIL|ifeoma@evergreenedgepdx.com]]            Website: [[URL|www.evergreenedgepdx.com]]
+Annual business revenue (stated [[DATE?|03/2026]]): [[FINANCIAL_INFO?|$410,000]]   NAICS 561730 (Landscaping Services)
+Personal guarantor:    [[PERSON|Ifeoma C. Okonkwo-Brandt]]  (unlimited personal guaranty dated [[DATE?|04/11/2023]])
+Spouse (Oregon is not a community property state; no spousal consent required): [[PERSON|Henrik Brandt]]
+
+Business Mastercard accounts are for business purposes only. Information about [[ORGANIZATION?|Cascade Point Bank]]'s
+privacy policy is available at [[URL?|cascadepointbank.com/privacy]]. Mastercard is a registered trademark of
+Mastercard International Incorporated.
+
+[[EMPLOYER|EVERGREEN EDGE LANDSCAPE DESIGN]]    XXXX XXXX XXXX [[CREDIT_CARD|8935]]                                       Page 2 of 4
+--- Page 3 ---
+[[ORGANIZATION?|CASCADE POINT BANK]] Business Rewards Mastercard   [[PERSON|IFEOMA C OKONKWO-BRANDT]]    Closing [[DATE?|08/27/2026]]      Page 3 of 4
+
+IMPORTANT INFORMATION ABOUT YOUR ACCOUNT
+
+Changes to Your Account Terms. Beginning with your billing period that starts on or after [[DATE?|10/28/2026]], the
+minimum payment calculation will change to 1% of the New Balance plus interest and fees, or $40, whichever
+is greater. You have the right to reject this change by calling [[PHONE?|1-877-555-0148]] before [[DATE?|10/27/2026]].
+
+How We Apply Payments. We apply your minimum payment to balances with lower APRs first. Amounts in excess of
+your minimum payment are applied to balances with the highest APR first.
+
+Expense Reporting. Your monthly CSV and Level III data file for QuickBooks(R) is available in Business Online
+under Reports > Statements > 2026-08. Fleet data (vehicle, odometer, driver ID) is captured only at
+participating fuel merchants.
+
+Billing Rights Summary -- What To Do If You Think You Find A Mistake On Your Statement
+If you think there is an error on your statement, write to us at:
+       [[ORGANIZATION?|Cascade Point Bank]] Card Services, [[ADDRESS?|P.O. Box 6022, Sioux Falls SD 57117-6022]]
+In your letter, give us the following information:
+   - Account information: Your name and account number.
+   - Dollar amount: The dollar amount of the suspected error.
+   - Description of problem: If you think there is an error on your bill, describe what you believe is wrong
+     and why you believe it is a mistake.
+You must contact us within 60 days after the error appeared on your statement. You must notify us of any
+potential errors in writing. You may call us, but if you do we are not required to investigate any
+potential errors and you may have to pay the amount in question.
+
+Notice for business accounts: Business accounts with 10 or more employee cards are not covered by certain
+billing-error provisions of Regulation Z (12 CFR 1026.12). Your account currently has 3 cards.
+
+Mail-in payments: allow at least 7 days for postal delivery. Payments received by 5:00 p.m. ET on a business
+day will be credited that day.
+
+[[EMPLOYER|EVERGREEN EDGE LANDSCAPE DESIGN]]    XXXX XXXX XXXX [[CREDIT_CARD|8935]]                                       Page 3 of 4
+--- Page 4 ---
+  - - - - - - - - - - - - - - - - - - - - - - -  detach and return with your payment  - - - - - - - - - - - - - - - -
+
+  [[ORGANIZATION?|CASCADE POINT BANK]]                                                         PAYMENT COUPON
+  Business Rewards Mastercard
+
+  Account Number          [[CREDIT_CARD|5412 4533 3147 8935]]
+  New Balance             [[MONEY|$8,527.18]]
+  Minimum Payment Due     [[MONEY|$113.95]]
+  Payment Due Date        [[DATE?|09/22/2026]]                    Amount Enclosed  $ ______________
+
+  AutoPay is scheduled. Do not mail a payment unless you want to pay more than your AutoPay amount.
+
+      [[PERSON|IFEOMA C OKONKWO-BRANDT]]                                     [[ORGANIZATION?|CASCADE POINT BANK]] CARD SERVICES
+      [[EMPLOYER|EVERGREEN EDGE LANDSCAPE DESIGN]]                            [[ADDRESS?|PO BOX 6023]]
+      [[ADDRESS|5528 NE GOING ST]]                                            [[ADDRESS?|SIOUX FALLS SD 57117-6023]]
+      [[ADDRESS|PORTLAND OR 97218-2104]]
+
+  [ ] Check here for address change and complete reverse side.
+
+  [[CREDIT_CARD|5412453331478935]] 000011395 000852718 4
+
+-- reverse side --
+  CHANGE OF ADDRESS / PHONE (print clearly)
+  New street address _____________________________________   City __________________ State ____ ZIP __________
+  Home phone (____) ________________   Business phone (____) ________________
+  E-mail ______________________________________________
+
+  Account owner signature ___________________________________   Date _______________

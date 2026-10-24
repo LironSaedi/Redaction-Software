@@ -1,0 +1,157 @@
+                                  CAUSE NO. [[CASE_NUMBER|25-1187-F395]]
+
+IN THE MATTER OF                                  §          IN THE DISTRICT COURT
+THE MARRIAGE OF                                   §
+[[PERSON|WILLIAM THOMAS PRICE]]                              §
+AND                                               §          395TH JUDICIAL DISTRICT
+[[PERSON|PRIYA RAMAN-PRICE]]                                 §
+                                                  §
+AND IN THE INTEREST OF                            §
+[[PERSON MINOR|A.R.P.]] AND [[PERSON MINOR|R.T.P.]], CHILDREN                     §          [[LOCATION?|WILLIAMSON COUNTY]], TEXAS
+
+                    ORIGINAL PETITION FOR DIVORCE AND SUIT AFFECTING THE PARENT-CHILD
+                 RELATIONSHIP, WITH APPLICATION FOR TEMPORARY RESTRAINING ORDER AND
+                        MEASURES TO PREVENT INTERNATIONAL CHILD ABDUCTION
+
+1.  Discovery Level. Discovery is intended to be conducted under Level 2 of Tex. R. Civ. P. 190.3.
+
+2.  Parties. This suit is brought by [[PERSON|William Thomas Price]] ("[[PERSON|Will]]"), Petitioner, who is [[AGE|41]] years of age and
+    resides at [[ADDRESS|1414 Lantana Ridge Dr., Cedar Park, Texas 78613]]. The last three numbers of Petitioner's driver's
+    license number are [[DRIVERS_LICENSE|336]]. The last three numbers of Petitioner's Social Security number are [[SSN|512]].
+    Respondent is [[PERSON|Priya Raman-Price]], who is [[AGE|39]] years of age, and who may be served with process at
+    her place of employment, [[INDIRECT_LOCATION|Walgreens Store #4471, 1335 E. Whitestone Blvd., Cedar Park, Texas 78613]], where
+    she is the [[INDIRECT_ROLE|pharmacy manager]], weekdays between 9:00 a.m. and 6:00 p.m., or at [[ADDRESS|2201 Brushy Creek Rd., Apt.
+    317, Cedar Park, Texas 78613]], where she has resided since [[DATE|August 9, 2025]].
+
+3.  Domicile. Petitioner has been a domiciliary of Texas for the preceding six-month period and a resident of
+    this county for the preceding ninety-day period.
+
+4.  Protective Order Statement. No protective order under Title 4 of the Texas Family Code and no order for
+    emergency protection under Article 17.292, Code of Criminal Procedure, is in effect, or pending, between the
+    parties.
+
+5.  Dates of Marriage and Separation. The parties were married on or about [[DATE|June 18, 2011]], in [[LOCATION?|Chennai]], Tamil
+    Nadu, India, and ceased to live together as spouses on or about [[DATE|August 9, 2025]].
+
+6.  Grounds. The marriage has become insupportable because of discord or conflict of personalities that
+    destroys the legitimate ends of the marital relationship and prevents any reasonable expectation of
+    reconciliation. Tex. Fam. Code § 6.001.
+
+7.  Children of the Marriage. Petitioner and Respondent are parents of the following children:
+         Name                    Sex      Birth date       Age    Present residence          Birth state
+         [[PERSON MINOR|Aanya Raman Price]]       F        [[DATE_OF_BIRTH|02/07/2014]]       [[AGE|11]]     with Petitioner            Texas
+         [[PERSON MINOR|Rohan Thomas Price]]      M        [[DATE_OF_BIRTH|11/23/2017]]       [[AGE|7]]      with Petitioner            Texas
+    [[PERSON MINOR|Aanya]] attends 6th grade at [[SCHOOL|Running Brook Middle School]]; [[PERSON MINOR|Rohan]] attends 2nd grade at [[SCHOOL|Westwood Hills
+    Elementary]]. No other children were born to or adopted by the parties, and none are expected.
+    There are no court-ordered conservatorships, guardianships, or other court-ordered relationships affecting
+    the children. No property of consequence is owned by the children. The children are covered by health
+    insurance through Petitioner's employer, [[EMPLOYER|Hill Country Electric Cooperative]] ([[ORGANIZATION?|BCBSTX]] group [[HEALTH_PLAN_ID|HCE-11820]], member
+    IDs [[HEALTH_PLAN_ID|HCE884410217-02]] and [[HEALTH_PLAN_ID|HCE884410217-03]]).
+
+8.  Conservatorship. Petitioner requests that the parties be appointed joint managing conservators, with
+    Petitioner having the exclusive right to designate the primary residence of the children within
+    [[LOCATION?|Williamson County]] and contiguous counties. In the alternative, Petitioner requests appointment as sole
+    managing conservator. In support, Petitioner states:
+    a.  On [[DATE|July 26, 2025]], Respondent left [[PERSON MINOR|Rohan]], then [[AGE|7]], alone at [[INDIRECT_LOCATION|the Cedar Park Recreation Center pool]] for
+        approximately three hours; a lifeguard called Petitioner.
+    b.  Respondent was [[MENTAL_HEALTH|hospitalized at Rock Springs Hospital in Georgetown from February 3 to February 10, 2023,
+        following a suicide attempt]], and has been diagnosed with [[MENTAL_HEALTH|bipolar II disorder]]. Petitioner believes
+        Respondent stopped taking her prescribed [[MEDICATION|lamotrigine]] in [[DATE?|spring 2025]].
+    c.  Petitioner believes Respondent is [[SUBSTANCE_USE|misusing alprazolam]]. On [[DATE|August 2, 2025]], Petitioner found 46 loose
+        [[MEDICATION|alprazolam]] 1 mg tablets in an unlabeled vial in Respondent's car, which Respondent stated she "brought
+        home from work." Petitioner does not allege any criminal conduct and has made no report to any agency.
+    d.  Petitioner is a [[INDIRECT_ROLE|journeyman lineman with a standard 7:00 a.m. -- 3:30 p.m. schedule]] and on-call storm
+        rotation one week in six; the paternal grandmother, [[PERSON|Margaret Price]] ([[PHONE|512-259-0771]]), who lives 2 miles
+        away at [[ADDRESS|807 Quarry Hollow Ct., Leander, Texas 78641]], provides after-school care.
+
+Original Petition for Divorce and SAPCR -- Cause No. [[CASE_NUMBER|25-1187-F395]]                                       Page 2 of 4
+
+9.  Possession and Access. Petitioner requests that Respondent's periods of possession be in accordance with
+    the Standard Possession Order, conditioned on Respondent's (a) compliance with treatment recommendations of
+    her treating psychiatrist, Dr. [[PERSON|Shalini Venkataraman]], and (b) abstaining from alcohol and non-prescribed
+    controlled substances 12 hours before and during possession, verified by Soberlink (device to be paid by
+    Respondent).
+
+10. International Child Abduction Prevention (Tex. Fam. Code ch. 153, subch. I). Petitioner requests the Court
+    find credible evidence of a risk of international abduction under § 153.502 because:
+    a.  Respondent is a [[IMMIGRATION_STATUS|citizen of India and a lawful permanent resident of the United States]] (Form I-551
+        No. [[ID_NUMBER|IOE0918827741]]) and holds Indian passport No. [[PASSPORT|Z4471902]]; she also holds an Indian Aadhaar
+        number ([[NATIONAL_ID|4471 9902 3318]]) and PAN ([[NATIONAL_ID|AQRPR4417K]]) linked to a flat titled in her name at
+        [[ADDRESS|Flat 4B, Sri Sai Residency, 12 Venkatnarayana Road, T. Nagar, Chennai 600017]].
+    b.  On [[DATE|August 11, 2025]], Respondent texted Petitioner: "If you take them from me I'll take them home to
+        Amma and you'll never see them." Respondent's mother, [[PERSON|Lakshmi Raman]], resides at the [[LOCATION?|Chennai]] flat.
+    c.  India is not a party to the Hague Convention on the Civil Aspects of International Child Abduction.
+    d.  Respondent recently obtained an Overseas Citizen of India application number for [[PERSON MINOR|Aanya]] ([[ID_NUMBER?|OCIUSA2025-118804]])
+        without Petitioner's knowledge.
+    Petitioner requests that the children's U.S. passports (No. [[PASSPORT|A04418277]] -- [[PERSON MINOR|Aanya]]; No. [[PASSPORT|A04418278]] -- [[PERSON MINOR|Rohan]])
+    be deposited with the Court registry; that neither party apply for any passport, visa, or OCI card for the
+    children; that the children's names be entered in the U.S. State Department's Children's Passport Issuance
+    Alert Program (CPIAP); and that Respondent be enjoined from removing the children from Texas.
+
+11. Child Support. Petitioner requests that Respondent be ordered to pay child support under Chapter 154.
+    Respondent's [[FINANCIAL_INFO|annual salary as a pharmacy manager is approximately $152,000]]. Petitioner's [[FINANCIAL_INFO|gross
+    income in 2024 was $118,640 including overtime]].
+
+12. Division of Community Estate. Petitioner requests a just and right division. The community estate
+    includes, without limitation:
+      - Residence at [[ADDRESS|1414 Lantana Ridge Dr., Cedar Park, TX 78613]] (mortgage [[ORGANIZATION?|Mr. Cooper]], loan ending [[BANK_ACCOUNT|7731]])
+      - [[ORGANIZATION?|UFCU]] joint checking ending [[BANK_ACCOUNT|0224]]; savings ending [[BANK_ACCOUNT|0225]]
+      - Respondent's [[ORGANIZATION?|Walgreens]] 401(k) ([[ORGANIZATION?|Fidelity]], acct ending [[BANK_ACCOUNT|8812]]) -- est. [[MONEY?|$214,000]]
+      - Petitioner's NRECA 401(k) and RS Plan pension -- est. [[MONEY?|$161,000]] / accrued benefit
+      - [[VEHICLE_DESCRIPTION|2022 Toyota Highlander Hybrid, white]] (VIN [[VIN|5TDKBRCH5NS118204]]) -- Respondent's use
+      - [[VEHICLE_DESCRIPTION|2019 Ford F-250 Super Duty, blue]] (TX [[LICENSE_PLATE|PRC 4471]]) -- Petitioner's use
+      - The [[LOCATION?|Chennai]] flat (if community) and Respondent's [[ORGANIZATION?|ICICI Bank]] NRO account (IFSC [[ROUTING_NUMBER|ICIC0001204]], acct [[BANK_ACCOUNT|000401553318]])
+    Petitioner claims as separate property a lake lot at Inks Lake inherited from his father in 2019.
+
+13. Request for Temporary Restraining Order. Petitioner requests that the Court, without notice, restrain
+    Respondent from: (1) removing the children from [[LOCATION?|Williamson County]] or the State of Texas; (2) applying for
+    passports or OCI documents for the children; (3) disturbing the peace of the children or Petitioner;
+    (4) withdrawing the children from [[SCHOOL|Running Brook Middle School]] or [[SCHOOL|Westwood Hills Elementary]]; (5) hiding
+    or destroying property, including transferring funds to any account outside the United States.
+
+Original Petition for Divorce and SAPCR -- Cause No. [[CASE_NUMBER|25-1187-F395]]                                       Page 3 of 4
+
+14. Request for Psychological Evaluation and Social Study. Petitioner requests that the Court order a child
+    custody evaluation under Tex. Fam. Code ch. 107, subch. D, and a psychological evaluation of both parties.
+
+15. Attorney's Fees. Petitioner requests reasonable attorney's fees, expenses, and costs. Tex. Fam. Code
+    §§ 6.708, 106.002.
+
+16. Prayer. Petitioner prays that citation and notice issue; that the Court grant the temporary restraining
+    order; that, on final hearing, the Court grant a divorce, appoint conservators, order child support, enter
+    measures to prevent international abduction, divide the estate, and grant all other relief to which
+    Petitioner may be entitled.
+
+                                    Respectfully submitted,
+                                    [[ORGANIZATION?|WHITCOMB FAMILY LAW, P.C.]]
+                                    [[ADDRESS?|712 S. Austin Ave.]]
+                                    [[ADDRESS?|Georgetown, Texas 78626]]
+                                    Tel: [[PHONE|(512) 863-4410]]   Fax: [[PHONE|(512) 863-4419]]
+                                    By: /s/ [[PERSON|Sandra Whitcomb-Ruiz]]
+                                    [[PERSON|Sandra Whitcomb-Ruiz]], State Bar No. [[ID_NUMBER|24051187]]
+                                    [[EMAIL|swr@whitcombfamilylaw.com]]
+                                    ATTORNEY FOR PETITIONER
+
+Original Petition for Divorce and SAPCR -- Cause No. [[CASE_NUMBER|25-1187-F395]]                                       Page 4 of 4
+
+                         AFFIDAVIT OF [[PERSON|WILLIAM THOMAS PRICE]] IN SUPPORT OF TRO
+
+     My name is [[PERSON|William Thomas Price]]. I am the Petitioner. I have read the petition and the facts in
+paragraphs 8 and 10 are within my personal knowledge and true and correct.
+
+     [[PERSON|Priya]] and I have been married 14 years. She is a wonderful mother when she is well. After her hospital
+stay in 2023, she did well on her medication for about two years. This spring she told me she "felt flat"
+and stopped. Since then she has had days where she does not sleep, then days she cannot get out of bed. She
+moved out on [[DATE|August 9]] to an apartment off Brushy Creek Road. On [[DATE|August 11]] she sent me the text quoted above. On
+[[DATE|August 14]] my daughter told me "Mom said we're going to see Paati in [[LOCATION?|Chennai]] for Diwali and you can't come."
+I checked our Delta account and found two one-way tickets AUS-JFK-MAA held for [[DATE|October 17]] in [[PERSON MINOR|Aanya]]'s and
+[[PERSON MINOR|Rohan]]'s names under confirmation code HX7R2Q. I am afraid she will take them and not come back.
+
+     I am not trying to keep the children from their mother. I want them safe and I want [[PERSON|Priya]] to get help.
+
+                                    /s/ [[PERSON|William T. Price]]
+                                    [[PERSON|WILLIAM THOMAS PRICE]]
+
+SWORN TO AND SUBSCRIBED before me on [[DATE|August 19, 2025]].
+                                    /s/ [[PERSON|Hunter Wells-Garcia]]
+                                    Notary Public, State of Texas   ID [[ID_NUMBER|132290874]]   Exp. [[DATE|03/03/2028]]

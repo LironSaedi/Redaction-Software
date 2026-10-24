@@ -1,0 +1,91 @@
+*** CONFIDENTIAL -- PROTECTED BY FEDERAL LAW (42 CFR PART 2) ***
+This record is from a federally assisted substance use disorder program. Federal
+rules (42 CFR Part 2) prohibit you from making any further disclosure of this
+record unless further disclosure is expressly permitted by the written consent of
+the individual whose information is being disclosed or as otherwise permitted by
+42 CFR Part 2. A general authorization for the release of medical or other
+information is NOT sufficient for this purpose (42 CFR § 2.32). The federal rules
+restrict any use of the information to investigate or prosecute with regard to a
+crime any patient with a substance use disorder, except as provided at 42 CFR
+§§ 2.12(c)(5) and 2.65.
+--------------------------------------------------------------------------------
+
+[[ORGANIZATION?|RIVERBEND RECOVERY CENTER]] -- Opioid Treatment Program / Intensive Outpatient
+[[ADDRESS?|1180 Hunter Rd, Ste 3]]  [[ADDRESS?|San Marcos TX 78666]]   P [[PHONE|(512) 392-8810]]  F [[PHONE|(512) 392-8817]]
+
+INDIVIDUAL COUNSELING PROGRESS NOTE (DAP)
+
+Client: [[PERSON|Brianna L. Holt]]              Client ID: [[MRN|RRC-22-00418]]
+DOB: [[DATE_OF_BIRTH|11.23.1993]]                    Medicaid: [[HEALTH_PLAN_ID|518 447 0923]] ([[ORGANIZATION?|Superior HealthPlan]] STAR)
+Date of service: [[DATE|10/02/2025]]    Time: 14:00-14:53    Session: individual, in person (53 min, H0004 x 4 units)
+Counselor: [[PERSON|Marisol Treviño]], LCDC #[[ID_NUMBER|12884]]
+Treatment phase: [[SUBSTANCE_USE|Phase II (stabilization), day 211 in program]]
+Primary dx: [[SUBSTANCE_USE|Opioid use disorder, severe, on maintenance therapy]] (F11.20)
+Secondary: [[SUBSTANCE_USE|Stimulant use disorder (methamphetamine), mild, in early remission]] (F15.11);
+           [[MENTAL_HEALTH|PTSD]] (F43.10) -- by history; [[MEDICAL_CONDITION|chronic hepatitis C]] (B18.2)
+
+D -- DATA
+  Client arrived on time, casually dressed, appropriate hygiene. Reports she [[SUBSTANCE_USE|used
+  fentanyl ("blues") on two occasions]], [[DATE|09/20]] and [[DATE|09/21]], after her ex-boyfriend
+  "[[PERSON|Cody]]" showed up at her mother's house. She states she smoked rather than injected
+  and that she [[SUBSTANCE_USE|"felt nothing" because of the Suboxone]]. Has been taking [[MEDICATION|buprenorphine-
+  naloxone]] 16/4 mg SL daily as prescribed; dose last adjusted [[DATE|07/14/2025]] by Dr. [[PERSON|Asante]].
+  Pill/film count today correct (14 films). UDS [[DATE|09/25]] (observed): [[SUBSTANCE_USE|POS buprenorphine,
+  POS norbuprenorphine, POS fentanyl]], NEG methamphetamine, NEG benzodiazepines.
+  UDS today pending; client predicts it will be "only bupe."
+
+  Client continues working [[INDIRECT_ROLE|overnight shifts as a CNA]] at [[EMPLOYER|Heritage Oaks Nursing & Rehab]]
+  in [[LOCATION?|Kyle]] (Sun-Wed, 10p-6a). She reports her charge nurse "suspects something"
+  because she was 40 min late on [[DATE|9/22]]. Client has NOT disclosed treatment to employer
+  and does NOT consent to any contact with employer.
+
+  Legal: Client remains on [[CRIMINAL_HISTORY|community supervision (Hays County) for possession of a
+  controlled substance PG1 < 1 g, State Jail Felony, deferred adjudication through 2027]].
+  Supervision officer: [[PERSON|Dale Whitcomb]], [[PHONE|512-393-7700 ext 4415]]. Part 2-compliant consent
+  (form RRC-C2, signed [[DATE|03/05/2025]], expires [[DATE|03/05/2026]]) permits disclosure to CSCD of
+  attendance and UDS results ONLY.
+
+  Family: Client's [[INDIRECT_ROLE|8-year-old daughter]], [[PERSON MINOR|Kaylee]], is placed with maternal grandmother
+  ([[PERSON|Donna Holt]]) under a CPS safety plan; DFPS case [[CASE_NUMBER|46281937]]; caseworker [[PERSON|Ashley Rinehart]].
+  Next family visitation scheduled [[DATE|10/11/2025]]. Client tearful discussing missing
+  [[PERSON MINOR|Kaylee]]'s school open house.
+
+[[ORGANIZATION?|RIVERBEND RECOVERY CENTER]]  |  Client: [[PERSON|Holt, Brianna L.]]  |  ID [[MRN|RRC-22-00418]]  |  DOS [[DATE|10/02/2025]]  |  p. 2 of 2
+*** 42 CFR PART 2 PROTECTED ***
+--------------------------------------------------------------------------------
+
+A -- ASSESSMENT
+  Client demonstrates insight into relapse triggers (contact with ex-partner,
+  [[MENTAL_HEALTH|trauma reminders]], sleep deprivation from night shift). [[SUBSTANCE_USE|Lapse is brief, non-
+  injection, and was self-reported before UDS confirmation]], which is consistent with
+  progress. Cravings rated 4/10 (down from 7/10 last week). PHQ-9 = 12 ([[MENTAL_HEALTH|moderate
+  depression]]); PCL-5 = 41. No SI/HI. ASAM dimensions: D1 low, D2 moderate ([[MEDICAL_CONDITION|HCV untreated]]),
+  D3 moderate, D4 high (motivated), D5 moderate, D6 moderate (housing unstable -- staying
+  with friend [[PERSON|Jasmine]] at [[INDIRECT_LOCATION|the Saddle Creek Apartments, Bldg 4]]). Continue current
+  level of care (ASAM 2.1 + OTP).
+
+P -- PLAN
+  1. Continue [[MEDICATION|buprenorphine-naloxone]] 16/4 mg daily; Dr. [[PERSON|Asante]] to review lapse at
+     med visit [[DATE|10/06/2025]]. Take-home: reduce from 14-day to 7-day supply x 4 weeks.
+  2. [[MEDICATION|Naloxone]] 4 mg nasal spray -- client has 1 kit, given 2nd kit today (lot NX2207).
+  3. Relapse prevention worksheet: "people, places, things" -- block [[PERSON|Cody]]'s number and
+     Facebook ([[USERNAME|cody.r.mcbride.9]]); client agreed during session and did so in front of
+     counselor.
+  4. Refer to HCV treatment navigator ([[PERSON|Luis Ybarra]], CHW) -- client consents.
+  5. [[MENTAL_HEALTH|Trauma-focused]] therapy referral (CPT/EMDR) to Dr. [[PERSON|Helen Moorcroft]], LPC-S.
+  6. Increase IOP groups to 3x/week (Mon/Wed/Thu 6-9 pm) -- conflicts with work Mon/Wed;
+     client to request schedule change "for a family reason."
+  7. Next individual session: [[DATE|10/09/2025]] 2:00 pm.
+
+  Medications on file:
+    [[MEDICATION|Buprenorphine/naloxone]] SL film 8 mg/2 mg -- 2 films daily -- Rx by [[PERSON|K. Asante]], MD
+      (NPI [[NPI|1575998681]], DEA [[DEA_NUMBER|MA9824675]])
+    [[MEDICATION|Sertraline]] 100 mg daily -- PCP
+    [[MEDICATION|Prazosin]] 2 mg qHS -- [[MENTAL_HEALTH|nightmares]]
+    [[MEDICATION?|Medroxyprogesterone]] 150 mg IM q12 wk -- last [[DATE|08/18/2025]]
+
+  Client signature: [[PERSON|Brianna Holt]]        Date: [[DATE|10/2/25]]
+  Counselor: [[PERSON|Marisol Treviño]], LCDC       Date: [[DATE|10/02/2025]]  15:20
+  Clinical supervisor review: [[PERSON|R. Castellanos]], LCSW-S, LCDC   [[DATE|10/03/2025]]
+
+  PROHIBITION ON REDISCLOSURE -- see notice at top of record. 42 CFR § 2.32.

@@ -1,0 +1,88 @@
+SOCIAL SECURITY ADMINISTRATION                                        Form SSA-3373-BK
+FUNCTION REPORT - ADULT                                               OMB No. 0960-0681
+[handwritten entries transcribed; claimant's spelling preserved]
+
+SECTION A - GENERAL INFORMATION
+1.a. NAME OF DISABLED PERSON (First, Middle Initial, Last)      b. SOCIAL SECURITY NUMBER
+     [[PERSON|Delores A. Archuleta-Baca]]                             [[SSN|521-64-0839]]
+1.c. YOUR DAYTIME TELEPHONE NUMBER  [[PHONE|(719) 738-2245]]   (if no answer try my daughter [[PHONE|719-989-0412]])
+2.   Give the name of a friend or relative we can contact who knows about your illnesses:
+     Name: [[PERSON|Angela Baca-Trujillo]]   Relationship: daughter
+     Address: [[ADDRESS|611 W. 7th St]], [[ADDRESS|Walsenburg CO 81089]]     Daytime phone: [[PHONE|719-989-0412]]
+3.   Where do you live?  [X] House  [ ] Apartment  [ ] Shelter  [ ] Group home  [ ] Nursing home
+     Mailing address: [[ADDRESS|PO Box 417]], [[ADDRESS|La Veta CO 81055]]   Physical: [[ADDRESS|22870 County Road 421]]
+     ([[INDIRECT_LOCATION|the old Archuleta place, last trailer past the Cuchara turnoff, blue roof]])
+4.   With whom do you live?  My husband [[PERSON|Ruben]] and my grandaughter [[PERSON MINOR|Kaylee]] ([[AGE|9]]) most weekdays.
+
+SECTION B - INFORMATION ABOUT ABILITIES
+5.   How do your illnesses, injuries, or conditions limit your ability to work?
+     I was a [[INDIRECT_ROLE|cook at the Huerfano County jail kitchen for 16 yrs, the only one on the early shift]]. I
+     cant stand more than 15 min because of my [[MEDICAL_CONDITION|back and the rheumatoid in my hands and feet]]. My
+     fingers lock up so I cant hold a knife or a pan. I get out of breath walking from the car to the
+     store because of [[MEDICAL_CONDITION|COPD]]. The [[MENTAL_HEALTH|depression]] makes it so I dont want to get out of bed some days.
+     I had to quit [[DATE|March 2025]] after I fell in the walk-in cooler.
+
+SECTION C - INFORMATION ABOUT DAILY ACTIVITIES
+6.   Describe what you do from the time you wake up until going to bed.
+     I wake up about 4:30 because of the pain. Take my pills with coffee. Sit in the recliner with the
+     heating pad til about 7. If its a school day I get [[PERSON MINOR|Kaylee]] ready, [[PERSON|Ruben]] drives her to [[SCHOOL|Peakview
+     School]] because I cant do the bus stop in the cold. I try to do one chore -- dishes or one load of
+     wash -- then I have to lay down. Lunch is soup or a sandwich. Afternoon I watch my programs. On
+     Tuesdays my comadre [[PERSON|Lupe Martinez]] takes me to [[INDIRECT_LOCATION|the Spanish Peaks senior center on Main
+     across from the Loaf N Jug]] for lunch and loteria. [[PERSON MINOR|Kaylee]] gets home at 3:30 and I help with her
+     homework if my hands let me. [[PERSON|Ruben]] cooks most nights now. Bed about 8:30 but I wake up 3-4 times.
+7.   Do you take care of anyone else?  [X] Yes   My granddaughter after school. Her mom ([[PERSON|Angela]]) works
+     at [[EMPLOYER|Spanish Peaks Regional Health Center]] in medical records, gets off at 5.
+8.   Do you take care of pets?  [X] Yes  2 dogs. [[PERSON|Ruben]] feeds them. I let them out.
+9.   What were you able to do before your illnesses that you cant do now?
+     Work full time. Make tortillas and tamales for the church sales at [[INDIRECT_LOCATION|St. Mary's in Walsenburg]].
+     Dance at weddings. Go fishing at Lathrop. Carry [[PERSON MINOR|Kaylee]].
+10.  Do your conditions affect your sleep?  Yes. Pain, cant breath laying flat, and bad dreams since my
+     [[MENTAL_HEALTH|son passed (overdose 2023)]].
+
+PERSONAL CARE (check)
+     [X] Dress -- cant do buttons or my bra, I wear pull-on.  [X] Bathe -- [[PERSON|Ruben]] put a shower chair.
+     [X] Care for hair -- [[PERSON|Angela]] does my hair.  [ ] Shave  [X] Feed self -- cut food is hard.
+     [X] Use toilet -- grab bar.
+11.  Do you need reminders to take medicine?  Yes. [[PERSON|Angela]] sets up my pill box Sundays.
+12.  Do you prepare your own meals?  Sometimes, simple, 10-15 minutes. Used to cook every day.
+13.  House and yard work:  Dishes (with breaks), folding laundry sitting down. [[PERSON|Ruben]] does the rest.
+
+SECTION D - GOING OUT
+14.  How often do you go outside?  2-3 times a week.
+15.  How do you travel?  [X] Ride in a car  [X] Drive -- only in town, not on 160 or the pass.
+     Drivers license #: [[DRIVERS_LICENSE|09-442-7183]] (CO)
+16.  Shopping:  [X] In stores  Where/how often: [[INDIRECT_LOCATION|the Dollar General in La Veta]] once a week, I use
+     a cart to lean on. [[PERSON|Angela]] does the big shopping at [[INDIRECT_LOCATION|the Walmart in Trinidad]] once a month.
+17.  Money:  Can pay bills, count change, use checkbook.  Comments: We are behind. [[PERSON|Ruben]]'s
+     [[FINANCIAL_INFO|Social Security is $1,412 a month]], that's all we have now. [[FINANCIAL_INFO|We owe Parkview about $8,300]].
+
+SECTION E - HOBBIES AND SOCIAL ACTIVITIES
+18.  Hobbies: Used to crochet -- cant now. Puzzles on the tablet. Rosary.
+19.  Do you spend time with others?  Family on Sundays at [[PERSON|Angela]]'s. Church when I can -- 7am Mass is
+     too early for my hands so we go to the 10:30 at [[INDIRECT_LOCATION|St. Mary's]].
+20.  Problems getting along with others?  I get short with people since I stopped working. Snap at [[PERSON|Ruben]].
+
+SECTION F - INFORMATION ABOUT ABILITIES (check all that apply)
+     [X] Lifting [X] Squatting [X] Bending [X] Standing [X] Reaching [X] Walking [X] Sitting [X] Kneeling
+     [X] Stair-climbing [X] Memory [X] Completing tasks [X] Concentration [X] Using hands
+     I can lift a gallon of milk with 2 hands. Walk maybe half a block then rest 5 min.
+     I can pay attention maybe 20 min. I forget what I was doing because of the [[MEDICATION|duloxetine]] or the pain.
+     Do you use: [X] Cane (prescribed by Dr. [[PERSON|Eskelsen]], 2025)  [X] Brace/splint (wrist, night)
+     [X] Inhaler/oxygen at night ([[MEDICATION?|2L O2]] from [[ORGANIZATION?|Rocky Mtn Respiratory]])
+21.  Handling stress:  Not good. I cry. [[MENTAL_HEALTH|Had the panic attacks]] at the hospital in Pueblo.
+22.  Changes in routine:  Hard. I get confused.
+23.  Unusual behavior or fears:  Afraid to fall again. Afraid to be alone at night.
+
+SECTION G - REMARKS / MEDICATIONS
+     [[MEDICATION?|Methotrexate]] 15 mg Fridays, [[MEDICATION?|folic acid]], [[MEDICATION?|prednisone]] 5 mg, [[MEDICATION?|Breo]] inhaler, [[MEDICATION?|albuterol]],
+     [[MEDICATION|duloxetine]] 60 mg (makes me sleepy), [[MEDICATION?|gabapentin]] 300 mg 3x, [[MEDICATION?|tramadol]] when bad.
+     Doctors: Dr. [[PERSON|Mark Eskelsen]] ([[ORGANIZATION?|Spanish Peaks Family Clinic]]), Dr. [[PERSON|Nasrin Farahani]] rheumatology in
+     Pueblo, counselor [[PERSON|Jolene Herrera]] at [[ORGANIZATION?|Spanish Peaks Behavioral]] (I go every other Thursday).
+     I am also [[MEDICAL_CONDITION|diabetic now from the prednisone]]. [[PHYSICAL_DESCRIPTOR|My knuckles are big and twisted, you
+     can see it]], and [[PHYSICAL_DESCRIPTOR|I lost weight down to 112 lbs]].
+
+SECTION H - CERTIFICATION
+     Signature: [[PERSON|Delores A. Archuleta-Baca]] (signed)           Date: [[DATE|09/08/2026]]
+     Completed by:  [ ] Claimant  [X] Someone else:  [[PERSON|Angela Baca-Trujillo]] (daughter) wrote it down as I said it.
+     Field office use: SSA FO Pueblo CO (code 834)  BNC #: [[CASE_NUMBER|26CO41177Z]]   DDS rec'd [[DATE|09/15/2026]]

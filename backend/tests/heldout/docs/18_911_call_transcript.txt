@@ -1,0 +1,86 @@
+BEXAR METRO 911 NETWORK -- CALL TRANSCRIPT (Prepared for Bexar County District Attorney)
+Transcribed by: [[PERSON|Alyssa Mendiola]], Records & Quality Assurance, [[PHONE|210-207-7700]]   Date prepared: [[DATE|08/21/2025]]
+Request # QA-25-3318     Related SAPD report: [[LAW_ENFORCEMENT_ID|SAPD-25-187734]]    CAD Event: [[LAW_ENFORCEMENT_ID|E2025-0816-01177]]
+---------------------------------------------------------------------------------------------------
+CALL DETAIL RECORD
+  Call received:    [[DATE|08/16/2025]] 23:09:41        Position: 14     Call-taker: [[PERSON|D. Garza]], ID [[ID_NUMBER|TC-2271]]
+  Class of service: WPH2 (wireless Phase II)         Carrier: [[ORGANIZATION?|Meridian Wireless]]
+  ANI (callback):   [[PHONE|210-455-0912]]
+  ALI (Phase I):    tower sector -- [[ADDRESS?|6100 CALLAGHAN RD]] S/E sector
+  Phase II:         [[GPS|LAT +29.502288  LON -098.571934]]  Uncertainty 9 m  Confidence 90%
+  Rebid:            23:10:12 -- [[GPS|+29.502301 / -98.571880]]
+  Subscriber name (carrier data): [[PERSON|PHAM ROSALIND T]]
+  Call duration:    00:06:52        Disposition: SAPD Priority 1 -- FAMILY DISTURBANCE W/ ASSAULT
+---------------------------------------------------------------------------------------------------
+LEGEND: CT = call-taker; C = caller; [unint] = unintelligible; [ ] = transcriber notes. Times are
+elapsed from answer. Background audio noted where relevant.
+
+00:00  CT:  Bexar Metro 911, what is the address of your emergency?
+00:03  C:   Yes, I'm at [[ADDRESS|7420 Callaghan]], apartment -- it's next door, it's [[INDIRECT_LOCATION|12B]], I'm in [[INDIRECT_LOCATION|12C]].
+00:09  CT:  [[ADDRESS|7420 Callaghan Road, apartment 12B]]. Is that [[INDIRECT_LOCATION|the Pinecrest]]?
+00:12  C:   Yes, [[INDIRECT_LOCATION|Pinecrest, building 12, upstairs]]. He's hurting her, I can hear it through the wall.
+00:17  CT:  Okay ma'am, tell me exactly what happened.
+00:19  C:   They were yelling and then something slammed into the wall and she was screaming she
+            can't breathe, "stop, I can't breathe," and now it's quiet. The baby is crying.
+00:28  CT:  Is anyone injured?
+00:30  C:   I don't know! I can't see. I think he's choking her. Please hurry.
+00:34  CT:  Help is being dispatched while we talk. What's your name?
+00:37  C:   [[PERSON|Rosalind Pham]]. [[PERSON|P-H-A-M]].
+00:40  CT:  And the number you're calling from, [[PHONE|210-455-0912]]?
+00:43  C:   Yes. That's my cell.
+00:45  CT:  Who lives in [[INDIRECT_LOCATION|12B]]?
+00:47  C:   [[PERSON|Grace]] -- [[PERSON|Grace Hill]] -- and her boyfriend, [[PERSON|Darek]]. And their little girl, she's [[AGE|three]].
+00:53  CT:  Do you know [[PERSON|Darek]]'s last name?
+00:55  C:   [[PERSON|Kowal-something]]. [[DEMOGRAPHIC?|Polish]]. [[PERSON|Kowalczyk]]? He's a [[PHYSICAL_DESCRIPTOR?|big guy, blond]], with [[PHYSICAL_DESCRIPTOR|a tattoo on his neck
+            of a scorpion]].
+01:03  CT:  Are there any weapons in the apartment?
+01:05  C:   I -- [[PERSON|Grace]] told me one time he has a gun in his truck. The [[VEHICLE_DESCRIPTION|gray truck, the Ford]].
+01:11  CT:  Is the truck there now?
+01:13  C:   [pause] Yes, I see it from my window, it's in the spot by the dumpsters.
+01:18  CT:  Has he been drinking, do you know?
+01:20  C:   He always comes home from the icehouse on Fridays. Yes, probably.
+01:26  CT:  Okay. Don't go over there. Stay inside your apartment with the door locked. Can you
+            still hear anything?
+01:33  C:   [pause] He's yelling again. [background: male voice yelling, unint; child crying]
+            He's saying "who did you call." Oh God.
+01:41  CT:  Stay on the line with me. Officers are on the way, they're about five minutes out.
+01:46  C:   She's crying now. At least she's crying. [background: female voice crying]
+01:52  CT:  Is the child in danger right now?
+01:54  C:   I don't know. [[PERSON MINOR|Lily]]'s in the back bedroom I think. That's where the crying is.
+02:00  CT:  Ma'am, does [[PERSON|Grace]] have any medical problems that you know of?
+02:03  C:   No, she's young, she's healthy. She takes something for [[MENTAL_HEALTH|depression after the baby]], I
+            don't know. She works at [[INDIRECT_LOCATION|the CVS on Fredericksburg]], the pharmacy.
+02:12  CT:  Okay. What is he wearing, do you know?
+02:15  C:   I didn't see him tonight. Usually work clothes, he's a [[INDIRECT_ROLE?|welder]], the orange shirts.
+BEXAR METRO 911 -- TRANSCRIPT -- Event [[LAW_ENFORCEMENT_ID|E2025-0816-01177]] -- Caller [[PERSON|PHAM ROSALIND T]] -- page 2 of 2
+---------------------------------------------------------------------------------------------------
+02:22  CT:  Officers are going to come up the stairs. When they arrive, I want you to stay inside.
+02:27  C:   Okay. Okay. The gate code is [[PASSWORD|5190]] if they need it, pound [[PASSWORD|5190]].
+02:32  CT:  Pound [[PASSWORD|5190]], I'm putting that in for them. Thank you.
+02:36  C:   He keeps saying he'll -- [unint] -- "finish it." I heard "finish it."
+02:42  CT:  I'm updating officers. You're doing great.
+03:10  C:   [background quiet] It's quiet again.
+03:51  CT:  Ma'am, are you still there?
+03:53  C:   I'm here. I'm at my door. I can see a police car coming in the gate.
+04:05  CT:  Okay, stay inside until officers make contact.
+04:40  C:   They're going up. Two of them. A woman officer and a man.
+05:12  C:   He opened the door. He's talking to them.
+05:45  C:   They have him. They put him in handcuffs. Oh thank God. I can see [[PERSON|Grace]], she's on the
+            floor.
+06:02  CT:  Okay ma'am, officers are with them now. An ambulance is also on the way to check
+            on her. Is there anything else you need right now?
+06:10  C:   No. No. Thank you, thank you so much. Can I go to her?
+06:14  CT:  Please wait for the officers to tell you it's okay. If anything changes, call us
+            back at 911.
+06:52  [Call ends]
+
+---------------------------------------------------------------------------------------------------
+TRANSCRIBER NOTES
+  - Speaker identification based on ANI/ALI and caller self-identification.
+  - Audio file: 20250816_230941_POS14.wav (SHA-1 44e1c0...b8f2), retained per Local Gov't Code
+    retention schedule PS4125-04.
+  - Names, addresses and phone numbers spoken by the caller are reproduced verbatim as heard.
+    For public release, redact per Gov't Code § 552.108 / § 552.130 / § 552.132.
+
+Certified true and correct transcription of the original recording.
+/s/ [[PERSON|Alyssa Mendiola]]     [[DATE|August 21, 2025]]

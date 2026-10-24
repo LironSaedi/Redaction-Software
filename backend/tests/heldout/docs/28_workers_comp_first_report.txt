@@ -1,0 +1,83 @@
+TEXAS DEPARTMENT OF INSURANCE -- DIVISION OF WORKERS' COMPENSATION
+EMPLOYER'S FIRST REPORT OF INJURY OR ILLNESS (DWC Form-001)                    Rev. 05/18   Page 1 of 2
+Filed electronically via carrier EDI -- DWC Claim # [[CLAIM_NUMBER|25-412877]]   Carrier Claim # [[CLAIM_NUMBER|TXWC-25-118734-01]]
+=====================================================================================================
+EMPLOYEE INFORMATION
+  1.  Name (Last, First, M.I.):   [[PERSON|NGUYEN, THANH V.]]
+  2.  Social Security No.:        [[SSN|612 40 7735]]
+  3.  Date of Birth:              [[DATE_OF_BIRTH|08/22/1971]]          4. Gender: M
+  5.  Mailing address:            [[ADDRESS|1507 Kestrel Hollow Dr]]
+      City/State/ZIP:             [[ADDRESS|Pflugerville, TX 78660]]
+  6.  Phone:                      [[PHONE|512.990.3318]]   (son -- [[PERSON|Kevin Nguyen]] -- interprets: [[PHONE|512.990.4471]])
+  7.  Primary language:           Vietnamese   Interpreter needed: Y
+  8.  Marital status:             Married   Number of dependents: 2
+  9.  Occupation / job title:     Concrete Finisher II            10. Employee ID: [[ID_NUMBER|20918]]
+  11. Date of hire:               [[DATE|04/15/2019]]          12. Employment status: Full-time, hourly
+  13. Rate of pay:                [[FINANCIAL_INFO|$24.75/hr; avg 45.5 hrs/wk incl. OT]]
+  14. Was employee paid in full for day of injury?  Y      15. Did salary continue?  N
+
+EMPLOYER INFORMATION
+  16. Employer name:              [[EMPLOYER|RIDGEWAY BUILDERS, INC.]]
+  17. Mailing address:            [[ADDRESS?|12401 Research Blvd, Ste 300, Austin, TX 78759]]
+  18. Federal Tax ID (FEIN):      [[ID_NUMBER?|74-2918830]]            19. NAICS: 236116
+  20. Employer contact:           [[PERSON|Patricia Venable]], HR Manager   [[PHONE|(512) 258-7400 x 205]]   [[EMAIL|pvenable@ridgewaybuilders.com]]
+  21. Location where injury occurred (if different):
+                                  [[INDIRECT_LOCATION|Mueller Crossing Apartments (job #RB-2307), Building C, 3rd floor east balcony]]
+                                  [[ADDRESS|1900 Aldrich St, Austin, TX 78723]]   County: [[LOCATION?|Travis]]
+                                  GPS (site entrance): [[GPS|30.2985, -97.7041]]
+
+CARRIER INFORMATION
+  22. Insurance carrier:          [[ORGANIZATION?|Pinnacle Workers' Compensation Assurance Co.]]
+  23. Policy No.:                 [[POLICY_NUMBER|WC-TX-0044718-25]]      Policy period [[DATE|01/01/2025]] - [[DATE|01/01/2026]]
+  24. Adjuster:                   [[PERSON|DeShonda Pryor]], [[PHONE|1-888-746-6220 ext. 3318]]
+
+INJURY / ILLNESS INFORMATION
+  25. Date of injury:  [[DATE|06/09/2025]]     26. Time: 10:20 a.m.     27. Time workday began: 6:30 a.m.
+  28. Date employer notified: [[DATE|06/09/2025]]     29. Date lost time began: [[DATE|06/10/2025]]
+  30. Date returned to work: N/A (still off)      31. Fatality: N
+  32. Nature of injury / part of body:
+        [[MEDICAL_CONDITION|Fracture -- right heel (calcaneus); fracture -- lower back (L1 vertebra); sprain -- right
+        wrist; contusion -- right hip]]
+  33. Cause of injury (how did it happen?):
+        Employee was finishing concrete on 3rd-floor balcony using a rolling scaffold. A scaffold plank shifted
+        and employee fell approx. 12 ft to the 2nd-floor deck, landing on right foot and buttocks.
+  34. Equipment / substance involved: Baker-style rolling scaffold (unit RB-SC-14), wood planks
+  35. Was employee doing regular job duties?  Y         36. Safety equipment provided? Y  Used? Hard hat Y,
+        harness N (not required < 6 ft per site plan -- under review)
+  37. Witnesses: [[PERSON|Bao Tran]] (co-worker) [[PHONE|737-444-0219]]; [[PERSON|Ricardo "Ricky" Salinas]] (foreman) [[PHONE|512-801-3376]]
+  38. Initial treatment: ATCEMS Medic 9 to [[ORGANIZATION?|North Austin Regional Hospital]] ED; admitted.
+        Physician: Dr. [[PERSON|Femi Ogundipe]] (orthopaedics).
+  39. Alcohol/drug test performed?  Y -- post-incident urine & breath at hospital per company policy;
+        result: [[SUBSTANCE_USE?|negative]]
+
+DWC Form-001 -- [[PERSON|NGUYEN, THANH V.]] -- DOI [[DATE|06/09/2025]] -- DWC # [[CLAIM_NUMBER|25-412877]]                                Page 2 of 2
+=====================================================================================================
+SUPERVISOR'S NARRATIVE ([[PERSON|R. Salinas]], foreman -- written [[DATE|06/09/2025]] 3:30 p.m., translated where marked)
+  At about 10:15 I was on 2nd floor deck checking forms. I heard a crack and a yell. [[PERSON|Thanh]] fell off the
+  rolling scaffold on the 3rd floor east side and landed on the 2nd floor deck by the stair tower. He was
+  conscious, holding his right foot and lower back, said "dau lung, dau chan" [back pain, foot pain --
+  translated by [[PERSON|Bao Tran]]]. I called 911 at 10:22. [[PERSON|Bao]] stayed with him. The plank on the scaffold had
+  slid off the end bracket -- the plank was not cleated. This is the scaffold the drywall sub left on site.
+  [[PERSON|Thanh]] is one of my best guys, 6 years with us, never had an injury. He does not speak much English;
+  his son [[PERSON|Kevin]] usually calls for him.
+
+EMPLOYEE STATEMENT (via son [[PERSON|Kevin Nguyen]] by phone, [[DATE|06/11/2025]], recorded by [[PERSON|P. Venable]])
+  "My father says the plank moved when he stepped back to look at the edge. He fell and hit the deck
+  below. He has broken heel and a broken bone in his back. The doctor says surgery for the heel. He is
+  worried about his job and about paying for the house. He has [[MEDICAL_CONDITION|diabetes]] and takes [[MEDICATION|metformin]]."
+
+OSHA 300 LOG ENTRY: Case No. 2025-07; recordable; days away from work.  OSHA Form 301 completed.
+  Site safety officer: [[PERSON|Garrett Lindqvist]], CHST. Incident investigation # INV-25-0609-01.
+  Corrective action: all planks to be cleated/secured; 100% tie-off above 6 ft; subcontractor scaffold
+  inspection log required daily.
+
+CERTIFICATION
+  I certify that the information above is true and correct to the best of my knowledge. False
+  statements are subject to criminal penalties (Tex. Lab. Code § 418.001).
+  /s/ [[PERSON|Patricia Venable]]     HR Manager, [[EMPLOYER|Ridgeway Builders, Inc.]]     Date: [[DATE|06/12/2025]]
+
+DWC NOTICE: Employee was mailed "Notice of Injured Employee Rights and Responsibilities" (English and
+Vietnamese) on [[DATE|06/13/2025]] by the carrier. Ombudsman program: [[PHONE|1-800-252-7031]] (Office of Injured
+Employee Counsel).
+
+Copy to: Employee; Carrier; DWC (EDI ack # 0612-88140-A)

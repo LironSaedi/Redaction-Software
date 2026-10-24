@@ -1,0 +1,50 @@
+CEDAR VALLEY FABRICATION, INC.
+INTERNAL MEMORANDUM -- CONFIDENTIAL PERSONNEL / PAYROLL MATTER
+
+TO:      [[PERSON|Doug Rasmussen]], President
+FROM:    [[PERSON|Kim Truong]], HR & Payroll Coordinator
+DATE:    [[DATE|October 14, 2026]]
+RE:      Bay 3 incident, second shift, [[DATE|Friday, October 9, 2026]]; payroll actions
+
+1. SUMMARY
+On Friday night [[INDIRECT_ROLE|the only female welder on second shift]], [[PERSON|Brianna Kuehl]] (Emp. #[[ID_NUMBER|CVF-0388]]), reported
+that [[PERSON|Wade Ostrowski]] (Emp. #[[ID_NUMBER|CVF-0417]]), [[INDIRECT_ROLE|the forklift driver with the hearing aids]], cornered her in
+[[INDIRECT_LOCATION|the break shack behind the paint booth]], where she eats alone most nights, grabbed her wrist, and made sexual
+comments. She pulled free and went to [[INDIRECT_ROLE|the owner's son-in-law in dispatch]], who called me at home at 10:52 p.m.
+
+2. WITNESSES AND EVIDENCE
+- [[INDIRECT_ROLE|The Bosnian maintenance tech on the 2-to-10 shift]] stated he heard [[PERSON|Brianna]] say "let go" and saw [[PERSON|Wade]] leave the
+  shack "fast." He did not see physical contact.
+- Camera 6 (paint booth exterior) shows a man entering the shack at 9:41 p.m. and leaving at 9:44 p.m. His face is not
+  visible, but he is identifiable by [[PHYSICAL_DESCRIPTOR|the red handlebar mustache]] and [[PHYSICAL_DESCRIPTOR|the "HOLD FAST" tattoo across his
+  knuckles]] when he reaches for the door. [[PERSON|Brianna]] is seen leaving at 9:45 p.m. holding her right wrist.
+- [[PERSON|Brianna]] has a photo of bruising on the inside of her right wrist taken at 11:20 p.m.
+
+3. INTERVIEWS
+[[PERSON|Wade]] was interviewed [[DATE|October 12]] with a supervisor present. He denies touching her and says he went to the shack "to
+grab my lunch." [[PERSON|Brianna]] was interviewed [[DATE|October 12]] and her account was consistent with her first report. She asked
+that her shift times not be shared, because she drops off [[INDIRECT_ROLE|her 4-year-old]] at [[INDIRECT_LOCATION|the in-home daycare across
+from the Hy-Vee on Ansborough]] right before shift and "he knows that."
+
+4. INTERIM ACTIONS
+- [[PERSON|Wade]] suspended without pay pending decision, effective [[DATE|October 12, 2026]].
+- [[PERSON|Brianna]] moved to day shift (her request) at the same rate, effective [[DATE|October 19, 2026]].
+
+5. PAYROLL ITEMS
+[[PERSON|Wade Ostrowski]] -- SSN ending [[SSN|6620]]; rate [[MONEY|$23.75]]/hr; direct deposit to [[ORGANIZATION?|Veridian Credit Union]],
+routing [[ROUTING_NUMBER|273976369]], account [[BANK_ACCOUNT|5530091847]].
+  - Active income withholding order (child support), Iowa CSRU case [[CASE_NUMBER|IA-CS-0911874]]: [[MONEY|$412.00]] per biweekly pay.
+    Withholding continues on any final pay; suspension means no withholding for periods with no earnings -- I will
+    notify CSRU if the suspension extends past one pay period.
+  - If employment ends, final check is due by the next regular payday ([[DATE|October 23, 2026]]). [[PERSON|Wade]] has asked that any
+    paper check be mailed to [[INDIRECT_LOCATION|his uncle's acreage past the Evansdale grain elevator]] instead of his address of
+    record, because he is staying there. I told him address changes must be made in writing.
+  - Accrued PTO: 31.5 hours, payable per handbook.
+[[PERSON|Brianna Kuehl]] -- no payroll change except shift differential ([[MONEY|$1.50]]/hr) ends with move to days. I recommend we
+continue the differential for 60 days so the move does not cost her money.
+
+6. RECOMMENDATION
+Termination of [[PERSON|Wade Ostrowski]] for violation of the workplace harassment policy. I recommend a written notice to all
+second-shift staff and a refresher training. Please let me know by Friday.
+
+cc: personnel file (both), payroll

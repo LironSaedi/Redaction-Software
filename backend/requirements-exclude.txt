@@ -1,0 +1,2 @@
+# Ultralytics asks for opencv-python; opencv-contrib-python-headless (in requirements.txt) provides the same cv2 module
+opencv-python

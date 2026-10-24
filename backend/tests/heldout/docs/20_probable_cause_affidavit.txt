@@ -1,0 +1,108 @@
+                                  CAUSE NO. [[CASE_NUMBER|2025CR011847]]
+
+THE STATE OF TEXAS                         §          IN THE MAGISTRATE COURT
+                                           §
+v.                                         §          OF
+                                           §
+[[PERSON|DARIUSZ PIOTR KOWALCZYK]]                    §          [[LOCATION?|BEXAR COUNTY]], TEXAS
+DOB: [[DATE_OF_BIRTH|12/01/1988]]   SID: [[LAW_ENFORCEMENT_ID|TX09887123]]          §
+
+             CRIMINAL COMPLAINT AND AFFIDAVIT FOR PROBABLE CAUSE (WARRANTLESS ARREST)
+
+BEFORE ME, the undersigned authority, on this day personally appeared the affiant, who, after
+being by me duly sworn, on oath deposes and says:
+
+1.  My name is [[PERSON|Javier Castañeda]]. I am a peace officer licensed by the Texas Commission on Law
+    Enforcement (TCOLE PID [[ID_NUMBER|0718244]]) and employed by the San Antonio Police Department, badge
+    #[[LAW_ENFORCEMENT_ID|4127]], assigned to the West Patrol Division. I have been a peace officer for 9 years and
+    have received training in the investigation of family violence and non-fatal strangulation.
+
+2.  I have good reason to believe and do believe that on or about the [[DATE|16th day of August, 2025]],
+    in [[LOCATION?|Bexar County]], Texas, [[PERSON|DARIUSZ PIOTR KOWALCZYK]], hereinafter called "Defendant," did then
+    and there intentionally, knowingly, or recklessly cause bodily injury to [[PERSON|GRACE ELIZABETH HILL]],
+    a member of the Defendant's household and a person with whom the Defendant has or has had a
+    dating relationship, as described by Tex. Fam. Code §§ 71.0021(b), 71.005 and 71.003, by
+    intentionally, knowingly, or recklessly impeding the normal breathing or circulation of the
+    blood of [[PERSON|GRACE ELIZABETH HILL]] by applying pressure to her throat or neck with his hands,
+
+    AGAINST THE PEACE AND DIGNITY OF THE STATE. Offense: Assault -- Family Violence -- Impeding
+    Breath or Circulation, Tex. Penal Code § 22.01(b)(2)(B), a felony of the third degree.
+
+3.  My belief is based on the following facts and information:
+
+    a.  On [[DATE|August 16, 2025]], at 11:09 p.m., the Bexar Metro 911 Network received a call from
+        [[PERSON|Rosalind Pham]], who reported hearing a woman screaming "stop, I can't breathe" through the
+        shared wall of her apartment at [[INDIRECT_LOCATION|Pinecrest Apartments]], [[ADDRESS|7420 Callaghan Road]], San
+        Antonio, [[LOCATION?|Bexar County]], Texas.
+
+    b.  I arrived at 11:21 p.m. with Officer [[PERSON|Megan Doyle]] (#[[LAW_ENFORCEMENT_ID|3390]]). Defendant answered the
+        door of [[INDIRECT_LOCATION|Apartment 12B]]. I observed the complainant, [[PERSON|Grace Hill]], seated on the kitchen
+        floor holding her neck and crying.
+
+    c.  The complainant stated that she and the Defendant have lived together for approximately
+        four years and share a child, [[PERSON MINOR|L.R.K.]], age [[AGE|3]]. She stated the Defendant came home
+        intoxicated, accused her of infidelity, broke her phone, pushed her against a wall, and
+        squeezed her neck with both hands for approximately 10 to 15 seconds, during which she
+        could not breathe, her vision narrowed, and she lost control of her bladder. She stated the
+        Defendant released her only when the child began crying.
+
+    d.  I observed red linear marks on both sides of the complainant's neck consistent with
+        fingers, redness beneath her jaw, petechial hemorrhage in the sclera of her left eye, and a
+        hoarse voice. She reported pain when swallowing. I photographed these injuries.
+
+    e.  I observed fresh scratches on the backs of both of the Defendant's hands. The complainant
+        stated she scratched the Defendant's hands while trying to pull them away from her neck.
+
+    f.  The Defendant, after Miranda warnings, denied choking the complainant and stated he "just
+        held her off." The Defendant had a strong odor of alcoholic beverage and admitted to
+        drinking "four or five" beers.
+
+    g.  [[PERSON|Rosalind Pham]] provided a written statement consistent with the complainant's account.
+
+    h.  A search of Texas Crime Information Center records reflects that the Defendant was
+        [[CRIMINAL_HISTORY|previously convicted of Assault Causes Bodily Injury -- Family Member on May 11, 2019,
+        in County Court at Law No. 9 of Bexar County, Texas, Cause No. 576114]].
+
+    i.  Based on the foregoing, I arrested the Defendant without a warrant at 12:22 a.m. on
+        [[DATE|August 17, 2025]], pursuant to Tex. Code Crim. Proc. art. 14.03(a)(4).
+
+4.  The affiant requests that the Defendant be held to answer and that bail be set in an amount
+    sufficient to protect the complainant, consistent with Tex. Code Crim. Proc. arts. 17.15 and
+    17.152, and that a Magistrate's Order for Emergency Protection be issued under art. 17.292
+    designating [[PERSON|GRACE ELIZABETH HILL]] and [[PERSON MINOR|L.R.K.]] as protected persons. See also Ex parte Gomez,
+    624 S.W.3d 573 (Tex. Crim. App. 2021) (bail considerations).
+
+                                            /s/ [[PERSON|Javier Castañeda]]
+                                            ___________________________________
+                                            AFFIANT -- Officer [[PERSON|J. Castañeda]], SAPD #[[LAW_ENFORCEMENT_ID|4127]]
+
+SWORN TO AND SUBSCRIBED before me on [[DATE|August 17, 2025]], at 7:58 a.m.
+
+                                            /s/ [[PERSON|Andrea Saenz-Gutierrez]]
+                                            ___________________________________
+                                            MAGISTRATE, [[LOCATION?|BEXAR COUNTY]], TEXAS
+
+                                  MAGISTRATE'S FINDING
+
+On [[DATE|August 17, 2025]], having reviewed the foregoing affidavit, I FIND that probable cause exists
+for the arrest and continued detention of [[PERSON|DARIUSZ PIOTR KOWALCZYK]] for the offense of Assault --
+Family Violence -- Impeding Breath or Circulation (F3).
+
+Bond set at: [[MONEY?|$25,000]] surety, with conditions:
+  (1)  No contact, direct or indirect, with [[PERSON|Grace Elizabeth Hill]] or [[PERSON MINOR|L.R.K.]] (minor);
+  (2)  Stay 500 feet away from [[ADDRESS|7420 Callaghan Road, San Antonio, Texas 78229]], and from the
+       complainant's place of employment, [[INDIRECT_LOCATION|CVS Pharmacy Store #10432, 8302 Fredericksburg Road]];
+  (3)  Surrender all firearms to the SAPD Property Room within 48 hours of release;
+  (4)  GPS monitoring (exclusion zones as above) through [[ORGANIZATION?|Bexar County Pretrial Services]];
+  (5)  [[SUBSTANCE_USE|Ignition interlock not required; alcohol monitoring (SCRAM) required]];
+  (6)  Report to Pretrial Services within 24 hours of release.
+
+Defendant was advised of his rights under art. 15.17, Tex. Code Crim. Proc., in English. Defendant
+requested court-appointed counsel: [ ] YES  [X] NO (retained: [[PERSON|Tomasz Lisowski]], SBN [[ID_NUMBER|24091186]],
+[[PHONE|210-555-0166]]).
+
+                                            /s/ [[PERSON|Andrea Saenz-Gutierrez]]
+                                            Magistrate                         Time: 8:15 a.m.
+
+Distribution: DA Intake; Pretrial; SAPD FVU (Det. [[PERSON|S. Villalobos]]); Defense; Victim Services
+(contact: [[PERSON|Maribel Cantu]], [[EMAIL|mcantu.vsu@bexar-da-vsu.org]]).

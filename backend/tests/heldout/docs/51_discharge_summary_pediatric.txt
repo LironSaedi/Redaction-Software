@@ -1,0 +1,84 @@
+[[ORGANIZATION?|LONE OAK CHILDREN'S MEDICAL CENTER]]                         Pediatric Surgery / Trauma
+[[ADDRESS?|4900 Mueller Blvd]], [[ADDRESS?|Austin TX 78723]]    Tel [[PHONE|512-324-0000]]    HIM Fax [[PHONE|512-324-0099]]
+
+                     PEDIATRIC OBSERVATION / DISCHARGE SUMMARY
+
+Patient: [[PERSON MINOR|RUIZ, MATEO ARTURO]]                      MRN: [[MRN|LOC-2210948]]       CSN: [[MRN|880014472215]]
+DOB: [[DATE_OF_BIRTH|10/08/2018]]   Age: [[AGE|6 y 5 m]]   Sex: M   Wt: 21.4 kg (48th %ile)   Ht: 117 cm
+Admit: [[DATE|03/14/2025]] 18:36 (ED) -> Obs [[DATE|03/14/2025]] 22:10        Discharge: [[DATE|03/15/2025]] 15:20
+Attending: [[PERSON|Olabisi Adeyinka-Rhodes]], MD (Pediatric Surgery)      PCP: [[PERSON|Hoang Le]], MD -- [[ORGANIZATION?|Southpark Pediatrics]]
+Guardian(s): [[PERSON|Arturo Ruiz Benavides]] (father, at bedside); [[PERSON|Maria Delgado-Ruiz]] (mother, admitted at
+             [[ORGANIZATION?|Capitol Ridge Medical Center]] -- same MVC)
+Insurance: [[ORGANIZATION?|BCBS TX]] PPO (dependent of mother) -- Member [[HEALTH_PLAN_ID|XOD884417203-03]]
+-----------------------------------------------------------------------------------------------------
+
+REASON FOR ADMISSION
+  [[AGE|6]] yo boy, restrained rear passenger in high-booster seat (lap/shoulder belt), passenger-side
+  rear, in a broadside MVC (car vs. tractor-trailer, driver-side impact) with prolonged extrication of
+  the driver (mother). Admitted for observation given [[MEDICAL_CONDITION?|abdominal seat-belt sign]] and mechanism.
+
+DIAGNOSES
+  1. [[MEDICAL_CONDITION?|Forehead laceration, 2.5 cm, simple]] (S01.81XA) -- repaired
+  2. [[MEDICAL_CONDITION?|Abdominal wall contusion / seat-belt sign]] (S30.1XXA), no intra-abdominal injury
+  3. [[MEDICAL_CONDITION?|Minor closed head injury without LOC]] (S09.90XA), PECARN low risk
+  4. [[MENTAL_HEALTH|Acute stress reaction]] (F43.0)
+
+HOSPITAL COURSE
+  Arrived via ATCEMS Medic 31 with father. GCS 15, tearful, asking for "Mami." Primary/secondary
+  survey: 2.5 cm linear laceration L forehead at hairline, faint transverse abdominal ecchymosis at
+  level of ASIS, mild periumbilical tenderness, no peritonitis. FAST negative. UA: 0-2 RBC. AST/ALT
+  32/24, lipase 18. Per PECARN intra-abdominal injury rule with seat-belt sign and tenderness, CT
+  abdomen/pelvis with IV contrast obtained: no solid organ injury, no free fluid, no bowel wall
+  thickening, no Chance fracture. Head CT NOT obtained (PECARN low risk; shared decision with father).
+
+  Laceration repaired in ED with intranasal midazolam for anxiolysis (child life present): 5 interrupted
+  5-0 fast-absorbing gut sutures; Dermabond over. Tdap/DTaP up to date per state registry (ImmTrac2).
+
+  Observation overnight with serial abdominal exams q4h -- benign; tolerated regular diet at 06:00,
+  ambulating, voiding. Repeat AST/ALT [[DATE|3/15]] AM normal.
+
+  Behavioral: overnight child awoke screaming x2 ("the truck, the truck"), would not sleep unless
+  father in bed. Child Life ([[PERSON|Brooke Tanaka]], CCLS) and SW ([[PERSON|Ximena Galván]], LCSW) saw child and
+  father. Father reports child is in 1st grade at [[SCHOOL|Galindo Elementary]] and has no prior behavioral
+  or developmental concerns, no prior counseling. Older sister ([[PERSON MINOR|Sofia]], [[AGE|9]]) staying with
+  [[INDIRECT_ROLE|the family's next-door neighbor]]. Father tearful, working to arrange care while mother hospitalized.
+  [[MENTAL_HEALTH|Acute stress symptoms]] discussed; referral to [[ORGANIZATION?|Lone Oak Children's]] Trauma & Grief Program and
+  list of community providers given (incl. [[ORGANIZATION?|Little Oaks Child Therapy]]).
+
+  Visit by [[ORGANIZATION?|APD]] victim services counselor [[PERSON|Janine Sorrells]] on [[DATE|3/15]] 10:30 -- provided crime victim
+  compensation information (not applicable -- non-criminal MVC; info given anyway).
+
+DISCHARGE EXAM
+  T 98.6  HR 96  RR 20  BP 102/64  SpO2 99% RA. Alert, playful with tablet. Forehead wound clean,
+  approximated. Abdomen soft, non-tender, ecchymosis fading. Neuro intact.
+
+DISCHARGE MEDICATIONS
+  [[MEDICATION?|Acetaminophen]] 320 mg (15 mg/kg) PO q6h PRN pain -- max 5 doses/24h
+  [[MEDICATION?|Ibuprofen]] 200 mg (10 mg/kg) PO q6h PRN -- may alternate
+
+[[ORGANIZATION?|LONE OAK CHILDREN'S MEDICAL CENTER]] -- Discharge Summary -- [[PERSON MINOR|RUIZ, MATEO A]] -- DOB [[DATE_OF_BIRTH|10/08/2018]] -- MRN [[MRN|LOC-2210948]]
+Page 2 of 2
+-----------------------------------------------------------------------------------------------------
+INSTRUCTIONS (reviewed with father via Spanish-speaking RN per father's preference; teach-back done)
+  - Wound: keep dry 24 h; sutures dissolve 5-7 days; sunscreen to scar x 6 months.
+  - Return for: vomiting, worsening belly pain, blood in urine or stool, fever, headache that worsens,
+    unusual sleepiness, behavior change.
+  - Booster seat: replace (involved in moderate/severe crash per NHTSA).
+  - School: may return [[DATE|3/18]]; no PE/recess contact x 1 week. School note provided (to Ms. [[PERSON|Okonkwo]],
+    1st grade).
+  - Emotional: nightmares, clinginess, bedwetting, avoiding cars are common after a crash; if lasting more
+    than 2-4 weeks, please call the referral list.
+
+FOLLOW-UP
+  PCP Dr. [[PERSON|Hoang Le]] in 3-5 days -- [[PHONE|(512) 443-6022]].
+  Lone Oak Trauma & Grief Program will call within 1 week ([[PHONE|512-324-7140]]).
+
+CONDITION AT DISCHARGE: Good. Discharged home with father, [[PERSON|Arturo Ruiz Benavides]] (cell [[PHONE|512-836-4471]]),
+  ID verified (TX DL ending [[DRIVERS_LICENSE|8826]]).
+
+  [[PERSON|Olabisi Adeyinka-Rhodes]], MD -- Pediatric Surgery    NPI [[NPI|1288040722]]  -- e-signed [[DATE|03/15/2025]] 16:02
+  Resident: [[PERSON|Caleb Oduya]], MD (PGY-3)
+
+  Note: Patient is a minor. Disclosure to anyone other than the parent/managing conservator requires
+  written authorization of the parent or court order. Released [[DATE|04/11/2025]] to [[ORGANIZATION?|Kim & Abernathy PLLC]]
+  on authorization signed by mother [[DATE|03/19/2025]]. ROI # LOC-ROI-25-1182. Bates KA-MAR 000001-000002.

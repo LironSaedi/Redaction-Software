@@ -1,0 +1,242 @@
+                                         EXHIBIT A
+                                             TO
+                       PREMARITAL AGREEMENT BETWEEN [[PERSON|EVELYN MARGUERITE ASHCOMBE]]
+                                AND [[PERSON|RAFAEL IGNACIO QUINTERO-LUND]]
+
+                       FINANCIAL DISCLOSURE SCHEDULES (C.R.S. Sec. 14-2-309)
+                              Values stated as of [[DATE?|September 30, 2026]]
+
+PRELIMINARY STATEMENT
+
+1.  This Exhibit A is incorporated into and forms part of the Premarital Agreement (the "Agreement") between
+[[PERSON|Evelyn Marguerite Ashcombe]] ("[[PERSON|Evelyn]]"), age [[AGE|41]], residing at [[ADDRESS|2840 Linden Ridge Court, Boulder, Colorado 80304]],
+and [[PERSON|Rafael Ignacio Quintero-Lund]] ("[[PERSON|Rafael]]"), age [[AGE|44]], residing at
+[[ADDRESS|1720 Wynkoop Street, Apt. 611, Denver, Colorado 80202]], who intend to marry on or about [[DATE|May 22, 2027]], in [[LOCATION?|Boulder County]], Colorado.
+
+2.  Each party has been represented by independent counsel of his or her own choosing: [[PERSON|Evelyn]] by
+[[PERSON|Margaret L. Osterhout]], Esq. of [[ORGANIZATION?|Osterhout Family Law, P.C.]], Boulder (Atty. Reg. No. [[ID_NUMBER?|28814]]); and [[PERSON|Rafael]] by
+[[PERSON|Desmond K. Abara]], Esq. of [[ORGANIZATION?|Abara & Finch LLC]], Denver (Atty. Reg. No. [[ID_NUMBER?|41093]]). Each party acknowledges that he or she
+received the other party's disclosure not less than forty-five (45) days before signing the Agreement.
+
+3.  The values below are good-faith estimates. Where an appraisal, statement, or valuation is referenced, a
+copy was delivered to the other party's counsel. Neither party has relied on the accuracy of any estimate in
+deciding to sign the Agreement, and each waives any further disclosure beyond that provided, as permitted by
+C.R.S. Sec. 14-2-309(1)(b)(II).
+
+4.  Each party also delivered complete copies of his or her 2023, 2024 and 2025 federal and state income tax
+returns, including all schedules, K-1s and W-2s. Identifying numbers for the parties for purposes of this
+Exhibit: [[PERSON|Evelyn]] -- SSN ending [[SSN|5129]]; [[PERSON|Rafael]] -- SSN ending [[SSN|0846]].
+
+=================================================================================================================
+SCHEDULE A -- SEPARATE PROPERTY AND LIABILITIES OF [[PERSON|EVELYN MARGUERITE ASHCOMBE]]
+=================================================================================================================
+
+A-1  REAL PROPERTY
+     Item  Description                                            Title          Fair Market Value   Encumbrance     Net Equity
+     ----  -----------------------------------------------------  -------------  -----------------   -------------   -------------
+     A-1a  Residence, [[ADDRESS|2840 Linden Ridge Ct, Boulder CO 80304]]     [[PERSON|Evelyn]], sole       [[MONEY|1,485,000.00]]      [[MONEY|612,880.14]]      [[MONEY|872,119.86]]
+           [[LOCATION?|Boulder County]] Acct. [[ID_NUMBER|R0118842]], Parcel [[ID_NUMBER|146317204011]]; appraised [[DATE?|08/19/2026]] by
+           [[ORGANIZATION?|Ridgeline Appraisal Co.]]; 1st mortgage [[ORGANIZATION?|Flatirons Home Lending]] Loan No. [[BANK_ACCOUNT|7720018845]]
+     A-1b  Rental condominium, [[ADDRESS|1100 Spruce St, Unit 4B, Boulder CO 80302]] [[PERSON|Evelyn]], sole   [[MONEY|640,000.00]]            [[MONEY|0.00]]      [[MONEY|640,000.00]]
+           Acquired [[DATE?|2014]]. Leased to [[PERSON|Jonah Whitcombe]] through [[DATE?|05/31/2027]] at [[MONEY|$2,950]]/month; security
+           deposit [[MONEY|$4,425.00]] held in [[ORGANIZATION?|First Range Bank]] escrow account ****[[BANK_ACCOUNT|3323]].
+
+A-2  DEPOSIT AND INVESTMENT ACCOUNTS
+     Institution                       Type / Registration               Account No.          Balance [[DATE?|9/30/26]]
+     --------------------------------  --------------------------------  -------------------  ---------------
+     [[ORGANIZATION?|First Range Bank]]                  Checking, individual               ****[[BANK_ACCOUNT|3307]]                 [[MONEY|48,210.55]]
+     [[ORGANIZATION?|First Range Bank]]                  Savings, individual                ****[[BANK_ACCOUNT|3315]]                [[MONEY|122,004.18]]
+     [[ORGANIZATION?|Harrow & Pike Investments]]         Brokerage, individual (taxable)    [[BANK_ACCOUNT|5KX-20418]]            [[MONEY|1,904,227.40]]
+     [[ORGANIZATION?|Harrow & Pike Investments]]         Roth IRA                           [[BANK_ACCOUNT|5KX-20431]]              [[MONEY|211,880.06]]
+     [[EMPLOYER|Summitview Orthopedic Partners, P.C.]]  401(k) Profit Sharing Plan  Participant [[ID_NUMBER|SOP-0041]]      [[MONEY|1,118,440.92]]
+     [[EMPLOYER|Summitview Orthopedic Partners, P.C.]]  Cash Balance Pension Plan   Participant [[ID_NUMBER|SOP-0041]]        [[MONEY|486,000.00]]
+                                                                                               ---------------
+                                                                         Subtotal A-2             [[MONEY|3,890,763.11]]
+
+A-3  BUSINESS INTERESTS
+     22.0% Class A membership interest (1 of 9 physician-members) in
+     [[ORGANIZATION?|Front Range Ambulatory Surgery Center, LLC]], valued at [[MONEY|1,350,000.00]] by [[ORGANIZATION?|Cortland Valuation Advisors]] as of [[DATE?|06/30/2026]] (fair market value, minority
+     and marketability discounts applied). Unfunded capital call commitment: [[MONEY|75,000.00]] (see L-4).
+
+A-4  LIFE INSURANCE
+     [[ORGANIZATION?|Continental Mutual Life]] whole life, Policy No. [[POLICY_NUMBER|CML-0884172-W]]; face amount [[MONEY|2,000,000.00]]; cash surrender
+     value [[MONEY|141,206.00]]. Primary beneficiary: [[MINOR|Clara Ashcombe-Byrne]] (niece, age [[AGE|12]]), through [[PERSON|Lydia Ashcombe-Byrne]],
+     custodian under the Colorado Uniform Transfers to Minors Act. [[PERSON|Evelyn]] agrees to maintain this policy.
+
+A-5  TRUST INTERESTS (disclosed; not property of either party)
+     Discretionary beneficiary and one-third remainder beneficiary of the [[ORGANIZATION?|Ashcombe Family Irrevocable Trust]]
+     u/a/d [[DATE?|March 4, 2009]] (Trust TIN [[EIN?|27-6601184]]), [[PERSON|Harold W. Ashcombe]], Trustee. Approximate corpus as reported by
+     the Trustee: [[MONEY|9,400,000.00]]. Distributions to [[PERSON|Evelyn]] in 2023-2025: none.
+
+A-6  VEHICLES, DIGITAL ASSETS AND TANGIBLE PERSONAL PROPERTY
+     [[VEHICLE_DESCRIPTION|2024 Rivian R1S Adventure, Forest Green]], VIN [[VIN|7PDSGABA7RN028841]], CO plate [[LICENSE_PLATE|DRX-K42]] ......       [[MONEY|78,500.00]]
+     2.050000 BTC in self-custody hardware wallet, receive address
+        [[CRYPTO_WALLET|bc1qmj9pcqe0d73v8gmpvxzeh74sjare6ayw85yg2q]] (spot value at [[MONEY|61,204.00]]/BTC) ..........      [[MONEY|125,468.20]]
+     Jewelry (appraised [[DATE?|07/2026]] by [[ORGANIZATION?|Hollander Fine Jewelry]], incl. grandmother's emerald ring) ...       [[MONEY|46,300.00]]
+     Art, furnishings and household goods (Residence and Unit 4B) ....................      [[MONEY|92,000.00]]
+
+A-7  LIABILITIES
+     L-1  First mortgage, [[ORGANIZATION?|Flatirons Home Lending]], Loan [[BANK_ACCOUNT|7720018845]], 3.375% fixed ........................  [[MONEY|612,880.14]]
+     L-2  [[ORGANIZATION?|American Express]] Platinum, account ending [[CREDIT_CARD|31009]] (paid in full monthly) .........    [[MONEY|8,412.77]]
+     L-3  [[ORGANIZATION?|First Range Bank]] Visa Signature, account ending [[CREDIT_CARD|2343]] ...........................    [[MONEY|1,220.10]]
+     L-4  Capital call commitment, [[ORGANIZATION?|Front Range Ambulatory Surgery Center, LLC]] (due [[DATE?|Q1 2027]]) ............   [[MONEY|75,000.00]]
+                                                                                                  -------------
+                                                                         Total liabilities          [[MONEY|697,513.01]]
+
+A-8  INCOME (2025 federal return, Form 1040)
+     W-2 wages, [[EMPLOYER|Summitview Orthopedic Partners, P.C.]] ...............................  [[FINANCIAL_INFO?|612,400.00]]
+     K-1 distributions, [[ORGANIZATION?|Front Range Ambulatory Surgery Center, LLC]] .....................  [[FINANCIAL_INFO?|188,250.00]]
+     Net rental income (Schedule E), Unit 4B ...........................................   [[FINANCIAL_INFO?|21,880.00]]
+     Interest and dividends ...............................................................   [[FINANCIAL_INFO?|47,306.00]]
+     Adjusted gross income ................................................................  [[FINANCIAL_INFO?|869,836.00]]
+
+     Note: [[PERSON|Evelyn]] is [[INDIRECT_ROLE|one of two fellowship-trained female spine surgeons practicing in Boulder County]]; her
+     compensation includes a productivity component that varied by more than 20% between 2023 and 2025.
+
+[[PERSON|E.M.A.]] ______   [[PERSON|R.I.Q.-L.]] ______                  Exhibit A -- Page 1 of 4
+--- Page 2 ---
+=================================================================================================================
+SCHEDULE B -- SEPARATE PROPERTY AND LIABILITIES OF [[PERSON|RAFAEL IGNACIO QUINTERO-LUND]]
+=================================================================================================================
+
+B-1  BUSINESS
+     100% of the membership interest in [[EMPLOYER|Quintero-Lund Architecture Studio, LLC]], a single-member Colorado LLC
+     disregarded for federal tax purposes (EIN [[EIN|84-3317620]]). Office: [[ADDRESS|3300 Walnut Street, Unit 118, Denver CO 80205]]
+     (lease expires [[DATE?|12/31/2028]]). [[PERSON|Rafael]] is a licensed architect, Colorado license [[ID_NUMBER|ARC.00401887]]. Valued at
+     [[MONEY|410,000.00]] by [[ORGANIZATION?|Hartwell & Sons CPAs]] (capitalized excess earnings method, report dated [[DATE?|08/02/2026]]),
+     including work-in-process of [[MONEY|64,700.00]] and accounts receivable of [[MONEY|88,215.40]].
+
+B-2  DEPOSIT AND RETIREMENT ACCOUNTS
+     Institution                           Type                               Account No.          Balance [[DATE?|9/30/26]]
+     ------------------------------------  ---------------------------------  -------------------  ---------------
+     [[ORGANIZATION?|Mile High Community Credit Union]]      Business checking (Studio LLC)      ****[[BANK_ACCOUNT|4410]]                 [[MONEY|63,118.92]]
+     [[ORGANIZATION?|Mile High Community Credit Union]]      Personal checking                   ****[[BANK_ACCOUNT|9921]]                 [[MONEY|14,620.37]]
+     [[ORGANIZATION?|Mile High Community Credit Union]]      Personal savings                    ****[[BANK_ACCOUNT|9930]]                 [[MONEY|40,102.00]]
+     [[ORGANIZATION?|Larkspur Retirement Services]]          SEP-IRA                             [[BANK_ACCOUNT|LRS-2210847]]             [[MONEY|288,416.33]]
+     [[ORGANIZATION?|DNB Bank ASA]], Oslo (see B-3)          Savings (NOK 412,600)               [[IBAN|NO38 8601 1842 072]]       [[MONEY|38,619.36]]
+     [[ORGANIZATION?|Bancolombia S.A.]], Medellín (see B-3)    Savings (COP 38,400,000)            [[BANK_ACCOUNT|0071-2284-5531]]           [[MONEY|9,331.20]]
+                                                                                                    ---------------
+                                                                              Subtotal B-2            [[MONEY|454,208.18]]
+     Exchange rates used: NOK/USD 0.0936; COP/USD 0.000243 (Federal Reserve H.10, [[DATE?|09/30/2026]]).
+
+B-3  FOREIGN ASSETS (each reported on FinCEN Form 114 and Form 8938 for 2025)
+     (a) DNB savings account above (SWIFT [[SWIFT_BIC?|DNBANOKKXXX]]), funded by inheritance from [[PERSON|Rafael]]'s maternal grandmother,
+         [[PERSON|Ingrid Solveig Lund]] (died [[DATE|November 2, 2018]], [[LOCATION?|Bergen]], Norway).
+     (b) Undivided one-third interest, with siblings [[PERSON|Camila Quintero-Lund]] and [[PERSON|Andrés Quintero-Lund]], in the family
+         apartment at [[ADDRESS|Carrera 43A No. 18-90, Apto. 1202, El Poblado, Medellín, Colombia]], in which [[PERSON|Rafael]]'s father,
+         [[PERSON|Hernán Quintero Restrepo]] (age [[AGE|79]]), holds a life estate. Total value COP 1,050,000,000; one-third share
+         approx. [[MONEY|85,050.00]] (life estate not deducted).
+
+B-4  VEHICLE
+     [[VEHICLE_DESCRIPTION|2016 Toyota Tacoma TRD Off-Road, Cement Gray]], VIN [[VIN|3TMCZ5AN0GM019276]], CO plate [[LICENSE_PLATE|CKV-W17]] ...........       [[MONEY|24,000.00]]
+
+B-5  INSURANCE
+     (a) Individual long-term disability policy, [[ORGANIZATION?|Bellwether Mutual]], Policy No. [[POLICY_NUMBER|BWM-LTD-55120874]], monthly
+         benefit [[MONEY|9,500.00]], own-occupation to age 65. The policy carries an exclusion rider for claims arising from the
+         condition disclosed in B-8.
+     (b) Term life, [[ORGANIZATION?|Bellwether Mutual]], Policy No. [[POLICY_NUMBER|TL-26-0041882]], face [[MONEY|1,500,000.00]]; beneficiary: The
+         [[MINOR|Sofía Quintero-Moreau]] Education Trust, [[PERSON|Camila Quintero-Lund]], Trustee (see B-7).
+
+B-6  LIABILITIES
+     L-5  SBA 7(a) loan, [[ORGANIZATION?|Front Range Commercial Bank]], Loan No. [[BANK_ACCOUNT|4471825003]] (Studio buildout; [[PERSON|Rafael]]
+          personal guarantor) ..................................................................   [[MONEY|96,204.18]]
+     L-6  Federal Direct student loans (M.Arch), servicer [[ORGANIZATION?|Prairie State Loan Servicing]], acct ****[[BANK_ACCOUNT|8813]] ...   [[MONEY|41,906.55]]
+     L-7  Range Rewards Visa, account ending [[CREDIT_CARD|3395]] ......................................    [[MONEY|3,118.40]]
+     L-8  Studio LLC line of credit, [[ORGANIZATION?|Mile High Community Credit Union]], acct ****[[BANK_ACCOUNT|4428]] (drawn) ...........   [[MONEY|22,500.00]]
+                                                                                                  -------------
+                                                                         Total liabilities          [[MONEY|163,729.13]]
+
+B-7  SUPPORT OBLIGATIONS FROM PRIOR MARRIAGE
+     [[PERSON|Rafael]] was previously married to [[PERSON|Alisha N. Moreau]]; the marriage was dissolved by decree entered [[DATE?|October 8, 2019]] in
+     In re the Marriage of [[PERSON|Moreau]] and [[PERSON|Quintero-Lund]], [[ORGANIZATION?|Arapahoe County District Court]], Case No. [[CASE_NUMBER|2019DR30417]].
+     There is one child of that marriage, [[MINOR|Sofía Isabel Quintero-Moreau]], born [[DATE_OF_BIRTH|April 11, 2017]] (age [[AGE|9]]).
+     [[PERSON|Rafael]] pays child support of [[MONEY|1,840.00]] per month by income assignment through the [[ORGANIZATION?|Family Support Registry]]
+     (FSR account [[ID_NUMBER|FSR-0613-88402]]) and 58% of agreed extracurricular and uninsured medical expenses. Maintenance
+     terminated [[DATE?|October 31, 2023]]. Nothing in the Agreement limits [[PERSON|Rafael]]'s obligations to [[MINOR|Sofía]].
+
+B-8  HEALTH DISCLOSURE (material to B-5 and to Article 9 of the Agreement)
+     [[PERSON|Rafael]] discloses that in [[DATE|2021]] he was diagnosed with [[MEDICAL_CONDITION|relapsing-remitting multiple sclerosis]]. His condition
+     is managed with infusion therapy every six months at [[ORGANIZATION?|Aspen Grove Neurology Infusion Center]]; his neurologist,
+     [[PERSON|Dr. Yusuf Haldane]], has provided a letter (delivered to [[PERSON|Evelyn]]'s counsel [[DATE?|08/28/2026]]) stating that he has had
+     no relapse since [[DATE|2022]]. [[PERSON|Evelyn]] acknowledges this disclosure.
+
+B-9  INCOME (2025 federal return)
+     Schedule C net profit, [[EMPLOYER|Quintero-Lund Architecture Studio, LLC]] .....................  [[FINANCIAL_INFO?|142,300.00]]
+     W-2 wages, adjunct lecturer, [[EMPLOYER|Front Range Institute of Design]] ..................   [[FINANCIAL_INFO?|18,000.00]]
+     Interest (incl. foreign) ...............................................................    [[FINANCIAL_INFO?|1,412.00]]
+     Adjusted gross income (after SEP contribution of [[MONEY|26,600.00]]) ...........................  [[FINANCIAL_INFO?|135,112.00]]
+
+[[PERSON|E.M.A.]] ______   [[PERSON|R.I.Q.-L.]] ______                  Exhibit A -- Page 2 of 4
+--- Page 3 ---
+=================================================================================================================
+SCHEDULE C -- SUMMARY OF NET WORTH AND TREATMENT UNDER THE AGREEMENT
+=================================================================================================================
+
+                                                          [[PERSON|Evelyn]]                [[PERSON|Rafael]]
+                                                          ---------------       ---------------
+     Real property (net equity)                              [[MONEY|1,512,119.86]]            [[MONEY|85,050.00]]
+     Deposit, investment and retirement accounts             [[MONEY|3,890,763.11]]           [[MONEY|454,208.18]]
+     Business interests                                      [[MONEY|1,350,000.00]]           [[MONEY|410,000.00]]
+     Life insurance cash value                                 [[MONEY|141,206.00]]                 [[MONEY|0.00]]
+     Vehicles, digital assets, tangible property               [[MONEY|342,268.20]]            [[MONEY|24,000.00]]
+     Less: unsecured liabilities and commitments               [[MONEY|(84,632.87)]]         [[MONEY|(163,729.13)]]
+                                                          ---------------       ---------------
+     ESTIMATED NET WORTH                                     [[MONEY|7,151,724.30]]           [[MONEY|809,529.05]]
+
+TREATMENT (summary only; the Agreement controls)
+  (1) Each item on Schedules A and B, together with its income, appreciation and proceeds, remains the separate
+      property of the party who disclosed it (Agreement, Art. 3).
+  (2) The Residence ([[ADDRESS|2840 Linden Ridge Ct]]) remains [[PERSON|Evelyn]]'s separate property even if used as the marital
+      residence. Mortgage principal paid from marital funds after the marriage creates a marital reimbursement
+      claim only (Art. 4.3).
+  (3) Contributions to [[PERSON|Evelyn]]'s 401(k) and Cash Balance Plan after the date of marriage are marital property; the
+      parties agree to cooperate in a Qualified Domestic Relations Order if required (Art. 5).
+  (4) Spousal maintenance: if the marriage is dissolved within 5 years, neither party shall seek maintenance; thereafter,
+      maintenance is capped at [[MONEY|6,500.00]] per month for a term not exceeding one-half the length of the marriage (Art. 7).
+      The parties acknowledge C.R.S. Sec. 14-2-309(5) regarding unconscionability at the time of enforcement.
+  (5) [[PERSON|Rafael]]'s LTD exclusion (B-5) and health disclosure (B-8) are acknowledged in connection with Art. 9 (Disability).
+  (6) Joint account: the parties intend to open a joint checking account at [[ORGANIZATION?|First Range Bank]] after the marriage
+      for household expenses, to be funded 80% by [[PERSON|Evelyn]] and 20% by [[PERSON|Rafael]] (Art. 6).
+
+DOCUMENTS EXCHANGED (copies retained by each counsel)
+     Delivered by [[PERSON|Evelyn]]: Forms 1040 (2023-2025); Schedules K-1 ([[ORGANIZATION?|FRASC]]); appraisal [[DATE?|08/19/2026]]; [[ORGANIZATION?|Cortland]] valuation;
+       [[ORGANIZATION?|Harrow & Pike]] statements [[DATE?|09/30/2026]]; Plan statements; policy illustration [[POLICY_NUMBER|CML-0884172-W]]; trust
+       summary letter of [[PERSON|Harold W. Ashcombe]], Trustee.
+     Delivered by [[PERSON|Rafael]]: Forms 1040 (2023-2025) incl. Schedule C; FBAR confirmations [[ID_NUMBER?|BSA-26-5520018830]]; [[ORGANIZATION?|Hartwell]]
+       valuation; SBA loan statement; dissolution decree and support order ([[CASE_NUMBER|2019DR30417]]); LTD policy
+       [[POLICY_NUMBER|BWM-LTD-55120874]]; neurologist letter.
+
+[[PERSON|E.M.A.]] ______   [[PERSON|R.I.Q.-L.]] ______                  Exhibit A -- Page 3 of 4
+--- Page 4 ---
+ACKNOWLEDGMENT OF RECEIPT OF DISCLOSURE
+
+Each of the undersigned acknowledges that he or she has received, read and understood Schedules A, B and C of
+this Exhibit A; that he or she had the opportunity to ask questions of the other party and counsel; and that
+the disclosure was fair and reasonable.
+
+     [[SIGNATURE|Evelyn M. Ashcombe]]                                  [[SIGNATURE|Rafael I. Quintero-Lund]]
+     _____________________________________                  _____________________________________
+     [[PERSON|EVELYN MARGUERITE ASHCOMBE]]                             [[PERSON|RAFAEL IGNACIO QUINTERO-LUND]]
+     Date: [[DATE?|October 14, 2026]]                                   Date: [[DATE?|October 14, 2026]]
+
+STATE OF COLORADO          )
+                           ) ss.
+COUNTY OF [[LOCATION?|BOULDER]]          )
+
+     The foregoing instrument was acknowledged before me this [[DATE?|14th day of October, 2026]], by
+[[PERSON|Evelyn Marguerite Ashcombe]], who is personally known to me or who produced Colorado driver's license no. [[DRIVERS_LICENSE|14-882-0417]] as
+identification, and by [[PERSON|Rafael Ignacio Quintero-Lund]], who produced passport no. [[PASSPORT|FR4418273]] issued by the
+Kingdom of Norway (expires [[DATE?|03/2031]]) and Colorado driver's license no. [[DRIVERS_LICENSE|09-417-2286]] as identification.
+
+     Witness my hand and official seal.
+     [[SIGNATURE|Priscilla Venn-Okafor]]
+     [[PERSON|Priscilla Venn-Okafor]], Notary Public                  My commission expires: [[DATE?|February 6, 2030]]
+     Notary ID [[ID_NUMBER?|20184022871]]                               [SEAL]
+
+COUNSEL CERTIFICATION
+     The undersigned counsel certifies that he or she advised his or her client regarding the legal effect of this
+     Exhibit A and the Agreement, and that the client acknowledged understanding.
+
+     [[SIGNATURE|/s/ Margaret L. Osterhout]]                           [[SIGNATURE|/s/ Desmond K. Abara]]
+     Counsel for [[PERSON|Evelyn Marguerite Ashcombe]]                   Counsel for [[PERSON|Rafael Ignacio Quintero-Lund]]
+     [[PHONE?|(303) 555-0161]]  [[EMAIL|mosterhout@osterhoutlaw.com]]          [[PHONE?|(720) 555-0144]]  [[EMAIL|dabara@abarafinch.com]]

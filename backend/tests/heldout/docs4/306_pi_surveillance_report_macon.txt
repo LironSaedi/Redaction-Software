@@ -1,0 +1,60 @@
+PEACHSTATE INVESTIGATIVE SERVICES, LLC
+Georgia PDET Agency License [[ID_NUMBER|PDC-001877]]
+[[ADDRESS?|4400 Forsyth Rd, Suite 210, Macon, GA 31210]]  -  [[PHONE?|(478) 555-0102]]
+
+SURVEILLANCE REPORT -- CONFIDENTIAL / PREPARED AT THE DIRECTION OF COUNSEL
+Client: [[ORGANIZATION?|Southern Mutual Casualty]], Claims Unit 4          Claim No.: [[CLAIM_NUMBER|WC-26-448170]]
+Subject: [[PERSON|Terrence Odell Banks]]                         DOB: [[DATE_OF_BIRTH|06/02/1984]]
+Pre-injury employer: [[EMPLOYER|Ocmulgee Pallet & Crate]]
+Claimed injury: [[MEDICAL_CONDITION|L4-L5 disc herniation]]; current restrictions per treating physician: no lifting over 10 lbs,
+no repetitive bending, no ladders
+Investigator: [[PERSON|Corinne Hatcher]], License [[ID_NUMBER|PDE-058812]]
+Dates of surveillance: [[DATE|October 6, 2026]] and [[DATE|October 7, 2026]]
+
+SUBJECT IDENTIFICATION
+The subject was identified from the DMV photograph supplied by the client and by the following features, which were
+observed and photographed on both days: [[PHYSICAL_DESCRIPTOR|a tribal-pattern tattoo wrapping the right calf]], [[PHYSICAL_DESCRIPTOR|a shaved head
+with a long braided goatee]], and [[PHYSICAL_DESCRIPTOR|a raised keloid scar along the left side of the jaw]]. The subject is approximately
+[[PHYSICAL_DESCRIPTOR?|6'3"]] and [[PHYSICAL_DESCRIPTOR?|260 lbs]].
+
+The subject resides at [[ADDRESS|1127 Pierce Ave, Macon, GA 31204]], which is [[INDIRECT_LOCATION|the tan split-level at the dead end of
+Pierce with a bass boat under the carport]].
+
+DAY 1 -- TUESDAY, [[DATE|OCTOBER 6, 2026]]
+0612  Investigator in position on Pierce Ave with a clear view of the residence. Subject's vehicle, a [[VEHICLE_DESCRIPTION|black 2019
+      GMC Sierra with a chrome grille guard]], GA tag [[LICENSE_PLATE|RTB 4418]], parked in the driveway.
+0705  A female believed to be [[INDIRECT_ROLE|the subject's live-in girlfriend, a phlebotomist at the Navicent outpatient lab on
+      Hemlock]], exits the residence in purple scrubs and departs in a white Kia Soul.
+0731  Subject exits with [[INDIRECT_ROLE|his roughly 12-year-old son]] and walks him to the bus stop at the corner. Subject bends
+      fully at the waist to tie the child's shoe and straightens without hesitation. (Video 0731-0733.)
+0915  Subject departs in the Sierra and is followed to [[INDIRECT_LOCATION|his brother-in-law's body shop behind the Huddle House on
+      Gray Highway]]. Subject is observed lifting a pickup tailgate (est. 40-60 lbs) off a pair of sawhorses together
+      with another male, identified from the business license and county records as [[PERSON|Marcus Whitfield]], [[INDIRECT_ROLE|the owner
+      of Whitfield Collision]].
+1140  Subject drives to [[INDIRECT_LOCATION|the CrossFit gym in the old Kmart strip on Riverside Drive]] and enters in athletic
+      clothing. Investigator could not observe inside. Subject exits at 1258, gait normal, gym bag over right shoulder.
+1320  Subject eats lunch at a barbecue restaurant. Nothing of note.
+1545  Subject picks up the child at [[SCHOOL|Ingram-Pye Elementary]] and returns home.
+
+DAY 2 -- WEDNESDAY, [[DATE|OCTOBER 7, 2026]]
+0640  In position. Sierra in driveway.
+0820  Subject carries two 40-lb bags of deer corn, one at a time, from the carport and sets them in the truck bed.
+0905  Subject drives approximately 22 miles north and turns in at [[INDIRECT_LOCATION|the hunt-club gate off Hwy 18 just past the
+      Juliette water tower]]. Investigator did not follow onto private property.
+1330  Subject arrives at [[INDIRECT_LOCATION|his mother's house on the corner across from Mt. Moriah Baptist]] and is observed on an
+      extension ladder cleaning gutters for approximately 25 minutes.
+1610  Subject attends physical therapy at a clinic on Northside Drive. Subject was observed walking slowly with a cane
+      from the truck to the entrance. No cane was observed at any other time on either day.
+1745  Subject returns home. Surveillance terminated at 1830.
+
+NEIGHBORHOOD CONTACT
+A pretext contact was made with [[INDIRECT_ROLE|the elderly widow in the white brick house next door]], who stated the subject
+"stays busy" and has been "helping out at the shop most days since summer."
+
+SUMMARY
+Approximately 3 hours 40 minutes of video was obtained and is available on the secure portal. Observed activities
+(lifting, bending, ladder work) appear inconsistent with the restrictions listed above. The subject's girlfriend
+works at a hospital laboratory; this is noted for context only and no contact was attempted.
+
+[[PERSON|Corinne Hatcher]]
+Licensed Private Detective, State of Georgia

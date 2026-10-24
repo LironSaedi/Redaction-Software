@@ -1,0 +1,197 @@
+ Fill in this information to identify your case and this filing:
+ Debtor 1           [[PERSON|Wendell]]         [[PERSON|Ray]]             [[PERSON|Stroud]]
+                    First Name      Middle Name     Last Name
+ Debtor 2           [[PERSON|Maribeth]]        [[PERSON|Ann]]             [[PERSON|Stroud]]
+ (Spouse, if filing) First Name     Middle Name     Last Name
+ United States Bankruptcy Court for the: Middle District of Tennessee
+ Case number  [[CASE_NUMBER|3:26-bk-04418]]                             [ ] Check if this is an amended filing
+ Chapter 7   Trustee: [[PERSON?|Eva M. Lemeh-Carver]]   341 meeting: [[DATE?|11/12/2026]] 10:00 a.m. (Zoom)
+
+Official Form 106A/B
+Schedule A/B: Property                                                                              12/15
+In each category, separately list and describe items. List an asset only once.
+
+Part 1: Describe Each Residence, Building, Land, or Other Real Estate You Own or Have an Interest In
+ 1. Do you own or have any legal or equitable interest in any residence, building, land, or similar property?
+    [ ] No   [X] Yes. Where is the property?
+ 1.1  [[ADDRESS|1418 Cedar Glade Rd]]                       What is the property?  [X] Single-family home
+      [[ADDRESS|Murfreesboro, TN 37129-5520]]               Who has an interest? [X] Debtor 1 and Debtor 2 only
+      [[LOCATION?|Rutherford County]]                         Current value of the entire property  [[MONEY|$312,000.00]]
+      Nature of interest: Tenancy by the entirety Current value of the portion you own  [[MONEY|$312,000.00]]
+      Other information: 1st mtg [[ORGANIZATION?|Freedom Crest Mortgage]] loan ...[[BANK_ACCOUNT|7731]]; 2nd [[ORGANIZATION?|Rutherford CU]] HELOC ...[[BANK_ACCOUNT|0447]]
+ 2. Add the dollar value of the portion you own for all of your entries from Part 1          [[MONEY|$312,000.00]]
+
+Part 2: Describe Your Vehicles
+ 3. Cars, vans, trucks, tractors, sport utility vehicles, motorcycles
+ 3.1  Make: Ford   Model: F-150 XLT   Year: 2014   Approx. mileage: 182,000     Who has an interest: Debtor 1 only
+      VIN [[VIN|1FTFW1ET2EKE41187]]   Condition: fair, transmission slipping            Current value  [[MONEY|$9,800.00]]
+ 3.2  Make: Honda  Model: Odyssey EX-L  Year: 2019  Approx. mileage: 96,400     Who: Debtor 2 only
+      VIN [[VIN|5FNRL6H79KB031870]]   Lien: [[ORGANIZATION?|American Honda Finance]] acct x-[[BANK_ACCOUNT|6031]]          Current value  [[MONEY|$21,500.00]]
+ 4. Watercraft, aircraft, motor homes, ATVs and other recreational vehicles   [X] No
+ 5. Add the dollar value of the portion you own for all of your entries from Part 2           [[MONEY|$31,300.00]]
+
+Part 3: Describe Your Personal and Household Items
+ 6. Household goods and furnishings: sofa, beds, dining set, washer/dryer, kitchenware         $3,200.00
+ 7. Electronics: 2 TVs, 2 laptops, 3 phones, game console                                      $1,450.00
+ 9. Equipment for sports and hobbies: bass boat trolling motor (boat sold 2024), fishing gear    $400.00
+10. Firearms: Savage Axis .308 (s/n [[DEVICE_ID?|K418820]]); Ruger LCP .380 (s/n [[DEVICE_ID?|372-04471]])                     $650.00
+11. Clothes                                                                                      $600.00
+12. Jewelry: wedding rings, Debtor 2's grandmother's opal ring                                 $1,100.00
+13. Non-farm animals: 2 dogs, 1 cat (no market value)                                              $0.00
+15. Add the dollar value of all of your entries from Part 3                                    [[MONEY|$7,400.00]]
+
+                                                                                                    page 1 of 6
+
+--- Page 2 ---
+
+Debtor 1 [[PERSON|Wendell Ray Stroud]]                                     Case number (if known) [[CASE_NUMBER|3:26-bk-04418]]
+
+Part 4: Describe Your Financial Assets
+16. Cash                                                                                          $85.00
+17. Deposits of money
+    17.1 Checking account:   [[ORGANIZATION?|Volunteer State Bank]] -- joint -- acct ending [[BANK_ACCOUNT|0418]]                   $412.18
+    17.2 Savings account:    [[ORGANIZATION?|Rutherford Credit Union]] -- joint -- share #[[BANK_ACCOUNT|4471-S1]]                   $25.00
+    17.3 Checking account:   [[ORGANIZATION?|Brightway Mobile / Stride Bank, N.A.]] -- Debtor 2 -- acct ...[[BANK_ACCOUNT|9902]]     $61.44
+    17.4 Other financial account: PayPal / Venmo (user @[[USERNAME|maribeth-stroud-12]])                        $0.00
+18. Bonds, mutual funds, or publicly traded stocks   [X] No
+21. Retirement or pension accounts
+    21.1 401(k):  [[EMPLOYER|Rutherford Precision Stamping]] plan, [[ORGANIZATION?|Fidelity]] acct ending [[BANK_ACCOUNT|2207]]               $18,400.00
+    21.2 TCRS pension (Debtor 2, [[EMPLOYER|Rutherford County Schools]]) member no. [[ID_NUMBER|TCRS-0882104]]            $7,912.00
+22. Security deposits and prepayments: Middle Tennessee Electric (deposit), acct [[ID_NUMBER|2204418801]]      $150.00
+24. Interests in an education IRA, ABLE account, or qualified state tuition program
+    TNStars 529 -- beneficiary [[PERSON MINOR|Colton Stroud]] (son) -- acct [[BANK_ACCOUNT|TNS-770418226]]                       $2,240.00
+28. Tax refunds owed to you: 2025 federal refund ($4,118) received [[DATE?|03/2026]] and spent on mortgage arrears $0.00
+29. Family support owed to you   [X] No
+30. Other amounts someone owes you: unpaid wages (final week) from [[EMPLOYER|Cumberland Logistics LLC]] (Debtor 1's 2nd job) $612.00
+31. Interests in insurance policies:  term life (no cash value), policy [[POLICY_NUMBER|TL-44187206]] -- benef. Debtor 2 $0.00
+33. Claims against third parties: Debtor 2 slip-and-fall at Kroger #0447, Murfreesboro, [[DATE?|05/09/2025]] --
+    [[MEDICAL_CONDITION|fractured left wrist]]; claim no. [[CLAIM_NUMBER|KRG-GL-25-118804]]; atty [[PERSON?|Ellis Wardlaw]] (contingent)            Unknown
+36. Add the dollar value of all of your entries from Part 4                                   [[MONEY|$29,897.62]]
+
+Part 8: List the Totals of Each Part of this Form
+55. Part 1: Total real estate, line 2                                                        $312,000.00
+56. Part 2: Total vehicles, line 5                                                            $31,300.00
+57. Part 3: Total personal and household items, line 15                                        $7,400.00
+58. Part 4: Total financial assets, line 36                                                   $29,897.62
+63. Total of all property on Schedule A/B                                                    [[MONEY|$380,597.62]]
+
+                                                                                                    page 2 of 6
+
+--- Page 3 ---
+
+Debtor 1 [[PERSON|Wendell Ray Stroud]]                                     Case number (if known) [[CASE_NUMBER|3:26-bk-04418]]
+
+Official Form 106E/F
+Schedule E/F: Creditors Who Have Unsecured Claims                                                   12/15
+
+Part 1: List All of Your PRIORITY Unsecured Claims
+ 2.1  [[ORGANIZATION?|Internal Revenue Service]]                          Last 4 digits of account number  [[SSN|9046]]
+      [[ADDRESS?|Centralized Insolvency Operation, PO Box 7346, Philadelphia, PA 19101-7346]]
+      When was the debt incurred? 2024 tax year         Total claim [[MONEY|$3,118.00]]   Priority amount $3,118.00
+      Who incurred the debt? [X] Debtor 1 and Debtor 2 only   Type: [X] Taxes and certain other debts you owe the government
+ 2.2  [[PERSON|Tonya L. Stroud-Jarrell]]                           Last 4 digits of account number  [[CASE_NUMBER|1188]]
+      [[ADDRESS|604 Old Nashville Hwy, Lot 18, La Vergne, TN 37086]]
+      When was the debt incurred? [[DATE?|2019-2026]]             Total claim [[MONEY|$6,450.00]]   Priority amount $6,450.00
+      Who incurred the debt? [X] Debtor 1 only   Type: [X] Domestic support obligations
+      Child-support arrearage for [[PERSON MINOR|K.S.]] (age [[AGE|14]]) under Rutherford Co. Juvenile Ct. order, docket [[CASE_NUMBER|TN-JV-19-001188]];
+      TN Child Support Enforcement (IV-D) case [[CASE_NUMBER|CSE-0447183]]. Non-dischargeable, 11 U.S.C. 523(a)(5).
+
+Part 2: List All of Your NONPRIORITY Unsecured Claims
+     Creditor's name and mailing address          Last 4 of acct  Incurred  Type          Total claim
+ 4.1  [[ORGANIZATION?|Stones River Regional Hospital]]              [[MRN|5520]]            [[DATE?|2025]]      Medical           [[MONEY|$14,882.10]]
+      [[ADDRESS?|PO Box 440118, Nashville TN 37244]]   (ER + ORIF, Debtor 2 -- see line 33 claim)
+ 4.2  [[ORGANIZATION?|Capital One Bank (USA), N.A.]]                [[CREDIT_CARD|8813]]            [[DATE?|2016]]      Credit card        [[MONEY|$7,406.55]]
+      [[ADDRESS?|PO Box 30285, Salt Lake City UT 84130]]
+ 4.3  [[ORGANIZATION?|Discover Bank]]                               [[CREDIT_CARD|1170]]            [[DATE?|2019]]      Credit card        [[MONEY|$5,920.17]]
+      [[ADDRESS?|PO Box 30943, Salt Lake City UT 84130]]
+ 4.4  [[ORGANIZATION?|Synchrony Bank / Lowe's]]                     [[CREDIT_CARD|0062]]            [[DATE?|2021]]      Credit card        [[MONEY|$3,277.80]]
+ 4.5  [[ORGANIZATION?|OneMain Financial]]                           [[BANK_ACCOUNT|4416]]            [[DATE?|2023]]      Personal loan      [[MONEY|$8,950.00]]
+      [[ADDRESS?|601 NW 2nd St, Evansville IN 47708]]  Collateral released; unsecured.
+ 4.6  [[PERSON|Gerald W. Pickens]]                           none            [[DATE?|2024]]      Personal loan      [[MONEY|$4,000.00]]
+      [[ADDRESS|220 Maple St, Smyrna TN 37167]]   (Debtor 1's former coworker; loan for truck transmission; [[PHONE|615-555-0149]])
+ 4.7  [[ORGANIZATION?|Middle Tennessee Anesthesia Assoc.]]          [[MRN|8802]]            [[DATE?|2025]]      Medical            [[MONEY|$1,960.00]]
+ 4.8  [[ORGANIZATION?|Rutherford Credit Union]] (HELOC deficiency est.) [[BANK_ACCOUNT|0447]]        [[DATE?|2022]]      Other             [[MONEY|$11,400.00]]
+ 4.9  [[ORGANIZATION?|Dept. of Education / MOHELA]]                 [[BANK_ACCOUNT|3329]]            [[DATE?|2008]]      Student loans     [[MONEY|$22,618.44]]
+      (Debtor 2; non-dischargeable absent adversary proceeding, 523(a)(8))
+ 4.10 [[PERSON|Clayton & Rhonda Mercer]] (former landlords)  none            [[DATE?|2020]]      Judgment           [[MONEY|$2,150.00]]
+      [[ADDRESS|77 Hickory Hollow Ct, Lebanon TN 37087]]  Gen. Sess. Ct. Wilson Co. No. [[CASE_NUMBER|20-GS-4418]]
+
+                                                                                                    page 3 of 6
+
+--- Page 4 ---
+
+Debtor 1 [[PERSON|Wendell Ray Stroud]]                                     Case number (if known) [[CASE_NUMBER|3:26-bk-04418]]
+
+Part 3: List Others to Be Notified About a Debt That You Already Listed
+ For line 4.2: [[ORGANIZATION?|Midland Credit Management]], [[ADDRESS?|PO Box 2037, Warren MI 48090]] -- acct [[BANK_ACCOUNT|3301887714]]
+ For line 4.3: [[ORGANIZATION?|Harlan & Pope, PLLC]], attorneys -- Rutherford Co. Gen. Sess. No. [[CASE_NUMBER|26-GS-1170]]
+ For line 4.1: [[ORGANIZATION?|Revenue Cycle Partners]] (collection agent) -- ref [[ID_NUMBER|RCP-55204417]]
+
+Part 4: Add the Amounts for Each Type of Unsecured Claim
+ 6a. Domestic support obligations                                                              $6,450.00
+ 6b. Taxes and certain other debts you owe the government                                      $3,118.00
+ 6j. Total priority claims                                                                     $9,568.00
+ 6f. Student loans                                                                            $22,618.44
+ 6i. Other nonpriority unsecured claims                                                       $59,946.62
+ 6j. Total nonpriority claims                                                                 [[MONEY|$82,565.06]]
+
+Schedule H: Your Codebtors (excerpt)
+ 3.1 [[PERSON|Darlene J. Stroud]] (Debtor 1's mother), [[ADDRESS|9 Possum Trot Ln, Christiana TN 37037]] -- co-signer on line 4.5
+
+Schedule I: Your Income (excerpt)
+ Debtor 1: Occupation  Press operator, 2nd shift                Employer [[EMPLOYER|Rutherford Precision Stamping, Inc.]]
+           Employer's address [[ADDRESS?|2200 Joe B. Jackson Pkwy, Murfreesboro TN 37127]]   How long employed: 6 yrs
+ Debtor 2: Occupation  Cafeteria manager                        Employer [[EMPLOYER|Rutherford County Schools]]
+           Worksite [[INDIRECT_LOCATION|Blackman Middle School cafeteria (the only manager on the Blackman campus)]]
+ 2. Monthly gross wages:  Debtor 1 [[MONEY|$4,402.00]]   Debtor 2 [[MONEY|$2,615.00]]
+
+Schedule J: Your Expenses (excerpt)
+ 2. Do you have dependents?  [X] Yes.   Dependent's relationship to Debtor 1 or 2: Son, age [[AGE|12]]; Daughter, age [[AGE|8]]
+    Does dependent live with you? Yes / Yes
+ 4. Rental or home ownership expenses: mortgage [[MONEY|$1,884.00]]   ...   23c. Monthly net income: [[MONEY|-$412.60]]
+
+                                                                                                    page 4 of 6
+
+--- Page 5 ---
+
+Debtor 1 [[PERSON|Wendell Ray Stroud]]                                     Case number (if known) [[CASE_NUMBER|3:26-bk-04418]]
+
+Schedule C: The Property You Claim as Exempt (excerpt)    Exemptions: Tennessee (TCA 26-2-101 et seq.)
+ Brief description                                      Current value   Amount of exemption   Specific law
+ Homestead, [[ADDRESS|1418 Cedar Glade Rd]]                         $312,000.00     $50,000.00            TCA 26-2-301(f)
+   (married, minor children)
+ 2014 Ford F-150 ([[VIN|1FTFW1ET2EKE41187]])                    $9,800.00       $9,800.00             TCA 26-2-103
+ 401(k) acct ...[[BANK_ACCOUNT|2207]]                                    $18,400.00      100%                  TCA 26-2-105(b)
+ 529 for [[PERSON MINOR|Colton]]                                         $2,240.00       100%                  TCA 49-7-822
+ Personal injury claim (line 33)                        Unknown         $7,500.00             TCA 26-2-111(2)(B)
+
+Declaration About an Individual Debtor's Schedules
+Under penalty of perjury, I declare that I have read the summary and schedules filed with this declaration and that
+they are true and correct.
+ x [[SIGNATURE|/s/ Wendell Ray Stroud]]                         x [[SIGNATURE|/s/ Maribeth Ann Stroud]]
+   Signature of Debtor 1   Date [[DATE?|10/15/2026]]          Signature of Debtor 2   Date [[DATE?|10/15/2026]]
+
+Attorney for Debtors: [[PERSON?|Nadine K. Oduya]], [[ORGANIZATION?|Oduya Consumer Law, PLLC]], BPR No. [[ID_NUMBER?|031884]]
+[[ADDRESS?|118 N Church St, Murfreesboro TN 37130]]   [[PHONE?|(615) 555-0192]]   [[EMAIL?|nadine@oduyalaw.example]]
+
+Debtors' contact for trustee: [[PHONE|(615) 555-0337]] (Debtor 2 cell); [[EMAIL|maribeth.stroud@yahoo.com]]
+Debtor SSNs (Statement About Your Social Security Numbers, Official Form 121 -- filed separately, not public):
+  Debtor 1 XXX-XX-[[SSN|9046]]   Debtor 2 XXX-XX-[[SSN|2275]]
+
+Official Form 106A/B, 106E/F, 106H, 106I, 106J, 106C (excerpts)   Software Copyright (c) 1996-2026 Best Case, LLC
+
+                                                                                                    page 5 of 6
+
+--- Page 6 ---
+
+TRUSTEE'S DOCUMENT REQUEST (341 checklist) -- [[CASE_NUMBER|3:26-bk-04418]]
+  [X] Photo ID and proof of SSN for each debtor (bring originals to 341 meeting)
+  [X] Last 2 years tax returns (2024, 2025) and 60 days of pay advices
+  [X] Bank statements as of petition date [[DATE?|10/15/2026]] for all accounts (Volunteer State ...[[BANK_ACCOUNT|0418]],
+      Rutherford CU #[[BANK_ACCOUNT|4471-S1]], Stride ...[[BANK_ACCOUNT|9902]])
+  [X] Copy of recorded deed and mortgage statement (loan ...[[BANK_ACCOUNT|7731]])
+  [ ] Explain transfer of 2016 bass boat to [[PERSON|Travis Stroud]] (brother) in [[DATE?|03/2024]] for $1 -- possible
+      preference/fraudulent transfer (11 U.S.C. 548); bring bill of sale and HIN.
+  [ ] Status of PI claim no. [[CLAIM_NUMBER|KRG-GL-25-118804]]; special counsel application required.
+  [ ] Credit-counseling certificates ([[ORGANIZATION?|Summit Financial Education]] cert. [[ID_NUMBER|SFE-TNM-26-044182]] / [[ID_NUMBER|SFE-TNM-26-044183]])
+                                                                                                    page 6 of 6

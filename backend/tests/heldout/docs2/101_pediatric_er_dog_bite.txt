@@ -1,0 +1,109 @@
+[[ORGANIZATION?|GEM CITY CHILDREN'S MEDICAL CENTER]]
+Pediatric Emergency Department  |  [[ADDRESS?|1900 Valley View Drive]]  |  [[ADDRESS?|Dayton, OH 45404]]
+ED Main [[PHONE|(937) 641-3300]]     Child Protection Team [[PHONE|(937) 641-3375]]
+
+                 PEDIATRIC EMERGENCY MEDICINE -- PROVIDER NOTE
+================================================================================
+Patient:    [[PERSON MINOR|OKONKWO-REYES, AMARA JOY]]          MRN:   [[MRN|GC0418873]]
+DOB:        [[DATE_OF_BIRTH|02/11/2019]]    Age: [[AGE|7 y]]    Sex: F    Enc #: [[MRN|ED26-0614-0391]]
+Arrived:    [[DATE|06/14/2026]] 17:42 -- private vehicle, carried in by father
+Room:       [[INDIRECT_LOCATION?|Pod B / Rm 14]]                 ESI: 3     Wt: 23.6 kg
+Attending:  [[PERSON|Priya Raghunathan]], MD          Resident: [[PERSON|Tomasz Wilk]], DO (PGY-2)
+PCP:        [[PERSON|Harold Ebersole]], MD -- [[ORGANIZATION?|Kettering Pediatric Associates]], [[PHONE|(937) 299-4410]]
+Payer:      [[ORGANIZATION?|CareSource]] Ohio Medicaid      Member ID: [[HEALTH_PLAN_ID|106482297113]]
+Guarantor:  [[PERSON|OKONKWO, CHINEDU E]] (father)       Cell [[PHONE|937-418-6620]]
+Mother:     [[PERSON|Lucia Reyes-Okonkwo]]                  Cell [[PHONE|937-418-7754]]
+Historian:  Mother (primary; bilingual English/Spanish), patient, father
+--------------------------------------------------------------------------------
+
+CHIEF COMPLAINT
+  "The dog bit her face." Dog bite to left cheek, lip and left forearm.
+
+HISTORY OF PRESENT ILLNESS
+  [[PERSON MINOR|Amara]] is a [[AGE|7-year-old]] girl with [[MEDICAL_CONDITION?|mild intermittent asthma]] who presents ~80 minutes
+  after being bitten by an unfamiliar dog at [[INDIRECT_LOCATION|the splash-pad playground at Cedar Bend MetroPark,
+  next to the Patterson Road picnic shelter]]. Per mother, [[PERSON MINOR|Amara]] and [[INDIRECT_ROLE|her 11-year-old brother]]
+  [[PERSON MINOR|Kelechi]] were on the swings at about 16:20 when an off-leash dog (large tan-and-white pit bull
+  mix, red harness, no tags) ran from the shelter, jumped on her and bit the left side of her face,
+  then her left forearm when she raised her arm. [[PERSON MINOR|Kelechi]] pulled her away. No LOC, no fall from height.
+
+  The dog's owner, an adult male the mother knows only as "[[PERSON|Duane]]," who she believes lives in
+  "[[INDIRECT_LOCATION|the yellow split-level across from the park entrance on Shroyer, the one with the boat in
+  the driveway]]," leashed the dog, apologized, gave the father the number [[PHONE|937-718-2246]], and left.
+  Mother describes him as [[PHYSICAL_DESCRIPTOR|heavyset, about 50, gray goatee, "Semper Fi" tattoo on the right calf]];
+  he drove off in [[VEHICLE_DESCRIPTION|a maroon Chevy Silverado with a white camper shell]]. A bystander, Mrs.
+  [[PERSON|Gwen Palladino]], [[INDIRECT_ROLE|the retired teacher who leads the Saturday nature walk there]], photographed the
+  dog and the truck's plate ([[LICENSE_PLATE|JHK 4471]], Ohio) and called Kettering PD. Ofc. [[PERSON|R. Baptiste]]
+  #[[LAW_ENFORCEMENT_ID|219]] took a report ([[LAW_ENFORCEMENT_ID|KPD 26-011842]]). Dog's rabies vaccination status unknown.
+
+  Tetanus: DTaP x5 per ImpactSIIS, last dose [[DATE|03/02/2023]]. No prior rabies vaccine.
+
+PAST MEDICAL HISTORY
+  [[MEDICAL_CONDITION?|Mild intermittent asthma]] -- [[MEDICATION?|albuterol HFA]] PRN, last used ~1 month ago; never admitted.
+  [[MEDICAL_CONDITION?|Peanut allergy]] (hives age 3) -- carries [[MEDICATION?|EpiPen Jr]].  Term SVD. Immunizations UTD.
+MEDICATIONS:  [[MEDICATION?|albuterol]] 90 mcg 2 puffs q4h PRN; [[MEDICATION?|cetirizine]] 5 mg PO daily PRN (seasonal)
+ALLERGIES:    Peanut (urticaria). NKDA.
+
+SOCIAL HISTORY
+  Lives with mother, father and brother at [[ADDRESS|418 Brendon Avenue]], [[ADDRESS?|Kettering, OH 45419]]. No pets.
+  Rising 2nd grader at [[SCHOOL|Orchard Park Elementary]]; this summer attends [[INDIRECT_LOCATION|the day camp at the
+  Kettering Rec Complex on Shroyer]] M-F. Father works second shift as a maintenance supervisor at
+  [[EMPLOYER|Delco Precision Castings]]; mother is [[INDIRECT_ROLE|the bilingual front-desk coordinator at the Huber Heights
+  WIC office]]. No tobacco exposure. No prior children's services involvement.
+
+REVIEW OF SYSTEMS: Negative except as in HPI. No wheeze, no vomiting, no other wounds.
+
+PHYSICAL EXAMINATION
+  General: Tearful but consolable, holding a stuffed rabbit, interactive.
+  HEENT:  [[MEDICAL_CONDITION?|2.8 cm curvilinear full-thickness laceration of the left malar cheek]]; no exposed bone;
+          clear saliva from Stensen's duct, no parotid injury. [[MEDICAL_CONDITION?|1.1 cm laceration of the left
+          lower lip crossing the vermilion border]]. Dentition intact. CN VII intact all branches. PERRL.
+  Neck:   Supple, no midline tenderness.
+  Chest:  Clear bilaterally, no wheeze.
+  Ext:    L volar forearm: [[MEDICAL_CONDITION?|three puncture wounds 4-6 mm and a 2 cm superficial abrasion]]; full ROM
+          wrist and digits, cap refill <2 s, radial pulse 2+, median/ulnar/radial sensation intact,
+          Allen test normal. No tendon exposure.
+  Skin:   Incidental [[PHYSICAL_DESCRIPTOR|3 cm cafe-au-lait macule over the right shoulder]] (present since birth per
+          mother); [[PHYSICAL_DESCRIPTOR|healed 1 cm scar under the chin]] from a scooter fall in [[DATE?|2024]]. No patterned
+          bruising; no injuries in TEN-4-FACESp regions.
+  Neuro:  Alert, age-appropriate speech, moves all extremities.
+
+ED COURSE / PROCEDURES
+  17:58  Intranasal [[MEDICATION?|midazolam]] 0.4 mg/kg; LET gel to facial wounds. Child Life ([[PERSON|Bree Coyle]], CCLS)
+         at bedside throughout.
+  18:35  High-pressure irrigation, 500 mL NS. Facial repair by Plastic Surgery, Dr. [[PERSON|Simone Achterberg]]:
+         vermilion border aligned first, 6-0 fast-absorbing gut to lip; 6-0 nylon x7 to cheek.
+         Forearm punctures irrigated and left open.
+  19:20  [[MEDICATION?|Human rabies immune globulin]] 20 IU/kg infiltrated around wounds; [[MEDICATION?|rabies vaccine]] dose 1 IM
+         R anterolateral thigh (day 0).
+  19:40  First dose [[MEDICATION?|amoxicillin-clavulanate]] given PO; tolerated.
+  20:05  Animal bite report faxed to [[ORGANIZATION?|Public Health - Dayton & Montgomery County]], report
+         #[[LAW_ENFORCEMENT_ID|AB-26-03317]]. Animal control to locate dog for 10-day observation using the plate
+         and owner address obtained by KPD.
+
+ASSESSMENT
+  1. [[MEDICAL_CONDITION?|Dog bite of face with complex lacerations of cheek and lip]] (W54.0XXA, S01.411A, S01.511A)
+  2. [[MEDICAL_CONDITION?|Dog bite of left forearm with puncture wounds]] (S51.852A)
+  3. Rabies post-exposure prophylaxis initiated (Z20.3)
+  4. Asthma, mild intermittent, stable. No concern for non-accidental trauma.
+
+DISPOSITION / PLAN
+  Discharged home with both parents at 20:45 in good condition.
+  - [[MEDICATION?|Augmentin]] 600 mg/42.9 mg per 5 mL, 5 mL PO BID x 5 days.
+  - [[MEDICATION?|Ibuprofen]] 230 mg PO q6h PRN pain.
+  - Rabies vaccine doses: day 3 [[DATE|06/17/2026]], day 7 [[DATE|06/21/2026]], day 14 [[DATE|06/28/2026]] at the
+    Public Health rabies clinic, [[PHONE|(937) 225-5700]]. Doses may stop if dog observed healthy x10 days.
+  - Plastic Surgery clinic suture removal [[DATE|06/19/2026]] 09:30 with Dr. [[PERSON|Achterberg]].
+  - PCP wound check in 48 h. No splash pad, pool or lake until sutures out.
+  - Note given for camp director (Ms. [[PERSON|Tanisha Overby]]): no water play x 7 days.
+
+Resident:   [[PERSON|Tomasz Wilk]], DO                                  [[DATE|06/14/2026]] 21:02
+Attending attestation: I personally saw and examined the patient, reviewed the history with Dr.
+[[PERSON|Wilk]], and agree with the assessment and plan as documented above.
+            [[PERSON|Priya Raghunathan]], MD   NPI [[ID_NUMBER?|1427093856]]           [[DATE|06/14/2026]] 21:30
+
+cc:  [[PERSON|H. Ebersole]], MD (PCP) -- fax [[PHONE|(937) 299-4419]]
+     Kettering Police Dept., Ofc. [[PERSON|Baptiste]] (re: [[LAW_ENFORCEMENT_ID|KPD 26-011842]])
+--------------------------------------------------------------------------------
+Printed [[DATE|07/09/2026]] 10:14 by [[USERNAME|mhalloran2]] -- ROI request from counsel for [[PERSON|L. Reyes-Okonkwo]]
+CONFIDENTIAL: protected health information of a minor.

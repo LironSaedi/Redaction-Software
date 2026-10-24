@@ -1,0 +1,198 @@
+[[ORGANIZATION?|WASHOE COUNTY HUMAN SERVICES AGENCY]]
+ADULT PROTECTIVE SERVICES -- Investigation Summary and Disposition
+[[ADDRESS?|350 S. Center Street, Reno, NV 89501]]   APS Intake [[PHONE?|(775) 555-0110]]   Fax [[PHONE?|(775) 555-0111]]
+
+CONFIDENTIAL -- NRS 200.5095. Reports and records of APS investigations are confidential and may be released
+only as provided by law. The identity of the reporting party shall not be disclosed (NRS 200.5093(4)).
+
+APS Case No.:        [[CASE_NUMBER|APS-26-WC-004418]]                Intake No.:   [[CASE_NUMBER|INT-26-091872]]
+Allegation type:     Financial exploitation; isolation        Priority:     2 (respond within 72 hours)
+Intake received:     [[DATE?|07/30/2026]] 14:22                        First contact: [[DATE?|07/31/2026]] 10:05 (face to face)
+Assigned worker:     [[PERSON|Naomi Ferreira-Blum]], Social Worker III      Supervisor:   [[PERSON|Glen T. Achterberg]]
+Report date:         [[DATE?|09/24/2026]]                              Disposition:  SUBSTANTIATED (financial exploitation)
+
+-----------------------------------------------------------------------------------------------------------------
+1. VULNERABLE ADULT
+-----------------------------------------------------------------------------------------------------------------
+Name:              [[PERSON|Mildred Josephine Ostrowski]]               Sex: F      Age: [[AGE|87]]      DOB: [[DATE_OF_BIRTH|03/08/1939]]
+Address:           [[ADDRESS|4417 Peavine Creek Road]], [[ADDRESS|Reno, NV 89523]]
+                   ([[INDIRECT_LOCATION|the yellow single-wide at the end of the gravel lane past the Peavine Feed & Tack]])
+Phone:             [[PHONE|(775) 555-0182]] (landline; no cell phone)
+SSN (last 4):      [[SSN|3307]]          Medicare MBI: [[HEALTH_PLAN_ID|4QW7-HN2-RT58]]      NV Medicaid: [[HEALTH_PLAN_ID|00048821937]]
+Physician:         [[PERSON|Imelda Arceneaux]], MD, [[ORGANIZATION?|Sierra Foothills Geriatrics]], [[PHONE?|(775) 555-0174]]
+Diagnoses (per physician letter [[DATE?|08/06/2026]]): [[MEDICAL_CONDITION|major neurocognitive disorder, probable Alzheimer type, moderate]]
+                   (MoCA 14/30 on [[DATE|07/22/2026]]); [[MEDICAL_CONDITION|bilateral wet macular degeneration]] (legally blind, cannot
+                   read statements); [[MEDICAL_CONDITION|congestive heart failure]]; history of [[MEDICAL_CONDITION|hip fracture]] ([[DATE|2023]]).
+Decision-making:   Physician opines client lacks capacity to manage finances or to understand changes to
+                   beneficiary designations. No guardian. Durable POA (financial) executed [[DATE?|2019]] names daughter
+                   [[PERSON|Carol Ostrowski-Mays]]; a second POA dated [[DATE?|06/18/2026]] names caregiver [[PERSON|Shawna L. Pruitt]] (see Sec. 5).
+Income:            Social Security [[FINANCIAL_INFO?|$1,842.00/mo]]; widow's pension ([[ORGANIZATION?|Sierra Pacific Ironworkers Local 118]] Pension
+                   Fund, pensioner ID [[ID_NUMBER|SPI-0044172]]) [[FINANCIAL_INFO?|$1,106.50/mo]]. Both deposited to checking (below).
+
+-----------------------------------------------------------------------------------------------------------------
+2. ALLEGED PERPETRATOR(S)
+-----------------------------------------------------------------------------------------------------------------
+AP-1  [[PERSON|Shawna Lee Pruitt]], age [[AGE|46]], DOB [[DATE_OF_BIRTH|10/29/1979]], NV DL [[DRIVERS_LICENSE|1502884177]]
+      Address: [[ADDRESS|2960 Kings Row, Apt 14, Reno NV 89503]]    Cell: [[PHONE|(775) 555-0129]]    E-mail: [[EMAIL|shawnalee.pruitt@gmail.com]]
+      Relationship: in-home caregiver since [[DATE?|01/2026]], placed by [[EMPLOYER|BrightPath Home Companions, LLC]] (agency client
+      no. [[ID_NUMBER|BHC-22871]]); since [[DATE?|04/2026]] also paid privately by client "for extra hours."
+      Criminal history (NCIC/NV DPS check [[DATE?|08/04/2026]]):
+      [[CRIMINAL_HISTORY|2017 conviction, petit larceny (NRS 205.240), Sparks Justice Court]] case [[CASE_NUMBER|17-SJC-01882]]; [[CRIMINAL_HISTORY|2020 arrest, obtaining money under false pretenses -- dismissed]]. Caregiver
+      agency states it was not aware of the 2017 conviction; its background check used a prior surname, [[PERSON|Shawna Lee Haskins]].
+AP-2  [[PERSON|Corey Vance Ditmore]], age [[AGE|51]], AP-1's boyfriend; resides with AP-1. DOB [[DATE_OF_BIRTH|02/14/1975]].
+      Self-described "handyman." Received checks, a cashier's check, and title to client's vehicle (Sec. 4).
+
+-----------------------------------------------------------------------------------------------------------------
+3. REPORTING PARTY AND COLLATERAL CONTACTS
+-----------------------------------------------------------------------------------------------------------------
+RP:   Identity confidential. RP is
+      [[INDIRECT_ROLE|a personal banker at the client's Moana Lane branch who has assisted client and her late husband for more than ten years]].
+      RP reported that client came to the branch on [[DATE?|07/29/2026]]
+      with AP-1, who "did all the talking," and requested a [[MONEY|15,000.00]] wire to AP-2. The bank declined the wire and
+      placed a 15-business-day hold under NRS 657.290 and the federal Senior Safe Act.
+C-1:  [[PERSON|Carol Ostrowski-Mays]] (daughter), [[LOCATION?|Spokane, WA]], [[PHONE|(509) 555-0137]]. Holds [[DATE?|2019]] POA; had not been
+      reviewing statements since moving out of state. States mother "would never" give money to a caregiver.
+C-2:  [[PERSON|Delbert Tsosie]] (neighbor), [[PHONE|(775) 555-0196]]. Observed AP-2's truck at the residence "most nights" since
+      May and saw AP-2 drive away in client's Buick in early July.
+C-3:  [[PERSON|Imelda Arceneaux]], MD (physician) -- capacity letter, [[DATE?|08/06/2026]].
+C-4:  [[ORGANIZATION?|BrightPath Home Companions]] -- [[PERSON|Renee Galloway]], owner, [[PHONE?|(775) 555-0158]]. AP-1 suspended [[DATE?|08/01/2026]].
+C-5:  [[ORGANIZATION?|Truckee Meadows Savings Bank]] -- [[PERSON|Marcus Ybarra]], BSA/Fraud Investigations; records produced [[DATE?|08/12/2026]]
+      under NRS 200.5098 request.
+
+[[PERSON|OSTROWSKI, MILDRED J]]     [[CASE_NUMBER|APS-26-WC-004418]]                                                   Page 1 of 4
+--- Page 2 ---
+[[PERSON|OSTROWSKI, MILDRED J]]     [[CASE_NUMBER|APS-26-WC-004418]]                                                   Page 2 of 4
+
+-----------------------------------------------------------------------------------------------------------------
+4. FINANCIAL ANALYSIS
+-----------------------------------------------------------------------------------------------------------------
+Accounts reviewed ([[ORGANIZATION?|Truckee Meadows Savings Bank]], ABA [[ROUTING_NUMBER|322270518]]):
+   Checking  [[BANK_ACCOUNT|3301884721]]   (owner: [[PERSON|Mildred J Ostrowski]]; POD: [[PERSON|Carol Ostrowski-Mays]])
+   Savings   [[BANK_ACCOUNT|3301884739]]   (owner: [[PERSON|Mildred J Ostrowski]])
+   Debit card ending [[CREDIT_CARD|6208]] (issued [[DATE?|02/2026]]; PIN changed [[DATE?|04/30/2026]] by phone -- client cannot see keypad)
+   [[ORGANIZATION?|Silverline Bank]] Visa ending [[CREDIT_CARD|1189]] -- NEW account opened online [[DATE?|06/08/2026]] in client's name; application
+   listed AP-1's cell [[PHONE|(775) 555-0129]] and e-mail; statements mailed to [[ADDRESS|2960 Kings Row Apt 14]]. Application IP
+   [[IP_ADDRESS|174.207.12.88]] (same IP used for client's online banking login [[DATE?|06/04/2026]], user [[USERNAME|mildred.o1939]]).
+
+Baseline (Jan-Mar 2026): average monthly debits [[MONEY|2,318.00]] (utilities, groceries, agency invoices, pharmacy).
+Savings balance [[DATE?|03/31/2026]]: [[MONEY|41,206.55]]     Savings balance [[DATE?|07/31/2026]]: [[MONEY|32,206.55]]
+
+Questioned transactions, [[DATE?|04/01/2026]] - [[DATE?|07/31/2026]]
+Date        Description                                                        Account            Amount
+----------  -----------------------------------------------------------------  ---------------   ----------
+[[DATE?|04/03/2026]]  Check #3318 payable to [[PERSON|Shawna Pruitt]] (memo "housekeeping")             Chk ..[[BANK_ACCOUNT|4721]]          [[MONEY|600.00]]
+[[DATE?|04/17/2026]]  Check #3321 payable to [[PERSON|Shawna Pruitt]] (memo "groceries + gas")          Chk ..[[BANK_ACCOUNT|4721]]          [[MONEY|850.00]]
+[[DATE?|05/02/2026]]  Zelle to [[PHONE|(775) 555-0129]] "[[PERSON|S PRUITT]]"                                   Chk ..[[BANK_ACCOUNT|4721]]        [[MONEY|1,200.00]]
+[[DATE?|05/09/2026]]  ATM [[ORGANIZATION?|Silver Sage Casino]], [[ADDRESS?|2707 S Virginia St]] (2 withdrawals, 9:47p/9:52p)   Debit ..[[CREDIT_CARD|6208]]        [[MONEY|800.00]]
+[[DATE?|05/16/2026]]  Check #3325 payable to [[PERSON|Corey Ditmore]] (memo "roof repair") *           Chk ..[[BANK_ACCOUNT|4721]]        [[MONEY|2,400.00]]
+[[DATE?|05/30/2026]]  Zelle to [[EMAIL|shawnalee.pruitt@gmail.com]]                                  Chk ..[[BANK_ACCOUNT|4721]]        [[MONEY|1,500.00]]
+[[DATE?|06/04/2026]]  Online transfer savings to checking (login IP [[IP_ADDRESS|174.207.12.88]])         Sav ..[[BANK_ACCOUNT|4739]]      [[MONEY|(9,000.00)]]**
+[[DATE?|06/05/2026]]  Cashier's check #[[ID_NUMBER?|0088127]] payable to [[PERSON|Corey V Ditmore]]                  Chk ..[[BANK_ACCOUNT|4721]]        [[MONEY|7,500.00]]
+[[DATE?|06/12/2026]]  ATM [[ORGANIZATION?|Silver Sage Casino]]                                                 Debit ..[[CREDIT_CARD|6208]]        [[MONEY|500.00]]
+[[DATE?|06/20/2026]]  Zelle to [[PHONE|(775) 555-0129]] "[[PERSON|S PRUITT]]"                                   Chk ..[[BANK_ACCOUNT|4721]]        [[MONEY|2,000.00]]
+[[DATE?|06/26/2026]]  Cash advance, [[ORGANIZATION?|Silverline]] Visa, [[LOCATION?|Reno NV]]                                 Visa ..[[CREDIT_CARD|1189]]       [[MONEY|1,000.00]]
+[[DATE?|07/02/2026]]  [[ORGANIZATION?|Ruby River Motorsports]], [[LOCATION?|Sparks NV]] (ATV parts; delivered to AP-1 address)    Visa ..[[CREDIT_CARD|1189]]       [[MONEY|3,812.44]]
+[[DATE?|07/08/2026]]  Check #3331 payable to [[PERSON|Shawna Pruitt]] (memo "July wages") *             Chk ..[[BANK_ACCOUNT|4721]]        [[MONEY|3,200.00]]
+[[DATE?|07/15/2026]]  Zelle to [[PHONE|(775) 555-0129]] "[[PERSON|S PRUITT]]"                                   Chk ..[[BANK_ACCOUNT|4721]]        [[MONEY|2,500.00]]
+[[DATE?|07/21/2026]]  [[ORGANIZATION?|Lakeside Fine Jewelry]], [[LOCATION?|Reno]] (women's ring, size 7; client wears size 5)     Debit ..[[CREDIT_CARD|6208]]      [[MONEY|1,689.99]]
+[[DATE?|07/29/2026]]  Wire request to [[PERSON|Corey V Ditmore]], [[ORGANIZATION?|Great Basin Credit Union]] acct [[BANK_ACCOUNT|7002214485]]       Chk ..[[BANK_ACCOUNT|4721]]     [[MONEY|(15,000.00)]]***
+                                                                                                      ----------
+                                     Total completed questioned transactions                          [[MONEY|29,552.43]]
+   *   Signature on checks #3325 and #3331 is inconsistent with client's exemplar signature on file.
+   **  Internal transfer; not counted in total. Funded checks/cashier's check above.
+   *** Blocked by bank; not counted in total.
+
+Non-cash exploitation:
+   (a) Vehicle -- client's [[VEHICLE_DESCRIPTION|2014 Buick LaCrosse, champagne, 61k miles]], VIN [[VIN|1G4GB5G32EF204417]], NV plate
+       [[LICENSE_PLATE|418-TNV]], titled to AP-2 on [[DATE?|07/06/2026]] (NV DMV title [[ID_NUMBER|NV-T-26-0915538]]); bill of sale recites "$1 and
+       love and affection." Kelley Blue Book private-party value approx. [[MONEY|9,800.00]].
+   (b) Annuity -- [[ORGANIZATION?|Pacific Crest Life]] deferred annuity, contract [[POLICY_NUMBER|PCL-AN-0771824]] (value [[MONEY|88,412.07]]). Beneficiary
+       changed [[DATE?|07/11/2026]] from [[PERSON|Carol Ostrowski-Mays]] (100%) to [[PERSON|Shawna L. Pruitt]] (100%) by faxed form from
+       [[PHONE?|(775) 555-0140]] ([[ORGANIZATION?|Reno Ship & Print]], [[ADDRESS?|1155 W 4th St]]). Insurer has frozen the change pending APS review.
+   (c) Real property -- AP-1 presented a quitclaim deed for client's home (APN [[ID_NUMBER|082-461-17]]) to a mobile notary on
+       [[DATE?|07/19/2026]]; notary [[PERSON|Ellen Marsh-Odum]] refused to notarize because client "did not know what year it was."
+       No deed was recorded (Washoe County Recorder search [[DATE?|08/05/2026]]).
+
+[[PERSON|OSTROWSKI, MILDRED J]]     [[CASE_NUMBER|APS-26-WC-004418]]                                                   Page 2 of 4
+--- Page 3 ---
+[[PERSON|OSTROWSKI, MILDRED J]]     [[CASE_NUMBER|APS-26-WC-004418]]                                                   Page 3 of 4
+
+-----------------------------------------------------------------------------------------------------------------
+5. NARRATIVE OF INVESTIGATION
+-----------------------------------------------------------------------------------------------------------------
+[[DATE?|07/31/2026]] -- Unannounced home visit, 10:05. AP-1 answered the door and initially refused entry, stating client
+was "sleeping and doesn't like social workers." SW explained APS authority under NRS 200.5092 and asked to see
+client alone. Client was seated in the living room with the television on; the thermostat read 86 F. Client was
+oriented to person only. She identified SW as "the girl from church." Client stated [[PERSON|Shawna]] is "a good girl" who
+"takes care of the money now because my eyes are bad." Asked whether she had given [[PERSON|Shawna]] a car, client said her
+car was "in the garage" (the garage was empty). Client could not state her monthly income or name her bank.
+Kitchen had adequate food. Unopened mail from [[ORGANIZATION?|Silverline Bank]] addressed to client at AP-1's address was on the counter.
+
+[[DATE?|07/31/2026]] -- Interview of AP-1 (on porch, 10:50). AP-1 stated client "insists" on paying her extra because "her
+daughter abandoned her." AP-1 said the [[MONEY|2,400.00]] check to AP-2 was for roof work; SW observed no recent roof work
+and neighbor C-2 confirmed none. AP-1 stated client "picked out" the ring "for me as a birthday present." AP-1
+acknowledged driving client to the bank on [[DATE?|07/29/2026]] but denied requesting the wire. AP-1 produced a one-page
+"Power of Attorney" dated [[DATE?|06/18/2026]], downloaded from a website, signed with an "X" and witnessed by AP-2 only;
+it is not notarized and does not meet NRS 162A.220. AP-1 declined to answer further questions.
+
+[[DATE?|08/01/2026]] -- SW contacted [[ORGANIZATION?|BrightPath]] owner [[PERSON|Renee Galloway]]. Agency policy prohibits caregivers from accepting
+gifts, money or property. Agency suspended AP-1 and arranged a replacement caregiver, [[PERSON|Lorena Quispe]], beginning
+[[DATE?|08/02/2026]]. Agency invoices to client are paid through [[DATE?|07/31/2026]]; agency was unaware of private payments.
+
+[[DATE?|08/03/2026]] -- Telephone interview, C-1 [[PERSON|Carol Ostrowski-Mays]]. [[PERSON|Ms. Ostrowski-Mays]] reports she is the only
+child; her brother [[PERSON|Raymond Ostrowski]] died in [[DATE|2015]]. Her son [[PERSON|Tyler Ostrowski]] (age [[AGE|24]], [[LOCATION?|Carson City]]) visits
+"maybe twice a year." She agreed to travel to [[LOCATION?|Reno]], revoke any POA issued to AP-1, and seek guardianship.
+
+[[DATE?|08/06/2026]] -- Physician letter received (C-3). See Sec. 1.
+
+[[DATE?|08/12/2026]] -- Bank records received (C-5). The two ATM withdrawals at the casino on [[DATE?|05/09/2026]] occurred while
+client was, per agency timesheets, in bed (night shift log signed by AP-1). Video stills provided by the bank show
+a woman matching AP-1's description at the casino ATM. The [[ORGANIZATION?|Silverline]] application listed client's occupation as
+"retired bookkeeper" and income as [[MONEY|96,000.00]]; client's actual income is approximately [[MONEY|35,500.00]] per year.
+
+[[DATE?|08/14/2026]] -- Joint referral made to [[ORGANIZATION?|Reno Police Department]] Financial Crimes ([[PERSON|Det. Aaron Kealoha]]; RPD case
+[[CASE_NUMBER|RPD-26-118842]]) and to the [[ORGANIZATION?|Nevada Attorney General]], Office for the Protection of Vulnerable People (OAG
+reference [[CASE_NUMBER|OPVP-26-2207]]).
+
+[[DATE?|08/20/2026]] -- [[PERSON|Carol Ostrowski-Mays]] filed a petition for temporary guardianship of the person and estate;
+Second Judicial District Court, Case No. [[CASE_NUMBER|GR26-00417]]. Temporary guardianship granted [[DATE?|08/27/2026]]. Hearing on
+general guardianship set for [[DATE?|10/22/2026]]. Court-appointed counsel for client: [[PERSON|Ruth Abernathy-Kim]],
+[[ORGANIZATION?|Washoe Legal Services]].
+
+[[DATE?|09/02/2026]] -- Follow-up home visit with temporary guardian. Client calm and well-groomed; replacement caregiver
+present. Client asked SW whether "the nice girl" was coming back.
+
+[[PERSON|OSTROWSKI, MILDRED J]]     [[CASE_NUMBER|APS-26-WC-004418]]                                                   Page 3 of 4
+--- Page 4 ---
+[[PERSON|OSTROWSKI, MILDRED J]]     [[CASE_NUMBER|APS-26-WC-004418]]                                                   Page 4 of 4
+
+-----------------------------------------------------------------------------------------------------------------
+6. FINDINGS AND DISPOSITION
+-----------------------------------------------------------------------------------------------------------------
+Finding 1 -- Financial exploitation by AP-1: SUBSTANTIATED. A preponderance of the evidence shows that AP-1, while in
+a position of trust and confidence with a vulnerable adult who lacks capacity, obtained control of client's money
+and property (completed transactions [[MONEY|29,552.43]], the Buick valued at approx. [[MONEY|9,800.00]], and an attempted [[MONEY|15,000.00]]
+wire) with the intent to permanently deprive her of it (NRS 200.5092(5); NRS 200.5099).
+Finding 2 -- Financial exploitation by AP-2: SUBSTANTIATED (received [[MONEY|9,900.00]] in checks and the vehicle; participated
+in attempted wire; witnessed the invalid POA).
+Finding 3 -- Isolation by AP-1: UNSUBSTANTIATED (insufficient evidence that AP-1 prevented contact with family).
+
+-----------------------------------------------------------------------------------------------------------------
+7. SAFETY PLAN / SERVICES
+-----------------------------------------------------------------------------------------------------------------
+   - Bank froze debit card ending [[CREDIT_CARD|6208]] and online banking user [[USERNAME|mildred.o1939]] on [[DATE?|07/30/2026]]; new card ending
+     [[CREDIT_CARD|5541]] issued to guardian's mailing address; Trusted Contact designation added for [[PERSON|Carol Ostrowski-Mays]].
+   - [[ORGANIZATION?|Silverline Bank]] Visa ending [[CREDIT_CARD|1189]] closed as fraud ([[DATE?|08/15/2026]]); [[ORGANIZATION?|Silverline]] fraud case [[CASE_NUMBER|SLB-FR-26-77815]]. Balance
+     [[MONEY|4,812.44]] to be removed from client's credit file. Credit freezes placed with all three bureaus.
+   - Social Security representative payee application filed by guardian ([[DATE?|09/08/2026]]); SSA claim number on file.
+   - [[ORGANIZATION?|Pacific Crest Life]] beneficiary change rescinded at guardian's request ([[DATE?|09/11/2026]]).
+   - Vehicle: RPD placed a hold on the Buick; guardian to pursue title restoration.
+   - Restitution: to be sought in criminal case and by guardian's civil action (NRS 41.1395 double damages).
+   - Case to remain open 90 days for monitoring; next review [[DATE?|12/23/2026]].
+
+Prepared by:  [[SIGNATURE|N. Ferreira-Blum]]  [[PERSON|Naomi Ferreira-Blum]], SW III, ext. 4417      Date: [[DATE?|09/24/2026]]
+Approved by:  [[SIGNATURE|G. T. Achterberg]]  [[PERSON|Glen T. Achterberg]], SW Supervisor              Date: [[DATE?|09/25/2026]]
+
+Distribution: Case file; [[ORGANIZATION?|Reno Police Department]] ([[CASE_NUMBER|RPD-26-118842]]); [[ORGANIZATION?|Office of the Attorney General]] ([[CASE_NUMBER|OPVP-26-2207]]);
+Guardian ad litem/court-appointed counsel in [[CASE_NUMBER|GR26-00417]] (by court order only). NOT for release to AP-1 or AP-2.
+Form APS-114 (rev. 03/2025)

@@ -1,0 +1,48 @@
+PIKES PEAK RESIDENTIAL MANAGEMENT -- RENTAL APPLICATI0N             (scanned [[DATE?|1O/O7/2026]], 0CR)
+Property applied f0r:  [[ADDRESS|2741 N Che1ton Rd Apt 6, C0lorado Springs C0 8O909]]       Rent:  [[MONEY|$1,385]]/m0
+Move-in requested:  [[DATE|11/O1/2026]]        Lease term:  12 m0
+
+SECTI0N 1 -- APPLICANT
+Name:  [[PERSON|Joaquín E. Barela]]          D0B:  [[DATE_OF_BIRTH|1l/03/1992]]          SSN:  [[SSN|5O8-44-l297]]
+Ce1l:  [[PHONE|(719) 555-O126]]        Emai1:  [[EMAIL|jbarela.92@gmai1.com]]       C0 DL #:  [[DRIVERS_LICENSE|l4-221-8873]]
+
+SECTI0N 2 -- C0-APPLICANT
+Name:  [[PERSON|Destiny A. Ramírez]]         D0B:  [[DATE_OF_BIRTH|O6/18/1994]]          SSN:  [[SSN|6l2-O9-4471]]
+Ce1l:  [[PHONE|(719) 555-O193]]
+
+SECTI0N 3 -- 0THER 0CCUPANTS
+  [[PERSON MINOR|Mateo Barela]]      age [[AGE|7]]      s0n
+  [[PERSON MINOR|Sofía Barela]]      age [[AGE|3]]      daughter
+Pets / ani mals:  1 service d0g (Lab, 60 lb) f0r [[INDIRECT_ROLE|my 7-yr-o1d s0n]], wh0 has [[MEDICAL_CONDITION|autism]]. Letter attached.
+
+SECTI0N 4 -- RESIDENCE HIST0RY
+Current:  [[INDIRECT_LOCATION|my br0ther's basement in the brick h0use behind the Safeway 0n Academy and P1atte]]
+          (n0 1ease, staying since June, pay [[MONEY|$500]]/m0 cash).  Reas0n f0r m0ving:  need m0re r0om.
+Previ0us: [[INDIRECT_LOCATION|unit B 0f the ye1low f0urplex 0n E B0ulder St by the Sh00ks Run trai1]] -- d0nt remember
+          street number.  2O21-2O26.   Landl0rd:  see Reference #1.
+Ever been evicted?  N0      Ever fi1ed bankruptcy?  N0      Fe1ony c0nvicti0ns?  N0
+
+SECTI0N 5 -- EMPL0YMENT / INC0ME
+App1icant:  Emp1oyer  [[EMPLOYER|Fr0nt Range Fire Pr0tection]]   P0sition  [[INDIRECT_ROLE|1ead sprink1er fitter 0n the F0rt Cars0n barracks j0b]]
+            Since  2O19      Wage  [[MONEY|$31.40]]/hr      Supervis0r ph  [[PHONE|(719) 555-O150]]
+C0-app1icant: Emp1oyer  [[EMPLOYER|Garden 0f the G0ds Denta1]]   P0sition  [[INDIRECT_ROLE|s0le front-desk & bi1ling c00rdinator]]
+            Since  2O23      Wage  [[MONEY|$21.00]]/hr
+0ther inc0me:  VA disabi1ity [[MONEY|$1,O41]]/m0 (app1icant)
+Bank:  [[ORGANIZATION?|Ent Credit Uni0n]]   Checking acct  [[BANK_ACCOUNT|00O3318822l4]]
+
+SECTI0N 6 -- REFERENCES
+ 1.  [[PERSON|Sharon Pettib0ne]]     [[PHONE|(719) 555-O108]]     Re1ati0nship:  [[INDIRECT_ROLE|my 1andl0rd at the f0urplex 0n B0ulder]]
+ 2.  Pastor [[PERSON|Reuben 0choa]]   [[PHONE|(719) 555-O171]]     Re1ati0nship:  [[INDIRECT_ROLE|y0uth past0r at Ig1esia Fuente de Vida 0n F0untain B1vd]]
+ 3.  [[PERSON|Car1 Dettweiler]]       [[PHONE|(5O3) 555-O135]]     Re1ati0nship:  [[INDIRECT_ROLE|my 01d p1atoon sergeant fr0m 4th ID]]
+
+I auth0rize Pikes Peak Residentia1 Management t0 verify the inf0rmati0n ab0ve and 0btain a c0nsumer rep0rt.
+App1icant signature:  [[PERSON|J. Barela]]    Date: [[DATE|1O/O5/2026]]       C0-app1icant:  [[PERSON|D. Ramirez]]    Date: [[DATE|1O/O5/2026]]
+
+-------------------------------------  0FFICE USE 0NLY (handwritten)  -------------------------------------
+Leasing agent:  [[PERSON|M. Thr0ckmorton]]
+1O/5 app1icant came in pers0n -- [[PHYSICAL_DESCRIPTOR|big guy, 1ion tat 0n left side 0f neck]], [[PHYSICAL_DESCRIPTOR|wa1ks with a s1ight 1imp]]
+(says Army). Says reach him days at [[INDIRECT_LOCATION|the j0b trai1er by Gate 2O 0n F0rt Cars0n]]. P0lite. Kids w/ him, s0n w/ service d0g in vest.
+1O/6 ca11ed empl0yer -- sp0ke w/ [[INDIRECT_ROLE|the 0ffice manager at Fr0nt Range Fire]], c0nfirmed fu11 time since 2O19, OT
+m0st weeks.   Ca11ed ref #1 -- 1andl0rd says rent a1ways 0n time, 1eft unit c1ean, w0uld rent again.
+Ca11ed ref #2 -- vm.   Credit: 0K (64O / 6O8).  Inc0me 3x rent:  YES.
+REC0MMEND APPR0VE w/ standard dep0sit [[MONEY|$1,385]].  Service anima1 -- n0 pet dep0sit.

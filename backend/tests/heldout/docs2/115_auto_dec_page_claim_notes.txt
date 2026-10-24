@@ -1,0 +1,70 @@
+[[ORGANIZATION?|HEARTLAND PRAIRIE INSURANCE COMPANY]]                    PERSONAL AUTO POLICY -- DECLARATIONS
+[[ADDRESS?|PO Box 41987, Kansas City, MO 64141]]   Claims [[PHONE|1-800-555-0142]]                         Renewal -- Page 1 of 2
+
+POLICY NUMBER:  [[POLICY_NUMBER|HPA 26-4419087-02]]         POLICY PERIOD: [[DATE|03/01/2026]] to [[DATE|09/01/2026]] 12:01 AM CST
+NAMED INSURED:  [[PERSON|DARIUS L. PETTAWAY]] & [[PERSON|MONIQUE A. PETTAWAY]]
+MAILING ADDR:   [[ADDRESS|9318 E. 79TH TERRACE]]
+                [[ADDRESS|RAYTOWN MO 64138-2214]]
+AGENT:          [[PERSON|Tran Van Minh]] Agency, LLC  (agent code 0447)   [[PHONE|(816) 353-2210]]   [[EMAIL|minh.tran@hpi-agents.com]]
+
+DRIVERS
+  #  Name                       DOB          License (State)        Status       Rel.
+  1  [[PERSON|PETTAWAY, DARIUS L]]         [[DATE_OF_BIRTH|07/22/1979]]   [[DRIVERS_LICENSE|D104471882]] (MO)        Rated        Insured
+  2  [[PERSON|PETTAWAY, MONIQUE A]]        [[DATE_OF_BIRTH|12/02/1981]]   [[DRIVERS_LICENSE|M082219047]] (MO)        Rated        Spouse
+  3  [[PERSON MINOR|PETTAWAY, JAYLEN D]]         [[DATE_OF_BIRTH|04/15/2009]]   [[DRIVERS_LICENSE|J180044173]] (MO)        Rated-Youth  Son
+  4  [[PERSON|PETTAWAY, DOROTHY]]          [[DATE_OF_BIRTH|02/09/1946]]   --                     EXCLUDED     Mother
+     Driver 3: Good Student discount (3.0+ GPA, [[SCHOOL|Raytown South High School]]).
+
+VEHICLES
+  Veh  Year/Make/Model                VIN                    Garaging ZIP  Use        Lienholder
+  1    2021 HONDA ACCORD SPORT        [[VIN|1HGCV1F36MA058812]]      64138         Commute    [[ORGANIZATION?|Community America CU]]
+                                                                                              loan # [[BANK_ACCOUNT|LN-0088140427]]
+  2    2014 CHEVROLET TAHOE LT        [[VIN|1GNSKBE01ER214477]]      64138         Pleasure   None
+  3    2012 TOYOTA COROLLA LE         [[VIN|2T1BU4EE8CC820391]]      64138         Student    None
+
+COVERAGES                                   Veh 1          Veh 2          Veh 3
+  Bodily Injury     100/300               $212.40        $198.10        $346.75
+  Property Damage   100                    $88.20         $84.60        $129.90
+  Uninsured Motor.  100/300                $31.10         $31.10         $31.10
+  Underinsured Mtr. 100/300                $24.80         $24.80         $24.80
+  Medical Payments  $5,000                 $18.00         $18.00         $18.00
+  Comprehensive     $500 ded              $96.40         $71.20         $44.30
+  Collision         $1,000 ded           $241.70        $163.50        Not carried
+  Rental            $40/day 30 days        $16.00         $16.00             --
+  6-MONTH PREMIUM                         $728.60        $607.30        $594.85     TOTAL [[FINANCIAL_INFO|$1,930.75]]
+Discounts: multi-car, homeowner, good student, paperless.  Pay plan: EFT monthly from acct ending [[BANK_ACCOUNT|7714]].
+Endorsements: HPA-118 Named Driver Exclusion ([[PERSON|Dorothy Pettaway]] -- [[MEDICAL_CONDITION|macular degeneration]]); HPA-204 Rideshare Gap.
+
+================================================================================================================
+CLAIM FILE NOTES -- Claim [[CLAIM_NUMBER|HP-26-MO-118804]]     DOL [[DATE|06/27/2026]]   Veh 3   Loss: Collision w/ injury
+Claim owner: [[PERSON|Jessamyn Kirkendall]] (Casualty, ID [[ID_NUMBER|JKIR4410]])   Property: [[PERSON|Rodrigo Saavedra]]
+----------------------------------------------------------------------------------------------------------------
+[[DATE|06/28/2026]] 08:14  [[USERNAME|jkirkendall]]  FNOL via app by insured [[PERSON|Darius Pettaway]]. Son [[PERSON MINOR|Jaylen]] ([[AGE|17]]) driving Veh 3
+  eastbound on Gregory Blvd, turned left into [[INDIRECT_LOCATION|the QuikTrip at Gregory and Blue Ridge]], struck by
+  westbound vehicle. Passenger: [[PERSON MINOR|Isaiah Mbeki-Rowland]] ([[AGE|16]]), friend,
+  [[INDIRECT_ROLE|the sophomore point guard on the Raytown South varsity team]]. KCPD report [[LAW_ENFORCEMENT_ID|KC26-047731]], Ofc. [[PERSON|B. Hartsfield]] #[[LAW_ENFORCEMENT_ID|3318]].
+[[DATE|06/28/2026]] 10:02  [[USERNAME|jkirkendall]]  Claimant vehicle: [[VEHICLE_DESCRIPTION|white 2023 Ford Transit Connect van with "Nguyen
+  Brothers Nail Supply" lettering]], MO plate [[LICENSE_PLATE|5RK-L82]]. Driver [[PERSON|Nguyen Van Thanh]], DOB [[DATE_OF_BIRTH|10/30/1971]],
+  ph [[PHONE|(816) 744-0912]]. His carrier [[ORGANIZATION?|Gateway Commercial]] claim [[CLAIM_NUMBER|GC-2207-1188]]. Driver reports neck/back pain,
+  went to [[ORGANIZATION?|Research Medical Center]] ED. [[PERSON|Thanh]]'s employer/business: [[EMPLOYER|Nguyen Brothers Nail Supply]].
+[[DATE|06/28/2026]] 14:40  [[USERNAME|jkirkendall]]  Spoke w/ [[PERSON|Monique Pettaway]] ([[PHONE|816-509-7731]] cell). [[PERSON MINOR|Jaylen]] has [[MEDICAL_CONDITION|broken L wrist]];
+  [[PERSON MINOR|Isaiah]] taken by ambulance to [[ORGANIZATION?|Children's Mercy]] w/ [[MEDICAL_CONDITION|facial lacerations, possible concussion]].
+  [[PERSON MINOR|Isaiah]]'s mother [[PERSON|Khadija Mbeki-Rowland]] ([[PHONE|913-207-6618]]) has called insured twice, "upset." Advised
+  insured not to discuss fault. MedPay available to passenger.
+[[DATE|06/29/2026]] 09:30  [[USERNAME|rsaavedra]]  Veh 3 at [[INDIRECT_LOCATION|Hartley's Towing yard, 63rd & Raytown Rd, row F]]. Probable TL. No
+  collision cov on Veh 3 -- liability only; insured advised. Storage [[MONEY?|$45/day]].
+[[DATE|07/01/2026]] 11:18  [[USERNAME|jkirkendall]]  Recorded stmt w/ [[PERSON MINOR|Jaylen]] (parent present, mother). Says light was "green
+  ball not arrow," van "came fast." Admits he looked at phone for GPS. Phone: [[PHONE|816-588-0423]]. Request
+  phone records? Hold -- refer to counsel if suit.
+[[DATE|07/02/2026]] 16:05  [[USERNAME|jkirkendall]]  QuikTrip store mgr [[PERSON|Alana Whitecloud]] confirms CCTV exists (cams 2, 4); will hold
+  30 days. Witness: [[INDIRECT_ROLE|the fuel-tanker driver who was unloading at the store]], name per KCPD supp:
+  [[PERSON|Gordon "Gordy" Lisowski]], [[PHONE|(660) 238-1045]], [[EMPLOYER|Sinclair Petroleum Transport]].
+[[DATE|07/09/2026]] 10:47  [[USERNAME|jkirkendall]]  Atty letter of rep rec'd for claimant [[PERSON|Thanh]]: [[PERSON|Rebecca Oduya]], [[ORGANIZATION?|Oduya Law]],
+  [[EMAIL|roduya@oduyalaw.com]]. Demands policy limits disclosure. Claimant [[MEDICAL_CONDITION|C5-6 disc herniation]] per MRI.
+[[DATE|07/15/2026]] 13:22  [[USERNAME|jkirkendall]]  Passenger [[PERSON MINOR|Isaiah]] -- [[MEDICAL_CONDITION|concussion confirmed]]; [[MEDICAL_CONDITION|scar on L forehead, plastics f/u]].
+  MedPay paid [[MONEY?|$5,000]] to Children's Mercy (acct [[MRN|CM88102274]]). Mother asks re: BI claim; minor -- needs
+  court approval for settlement (RSMo 507.184).
+[[DATE|07/22/2026]] 09:00  [[USERNAME|jkirkendall]]  Reserve set BI [[MONEY?|$85,000]] ([[PERSON|Thanh]]), [[MONEY?|$25,000]] ([[PERSON MINOR|Isaiah]]). Prior claims check (ISO):
+  insured [[PERSON|Darius]] -- [[CRIMINAL_HISTORY|2019 DWI, Jackson Co.]] (not rated, outside 5 yrs). [[PERSON MINOR|Jaylen]]: [[CRIMINAL_HISTORY|2025 speeding citation 19/55]].
+[[DATE|08/03/2026]] 15:41  [[USERNAME|jkirkendall]]  [[PERSON|Darius]] called; [[EMPLOYER|Ford KC Assembly]] (2nd shift, Claycomo) -- asks if the claim
+  will "hit his work insurance." Explained no. [[PERSON|Darius]] also asks to remove [[PERSON MINOR|Jaylen]] from policy at renewal.

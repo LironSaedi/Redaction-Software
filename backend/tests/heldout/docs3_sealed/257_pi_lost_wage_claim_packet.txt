@@ -1,0 +1,262 @@
+                                   [[ORGANIZATION?|MARCHETTI & OYELARAN, LLP]]
+                                           Trial Lawyers
+                     [[ADDRESS?|225 North Hanover Street]]  |  [[ADDRESS?|Carlisle, Pennsylvania 17013]]
+                     Tel [[PHONE?|(717) 555-0120]]  |  Fax [[PHONE?|(717) 555-0121]]  |  [[URL?|www.marchetti-oyelaran.com]]
+
+[[PERSON|Gianna R. Marchetti]], Esq.
+Direct [[PHONE?|(717) 555-0126]]
+[[EMAIL|gmarchetti@marchetti-oyelaran.com]]
+
+[[DATE?|September 29, 2026]]
+
+VIA E-MAIL ([[EMAIL|dprentisskoh@granitestatemutual.com]]) AND CERTIFIED MAIL [[ID_NUMBER?|9589 0710 5270 0418 8826 31]]
+
+[[PERSON|Danielle Prentiss-Koh]]
+Senior Bodily Injury Adjuster
+[[ORGANIZATION?|Granite State Mutual Insurance Company]]
+[[ADDRESS?|PO Box 9017, Harrisburg PA 17106-9017]]
+
+        RE:    Our Client:         [[PERSON|Marisol Echeverría-Watts]]
+               Your Insured:       [[PERSON|Bradley T. Kinsella]]
+               Claim No.:          [[CLAIM_NUMBER|GSM-PA-26-0187733]]
+               Policy No.:         [[POLICY_NUMBER|PAA 4471902-03]]
+               Date of Loss:       [[DATE|April 17, 2026]]
+               SUBMISSION OF LOST WAGE CLAIM DOCUMENTATION
+
+Dear [[PERSON|Ms. Prentiss-Koh]]:
+
+As you know, this office represents [[PERSON|Marisol Echeverría-Watts]] for injuries she sustained on [[DATE|April 17, 2026]],
+when your insured, [[PERSON|Bradley Kinsella]], operating a [[VEHICLE_DESCRIPTION|black 2021 Ram 1500 Big Horn]] (PA registration
+[[LICENSE_PLATE|ZKP-2208]]), failed to stop for the red signal while traveling northbound on [[LOCATION?|Walnut Bottom Road]] and struck
+the driver's side of our client's [[VEHICLE_DESCRIPTION|silver 2019 Honda CR-V EX]] (VIN [[VIN|2HKRW2H56KH604417]], PA registration
+[[LICENSE_PLATE|LBT-4471]]) in the intersection with [[LOCATION?|Ritner Highway]] in [[LOCATION?|South Middleton Township]]. Liability is not
+in dispute; [[PERSON|Mr. Kinsella]] was cited under 75 Pa.C.S. Sec. 3112(a)(3)(i) by [[ORGANIZATION?|Pennsylvania State Police, Troop H]]
+(incident no. [[CASE_NUMBER|PA2026-0544781]]), and your recorded statement of [[DATE?|April 22, 2026]] confirms he was looking at
+his phone.
+
+[[PERSON|Ms. Echeverría-Watts]], then [[AGE|38]], was transported by [[ORGANIZATION?|Cumberland Goodwill EMS]] to
+[[ORGANIZATION?|Carlisle Regional Medical Center]]. She was diagnosed with a [[MEDICAL_CONDITION|C5-C6 disc herniation with right C6 radiculopathy]], a
+[[MEDICAL_CONDITION|non-displaced left scaphoid fracture]], and [[MEDICAL_CONDITION|post-concussion syndrome]]. She was immobilized in a
+thumb spica cast for eight weeks, completed 31 sessions of physical therapy at
+[[ORGANIZATION?|Conodoguinet Physical Therapy]], and underwent a C5-6 epidural steroid injection on [[DATE|July 9, 2026]] with [[PERSON|Dr. Anil Venkataraman]]. Her
+medical specials to date are being submitted under separate cover.
+
+This letter addresses her wage loss only. [[PERSON|Ms. Echeverría-Watts]] works as
+[[INDIRECT_ROLE|the only bilingual Inventory Control Lead on second shift]] at [[EMPLOYER|Keystone Crossroads Fulfillment, LLC]]
+([[INDIRECT_LOCATION|the Carlisle "DC 3" building on Allen Road]]). She was totally disabled from work from [[DATE|April 18]] through [[DATE|July 24, 2026]], returned on
+restricted (30 hour, no-overtime) duty from [[DATE|July 27]] through [[DATE|September 4, 2026]], and has since missed
+additional hours for therapy and physician visits. Enclosed please find:
+
+     1.  Employer verification of employment and lost time ([[PERSON|T. Reyes-Holloway]], HR, [[DATE?|09/18/2026]])
+     2.  Payroll register, 13 pay periods preceding the collision (Oct. 2025 - Mar. 2026)
+     3.  2025 Form W-2 issued by [[EMPLOYER|Keystone Crossroads Fulfillment, LLC]]
+     4.  Pages 1-2 of the 2025 joint Form 1040 (redacted copy available on request; the unredacted copy is
+         produced subject to the Confidentiality Stipulation dated [[DATE?|August 3, 2026]])
+     5.  Lost wage computation (page 5)
+
+Based on the enclosed, the documented wage loss through [[DATE?|September 25, 2026]] is [[MONEY|$19,880.90]] net of first-party
+income loss benefits, which are not recoverable from your insured under 75 Pa.C.S. Sec. 1722. We will
+supplement for any future loss of earning capacity following her [[DATE?|November 2026]] neurosurgical consult.
+
+Please confirm receipt. I can be reached at the number above or on my cell, [[PHONE|(717) 555-0188]].
+
+                                        Very truly yours,
+                                        [[SIGNATURE|/s/ Gianna R. Marchetti]]
+                                        [[PERSON|Gianna R. Marchetti]]
+cc:  [[PERSON|Marisol Echeverría-Watts]] (via client portal)
+     File [[ID_NUMBER|MO-26-0311]]
+--- Page 2 ---
+                        [[EMPLOYER|KEYSTONE CROSSROADS FULFILLMENT, LLC]]
+                     Human Resources -- [[ORGANIZATION?|Carlisle Distribution Center #3]]
+               [[ADDRESS?|1100 Allen Road, Carlisle PA 17015]]  |  HR Service Center [[PHONE?|1-855-555-0170]]
+
+[[DATE?|September 18, 2026]]
+
+To Whom It May Concern / [[ORGANIZATION?|Marchetti & Oyelaran, LLP]]
+
+RE:  VERIFICATION OF EMPLOYMENT AND LOST TIME
+     Employee:          [[PERSON|Marisol E. Echeverría-Watts]]
+     Employee No.:      [[ID_NUMBER|KCF-0088213]]
+     Date of birth:     [[DATE_OF_BIRTH|02/27/1988]]          SSN (last 4): [[SSN|8203]]
+     Authorization:     Employee authorization signed [[DATE?|08/28/2026]] (on file)
+
+This letter confirms that the above employee has been continuously employed by
+[[EMPLOYER|Keystone Crossroads Fulfillment, LLC]] since [[DATE?|June 12, 2017]]. Her current position is Inventory Control Lead (Grade W4), 2nd shift
+(2:30 p.m. - 11:00 p.m., Monday-Friday), reporting to [[PERSON|Raymond Oduya]], Operations Manager. She is
+[[INDIRECT_ROLE|the only bilingual (English/Spanish) lead on second shift]] and [[INDIRECT_ROLE|trains all newly hired Spanish-speaking associates]].
+
+Compensation (as of the date of loss):
+     Base hourly rate:                            [[MONEY|$27.40]] (effective [[DATE?|01/01/2026]])
+     Scheduled hours:                             40 per week
+     Overtime:                                    1.5x after 40 hours; voluntary but routinely worked
+     Average overtime, 26 weeks before loss:      6.2 hours per week
+     Quarterly productivity bonus:                [[MONEY|$750.00]] per quarter if site targets met (Q2 2026 paid
+                                                  to eligible active associates on [[DATE?|07/17/2026]]; employee
+                                                  ineligible because on leave)
+
+Attendance following the [[DATE|04/17/2026]] motor vehicle accident:
+     [[DATE|04/18/2026]] - [[DATE|07/24/2026]]   Off work, medical leave (FMLA approved; leave case [[CASE_NUMBER|FML-26-04412]])
+     [[DATE|07/27/2026]] - [[DATE|09/04/2026]]   Returned, restricted duty, 30 hours/week, no overtime, no lifting > 10 lbs
+     [[DATE|09/08/2026]] - present        Full duty; 11.5 hours unpaid absence for medical appointments through [[DATE?|09/25/2026]]
+
+Paid time off used during leave: 64.0 hours (vacation/PTO), paid at base rate. PTO balance was 71.5 hours on
+[[DATE?|04/17/2026]] and is 7.5 hours as of this letter.
+
+Short-term disability: The employee received STD benefits under our insured plan with [[ORGANIZATION?|Allied Mutual Life]],
+group policy [[POLICY_NUMBER|GLT-0044180]], claim [[CLAIM_NUMBER|STD-26-77104]], at 60% of base pay after a 7-day elimination period
+([[DATE?|04/25/2026]] - [[DATE?|07/24/2026]]). Please contact [[ORGANIZATION?|Allied Mutual Life]] directly regarding any reimbursement
+rights under the plan.
+
+Please direct questions to the undersigned. This information is provided at the employee's request and with her
+written authorization.
+
+[[SIGNATURE|Tamsin Reyes-Holloway]]
+[[PERSON|Tamsin Reyes-Holloway]], SHRM-CP, HR Generalist
+[[PHONE?|(717) 555-0143]] (direct)  |  [[EMAIL|treyesholloway@kcfulfillment.com]]
+--- Page 3 ---
+[[EMPLOYER|KEYSTONE CROSSROADS FULFILLMENT, LLC]] -- PAYROLL REGISTER (EMPLOYEE HISTORY)           Run date [[DATE?|09/17/2026]]
+Employee: [[PERSON|ECHEVERRIA-WATTS, MARISOL E]]   No. [[ID_NUMBER|KCF-0088213]]   Dept 3-ICL   FLSA: Non-exempt   Freq: Biweekly
+Direct deposit: [[ORGANIZATION?|Members 1st FCU]] chk XXXXXX[[BANK_ACCOUNT|2917]]
+
+Pay Date     Period         Reg Hrs  OT Hrs  Hol Hrs   Gross Pay    401(k) 6%   Fed W/H   FICA      PA     Local   Net Pay
+----------   -----------    -------  ------  -------   ---------    ---------   -------   -------   -----   -----   --------
+[[DATE?|10/10/2025]]   [[DATE?|09/21]]-[[DATE?|10/04]]      80.0    11.5     0.0     [[MONEY|2,664.65]]      [[MONEY|159.88]]    [[MONEY|224.10]]    [[MONEY|203.85]]   [[MONEY|81.80]]   [[MONEY|26.65]]   [[MONEY|1,968.37]]
+[[DATE?|10/24/2025]]   [[DATE?|10/05]]-[[DATE?|10/18]]      80.0    13.0     0.0     [[MONEY|2,726.30]]      [[MONEY|163.58]]    [[MONEY|231.50]]    [[MONEY|208.56]]   [[MONEY|83.70]]   [[MONEY|27.26]]   [[MONEY|2,011.70]]
+[[DATE?|11/07/2025]]   [[DATE?|10/19]]-[[DATE?|11/01]]      80.0     9.5     0.0     [[MONEY|2,582.45]]      [[MONEY|154.95]]    [[MONEY|214.25]]    [[MONEY|197.56]]   [[MONEY|79.28]]   [[MONEY|25.82]]   [[MONEY|1,910.59]]
+[[DATE?|11/21/2025]]   [[DATE?|11/02]]-[[DATE?|11/15]]      80.0    14.0     0.0     [[MONEY|2,767.40]]      [[MONEY|166.04]]    [[MONEY|236.42]]    [[MONEY|211.71]]   [[MONEY|84.96]]   [[MONEY|27.67]]   [[MONEY|2,040.60]]
+[[DATE?|12/05/2025]]   [[DATE?|11/16]]-[[DATE?|11/29]]      72.0    12.0     8.0     [[MONEY|2,685.20]]      [[MONEY|161.11]]    [[MONEY|226.55]]    [[MONEY|205.42]]   [[MONEY|82.44]]   [[MONEY|26.85]]   [[MONEY|1,982.83]]
+[[DATE?|12/19/2025]]   [[DATE?|11/30]]-[[DATE?|12/13]]      80.0    16.5     0.0     [[MONEY|2,870.15]]      [[MONEY|172.21]]    [[MONEY|248.76]]    [[MONEY|219.57]]   [[MONEY|88.11]]   [[MONEY|28.70]]   [[MONEY|2,112.80]]
+[[DATE?|01/02/2026]]   [[DATE?|12/14]]-[[DATE?|12/27]]      72.0     8.0     8.0     [[MONEY|2,520.80]]      [[MONEY|151.25]]    [[MONEY|206.85]]    [[MONEY|192.84]]   [[MONEY|77.39]]   [[MONEY|25.21]]   [[MONEY|1,867.26]]
+[[DATE?|01/16/2026]]   [[DATE?|12/28]]-[[DATE?|01/10]]      72.0    12.5     8.0     [[MONEY|2,705.75]]      [[MONEY|162.35]]    [[MONEY|228.97]]    [[MONEY|206.99]]   [[MONEY|83.07]]   [[MONEY|27.06]]   [[MONEY|1,997.31]]
+[[DATE?|01/30/2026]]   [[DATE?|01/11]]-[[DATE?|01/24]]      80.0    15.0     0.0     [[MONEY|2,808.50]]      [[MONEY|168.51]]    [[MONEY|241.30]]    [[MONEY|214.85]]   [[MONEY|86.22]]   [[MONEY|28.09]]   [[MONEY|2,069.53]]
+[[DATE?|02/13/2026]]   [[DATE?|01/25]]-[[DATE?|02/07]]      80.0    10.0     0.0     [[MONEY|2,603.00]]      [[MONEY|156.18]]    [[MONEY|216.70]]    [[MONEY|199.13]]   [[MONEY|79.91]]   [[MONEY|26.03]]   [[MONEY|1,925.05]]
+[[DATE?|02/27/2026]]   [[DATE?|02/08]]-[[DATE?|02/21]]      72.0    13.5     8.0     [[MONEY|2,746.85]]      [[MONEY|164.81]]    [[MONEY|233.95]]    [[MONEY|210.13]]   [[MONEY|84.33]]   [[MONEY|27.47]]   [[MONEY|2,026.16]]
+[[DATE?|03/13/2026]]   [[DATE?|02/22]]-[[DATE?|03/07]]      80.0    12.0     0.0     [[MONEY|2,685.20]]      [[MONEY|161.11]]    [[MONEY|226.55]]    [[MONEY|205.42]]   [[MONEY|82.44]]   [[MONEY|26.85]]   [[MONEY|1,982.83]]
+[[DATE?|03/27/2026]]   [[DATE?|03/08]]-[[DATE?|03/21]]      80.0    13.0     0.0     [[MONEY|2,726.30]]      [[MONEY|163.58]]    [[MONEY|231.50]]    [[MONEY|208.56]]   [[MONEY|83.70]]   [[MONEY|27.26]]   [[MONEY|2,011.70]]
+                            -------  ------  -------   ---------
+13-period totals             1,008.0   160.5    32.0    [[MONEY|35,092.55]]     Avg gross per period [[MONEY|2,699.43]] / per week [[MONEY|1,349.71]]
+
+Post-loss periods (summary):
+[[DATE?|04/24/2026]]   [[DATE?|04/05]]-[[DATE?|04/18]]      72.0     6.5     0.0     [[MONEY|2,239.95]]   (last day worked [[DATE|04/16/2026]]; 04/17 sched. off)
+[[DATE?|05/08/2026]] - [[DATE?|07/31/2026]]   No wages; PTO 64.0 hrs paid across [[DATE?|05/08]], [[DATE?|05/22]], [[DATE?|06/05]] advices [[MONEY|(1,753.60)]]
+[[DATE?|08/14/2026]] - [[DATE?|09/11/2026]]   Restricted duty 30.0 hrs/wk, 0.0 OT                       [[MONEY|4,932.00]] (6 weeks)
+
+Hours are shown to one decimal. Holiday hours paid at base rate. FICA = Social Security 6.2% + Medicare 1.45%.
+--- Page 4 ---
+Form 1040   Department of the Treasury--Internal Revenue Service
+            U.S. Individual Income Tax Return   2025           OMB No. 1545-0074    IRS Use Only--Do not write or staple in this space.
+For the year Jan. 1-Dec. 31, 2025, or other tax year beginning ______, 2025, ending ______, 20__
+
+Your first name and middle initial         Last name                                  Your social security number
+  [[PERSON|MARISOL E]]                                 [[PERSON|ECHEVERRIA-WATTS]]                           [[SSN|196 44 8203]]
+If joint return, spouse's first name and middle initial   Last name                   Spouse's social security number
+  [[PERSON|DARNELL K]]                                 [[PERSON|WATTS]]                                      [[SSN|189 60 2271]]
+Home address (number and street). If you have a P.O. box, see instructions.   Apt. no.     Presidential Election Campaign
+  [[ADDRESS|1418 BELLAIRE AVE]]                                                             [ ] You  [ ] Spouse
+City, town, or post office. If you have a foreign address, also complete spaces below.   State   ZIP code
+  [[ADDRESS|CARLISLE]]                                                                PA      [[ZIP_CODE|17015]]
+
+Filing Status   [ ] Single   [X] Married filing jointly (even if only one had income)   [ ] Married filing separately (MFS)
+                [ ] Head of household (HOH)   [ ] Qualifying surviving spouse (QSS)
+
+Digital Assets  At any time during 2025, did you: (a) receive (as a reward, award, or payment for property or services);
+                or (b) sell, exchange, or otherwise dispose of a digital asset (or a financial interest in a digital asset)?
+                [ ] Yes  [X] No
+
+Standard Deduction  Someone can claim:  [ ] You as a dependent   [ ] Your spouse as a dependent
+                    [ ] Spouse itemizes on a separate return or you were a dual-status alien
+
+Dependents (see instructions)        (2) Social security   (3) Relationship   (4) Check the box if qualifies for
+  (1) First name      Last name           number               to you             Child tax credit   Credit for other dependents
+  [[MINOR|LUCIA]]               [[MINOR|WATTS]]               [[SSN|207 91 4430]]          DAUGHTER                [X]                  [ ]
+  [[MINOR|MATEO]]               [[MINOR|WATTS]]               [[SSN|211 03 5582]]          SON                     [X]                  [ ]
+
+Income   1a  Total amount from Form(s) W-2, box 1 (see instructions) ..........................  1a        [[MONEY|85,022.40]]
+         1z  Add lines 1a through 1h ......................................................  1z        [[MONEY|85,022.40]]
+         2a  Tax-exempt interest .........  2a          [[MONEY|0.00]]   b  Taxable interest ........  2b            [[MONEY|41.07]]
+         3a  Qualified dividends .........  3a          [[MONEY|0.00]]   b  Ordinary dividends ......  3b             [[MONEY|0.00]]
+         9   Add lines 1z, 2b, 3b, 4b, 5b, 6b, 7, and 8. This is your total income ............  9         [[MONEY|85,063.47]]
+         10  Adjustments to income from Schedule 1, line 26 ..................................  10             [[MONEY|0.00]]
+         11  Subtract line 10 from line 9. This is your adjusted gross income .................  11        [[MONEY|85,063.47]]
+         12  Standard deduction or itemized deductions (from Schedule A) ......................  12        [[MONEY|31,500.00]]
+         15  Subtract line 14 from line 11. If zero or less, enter -0-. This is your taxable income  15     [[MONEY|53,563.47]]
+
+Tax and  16  Tax (see instructions). Check if any from Form(s): 1 [ ] 8814  2 [ ] 4972  3 [ ] ___  16         [[MONEY|5,951.00]]
+Credits  19  Child tax credit or credit for other dependents from Schedule 8812 ...............  19         [[MONEY|4,400.00]]
+         22  Subtract line 21 from line 18. If zero or less, enter -0- .........................  22         [[MONEY|1,551.00]]
+         24  Add lines 22 and 23. This is your total tax .....................................  24         [[MONEY|1,551.00]]
+Payments 25a Form(s) W-2 ..................................................................  25a        [[MONEY|6,884.00]]
+         33  Add lines 25d, 26, and 32. These are your total payments ...........................  33         [[MONEY|6,884.00]]
+Refund   34  If line 33 is more than line 24, subtract line 24 from line 33. This is the amount you overpaid  34   [[MONEY|5,333.00]]
+         35a Amount of line 34 you want refunded to you. If Form 8888 is attached, check here [ ]  35a      [[MONEY|5,333.00]]
+Direct deposit?  b Routing number  [[ROUTING_NUMBER|031592684]]      c Type: [X] Checking  [ ] Savings
+See instructions d Account number  [[BANK_ACCOUNT|0088104429 17]]
+
+Sign Here   Under penalties of perjury, I declare that I have examined this return and accompanying schedules and
+            statements, and to the best of my knowledge and belief, they are true, correct, and complete.
+  Your signature                       Date          Your occupation              If the IRS sent you an Identity
+  [[SIGNATURE|Marisol E Echeverria-Watts]]           [[DATE?|03/02/2026]]    INVENTORY LEAD               Protection PIN, enter it here
+                                                                                  [[PASSWORD|448210]]
+  Spouse's signature                   Date          Spouse's occupation          Spouse's IP PIN
+  [[SIGNATURE|Darnell K Watts]]                      [[DATE?|03/02/2026]]    BARBER                       ______
+  Phone no. [[PHONE|717-555-0158]]                   Email address  [[EMAIL|marisol.ewatts@pa.net]]
+
+Paid       Preparer's name                  Preparer's signature             Date          PTIN           Check if:
+Preparer   [[PERSON|Hollis R. Mbeki-Strand]]           [[SIGNATURE|Hollis R Mbeki-Strand]]            [[DATE?|03/02/2026]]    [[ID_NUMBER|P01884207]]     [ ] Self-employed
+Use Only   Firm's name  [[ORGANIZATION?|Linden Tax & Bookkeeping]]                 Phone no. [[PHONE?|717-555-0137]]
+           Firm's address [[ADDRESS?|40 W High St, Carlisle PA 17013]]                Firm's EIN [[EIN?|25-1903377]]
+
+----------------------------------------------------------------------------------------------------------------------
+Form W-2 Wage and Tax Statement 2025       Copy B--To Be Filed With Employee's FEDERAL Tax Return     OMB No. 1545-0008
+a  Employee's social security number   [[SSN|196-44-8203]]
+b  Employer identification number (EIN)   [[EIN|46-3318204]]               1  Wages, tips, other comp.       [[MONEY|63,118.40]]
+c  Employer's name, address, and ZIP code                              2  Federal income tax withheld     [[MONEY|5,412.00]]
+   [[EMPLOYER|KEYSTONE CROSSROADS FULFILLMENT LLC]]                            3  Social security wages          [[MONEY|66,960.00]]
+   [[ADDRESS?|1100 ALLEN RD]]                                                 4  Social security tax withheld    [[MONEY|4,151.52]]
+   [[ADDRESS?|CARLISLE PA 17015]]                                             5  Medicare wages and tips        [[MONEY|66,960.00]]
+d  Control number   [[ID_NUMBER|KCF-0088213]]                                6  Medicare tax withheld             [[MONEY|970.92]]
+e  Employee's first name and initial   Last name                      12a  D   [[MONEY|3,841.60]]
+   [[PERSON|MARISOL E ECHEVERRIA-WATTS]]                                      12b  DD  [[MONEY|9,880.44]]
+f  Employee's address and ZIP code                                    13  [ ] Statutory  [X] Retirement plan  [ ] Third-party sick pay
+   [[ADDRESS|1418 BELLAIRE AVE, CARLISLE PA 17015]]                           14  Other  PA SUI [[MONEY|46.87]]
+15 State PA  Employer's state ID number [[ID_NUMBER?|7741-0022]]   16 State wages [[MONEY|66,960.00]]   17 State income tax [[MONEY|2,055.67]]
+18 Local wages [[MONEY|66,960.00]]   19 Local income tax [[MONEY|669.60]]   20 Locality name [[LOCATION?|CARLISLE BORO]] / [[ORGANIZATION?|CUMBERLAND VALLEY SD]]
+
+Spouse W-2 (summary only): employer [[EMPLOYER|Shear Precision Barber Studio]], [[LOCATION?|Mechanicsburg PA]], box 1 [[MONEY|21,904.00]], box 2 [[MONEY|1,472.00]].
+--- Page 5 ---
+[[ORGANIZATION?|MARCHETTI & OYELARAN, LLP]] -- LOST WAGE COMPUTATION            Client: [[PERSON|M. Echeverría-Watts]]   File [[ID_NUMBER|MO-26-0311]]
+                                                                         Claim [[CLAIM_NUMBER|GSM-PA-26-0187733]]
+A.  Pre-injury average weekly wage (AWW)
+      13 biweekly periods [[DATE?|10/10/2025]] - [[DATE?|03/27/2026]], gross [[MONEY|$35,092.55]] / 26 weeks .......  [[MONEY|$1,349.71]] / week
+      (includes regular, holiday and overtime; overtime averaged 6.2 hrs/week)
+
+B.  Total disability  [[DATE|04/18/2026]] - [[DATE|07/24/2026]]
+      14.0 weeks x [[MONEY|$1,349.71]] ...................................................................  [[MONEY|$18,895.94]]
+
+C.  Partial disability (restricted duty)  [[DATE|07/27/2026]] - [[DATE|09/04/2026]]
+      Expected 6.0 weeks x [[MONEY|$1,349.71]] = [[MONEY|$8,098.26]] less actual earnings [[MONEY|$4,932.00]] ................  [[MONEY|$3,166.26]]
+
+D.  Intermittent absences for treatment  [[DATE|09/08/2026]] - [[DATE?|09/25/2026]]
+      11.5 hours x [[MONEY|$27.40]] .......................................................................     [[MONEY|$315.10]]
+
+E.  Paid time off exhausted during disability (64.0 hrs x [[MONEY|$27.40]]) ..............................  [[MONEY|$1,753.60]]
+
+F.  Lost Q2 2026 productivity bonus ................................................................     [[MONEY|$750.00]]
+                                                                                                  -----------
+    GROSS WAGE LOSS TO DATE ......................................................................  [[MONEY|$24,880.90]]
+
+G.  Less first-party income loss benefits paid by client's own carrier
+      ([[ORGANIZATION?|Penn Valley Casualty]], policy [[POLICY_NUMBER|PVC-11-2208471]], PIP claim [[CLAIM_NUMBER|PV26-041887]]) -- 75 Pa.C.S. Sec. 1722 .......  ([[MONEY|$5,000.00]])
+                                                                                                  -----------
+    NET WAGE LOSS CLAIMED FROM [[ORGANIZATION?|GRANITE STATE MUTUAL]] ...............................................  [[MONEY|$19,880.90]]
+
+Notes:
+ 1. STD benefits paid by [[ORGANIZATION?|Allied Mutual Life]] ([[MONEY|$7,890.48]]) are not deducted; the plan has asserted an ERISA
+    reimbursement lien (lien ref. [[CLAIM_NUMBER|AML-LN-26-3301]]) which will be resolved from any recovery.
+ 2. Federal and state taxes are not deducted; Pennsylvania permits recovery of gross lost wages.
+ 3. Future loss: Dr. [[PERSON|Venkataraman]] has recommended evaluation for anterior cervical discectomy and fusion. If
+    surgery is performed, an additional 8-12 weeks of total disability is anticipated (est. [[MONEY|$10,797.68]] - [[MONEY|$16,196.52]]).
+ 4. Client's spouse, [[PERSON|Darnell Watts]], missed 22.0 hours of work (unpaid) transporting her to appointments and caring
+    for [[MINOR|Lucía]] ([[AGE|11]]) and [[MINOR|Mateo]] ([[AGE|7]]); this loss of consortium/services claim is reserved.
+
+Prepared by [[PERSON|K. Albrecht]], paralegal, [[DATE?|09/26/2026]]

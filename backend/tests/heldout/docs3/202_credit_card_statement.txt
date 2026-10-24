@@ -1,0 +1,174 @@
+[[ORGANIZATION?|MERIDIAN SHORE BANK]]
+MERIDIAN SHORE REWARDS VISA SIGNATURE(R)                         Account Number ending in [[CREDIT_CARD|9487]]
+                                                                  Statement Closing Date  [[DATE?|10/05/2026]]
+[[PERSON|OLUWASEUN A ADEYEMI-HART]]                                          Billing Cycle  [[DATE?|09/06/2026]] - [[DATE?|10/05/2026]]
+[[ADDRESS|77 LARKSPUR CT UNIT 5]]                                             Days in Billing Cycle  30
+[[ADDRESS|NAPERVILLE IL 60540-8812]]
+                                                                  Customer Service  [[PHONE?|1-877-555-0190]]
+                                                                  Lost/Stolen  [[PHONE?|1-877-555-0191]]
+                                                                  meridianshore.example/cards
++--------------------------------------------+   +-------------------------------------------------+
+| ACCOUNT SUMMARY                            |   | PAYMENT INFORMATION                             |
+| Previous Balance                 [[MONEY|$3,184.42]] |   | New Balance                    [[MONEY|$7,762.94]]        |
+| Payments                        [[MONEY|-$1,612.00]] |   | Minimum Payment Due            [[MONEY|$224.00]]          |
+| Other Credits                      [[MONEY|-$62.10]] |   | Payment Due Date               [[DATE?|11/01/2026]]       |
+| Purchases                       [[MONEY|+$3,306.13]] |   |                                                 |
+| Balance Transfers               [[MONEY|+$2,500.00]] |   | LATE PAYMENT WARNING: If we do not receive your |
+| Cash Advances                     [[MONEY|+$300.00]] |   | minimum payment by the date listed above, you   |
+| Fees Charged                       [[MONEY|+$90.00]] |   | may have to pay a late fee of up to $41.00 and  |
+| Interest Charged                   [[MONEY|+$56.49]] |   | your APRs may be increased up to the Penalty    |
+| New Balance                      [[MONEY|$7,762.94]] |   | APR of 29.99%.                                  |
+|                                            |   +-------------------------------------------------+
+| Credit Limit                    [[MONEY|$15,000.00]] |   | MINIMUM PAYMENT WARNING: If you make only the   |
+| Available Credit                 [[MONEY|$7,237.06]] |   | minimum payment each period, you will pay more  |
+| Cash Access Line                 [[MONEY|$3,000.00]] |   | in interest and it will take you longer to pay  |
+| Available for Cash               [[MONEY|$2,685.00]] |   | off your balance. For example:                  |
++--------------------------------------------+   |                                                 |
+REWARDS SUMMARY                                  | If you make no     You will pay   And you will  |
+  Points carried forward          41,226         | additional charges off the balance end up paying |
+  Points earned this period        5,108         | and each month                    an estimated  |
+  Points redeemed                      0         | you pay...                        total of...   |
+  Points available                46,334         |                                                 |
+  Rewards Member # [[ID_NUMBER|MSR-00488211-7]]                | Only the minimum  22 years        $17,900       |
+                                                 | payment                                         |
+                                                 | $307              3 years         $11,052       |
+                                                 |                                (Savings=$6,848) |
+                                                 +-------------------------------------------------+
+  If you would like information about credit counseling services, call [[PHONE?|1-888-555-0123]].
+
+NOTICE: Your 0% introductory APR on balance transfers posted by [[DATE?|10/31/2026]] expires with the
+statement closing in [[DATE?|06/2027]]. Any remaining balance-transfer balance will then accrue interest at the
+standard purchase APR.
+
+Your replacement card ending in [[CREDIT_CARD|9487]] (new expiration [[CARD_EXPIRY|11/30]]) was mailed [[DATE?|09/19/2026]] to the address above.
+Please destroy the card expiring [[CARD_EXPIRY|11/26]] once you activate the new card.
+
+                                                                                    Page 1 of 4
+
+--- Page 2 ---
+
+[[PERSON|OLUWASEUN A ADEYEMI-HART]]        Account ending in [[CREDIT_CARD|9487]]        Closing Date [[DATE?|10/05/2026]]
+
+TRANSACTIONS
+Trans  Post     Description of Transaction or Credit                Reference Number               Amount
+PAYMENTS AND OTHER CREDITS
+[[DATE?|09/18]]  [[DATE?|09/18]]    PAYMENT THANK YOU - WEB  FROM CHK ****[[BANK_ACCOUNT|6620]]                                     -$1,200.00
+[[DATE?|09/30]]  [[DATE?|09/30]]    AUTOPAY PAYMENT - THANK YOU                                                      -$412.00
+[[DATE?|09/25]]  [[DATE?|09/26]]    COSTCO WHSE #0388 NAPERVILLE IL - RETURN            24013396278                   -$62.10
+
+BALANCE TRANSFERS
+[[DATE?|09/08]]  [[DATE?|09/08]]    BALANCE TRANSFER FROM CARD ENDING [[CREDIT_CARD|4471]] LAKESHORE CU                             $2,500.00
+[[DATE?|09/08]]  [[DATE?|09/08]]    BALANCE TRANSFER FEE (3%)                                                          $75.00
+
+PURCHASES AND ADJUSTMENTS -- [[PERSON|OLUWASEUN A ADEYEMI-HART]]   Card ending [[CREDIT_CARD|9487]]
+[[DATE?|09/06]]  [[DATE?|09/07]]    PAYPAL *[[PERSON|KOWALCZYK MAREK]]   [[PHONE?|4029357733]] CA             [[ID_NUMBER?|24692166249100417713352]]       $140.00
+[[DATE?|09/06]]  [[DATE?|09/08]]    JEWEL OSCO 3417 NAPERVILLE IL                       24445006249                   $126.48
+[[DATE?|09/07]]  [[DATE?|09/08]]    SHELL OIL 57444821700 AURORA IL                     24137466250                    $52.17
+[[DATE?|09/08]]  [[DATE?|09/09]]    SQ *[[PERSON|TOMASZ WIERZBICKI]] FITNE  Naperville IL          24692166251                   $240.00
+[[DATE?|09/09]]  [[DATE?|09/10]]    AMAZON.COM*2V7KL0QT1 AMZN.COM/BILL WA               24431066252                    $38.96
+[[DATE?|09/10]]  [[DATE?|09/11]]    COSTCO WHSE #0388 NAPERVILLE IL                     24013396253                   $312.55
+[[DATE?|09/11]]  [[DATE?|09/12]]    WALGREENS #11847 NAPERVILLE IL                      24445006254                    $21.79
+[[DATE?|09/12]]  [[DATE?|09/13]]    UNITED 0162334871026 HOUSTON TX                     24692166255                   $486.40
+                   PASSENGER: [[PERSON|ADEYEMIHART/OLUWASEUN]] ORD-LOS 12OCT
+[[DATE?|09/13]]  [[DATE?|09/15]]    LOU MALNATI'S #19 NAPERVILLE IL                     24224436256                    $64.33
+[[DATE?|09/14]]  [[DATE?|09/15]]    CASH ADVANCE ATM [[LOCATION?|1255 S STATE ST CHICAGO IL]]         74000156257                   $300.00
+[[DATE?|09/14]]  [[DATE?|09/15]]    CASH ADVANCE FEE                                                                   $15.00
+[[DATE?|09/15]]  [[DATE?|09/16]]    VENMO *[[PERSON|AISHA BELLO-NWOSU]] Visa Direct NY             24692166258                    $75.00
+[[DATE?|09/16]]  [[DATE?|09/17]]    COMED ACCT [[ID_NUMBER|0446 1127 093]] [[PHONE?|800-555-0166]] IL            24164076259                   $118.62
+[[DATE?|09/17]]  [[DATE?|09/18]]    DUPAGE ANIMAL HOSP NAPERVILLE IL                    24399006260                   $389.00
+[[DATE?|09/18]]  [[DATE?|09/19]]    SQ *BELLAS NAIL STUDIO Naperville IL                24692166261                    $58.00
+[[DATE?|09/19]]  [[DATE?|09/20]]    NETFLIX.COM LOS GATOS CA                            24492156262                    $22.99
+[[DATE?|09/20]]  [[DATE?|09/22]]    TARGET 00021774 NAPERVILLE IL                       24445006263                   $147.31
+[[DATE?|09/22]]  [[DATE?|09/23]]    PAYPAL *[[PERSON|OKAFOR-LEWIS T]]  [[PHONE?|4029357733]] CA               24692166264                    $55.00
+[[DATE?|09/23]]  [[DATE?|09/24]]    IL TOLLWAY-AUTOREPLENISH DOWNERS GROVE IL           24164076265                    $40.00
+[[DATE?|09/24]]  [[DATE?|09/25]]    BINNY'S BEVERAGE DEPOT NAPERVILLE IL                24445006266                    $89.17
+[[DATE?|09/26]]  [[DATE?|09/27]]    EDWARD HOSPITAL PATIENT PMT NAPERVILLE IL           24399006267                   $250.00
+[[DATE?|09/27]]  [[DATE?|09/28]]    [[ORGANIZATION?|NAPERVILLE CUSD 203]] STUDENT FEES WEB IL             24692166268                   $185.00
+                   STUDENT: [[PERSON MINOR|IFEOMA HART]] GR 07
+[[DATE?|09/29]]  [[DATE?|09/30]]    XFINITY MOBILE [[PHONE?|888-555-0148]] PA                      24492156269                    $45.00
+[[DATE?|10/01]]  [[DATE?|10/02]]    CHEWY.COM [[PHONE?|800-555-0112]] FL                           24692166270                    $74.12
+[[DATE?|10/02]]  [[DATE?|10/03]]    APPLE.COM/BILL [[PHONE?|866-555-0153]] CA                      24692166271                     $9.99
+[[DATE?|10/03]]  [[DATE?|10/04]]    TRADER JOE'S #694 NAPERVILLE IL                     24445006272                    $93.40
+
+               TOTAL PURCHASES/CASH FOR CARD ENDING [[CREDIT_CARD|9487]] THIS PERIOD    [[MONEY|$3,450.28]]
+
+                                                                                    Page 2 of 4
+
+--- Page 3 ---
+
+[[PERSON|OLUWASEUN A ADEYEMI-HART]]        Account ending in [[CREDIT_CARD|9487]]        Closing Date [[DATE?|10/05/2026]]
+
+PURCHASES -- AUTHORIZED USER [[PERSON|CALLUM R HART]]   Card ending [[CREDIT_CARD|3360]]
+Trans  Post     Description of Transaction or Credit                Reference Number               Amount
+[[DATE?|09/09]]  [[DATE?|09/10]]    STEAMGAMES.COM [[PHONE?|4255550178]] WA                        24692166273                    $59.99
+[[DATE?|09/14]]  [[DATE?|09/15]]    UBER   *TRIP HELP.UBER.COM CA                       24692166274                    $23.86
+[[DATE?|09/21]]  [[DATE?|09/22]]    SPEEDWAY 4417 NAPERVILLE IL                         24137466275                    $41.08
+[[DATE?|09/28]]  [[DATE?|09/29]]    GRUBHUB*PORTILLOS CHICAGO IL                        24692166276                    $31.27
+[[DATE?|10/04]]  [[DATE?|10/05]]    CHIPOTLE 2291 NAPERVILLE IL                         24224436277                    $14.65
+
+               TOTAL PURCHASES FOR CARD ENDING [[CREDIT_CARD|3360]] THIS PERIOD           [[MONEY|$170.85]]
+
+FEES
+[[DATE?|09/08]]  [[DATE?|09/08]]    BALANCE TRANSFER FEE                                                    $75.00
+[[DATE?|09/14]]  [[DATE?|09/15]]    CASH ADVANCE FEE                                                        $15.00
+                 TOTAL FEES FOR THIS PERIOD                                             $90.00
+
+INTEREST CHARGED
+[[DATE?|10/05]]  [[DATE?|10/05]]    INTEREST CHARGE ON PURCHASES                                            $52.38
+[[DATE?|10/05]]  [[DATE?|10/05]]    INTEREST CHARGE ON CASH ADVANCES                                         $4.11
+[[DATE?|10/05]]  [[DATE?|10/05]]    INTEREST CHARGE ON BALANCE TRANSFERS                                     $0.00
+                 TOTAL INTEREST FOR THIS PERIOD                                         $56.49
+
+                                   2026 TOTALS YEAR-TO-DATE
+                 Total fees charged in 2026                                            $213.00
+                 Total interest charged in 2026                                        $418.92
+
+INTEREST CHARGE CALCULATION     Your Annual Percentage Rate (APR) is the annual interest rate on your account.
+Type of Balance                   Annual Percentage     Balance Subject to     Interest     Billing
+                                  Rate (APR)            Interest Rate          Charge       Cycle
+Purchases                         24.74% (v)            $2,569.70              $52.38       30
+Cash Advances                     29.99% (v)            $166.67                $4.11        30
+Balance Transfers                  0.00% (p)            $1,833.33              $0.00        30
+  (v) = Variable Rate   (p) = Promotional Rate, expires [[DATE?|06/2027]]
+  Prime Rate used: 7.50% as of [[DATE?|09/30/2026]]. Purchase APR = Prime + 17.24%.
+
+                                                                                    Page 3 of 4
+
+--- Page 4 ---
+
+IMPORTANT NOTICES
+Paperless statements: this statement was also delivered to [[EMAIL|seun.adeyemihart@gmail.com]]. To change your
+delivery preference sign in at meridianshore.example. Your online user ID on file begins with "[[USERNAME|sahart]]***".
+AutoPay: Minimum payment from checking account ****[[BANK_ACCOUNT|6620]] at routing [[ROUTING_NUMBER|071319652]] is scheduled for
+[[DATE?|10/30/2026]]. To cancel AutoPay call us at least 3 business days before the scheduled date.
+
+BILLING RIGHTS SUMMARY (Keep for future use). What To Do If You Think You Find A Mistake On Your
+Statement: If you think there is an error on your statement, write to us at: [[ADDRESS?|Meridian Shore Bank,
+PO Box 30285, Salt Lake City, UT 84130-0285]]. In your letter, give us the following information:
+Account information: Your name and account number. Dollar amount: The dollar amount of the suspected
+error. Description of Problem: If you think there is an error on your bill, describe what you believe
+is wrong and why you believe it is a mistake. You must contact us within 60 days after the error
+appeared on your statement. You must notify us of any potential errors in writing. You may call us,
+but if you do we are not required to investigate any potential errors and you may have to pay the
+amount in question. (Regulation Z, 12 CFR 1026.13; Form G-10(C)).
+
+Payments: Mail payments with the coupon below. Payments received by 5 p.m. ET at the address on the
+coupon will be credited as of the date of receipt. Do not send cash. Write your account number on
+your check. NMLS ID 409982. Meridian Shore Bank is a Member FDIC.
+
+- - - - - - - - - - - - - - - - - - - - - - - DETACH HERE - - - - - - - - - - - - - - - - - - - - - -
+
+[[ORGANIZATION?|MERIDIAN SHORE BANK]]                                    Account Number    [[CREDIT_CARD|4388 9096 0557 9487]]
+PAYMENT COUPON                                         New Balance       [[MONEY|$7,762.94]]
+                                                       Minimum Payment   [[MONEY|$224.00]]
+Make check payable to Meridian Shore Bank.             Payment Due Date  [[DATE?|11/01/2026]]
+                                                       Amount Enclosed   $ ______________ . ____
+[[PERSON|OLUWASEUN A ADEYEMI-HART]]
+[[ADDRESS|77 LARKSPUR CT UNIT 5]]                                   [[ORGANIZATION?|MERIDIAN SHORE BANK]]
+[[ADDRESS|NAPERVILLE IL 60540-8812]]                                [[ADDRESS?|PO BOX 6294]]
+                                                       [[ADDRESS?|CAROL STREAM IL 60197-6294]]
+[ ] Check here for address change; complete reverse side.
+
+    [[CREDIT_CARD|4388909605579487]] 000022400 0000776294 5
+
+                                                                                    Page 4 of 4

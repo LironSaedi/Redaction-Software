@@ -1,0 +1,85 @@
+[[ORGANIZATION?|DEKALB WOMEN'S WELLNESS & FAMILY PLANNING CENTER]]
+[[ADDRESS?|315 W. Ponce de Leon Ave, Suite 410]]  [[ADDRESS?|Decatur, GA 30030]]  Ph [[PHONE|404-371-8820]]  Confidential line [[PHONE|404-371-8826]]
+
+CLINIC VISIT NOTE -- GYNECOLOGY / SEXUAL HEALTH                         Page 1 of 3
+----------------------------------------------------------------------------------------
+Patient:   [[PERSON|ADEBAYO-CLARKE, JASMINE TOLULOPE]]     Acct#: [[MRN|DWW-0093318]]   Chart#: [[MRN|114072]]
+DOB:       [[DATE_OF_BIRTH|05/30/2002]]  ([[AGE|24]] y)    Sex at birth: F   Gender: woman
+Address:   [[ADDRESS|1140 Columbia Drive, Apt 7]]  [[ADDRESS|Decatur, GA 30032]]
+Phone:     [[PHONE|(470) 228-5193]]  ** Do NOT call home / no voicemail -- text only per pt **
+Email:     [[EMAIL|jtac.writes@gmail.com]]
+Payer:     [[ORGANIZATION?|Magnolia Choice Health]] (student plan)  Member [[HEALTH_PLAN_ID|MCH4471208835]]  Grp [[HEALTH_PLAN_ID|GSU-STU-26]]
+Visit:     [[DATE|09/02/2026]]  10:20   Provider: [[PERSON|Corinne Abernathy-Moss]], CNM, WHNP-BC
+MA:        [[PERSON|Keyonna R.]]    Interpreter: none needed
+----------------------------------------------------------------------------------------
+
+S:  [[AGE|24 y/o]] [[SEXUAL_REPRODUCTIVE_HEALTH|G2P0020]] here for STI testing after partner disclosed
+    "something showed up" on his test. Reports [[SEXUAL_REPRODUCTIVE_HEALTH|abnormal vaginal discharge x 10 days, post-coital
+    spotting, and dysuria]]. LMP [[DATE|08/09/2026]], regular 28-30 d. Currently using [[SEXUAL_REPRODUCTIVE_HEALTH|condoms
+    inconsistently; stopped combined OCP in June]] due to headaches.
+    Sexual hx: [[SEXUAL_REPRODUCTIVE_HEALTH|2 male partners in past 6 months; receptive vaginal and oral; condom use "about
+    half the time."]] Current partner [[PERSON|Marcus Delacroix-Hunt]] (since May); prior partner "[[PERSON|Dre]]" (no contact).
+    OB hx: [[SEXUAL_REPRODUCTIVE_HEALTH|SAB at 7 wks 2021; medication abortion at 6 wks 2023 (this clinic)]].
+    GYN hx: [[SEXUAL_REPRODUCTIVE_HEALTH|LSIL Pap 2024, colposcopy CIN 1, f/u Pap 2025 normal]]. HPV vaccine x3 complete.
+    PMH: [[MEDICAL_CONDITION?|sickle cell trait]]; [[MEDICAL_CONDITION?|migraine with aura]] (dx 2026 -- estrogen now contraindicated).
+    Psych: [[MENTAL_HEALTH|depression]] on [[MEDICATION|bupropion XL 150 mg]]; sees counselor at [[ORGANIZATION?|GSU Counseling Center]].
+    Meds: [[MEDICATION|bupropion XL]] 150 mg daily; [[MEDICATION?|sumatriptan]] 50 mg PRN.   Allergies: sulfa (rash).
+    Social: Second-year MFA student at [[SCHOOL|Georgia State University]]; works weekends as [[INDIRECT_ROLE|the opening
+    barista at the Little Five Points location of Highland Grind]] ([[EMPLOYER|Highland Grind Coffee]]). Lives with
+    roommate. [[SUBSTANCE_USE|Alcohol 3-4 drinks on weekends; cannabis edibles ~2x/week]]. No tobacco.
+    IPV screen: Partner "gets jealous" and checked her phone; denies physical violence or forced sex; feels
+    safe going home. Resources given discreetly (card in wallet slot). Safe contact: text only.
+
+O:  BP 112/70  HR 76  T 98.6  Wt 141 lb  Ht 5'6"  BMI 22.8
+    Gen: Well-appearing, [[PHYSICAL_DESCRIPTOR|long box braids, small tattoo of a crescent moon behind the right ear]].
+    Abd: Soft, mild suprapubic tenderness, no rebound.
+    Pelvic (chaperone [[PERSON|K. Rowe]], MA): External genitalia normal, no lesions. Vagina with moderate
+    yellow mucopurulent discharge. [[SEXUAL_REPRODUCTIVE_HEALTH|Cervix friable, bleeds on contact]]. No CMT. Uterus
+    anteverted, normal size, non-tender. No adnexal masses or tenderness.
+    In-office: [[SEXUAL_REPRODUCTIVE_HEALTH|urine hCG NEGATIVE]]; UA: LE 1+, nitrite neg; wet mount: WBC >10/hpf, no
+    clue cells, no trichomonads; vaginal pH 4.5.
+
+----------------------------------------------------------------------------------------
+[[ORGANIZATION?|DeKalb Women's Wellness]]  |  [[PERSON|ADEBAYO-CLARKE, JASMINE T]]  |  DOB [[DATE_OF_BIRTH|05/30/2002]]  |  Acct [[MRN|DWW-0093318]]   Pg 2/3
+----------------------------------------------------------------------------------------
+LABS SENT (Quest req# [[MRN?|QD7731052]])
+    Test                                  Specimen        Result ([[DATE|09/04/2026]])     Ref
+    ------------------------------------  --------------  ---------------------------  --------
+    Chlamydia trachomatis NAAT            vaginal swab    [[SEXUAL_REPRODUCTIVE_HEALTH|DETECTED]]                     Not det
+    Neisseria gonorrhoeae NAAT            vaginal swab    Not detected                 Not det
+    Trichomonas vaginalis NAAT            vaginal swab    Not detected                 Not det
+    HIV-1/2 Ag/Ab 4th gen                 serum           Non-reactive                 NR
+    Syphilis (RPR w/ reflex)              serum           Non-reactive                 NR
+    Hepatitis C Ab                        serum           Non-reactive                 NR
+    Pharyngeal GC/CT NAAT                 throat swab     Not detected                 Not det
+
+A:  1. [[SEXUAL_REPRODUCTIVE_HEALTH|Chlamydial cervicitis]] (A56.09) -- confirmed by NAAT [[DATE|9/4]].
+    2. [[SEXUAL_REPRODUCTIVE_HEALTH|Contraception counseling; estrogen contraindicated (migraine w/ aura)]].
+    3. Depression, stable on current tx.
+    4. Partner relationship with controlling behaviors -- monitor.
+
+P:  1. [[MEDICATION|Doxycycline]] 100 mg PO BID x 7 days, e-Rx to [[INDIRECT_LOCATION|the CVS at North Decatur Rd and
+       Clairmont]] (pt request -- "not the one by my apartment"). Abstain x 7 d after both treated.
+    2. Expedited partner therapy (EPT, O.C.G.A. 31-17-7.1): Rx for [[MEDICATION|doxycycline]] issued in name of
+       [[PERSON|Marcus Delacroix-Hunt]], DOB [[DATE_OF_BIRTH|11/17/1999]], per pt. Prior partner -- pt declines to notify;
+       anonymous notification offered via DPH (pt will consider).
+    3. Report to [[ORGANIZATION?|Georgia DPH]] (notifiable). DIS may call pt -- pt consents to text at [[PHONE|470-228-5193]].
+    4. Contraception: [[SEXUAL_REPRODUCTIVE_HEALTH|chose levonorgestrel 52 mg IUD]]; placement scheduled [[DATE|09/16/2026]];
+       [[SEXUAL_REPRODUCTIVE_HEALTH|condoms + emergency contraception (ulipristal) Rx given in the interim]].
+    5. Test of reinfection in 3 months (~[[DATE|12/02/2026]]).
+    6. PrEP: [[SEXUAL_REPRODUCTIVE_HEALTH|discussed HIV PrEP; pt interested]] -- baseline Cr ordered; f/u with IUD visit.
+    7. IPV: safety planning; given [[ORGANIZATION?|Partnership Against Domestic Violence]] 24h line.
+
+Results notification [[DATE|09/04/2026]] 14:12: via secure text to pt's cell (not portal per pt request --
+partner knows her portal password). Pt verified identity with DOB and last 4 of SSN ([[SSN|7714]]).
+----------------------------------------------------------------------------------------
+[[ORGANIZATION?|DeKalb Women's Wellness]]  |  [[PERSON|ADEBAYO-CLARKE, JASMINE T]]  |  DOB [[DATE_OF_BIRTH|05/30/2002]]  |  Acct [[MRN|DWW-0093318]]   Pg 3/3
+----------------------------------------------------------------------------------------
+Title X confidential visit -- no Explanation of Benefits to be mailed to policyholder address. Pt is
+the policyholder; EOBs suppressed per GA confidential communication request on file [[DATE|09/02/2026]].
+
+Signed: [[PERSON|Corinne Abernathy-Moss]], CNM, WHNP-BC   [[DATE|09/02/2026]] 12:48   addendum [[DATE|09/04/2026]] 14:20
+Reviewed: [[PERSON|Lakshmi Raman-Ortiz]], MD (collaborating physician)
+
+THIS RECORD CONTAINS REPRODUCTIVE AND SEXUAL HEALTH INFORMATION. Redisclosure requires specific
+written authorization (45 CFR 164.502; 164.509 reproductive health care attestation).
