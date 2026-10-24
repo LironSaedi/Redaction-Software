@@ -9,6 +9,9 @@ download it.
 **Nothing leaves your machine.** All OCR, language models, face/plate detection and speech recognition run
 locally. There are no cloud APIs, no telemetry and no CDN; it works on a computer with no internet at all.
 
+**Getting started:** step-by-step directions for setup, models, running, tests, installers and pushing changes
+are in [DIRECTIONS.md](DIRECTIONS.md).
+
 ---
 
 ## 1. Where it runs
