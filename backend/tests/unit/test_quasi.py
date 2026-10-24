@@ -45,7 +45,10 @@ def test_numbered_stores(rules, text):
 
 @pytest.mark.parametrize("text", ["MCDONALD'S F6055 MINNEAPOLIS MN", "SHELL OIL 4310 ORLANDO FL", "WALGREENS #2650 KILGORE TX"])
 def test_card_merchant_lines(rules, text):
-    assert any(s.entity == "INDIRECT_LOCATION" for s in rules(f"03/14  Card Purchase {text} Card 2621  $12.00")), found(rules(text))
+    # a chain store and its town on a card statement is offered for review, not redacted on its own
+    spans = rules(f"03/14  Card Purchase {text} Card 2621  $12.00", include_suggestions=True)
+    loc = [s for s in spans if s.entity == "INDIRECT_LOCATION"]
+    assert loc and not any(s.meta.get("selected") for s in loc), found(spans)
 
 
 @pytest.mark.parametrize("text", ["apartment 4B", "Apt. 12", "the Pinecrest Apartments, unit 213", "she stays in room 214 at the motel"])

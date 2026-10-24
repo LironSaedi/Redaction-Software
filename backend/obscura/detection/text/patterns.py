@@ -17,7 +17,7 @@ import phonenumbers
 from phonenumbers import Leniency
 
 from . import validators as V
-from .base import NormText, Span, window
+from .base import NormText, Span, _ocr_word, window
 
 # ---------------------------------------------------------------------------------------------
 # helpers
@@ -118,7 +118,7 @@ _HANDLE_PLATFORM = re.compile(r"(?<![\w@.])(@?[A-Za-z0-9][A-Za-z0-9._-]{2,30}[A-
                               r"snapchat|snap|tiktok|twitter|x|facebook|fb|venmo|cash\s*app|telegram|discord|threads|"
                               r"linkedin|reddit|youtube|twitch|kik|whatsapp)\b")
 # "Ofc. M. Begay #S-114", "Det. N. Wojcik #D-6614", "Deputy Ruiz #4412": an officer's badge after the name
-_OFFICER_BADGE = re.compile(r"\b(?i:ofc|officer|det|detective|sgt|sergeant|lt|cpl|corporal|dep|deputy|trooper|tpr|agent|"
+_OFFICER_BADGE = re.compile(r"\b(?i:ofc|officer|det|detective|sgt|sergeant|lt|cpl|corporal|dep(?=\.)|deputy|trooper|tpr|agent|"
                             r"inv|investigator)\.?\s+(?:[A-Z]\.\s*)?[A-Z][A-Za-z'’-]+(?:\s+[A-Z][A-Za-z'’-]+)?,?\s*\n?\s*"
                             r"\(?#\s*([A-Z]{0,4}-?\d{2,7})\b")
 # "KPD 26-011842", "MNPD 2026-0217733", "DPD-26-0042116", "PBP 26-071194": an agency code and a report number
@@ -471,6 +471,8 @@ def find_gps(nt: NormText) -> Iterator[Span]:
         lat, lon = float(m.group(1)), float(m.group(3))
         if not V.gps_ok(lat, lon):
             continue
+        if abs(lat) < 1 and abs(lon) < 1:
+            continue  # "-0.01300000,-0.00002100" — amounts in a crypto export; nobody lives at 0°N 0°E
         s, e = m.span()
         ctx = _ctx(nt, s, e, GPS_CTX)
         hemis = bool(m.group(2) or m.group(4))
@@ -535,6 +537,8 @@ def _is_dob(nt: NormText, s: int, e: int) -> bool:
         between = left[labs[-1].end():]
         if not re.match(r"\s*[/&]", between) and re.search(r"[a-z][a-z /]{1,25}:\s*$|\d\s{2,}[a-z]", between):
             return False
+        if re.search(r"(?:\b(?:before|after|prior\s+to)|\bat|\bas\s+of)\s*$", between):
+            return False  # "born before January 2, 1961" (a cut-off), "DOB 02/17/2016 (9 at 12/31/25)" (an as-of date)
         return bool(DOB_CTX.search(labs[-1].group()) or re.search(r"birth|born|nacid|nacimiento|d\.?\s?o\.?\s?b",
                                                                   labs[-1].group()))
     if DOB_CTX.search(t[e:e + 4]):
@@ -824,6 +828,9 @@ def find_secrets(nt: NormText) -> Iterator[Span]:
             yield _span(nt, s, e, "PASSWORD", 0.9, "pattern:access_code", "door / gate / alarm code")
     for m in _SECRET.finditer(nt.text):
         val = m.group(1)
+        if _ocr_word(val.rstrip(".:")):  # "password wi11 be sent", "PIN f0r ATM card": an OCR'd word
+            val = val.lower().replace("0", "o").replace("1", "l").replace("|", "l")
+        val = val.rstrip(".:") or val  # "PIN set: Y" — the word, not its colon
         if re.search(r"(?i)\bwith\s*$", nt.text[max(0, m.start() - 6):m.start()]):
             continue  # "Card Purchase With Pin 08/14" is a transaction type
         if re.fullmatch(r"\d{1,2}/\d{1,2}(?:/\d{2,4})?", val):

@@ -17,7 +17,7 @@ _REPORTER = (r"(?:S\.\s?W\.\s?(?:2d|3d)?|F\.\s?(?:2d|3d|4th)?|F\.\s?Supp\.(?:\s?
 _CASE_CITE = re.compile(
     r"(?:\b(?:In\s+re|Ex\s+parte|In\s+the\s+Matter\s+of)\s+[A-Z][\w.'’&-]*(?:\s+[A-Z][\w.'’&-]*){0,4}"
     r"|[A-Z][\w.'’&-]*(?:\s+(?:[A-Z][\w.'’&-]*|of|the|and|&|de|la)){0,8}\s+v(?:s)?\.\s+[A-Z][\w.'’&-]*"
-    r"(?:\s+(?:[A-Z][\w.'’&-]*|of|the|and|&|de|la)){0,8})"
+    r"(?:\s+(?:[A-Z][\w.'’&-]*|of|the|and|&|de|la)){0,8}(?:,\s+(?:Inc|LLC|L\.L\.C|Corp|Co|Ltd|LLP|L\.P|N\.A|P\.C)\.?)?)"
     r",?\s*(?:\d{1,4}\s+" + _REPORTER + r"\s*\d{1,5}|\(\s*(?:[A-Z][\w.]*\s*){0,4}(?:19|20)\d{2}\s*\)|\d{4}\s+(?:WL|U\.S\.\s+Dist\.\s+LEXIS))")
 _LIT_CITE = re.compile(r"(?:\b[A-Z][a-zA-Z'’-]+\s+[A-Z]{1,3}(?:,\s+|\.\s+)){1,8}(?:et\s+al\.?\s+)?(?:\"|“|[A-Z][a-z]+\s+[a-z])")
 EPONYMS = {w.lower() for w in """
@@ -65,6 +65,9 @@ pharmacist chiropractor dentist hygienist aide caregiver housekeeper janitor cus
 bartender waiter waitress stocker loader packer picker handler associate executive president vice ceo cfo owner
 casualty senior junior lead staff certified licensed registered practical vocational clinical medical dental legal
 hr human resources payroll benefits trial lawyers attorneys counsel firm
+generalist partner pathologist speech language installer estimator designer surveyor mgr mgmt baggage delivery shop
+fraud ops tier business data teller banker underwriter processor collector bookkeeper auditor dispatcher planner
+advisor adviser rep reps servicing compliance branch ramp warehouse sales account accounts loan
 """.split()}
 CREDENTIALS = {w.lower() for w in """
 md m.d. do d.o. rn bsn msn dnp np aprn fnp pmhnp cnm crna pa pa-c pac lpn lvn cna rma cma emt emt-p emt-b paramedic
@@ -101,6 +104,10 @@ def is_not_a_person(text: str, start: int, end: int) -> str | None:
     low = [w.lower() for w in words]
     after = text[end:end + 40]
     if all(w in OCCUPATION_WORDS or w in CREDENTIALS for w in low):
+        return "job title / credential"
+    # "Owner/President", "Designer/Estimator", "Speech-Language Pathologist"
+    if any("/" in w or "-" in w for w in low) and all(
+            p in OCCUPATION_WORDS or p in CREDENTIALS for w in low for p in re.split(r"[/-]", w) if p):
         return "job title / credential"
     if all(w in LEGAL_ROLES for w in low):
         return "legal role"

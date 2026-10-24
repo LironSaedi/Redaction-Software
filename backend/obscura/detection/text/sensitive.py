@@ -285,6 +285,8 @@ def find_sensitive(nt: NormText) -> Iterator[Span]:
     for m in _MONEY.finditer(t):
         yield _mk(nt, *m.span(), "MONEY", 0.6, "pattern:money", "monetary amount")
     for m in _FINANCIAL.finditer(t):
+        if re.search(r"\$\s?0(?:\.00)?$", m.group()):
+            continue  # "Foreign tax paid  $ 0.00" says nothing about anyone's finances
         yield _mk(nt, *m.span(), "FINANCIAL_INFO", 0.8, "pattern:financial", "income / financial status")
 
 

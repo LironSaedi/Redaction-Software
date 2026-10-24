@@ -135,6 +135,24 @@ _LEAD_ROLE = {"CONTINGENT", "PRIMARY", "BENEFICIARY", "BENE", "PAYEE", "PAYER", 
               "OWNER", "JOINT", "SPOUSE", "DEPENDENT", "STUDENT", "INSURED", "SUBSCRIBER", "MEMBER", "DEBTOR"}
 _DEPARTMENT = re.compile(r"(?i)\b(?:operations|department|dept|services|desk|team|center|centre|unit|division|support|"
                          r"processing|servicing|collections|recovery|underwriting|compliance|payroll|billing|accounts)\s*$")
+# job-title heads: an NER "person" right before one is the start of a title ("Senior Data| Engineer", "RAMP| SUPERVISOR")
+_JOB_HEAD = re.compile(r"[ \t]+(?:Engineer|Supervis[o0]r|Surveyor|Consultant|Specialist|Manager|Mgr|Analyst|Technician|"
+                       r"Coordinator|Director|Officer|Clerk|Representative|Rep|Administrator|Operator|Inspector|Estimator|"
+                       r"Installer|Handler|Driver|Advis[oe]r|Planner|Processor|Underwriter|Examiner|Auditor|Accountant|"
+                       r"Bookkeeper|Teller|Banker|Foreman|Pathologist|Therapist|Generalist|Assistant|Associate|Agent|"
+                       r"Developer|Scientist|Programmer|Designer|Mechanic|Electrician|Aide)(?![\w])", re.I)
+# trade names: "ABERNATHY MOBILE DETAILING", "Ruiz Tile Works" — a business named after its owner
+_TRADE_TAIL = re.compile(r"(?i)detailing|landscaping|lawn|plumbing|roofing|cleaning|janitorial|painting|remodeling|"
+                         r"renovations?|construction|contracting|consulting|photography|mapping|photogrammetry|designs?|"
+                         r"studios?|works|tile|repairs?|trucking|hauling|transport|logistics|catering|bakery|salon|"
+                         r"barbershop|boutique|realty|properties|rentals|electric|mechanical|hvac|heating|cooling|pest|"
+                         r"moving|storage|supply|supplies|imports|foods|kitchen|cafe|café|grill|farms?|ranch|dental|"
+                         r"pediatrics|media|marketing|solutions|technologies|software|labs|ventures|capital|advisors|"
+                         r"agency|express|auto|automotive|motors|enterprises")
+# a company named in the document: "Ridgeline Auto Finance, LLC", "Hollis Comfort Air, Inc."
+# ("Co." is left out: "Travis Co." is a county)
+_FIRM = re.compile(r"(?<![\w&])([A-Z][A-Za-z'’]+(?:[ \t]+(?:[A-Z][A-Za-z'’]+|&|of)){1,5}),?[ \t]+(?:LLC|L\.L\.C\.|Inc\.?|"
+                   r"Corp\.?|Corporation|Company|Ltd\.?|LLP|PLLC|P\.C\.|N\.A\.)(?![\w])")
 _PERSON_BAD = re.compile(r"(?i)^(?:dr|mr|mrs|ms|patient|plaintiff|defendant|pt|md|rn|np|pa|esq|q|a|re|cc|"
                          r"attn|sir|madam|counsel|your\s+honor|honor|the\s+court|court)\.?$")
 
@@ -208,6 +226,8 @@ class TextAnalyzer:
         cands = ner.merge_adjacent_people(atext, cands)
         cands = self._person_filters(atext, cands)
         spans = self._fuse(atext, cands)
+        firms = firm_mentions(atext)
+        spans = [sp for sp in spans if not _firm_not_person(atext, sp, firms)]
 
         if opts.propagate:
             spans = self._propagate(atext, match_nt, spans, opts)
@@ -405,12 +425,41 @@ class TextAnalyzer:
                 sp.start = cut
                 words = words[1:]
             v = sp.text = text[sp.start:sp.end]
+            # "DESHAWN M ABERNATHY DBA ABERNATHY MOBILE DETAILING": the trade name after DBA is a business
+            dm = re.search(r"\s+(?:DBA|D/B/A|dba|d/b/a)(?![\w/])", v)
+            if dm and dm.start() > 0:
+                sp.end = sp.start + dm.start()
+                v = sp.text = text[sp.start:sp.end]
+                words = v.split()
+            if sp.source.startswith("ner:"):
+                if "\n" in v:  # a title over a line break: "CSRP\nSenior Recovery" (Specialist)
+                    first, _, second = v.partition("\n")
+                    if second.split() and second.split()[0].lower().strip(".,") in negatives.OCCUPATION_WORDS:
+                        sp.end = sp.start + len(first.rstrip())
+                        v = sp.text = text[sp.start:sp.end]
+                        words = v.split()
+                        if not words or len(words) == 1 and re.fullmatch(r"[A-Z]{2,5}", words[0]):
+                            return None  # what is left is a credential ("Whitfield-Osei, CSRP")
+                if len(words) <= 2 and _JOB_HEAD.match(text[sp.end:sp.end + 24]) and (
+                        len(words) == 1 or words[0].lower().strip(".,") in negatives.OCCUPATION_WORDS or
+                        words[0].lower().strip(".,") in names.HARD_STOP):
+                    return None  # "Senior Data| Engineer", "RAMP| SUPERVISOR", "DRONE| SURVEYOR"
+                if v.isupper() and re.fullmatch(r"[A-Z][A-Z.'’ -]*[A-Z.]{3}[ \t](?:" + addresses.STATE_ABBR + r")", v):
+                    sp.entity, sp.score = "LOCATION", min(sp.score, 0.5)  # "PHOENIX AZ" in a tracking log
+                    return sp
+                if len(words) >= 2 and _TRADE_TAIL.fullmatch(words[-1].strip(".,")) or re.match(
+                        r"[ \t]+#\s?\d{1,6}\b" if re.search(r"[A-Z]['’]S$", v) else r"['’]S[ \t]+#\s?\d{1,6}\b",
+                        text[sp.end:sp.end + 12]):
+                    sp.entity, sp.score = "ORGANIZATION", min(sp.score, 0.6)  # "ABERNATHY MOBILE DETAILING"
+                    return sp  # "LOU MALNATI'S #19 NAPERVILLE IL" — a store and its number
             if all(w.upper().strip(".,:") in _STMT_TAIL for w in words) or _DEPARTMENT.search(v):
                 return None  # "EFX XPN TU" (credit-bureau columns), "Deposit Operations" (a department)
             if all(w.lower().strip(".,") in names.HARD_STOP for w in words):
                 return None
             if words[0].lower() in ("my", "his", "her", "our", "their", "your", "its"):
                 return None  # "My Medicaid Member Eid" — a possessive phrase, not a name
+            if len(words) >= 2 and words[-1] in _PARTICLES and sp.source.startswith("ner:"):
+                return None  # "Necesito el" — a particle ends a phrase, never a name
             if len(words) >= 2 and words[-1].lower().strip(".") in _STREET_TAILS:
                 return None  # "Ben White Blvd" — a street named after someone
             # names are capitalised word by word (particles excepted): "HVAC technician" is a job, not a person
@@ -427,12 +476,26 @@ class TextAnalyzer:
             if sp.source.startswith("ner:") and len(words) == 1 and re.match(
                     r"\s*(?:&\s+[A-Z]|(?:Shorthand|Manager|Reporter|Supervisor|LLP|LLC|Inc|PLLC|P\.C\.)\b)", text[sp.end:sp.end + 16]):
                 return None  # "Brown & Kessler LLP", "Store Manager", "Certified Shorthand Reporter"
+            if cut and cut.start() > 0 and sp.source.startswith("ner:") and len(v[:cut.start()].split()) == 1 and \
+                    "," not in v[cut.start():cut.start() + 2]:
+                return None  # "DRONE SURVEYOR", "RAMP SUPERVISOR" — the whole span is a job title
             if cut and cut.start() > 0:
                 sp.end = sp.start + cut.start()
                 sp.text = text[sp.start:sp.end]
                 v = sp.text
         elif sp.entity == "ADDRESS" and sp.source.startswith("ner:") and not re.search(r"[A-Za-z]{3}", v):
             return None  # "72125      0450" — code columns, not an address
+        elif sp.entity == "ADDRESS" and sp.source.startswith("ner:") and re.search(
+                r"(?:\.{2,}|[xX*•]{2,})$", text[max(0, sp.start - 4):sp.start]):
+            return None  # "card ...8826  Swann Ave Jewelers" — the number belongs to the masked card
+        elif sp.entity == "ADDRESS" and sp.source.startswith("ner:") and (
+                re.fullmatch(r"[A-Za-z][A-Za-z'’ .&-]*[ \t]+#\s?\d{2,6}", v) and not re.match(
+                    r"(?i)(?:p\.?\s?o\.?|box|calle|avenida|av|rue|via|apt|apartment|suite|ste|unit)\b", v) or
+                re.fullmatch(r"(?:" + quasi._BRAND_RX + r")[ \t]+#?\s?\d{2,6}", v, re.I)):
+            # "Kroger #0447", "SPEEDWAY 4417", "BLUEBONNET PHARMACY #212": a store and its number, not a street address
+            if quasi._txn_merchant(text, sp.start, sp.end):
+                return None  # a card purchase on a statement ("09/21  SPEEDWAY 4417 NAPERVILLE IL")
+            sp.entity, sp.score = "INDIRECT_LOCATION", min(sp.score, 0.45)
         elif sp.entity == "ADDRESS" and sp.source.startswith("ner:") and re.search(
                 r"(?i)\b(?:co\.?|county)\s+\d+(?:st|nd|rd|th)\b|\b\d+(?:st|nd|rd|th)\s+(?:district|judicial|court)", v):
             return None  # "Travis Co 345th" — a court, not an address
@@ -441,9 +504,22 @@ class TextAnalyzer:
         elif sp.entity == "EMPLOYER" and sp.source.startswith("ner:") and (
                 _TITLE_TAIL.match(v) or all(w.lower().strip(".,") in negatives.OCCUPATION_WORDS for w in v.split())):
             return None  # "Assistant Principal" — a job title, not an employer
+        elif sp.entity == "EMPLOYER" and sp.source.startswith("ner:") and _unocr(v) in (
+                "employee", "employer", "employees", "employers", "employee's", "employer's"):
+            return None  # an OCR'd form label ("Ernployee's address", "Ernp1oyer's state ID")
         elif sp.entity == "DATE_OF_BIRTH" and sp.source.startswith("ner:"):
-            if not re.search(r"\d{1,2}[/.-]\d{1,2}|(?i:" + patterns.MONTHS + r")", v):
-                return None  # a bare year is not a birth date
+            if not re.search(r"\d{1,2}[/.-]\d{1,2}|(?i:" + patterns.MONTHS + r")", v) or re.fullmatch(
+                    r"(?:19|20)\d{2}\s*[-–/]\s*(?:19|20)?\d{2}", v.strip()):
+                return None  # a bare year or a span of years ("SSN ISSUED 1995-1996") is not a birth date
+            if _future_date(v):
+                return None  # "Next interest payment 12/31/2026" — nobody is born after today
+            before = text[max(0, sp.start - 60):sp.start]
+            if re.search(r"(?i)\bborn\s+(?:on\s+or\s+)?(?:before|after)\s*$", before):
+                return None  # "Were born before January 2, 1961" — a cut-off date on a tax form
+            if re.search(r"(?i)\b(?:payment|paid|due|issued|in\s+operation|effective|filed|opened|closed|through|"
+                         r"period|ending|as\s+of|statement|since)\b[^\n]{0,20}$", before) and not re.search(
+                    r"(?i)\b(?:born|birth|d\.?o\.?b|age)\b", before):
+                return None  # "the Applicant was in operation on February 15, 2020"
         elif sp.entity == "LOCATION":
             if _STATES_COUNTRIES.match(v):
                 sp.score = min(sp.score, 0.3)  # HIPAA permits state; country is never identifying
@@ -652,7 +728,11 @@ class TextAnalyzer:
                     continue  # "Kroger #0447" is a store, even if a loan also ends in 0447
                 extra.append(Span(m.start(), m.end(), src.entity, max(0.85, src.score - 0.05), "propagate:value",
                                   m.group(), f"another occurrence of a detected {ENTITIES[src.entity].label.lower()}"))
+        firms = firm_mentions(text)
+
         def in_firm_name(sp: Span) -> bool:
+            if any(a <= sp.start and sp.end <= b and (a, b) != (sp.start, sp.end) for a, b, _ in firms):
+                return True  # "Hollis Comfort Air's 2025 Form 1120-S" — the company, not Ms. Hollis
             before, after = text[max(0, sp.start - 30):sp.start], text[sp.end:sp.end + 40]
             return bool(re.search(r"[A-Z][A-Za-z'’-]+,?\s*(?:&|and)\s*$", before) or
                         re.match(r",?\s*(?:&|and)\s+[A-Z]", after) or
@@ -706,6 +786,67 @@ class TextAnalyzer:
             return spans
         allowed = {a.strip().lower() for a in allow if a.strip()}
         return [s for s in spans if s.text.strip().lower() not in allowed]
+
+
+def _future_date(v: str) -> bool:
+    """A numeric (M/D/Y) or written ("February 15, 2020") date later than today."""
+    import datetime as _dt
+    m = re.search(r"(?<!\d)(\d{1,2})[/.-](\d{1,2})[/.-](\d{4}|\d{2})(?!\d)", v)
+    try:
+        if m:
+            y = int(m.group(3))
+            y = y + (2000 if y <= 40 else 1900) if y < 100 else y
+            d = _dt.date(y, int(m.group(1)), int(m.group(2)))
+        else:
+            m = re.search(r"(?i)\b(" + patterns.MONTHS + r")\.?\s+(\d{1,2}),?\s+(\d{4})\b", v)
+            if not m:
+                return False
+            d = _dt.datetime.strptime(f"{m.group(1)[:3].title()} {m.group(2)} {m.group(3)}", "%b %d %Y").date()
+    except ValueError:
+        return False
+    return d > _dt.date.today()
+
+
+def _unocr(v: str) -> str:
+    """Lower-case a single word with OCR's rn/m, 1/l, 0/o confusions undone ("Ernp1oyee" -> "employee")."""
+    return v.strip().lower().replace("rn", "m").replace("1", "l").replace("0", "o").replace("|", "l").replace("’", "'")
+
+
+def firm_mentions(text: str) -> list[tuple[int, int, tuple[str, ...]]]:
+    """Every mention of a company the document names with a corporate suffix somewhere ("Ridgeline Auto Finance,
+    LLC" -> each "Ridgeline Auto Finance" / "RIDGELINE AUTO FINANCE"), as (start, end, lower-case words)."""
+    cores: set[tuple[str, ...]] = set()
+    for m in _FIRM.finditer(text):
+        words = m.group(1).split()
+        while words and words[0].lower() in ("the", "of", "&"):
+            words = words[1:]
+        if len(words) >= 2 and words[-1] not in ("&", "of"):
+            cores.add(tuple(w.lower() for w in words))
+    out = []
+    for core in cores:
+        rx = re.compile(r"(?<![\w])" + r"\s+".join(re.escape(w) for w in core) + r"(?![\w])", re.I)
+        out.extend((m.start(), m.end(), core) for m in rx.finditer(text))
+    return out
+
+
+def _firm_not_person(text: str, sp: Span, firms: list[tuple[int, int, tuple[str, ...]]]) -> bool:
+    """An NER / case-style "person" that is a company named elsewhere in the document: "naming Ridgeline as loss
+    payee" (Ridgeline Auto Finance, LLC), "Abernethy-Okoro v. Gateway Arch" (Gateway Arch Recovery Services, LLC)."""
+    if sp.entity != "PERSON" or not firms:
+        return False
+    if not all(src.startswith(("ner:", "rule:case_style")) for src in sp.meta.get("sources", [sp.source])):
+        return False
+    words = tuple(w.lower() for w in re.sub(r"['’]s$", "", text[sp.start:sp.end]).split())
+    # one word only, or a case-style party: "John Smith" stays a person even beside "John Smith Plumbing, LLC"
+    if not words or len(words) > 2 or len(words) == 2 and not all(
+            src.startswith("rule:case_style") for src in sp.meta.get("sources", [sp.source])):
+        return False
+    for a, b, core in firms:
+        if a <= sp.start and sp.end <= b and (a, b) != (sp.start, sp.end):
+            return True
+        if len(core) > len(words) and core[:len(words)] == words:
+            return True
+    return False
 
 
 _CAPS_LINE = re.compile(r"[^\n]+")

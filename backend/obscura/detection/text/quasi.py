@@ -118,6 +118,8 @@ gi gastroenterology pulmonary lung kidney renal liver transplant burn stroke hea
 """.split()}
 _BRAND_ALONE = re.compile(rf"(?<![A-Za-z])(?:the\s+)?{_BRAND_RX}(?:\s+(?:Pharmacy|Store|Supercenter|Station|Market|"
                           rf"Gas|Restaurant|Oil|Express|lot|parking\s+lot|drive-?thru|pumps?))?(?:\s*#\s*\d{{1,6}}|\s+(?:No\.|Store)\s*\d{{1,6}})?(?![A-Za-z])", re.I)
+_STATE_CODES = ("AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|"
+                "NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY")
 _MERCHANT = re.compile(rf"(?i:{_BRAND_RX})(?:\s+[A-Z]{{2,10}})?\s*#?\s*[A-Z]?\d{{2,6}}\s+[A-Z][A-Z .'-]{{2,30}}?\s+"
                        rf"(?:AL|AK|AZ|AR|CA|CO|CT|DE|DC|FL|GA|HI|ID|IL|IN|IA|KS|KY|LA|ME|MD|MA|MI|MN|MS|MO|MT|NE|NV|NH|NJ|"
                        rf"NM|NY|NC|ND|OH|OK|OR|PA|RI|SC|SD|TN|TX|UT|VT|VA|WA|WV|WI|WY)(?![A-Za-z])")
@@ -345,6 +347,11 @@ def find_indirect(nt: NormText) -> Iterator[Span]:
                   "street of residence narrows a person to a few households")
     for m in _NAMED_VENUE.finditer(t):
         name = m.group()
+        if re.search(r"[ \t]{2,}", name) or re.match(r"[A-Za-z0-9]", t[m.end():m.end() + 1]):
+            continue  # table headings ("Price    Market Value"), an OCR'd word ("Notary Pub1ic")
+        if re.search(r"(?i)\b(?:money|bond|stock|equity|capital|securities|fixed[- ]income|emerging|total)\s+markets?\b",
+                     name):
+            continue  # "Money Market", "VANGUARD TOTAL BOND MARKET ETF" — an account or fund, not a place
         first = name.split()[1] if name.lower().startswith("the ") and len(name.split()) > 1 else name.split()[0]
         sb = re.search(r"^.*[a-z0-9]\.\s+(?=[A-Z])", name)
         if sb and not re.search(r"(?:\b[A-Z]|St|Dr|Mt|Ft|Co|Inc|Jr|Sr)\.\s+$", name[:sb.end()]):
@@ -364,14 +371,21 @@ def find_indirect(nt: NormText) -> Iterator[Span]:
             continue
         if re.match(r"\s+(?:Mutual|Insurance|Bureau|Credit|Bank)\b", t[m.end():m.end() + 12]):
             continue
-        yield _mk(nt, *m.span(), "INDIRECT_LOCATION", 0.6, "quasi:named_venue",
+        # a card-statement merchant and its town ("SQ *BELLAS NAIL STUDIO Naperville IL") is offered for review
+        score = 0.45 if _txn_merchant(t, m.start(), m.end()) else 0.6
+        yield _mk(nt, *m.span(), "INDIRECT_LOCATION", score, "quasi:named_venue",
                   "a named venue (apartment complex, bar, church, motel…) can identify those connected to it")
+    merchants = [m.span() for m in _MERCHANT.finditer(t)]
     for m in _MERCHANT.finditer(t):
-        yield _mk(nt, *m.span(), "INDIRECT_LOCATION", 0.75, "quasi:merchant",
+        # a chain store and its town ("GIANT EAGLE #0067 DORMONT PA") is shared by thousands of shoppers: offered for
+        # review, not redacted on its own (a store on a named street — "QUIKWAY #3318 ELLIOT RD" — still is)
+        yield _mk(nt, *m.span(), "INDIRECT_LOCATION", 0.45, "quasi:merchant",
                   "card-transaction merchant and city place a person at a specific store")
     for m in _BRAND_ALONE.finditer(t):
         if re.sub(r"^(?i:the)\s+", "", m.group())[:1].islower():
             continue  # "loves", "target", "giant" in running text
+        if any(a < m.end() and m.start() < b for a, b in merchants):
+            continue  # the brand of a merchant line is the same evidence as the line, not a second source
         tail = t[m.end():m.end() + 40]
         if re.match(r"\s+(?:on|at|off|near|by|in|across|behind|next|located|just|store|station|parking|in)\b",
                     tail, re.I):
@@ -390,6 +404,10 @@ def find_indirect(nt: NormText) -> Iterator[Span]:
                   "a specific numbered store location" if numbered else
                   "a named business location — identifying when combined with time or role")
     for m in _UNIT_REF.finditer(t):
+        if re.match(r"(?i)s(?:ui)?te", m.group()) and re.search(
+                r"(?i)\b(?:LLC|PLLC|Inc|Corp|LLP|P\.?C|Dental|Clinic|Group|Office|Bank|Associates|Medical|Law|Plaza|"
+                r"Center|Tower|Building)\b\.?,?[^\n]{0,24}$", t[max(0, m.start() - 70):m.start()]):
+            continue  # "Lakeshore Ped. Dental, Ste 210" — a business suite, not a household
         yield _mk(nt, *m.span(), "INDIRECT_LOCATION", 0.6, "quasi:unit",
                   "apartment / unit / room number identifies a household")
     for m in _UNIT_SOFT.finditer(t):
@@ -496,6 +514,8 @@ def find_indirect(nt: NormText) -> Iterator[Span]:
                     r"\s+frame|mug|keychain)", after):
             yield _mk(nt, *m.span(), "SCHOOL", 0.45, "quasi:school", "school named on merchandise — shown for review")
             continue
+        if re.match(r"\s+(?:Grant|Scholarship|Fund|Program|Promise|Award)\b", after):
+            continue  # "Washington College Grant" — a state aid program, not a school
         ctx = _SCHOOL_CTX.search(t[max(0, m.start() - 80):m.end() + 40])
         yield _mk(nt, *m.span(), "SCHOOL", 0.8 if ctx else 0.6, "quasi:school", "school or university attended")
     for m in _VEHICLE.finditer(t):
@@ -775,6 +795,16 @@ def grow_locations(text: str, spans: list[Span]) -> None:
         if 0 <= b.start - a.end <= 4 and re.fullmatch(r"[ \t]*[,(]?[ \t]*", text[a.end:b.start]) and b.start > a.start:
             a.end = max(a.end, b.end)
             a.text = text[a.start:a.end]
+
+
+_TXN_LINE = re.compile(r"^[ \t]*\d{1,2}/\d{1,2}(?:/\d{2,4})?[ \t]")
+_CITY_ST_AFTER = re.compile(rf"(?:[ \t]+[A-Z][A-Za-z'’.&-]*){{0,3}}[ \t]+(?:{_STATE_CODES})(?![A-Za-z])")
+
+
+def _txn_merchant(t: str, s: int, e: int) -> bool:
+    """A business on a dated statement line followed by its town and state: a card purchase, not a hangout."""
+    ls = t.rfind("\n", 0, s) + 1
+    return bool(_TXN_LINE.match(t[ls:s + 1]) and _CITY_ST_AFTER.match(t, e))
 
 
 def combine_risk(text: str, spans: list[Span]) -> None:

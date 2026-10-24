@@ -143,7 +143,10 @@ _ACCT_LINE = re.compile(r"(?i)\b(?:ira|roth|401\s*\(?k\)?|403\s*\(?b\)?|sep|brok
                         r"servicing|lending|finance|direct\s+(?:subsidized|unsubsidized|plus)|parent\s+plus|account|acct)\b")
 _ACCT_TOKEN = re.compile(r"(?<![\w$.,/:#-])((?=(?:[0-9A-Z-]*?\d){7})[0-9A-Z]{1,9}(?:-[0-9A-Z]{1,12}){0,4})(?![\w.,/%:-])")
 _REF_BEFORE = re.compile(r"(?i)(?:ref|trace|trn|txn|conf|confirmation|imad|omad|fed\s+ref|auth|id|invoice|po|order|check|chk|"
-                         r"ck|batch|serial|cusip|isin|naics|sic|form|rev|no|npi|nmls|ein|tin|ssn|phone|fax|tel)\.?\s*#?\s*:?\s*$")
+                         r"ck|batch|serial|cusip|isin|naics|sic|form|rev|no|npi|nmls|ein|tin|ssn|phone|fax|tel|"
+                         r"sub(?:scriber)?\s+c[o0]de|seq)\.?\s*#?\s*:?\s*$")
+# a log's first column ("Seq#  Posted  Acct  Item …"): the row number, not an account
+_SEQ_HEADER = re.compile(r"(?im)^[ \t]*(?:seq(?:uence)?|line|row|item|entry)\b\s*(?:#|no\.?)?[ \t]{2,}\S")
 
 
 def _span(nt: NormText, s: int, e: int, entity: str, score: float, source: str, why: str) -> Span:
@@ -200,6 +203,9 @@ def find_financial(nt: NormText) -> Iterator[Span]:
     for m in _LOAN_TYPE.finditer(t):
         yield _span(nt, *m.span(1), "BANK_ACCOUNT", 0.9, "fin:loan_number", "loan number")
     for m in _PAREN_HOLDER.finditer(t):
+        if re.search(r"(?i)\b(?:bank|community|credit|union|savings|trust|financial|federal|national|capital|"
+                     r"mutual|lending|finance)\b", m.group(1)):
+            continue  # "acct ending 4418 (Lakeview Community Bank)" — the institution, not the holder
         yield _span(nt, *m.span(1), "PERSON", 0.85, "fin:account_holder", "account holder named next to the account")
     for m in _NAME_BOX.finditer(t):
         v = m.group(1)
@@ -288,6 +294,8 @@ def _round2(nt: NormText) -> Iterator[Span]:
             if _aba_ok(m.group(1)):
                 yield _span(nt, *m.span(1), "ROUTING_NUMBER", 0.93, "fin:routing", why)
     for m in _CASHTAG.finditer(t):
+        if re.fullmatch(r"(?i)\$cash\s*tag", m.group(1)) or t[m.end():m.end() + 1] == ":":
+            continue  # "$Cashtag: $JWhit…" — the field label
         if not re.fullmatch(r"\$(?:USD|CAD|EUR|GBP|AUD|MXN|USDC|USDT|BTC|ETH|SOL)", m.group(1), re.I):
             yield _span(nt, *m.span(1), "USERNAME", 0.9, "fin:cashtag", "Cash App $cashtag")
     for m in _SIGN_IN_AS.finditer(t):
@@ -353,9 +361,14 @@ def _round2(nt: NormText) -> Iterator[Span]:
 def find_account_lines(nt: NormText) -> Iterator[Span]:
     t = nt.text
     pos = 0
+    recent: list[str] = []
     for line in t.split("\n"):
+        seq_col = any(_SEQ_HEADER.match(x) for x in recent)
+        recent = (recent + [line])[-6:]
         if _ACCT_LINE.search(line):
             for m in _ACCT_TOKEN.finditer(line):
+                if seq_col and not line[:m.start()].strip():
+                    continue  # the sequence-number column of a check / item log
                 v = m.group(1)
                 d = sum(c.isdigit() for c in v)
                 if d < 7 or re.fullmatch(r"(?:19|20)\d{6}", v) or _aba_ok(v) and len(v) == 9 or \

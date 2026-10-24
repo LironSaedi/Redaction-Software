@@ -293,3 +293,326 @@ def test_financial_hard_negatives_4(rules, text):
     sel = [s for s in rules(text, profile="financial") if s.meta.get("selected", True)
            and s.entity in ("BANK_ACCOUNT", "ID_NUMBER", "CREDIT_CARD", "PERSON", "DRIVERS_LICENSE")]
     assert not sel, [(s.entity, s.text, s.source) for s in sel]
+
+
+# ---- precision on financial records: words, columns and companies that are not personal data ---------------------
+from obscura.detection.text import ner as _ner  # noqa: E402
+from obscura.detection.text.base import Span as _Span  # noqa: E402
+
+
+@pytest.fixture
+def fake_ner(monkeypatch):
+    """Rules plus canned NER output: ``run(text, [(value, "ner:gliner:person", 0.95), ...])``. Each value is found
+    in the text and handed to the engine as if spaCy / GLiNER had reported it, so model-driven filters can be
+    tested without loading the models."""
+    from obscura.config import settings
+    from obscura.detection.text.engine import AnalyzeOptions, TextAnalyzer
+
+    monkeypatch.setattr(settings, "spacy_model", settings.spacy_model or "fake")
+    monkeypatch.setattr(settings, "gliner_model", settings.gliner_model or "fake")
+    ents = {"PERSON": "PERSON", "person": "PERSON", "street address": "ADDRESS", "employer": "EMPLOYER", "date of birth": "DATE_OF_BIRTH",
+            "first name": "PERSON", "last name": "PERSON"}
+
+    def run(text, found, **kw):
+        out = []
+        for value, source, score in found:
+            i = text.index(value)
+            out.append(_Span(i, i + len(value), ents[source.split(":")[-1]], score, source, value, "fake NER"))
+        monkeypatch.setattr(_ner, "spacy_entities", lambda t: [s for s in out if "spacy" in s.source])
+        monkeypatch.setattr(_ner, "gliner_entities", lambda t, labels=None: [s for s in out if "gliner" in s.source])
+        kw.setdefault("include_suggestions", False)
+        return TextAnalyzer().analyze(text, AnalyzeOptions(profile="financial", **kw))
+    return run
+
+
+def _sel(spans):
+    return [s for s in spans if s.meta.get("selected", True)]
+
+
+def _hits(spans, text, value, entities=None):
+    i = text.index(value)
+    return [(s.entity, s.text) for s in _sel(spans) if s.start < i + len(value) and i < s.end and
+            (entities is None or s.entity in entities)]
+
+
+# text, value that must stay visible, entity types it must not be redacted as
+NOT_PERSONAL = {
+    # transcript turns and notes after a speaker / role label are speech, not a name field
+    "caller_turn": ("[00:01:12] AGENT: Can I help?\n[00:01:15] CALLER: Thank you. I lost my card.", "Thank", {"PERSON"}),
+    "witness_turn": ("14        THE WITNESS: He also said the check bounced.", "He", {"PERSON"}),
+    "operator_note": ("[operator: MICR misread on item 2 -- values corrected by hand]", "MICR", {"PERSON"}),
+    "re_document": ("Re:   Subpoena Duces Tecum dated March 3, 2026", "Subpoena Duces Tecum", {"PERSON"}),
+    "requested_by_agency": ("Requested by: VT Bureau of Consumer Protection", "VT Bureau", {"PERSON"}),
+    "recipient_tin_label": ("Recipient:      DANA K MORROW-VEGA CUST  Recipient's TIN: XXX-XX-4471",
+                            "Recipient's", {"PERSON"}),
+    "dba_trade_name": ("Applicant: DARNELL T OKAFOR  DBA OKAFOR LAWN CARE\nApplicant TIN: 85-1234567",
+                       "LAWN CARE", {"PERSON"}),
+    # table headings and form titles
+    "principal_interest": ("Date        Amount   Principal  Interest    Fees     Balance\n"
+                           "03/01/2026  609.16   510.37     98.79       0.00     15,025.29", "Interest", {"PERSON"}),
+    "official_form": (" Debtor 2           Ben          Lee\n (Spouse, if filing) First Name  Last Name\n"
+                      " United States Bankruptcy Court for the: District of Vermont\n Case number  2:26-bk-00118\n\n"
+                      "Official Form 106A/B\n", "Official Form", {"PERSON"}),
+    "defined_term": ('Business Legal Name ("Borrower")            DBA or Tradename', "Borrower", {"PERSON"}),
+    # a column of CPT codes beside a claim-number column
+    "cpt_column": (" Claim No.        DOS        Provider              CPT     Billed\n"
+                   " ---------        --------   ---------------       -----   ------\n"
+                   " 26101Q00417      02/14/26   Harbor Imaging        72125   812.00", "72125", {"CLAIM_NUMBER"}),
+    # organisations' identifiers
+    "payer_id": ("Harbor Health Plan  Commercial PPO     Payer ID 61190", "61190", {"ID_NUMBER"}),
+    "lender_location_id": ("Lender: Pine Valley Bank   SBA Lender Location ID: 512204", "512204", {"ID_NUMBER"}),
+    "licensed_by": ("PINE VALLEY AUTO FINANCE, LLC is licensed by the Vermont Department of Financial Regulation, "
+                    "license no. 2200417-09.", "2200417-09", {"ID_NUMBER", "DRIVERS_LICENSE"}),
+    # card-statement venues and financial vocabulary
+    "statement_venue": ("09/18  09/19    SQ *ROSIES NAIL STUDIO Burlington VT      $64.00", "ROSIES NAIL STUDIO",
+                        {"INDIRECT_LOCATION"}),
+    "merchant_brand": ("09/05  POS DEBIT SHEETZ 0412 ALTOONA PA CARD 5106              41.20", "SHEETZ",
+                       {"INDIRECT_LOCATION"}),
+    "price_market_header": ("Symbol  CUSIP         Quantity     Price    Market Value     Cost Basis", "Market",
+                            {"INDIRECT_LOCATION"}),
+    "money_market": ("Money Market          Harbor Online Savings         $ 12,880.12", "Money Market",
+                     {"INDIRECT_LOCATION"}),
+    "bond_fund": ("VANGUARD TOTAL BOND MARKET ETF   BND     921937835", "BOND MARKET", {"INDIRECT_LOCATION"}),
+    "ocr_notary": ("    | WALTER P. GRIMM, Notary Pub1ic                 |", "Pub1ic", {"INDIRECT_LOCATION"}),
+    "business_suite": ("Bill to: Northgate Family Dental, PLLC  Lakeview Dental, Ste 310   Invoice Date 09/30/2026",
+                       "Ste 310", {"INDIRECT_LOCATION"}),
+    # address shapes that are not addresses
+    "credit_grid": ("04/2010  06/2016    95,000        0       0   I1  PAID/CLOSED - MORTGAGE", "0   I1", {"ADDRESS"}),
+    "real_estate_line": (" 04  Real Estate Commission (B) Summit Realty               $  560.00", "Real Estate",
+                         {"ADDRESS"}),
+    "us_reports": ("See Sereboff v. Mid Atlantic Medical Services, Inc., 547 U.S. 356 (2006).", "547 U.S. 356",
+                   {"ADDRESS"}),
+    # dates that are not birth dates
+    "born_before": ("Age/Blindness   You: [ ] Were born before January 2, 1961  [ ] Are blind", "January 2, 1961",
+                    {"DATE_OF_BIRTH"}),
+    "as_of_date": ("  Rosa Lind -- DOB 02/17/2016 (9 at 12/31/25), 4th grade", "12/31/25", {"DATE_OF_BIRTH"}),
+    "zero_amount": ("  6 Foreign tax paid  $ 0.00", "$ 0.00", {"FINANCIAL_INFO"}),
+}
+
+
+@pytest.mark.parametrize("name", list(NOT_PERSONAL))
+def test_financial_not_personal(rules, name):
+    text, value, entities = NOT_PERSONAL[name]
+    spans = rules(text, profile="financial")
+    assert not _hits(spans, text, value, entities), _hits(spans, text, value)
+
+
+# the fixes above must not cost these
+STILL_FOUND = {
+    "caller_name_field": ("Caller: Maria Gonzalez   Callback: (802) 555-0148", "Maria Gonzalez"),
+    "recipient_name": ("Recipient:      DANA K MORROW-VEGA CUST  Recipient's TIN: XXX-XX-4471", "DANA K MORROW-VEGA"),
+    "dba_owner": ("Applicant: DARNELL T OKAFOR  DBA OKAFOR LAWN CARE\nApplicant TIN: 85-1234567", "DARNELL T OKAFOR"),
+    "claim_column": (" Claim No.        DOS        Provider              CPT     Billed\n"
+                     " ---------        --------   ---------------       -----   ------\n"
+                     " 26101Q00417      02/14/26   Harbor Imaging        72125   812.00", "26101Q00417"),
+    "employee_id": ("Employee name: Rosa Lind          Employee ID: HBR-118044", "HBR-118044"),
+    "dob_first": ("  Rosa Lind -- DOB 02/17/2016 (9 at 12/31/25), 4th grade", "02/17/2016"),
+    "apartment": ("Mailing address: 14 Elm St Apt 4B, Burlington VT 05401", "14 Elm St Apt 4B"),
+}
+
+
+@pytest.mark.parametrize("name", list(STILL_FOUND))
+def test_financial_still_found(rules, name):
+    text, value = STILL_FOUND[name]
+    sel = _sel(rules(text, profile="financial"))
+    assert covers(sel, value, text), [(s.entity, s.text) for s in sel]
+
+
+def test_two_mailing_blocks_side_by_side(rules):
+    text = ("  MARCUS T ELLERY                         Co-Borrower\n"
+            "  2614 CEDAR RIDGE TRL\n  ROUND ROCK TX 78681\n")
+    spans = rules(text, profile="financial")
+    assert covers(_sel(spans), "MARCUS T ELLERY", text)
+    assert not _hits(spans, text, "Co-Borrower", {"PERSON"})
+
+
+def test_payroll_register_sequence_number_is_a_suggestion(rules):
+    text = "TERMINATION  Emp 1032  HALVORSEN, BAO T   Last day worked 10/09/2026"
+    spans = rules(text, profile="financial", include_suggestions=True)
+    emp = [s for s in spans if s.text == "1032"]
+    assert emp and not any(s.meta.get("selected") for s in emp)
+    assert covers(_sel(spans), "HALVORSEN, BAO T", text)
+
+
+def test_role_word_not_pulled_into_a_name(rules):
+    text = ("Primary beneficiary: Nora L. Ross\n"
+            "  Contingent NORA L ROSS (minor)               Granddaughter\n")
+    sel = _sel(rules(text, profile="financial"))
+    assert covers(sel, "NORA L ROSS", text)
+    i = text.index("Contingent")
+    assert not any(s.start <= i < s.end for s in sel), [(s.entity, s.text) for s in sel]
+
+
+NER_NOT_PERSONAL = {
+    # job titles that GLiNER reads as people
+    "shop_foreman": ("      Shop Foreman                         DD CHK ****6610", [("Shop Foreman", "ner:gliner:person", 0.94)]),
+    "owner_president": ("      Owner/President (officer wages)", [("Owner/President", "ner:gliner:person", 0.8)]),
+    "cut_off_title": ("Position or Title  Senior Data Engineer, Claims Systems",
+                      [("Senior Data", "ner:gliner:person", 0.96)]),
+    "title_over_break": ("Darnell P. Whitfield, CSRP\nSenior Recovery Specialist, ext. 4417",
+                         [("CSRP\nSenior Recovery Specialist", "ner:gliner:person", 0.64)]),
+    "spouse_occupation": ("Spouse's occupation  DRONE SURVEYOR", [("DRONE", "ner:gliner:person", 0.97)]),
+    "branch_mgr": ('Note by P. Hess, Branch Mgr: "customer states divorce pending"',
+                   [("Branch Mgr", "ner:gliner:person", 0.98)]),
+    # places and businesses
+    "city_state": ("08/18/2026 06:05  PHOENIX AZ    Arrived at delivery facility", [("PHOENIX AZ", "ner:spacy:PERSON", 0.96)]),
+    "trade_name": ("Principal business: ABERNATHY MOBILE DETAILING", [("ABERNATHY MOBILE DETAILING", "ner:spacy:PERSON", 0.95)]),
+    "possessive_store": ("09/13  09/15    LOU MALNATI'S #19 NAPERVILLE IL        $48.10",
+                         [("LOU MALNATI", "ner:gliner:first name", 0.99)]),
+    "company_alone": ("Lienholder: Ridgeline Auto Finance, LLC\nYou must keep collision coverage naming Ridgeline as loss "
+                      "payee.", [("Ridgeline", "ner:gliner:first name", 0.93)]),
+    "case_style_company": ("Gateway Arch Recovery Services, LLC is a debt collector. See Abernethy v. Gateway Arch, "
+                           "E.D. Mo. No. 4:26-cv-01188.", []),
+}
+
+
+@pytest.mark.parametrize("name", list(NER_NOT_PERSONAL))
+def test_ner_people_that_are_not_people(fake_ner, name):
+    text, found = NER_NOT_PERSONAL[name]
+    spans = fake_ner(text, found)
+    values = [v for v, _, _ in found] or ["Gateway Arch, E.D."[:12]]
+    for v in values:
+        hit = _hits(spans, text, v if v in text else "Gateway Arch", {"PERSON", "MINOR"})
+        assert not hit, hit
+
+
+def test_firm_named_after_a_person(fake_ner):
+    text = ("Husband: Garrett M. Hollis. Corporate records for Hollis Comfort Air, Inc. were subpoenaed.\n"
+            "Mr. Hollis signed every check; Hollis Comfort Air's 2025 return deducted them.")
+    spans = fake_ner(text, [("Garrett M. Hollis", "ner:spacy:PERSON", 0.97)])
+    sel = _sel(spans)
+    assert covers(sel, "Garrett M. Hollis", text)
+    i = text.index("Mr. Hollis") + 4
+    assert any(s.entity == "PERSON" and s.start <= i < s.end for s in sel)  # the man is still redacted
+    j = text.index("Hollis Comfort Air's")
+    assert not any(s.entity == "PERSON" and s.start <= j < s.end for s in sel)  # the company is not
+
+
+def test_ocr_form_label_is_not_an_employer(fake_ner):
+    text = "f Ernployee's address and ZIP code\n   14 Elm St, Burlington VT 05401"
+    spans = fake_ner(text, [("Ernployee", "ner:gliner:employer", 0.77)])
+    assert not _hits(spans, text, "Ernployee", {"EMPLOYER"})
+
+
+@pytest.mark.parametrize("text,value", [
+    ("Next interest payment 12/31/2099. Moody's: N/A.", "12/31/2099"),
+    ("certify that the Applicant was in operation on February 15, 2020, and has not closed", "February 15, 2020"),
+])
+def test_ner_dates_that_are_not_birth_dates(fake_ner, text, value):
+    spans = fake_ner(text, [(value, "ner:gliner:date of birth", 0.97)])
+    assert not _hits(spans, text, value, {"DATE_OF_BIRTH"})
+
+
+def test_store_numbers_from_ner(fake_ner):
+    text = ("Debtor slipped at Kroger #0447 in Murfreesboro.\n"
+            "09/21  09/22    SPEEDWAY 4417 NAPERVILLE IL                $23.86\n"
+            "02/14/2025  A-1 card ...8826  Swann Ave Jewelers -- engraving")
+    spans = fake_ner(text, [("Kroger #0447", "ner:gliner:street address", 0.98),
+                            ("SPEEDWAY 4417", "ner:gliner:street address", 0.97),
+                            ("8826  Swann Ave", "ner:gliner:street address", 0.85)])
+    assert not _hits(spans, text, "Kroger #0447", {"ADDRESS"})
+    assert not _hits(spans, text, "SPEEDWAY 4417", {"ADDRESS", "INDIRECT_LOCATION"})
+    assert not _hits(spans, text, "Swann Ave", {"ADDRESS"})
+
+
+def test_european_street_from_ner_is_kept(fake_ner):
+    text = "  HILDEGARD BAUMGARTNER\n  LINDENSTRASSE 14\n  79098 FREIBURG IM BREISGAU\n  GERMANY"
+    spans = fake_ner(text, [("LINDENSTRASSE 14", "ner:gliner:street address", 0.97)])
+    assert covers(_sel(spans), "LINDENSTRASSE 14", text)
+
+
+NOT_PERSONAL_2 = {
+    "gl_account_column": ("DEPARTMENT SUMMARY          HEADCOUNT        GROSS             NET          GL ACCOUNT\n"
+                          "  10 OFFICE                       2      7,615.38        5,978.26        6010-20\n",
+                          "6010-20", {"BANK_ACCOUNT"}),
+    "item_log_sequence": (" Seq#      Posted      Acct           Item          Amount\n"
+                          " -------   ---------   ------------   -----------   ---------\n"
+                          ' 77120334  04/01/26    ...5521        Ck 1188       4,200.00   "deposit only acct 7800 3364 12"\n',
+                          "77120334", {"BANK_ACCOUNT"}),
+    "subscriber_code": ("  LAKESHORE AUTO CREDIT CORP   SUB CODE 8812-0447   LOAN # LAC-2026-118804", "8812-0447",
+                        {"BANK_ACCOUNT"}),
+    "bank_in_parens": ("Deposit to      acct ending 4418 (Harbor Community Bank)", "Harbor Community Bank", {"PERSON"}),
+    "cashtag_label": ("Account holder: JORDAN WELLS    $Cashtag: $JWellsTile    Profile", "$Cashtag", {"USERNAME"}),
+    "password_ends_sentence": ("We will never ask for your online banking password.\n  Credit reporting: we report to "
+                               "all three bureaus.", "Credit", {"PASSWORD"}),
+    "user_id_ends_sentence": ("We reset your user ID. Your old user ID was retired.", "Your", {"USERNAME"}),
+    "ocr_will": ("The CD is encrypted. The password wi11 be sent under separate cover.", "wi11", {"PASSWORD"}),
+    "ocr_for": ("    PIN f0r ATM card - see the envelope", "f0r", {"PASSWORD"}),
+    "pin_set_flag": ("Telephone banking PIN set: Y  (PIN not displayed)", "set", {"PASSWORD"}),
+    "deposit_not_deputy": ("    08/01  $1,200.00  MOBILE DEP CHK #2041 AKINOLA, FOLAKE", "2041", {"LAW_ENFORCEMENT_ID"}),
+    "grant_not_school": ("  Washington College Grant (WCG)             $2,500", "Washington College", {"SCHOOL"}),
+    "crypto_amounts": ("2026-07-21 22:05:16 MST,Bitcoin Withdrawal,BTC,-0.01300000,-0.00002100,-0.01302100,BTC",
+                       "-0.01300000,-0.00002100", {"GPS"}),
+    "ocr_same_as": ("Signer 2:  Dana L. Kowalczyk\nAddress:   sarne as Signer 1\nPhone:     (484) 555-0199",
+                    "sarne as Signer 1", {"ADDRESS"}),
+}
+
+
+@pytest.mark.parametrize("name", list(NOT_PERSONAL_2))
+def test_financial_not_personal_2(rules, name):
+    text, value, entities = NOT_PERSONAL_2[name]
+    spans = rules(text, profile="financial", ocr_text=name.startswith("ocr"))
+    assert not _hits(spans, text, value, entities), _hits(spans, text, value)
+
+
+STILL_FOUND_2 = {
+    "cashtag_value": ("Account holder: JORDAN WELLS    $Cashtag: $JWellsTile    Profile", "$JWellsTile"),
+    "user_id_dot_leaders": ("User ID ................. 2384710945716224811\nLegal name on file ...... JORDAN WELLS",
+                            "2384710945716224811"),
+    "username_in_row": ("  StudentAid.gov account  username RosaL2008   (FSA ID)\n  State of legal residence VT, since "
+                        "06/2012", "RosaL2008"),
+    "deputy_badge": ("Assisting: Deputy Ruiz #4412 took the report.", "4412"),
+    "school_attended": ("She is a sophomore at Lilac City College and lives on campus.", "Lilac City College"),
+    "password_value": ("The password will be sent separately and is: Rq!2026-ab#7", "Rq!2026-ab#7"),
+}
+
+
+@pytest.mark.parametrize("name", list(STILL_FOUND_2))
+def test_financial_still_found_2(rules, name):
+    text, value = STILL_FOUND_2[name]
+    sel = _sel(rules(text, profile="financial"))
+    assert covers(sel, value, text), [(s.entity, s.text) for s in sel]
+
+
+def test_words_under_a_username_heading_are_not_usernames(rules):
+    text = ("  Applicant  StudentAid.gov username   (FSA ID)\n"
+            "  State of legal residence VT, since 06/2012\n")
+    spans = rules(text, profile="financial")
+    assert not _hits(spans, text, "since", {"USERNAME"}) and not _hits(spans, text, "legal", {"USERNAME"})
+
+
+@pytest.mark.parametrize("text,found,value,entities", [
+    ("Spouse's occupation  DRONE SURVEYOR", [("DRONE SURVEYOR", "ner:gliner:person", 0.94)], "DRONE", {"PERSON"}),
+    ("Su cuenta termina en 7965. Necesito el dinero.", [("Necesito el", "ner:spacy:PERSON", 0.92)], "Necesito",
+     {"PERSON"}),
+    ("You: [ ] Were born before January 2, 1961  [ ] Are blind", [("January 2, 1961", "ner:gliner:date of birth", 0.99)],
+     "January 2, 1961", {"DATE_OF_BIRTH"}),
+    ("HAWK/FACS+: SSN ISSUED 1995-1996, STATE: PR.", [("1995-1996", "ner:gliner:date of birth", 0.85)], "1995-1996",
+     {"DATE_OF_BIRTH"}),
+])
+def test_ner_findings_rejected(fake_ner, text, found, value, entities):
+    assert not _hits(fake_ner(text, found), text, value, entities)
+
+
+def test_ocr_birth_date_from_ner_is_kept(fake_ner):
+    text = "Name:  Joaquin E. Barela          D0B:  1l/03/1992          SSN:  5O8-44-l297"
+    spans = fake_ner(text, [("1l/03/1992", "ner:gliner:date of birth", 0.9)], ocr_text=True)
+    assert covers(_sel(spans), "1l/03/1992", text)
+
+
+def test_re_line_name_before_lower_case_word_is_kept(rules):
+    text = "Re:   Kevin Tran account ending 4417 -- dispute of 09/14 charge"
+    assert covers(_sel(rules(text, profile="financial")), "Kevin Tran", text)
+
+
+def test_owner_named_in_business_name_is_kept(fake_ner):
+    text = "John Smith Plumbing, LLC (owner John Smith) deposited the check; John Smith signed it."
+    spans = fake_ner(text, [("John Smith", "ner:spacy:PERSON", 0.9)])
+    i = text.index("owner John Smith") + 6
+    assert any(s.entity == "PERSON" and s.start <= i < s.end for s in _sel(spans))
+
+
+def test_county_is_not_a_company(fake_ner):
+    text = "Judge Mary Ellen Tobin of Travis Co. signed the order; Tobin later recused."
+    spans = fake_ner(text, [("Mary Ellen Tobin", "ner:spacy:PERSON", 0.95)])
+    assert covers(_sel(spans), "Mary Ellen Tobin", text)

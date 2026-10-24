@@ -310,6 +310,7 @@ def find_column_names(nt: NormText) -> Iterator[Span]:
         if not cols:
             continue
         taken = False
+        prose = 0
         for lj in range(li + 1, min(li + 7, len(lines))):
             vs, ve = lines[lj]
             row = text[vs:ve]
@@ -320,6 +321,9 @@ def find_column_names(nt: NormText) -> Iterator[Span]:
             if re.search(r"(?<![\w'’])[a-z]{2,}(?![\w'’])", row) or _NAME_COL_HDR.search(row):
                 if taken:
                     break  # the next header / prose line ends this block of values
+                prose += 1
+                if prose >= 2:
+                    break  # values sit right under their header, not past the form's next paragraphs
                 continue
             for cell, c in cols:
                 # value starts within the header cell's left part
@@ -330,6 +334,9 @@ def find_column_names(nt: NormText) -> Iterator[Span]:
                 if v.lower() in ("none", "n/a", "self", "son", "daughter", "spouse", "child", "yes", "no") or \
                         _ORG_WORDS.search(v) or re.search(r"\d", v):
                     continue
+                from .names import HARD_STOP
+                if any(w.lower().strip(".") in HARD_STOP for w in v.split()):
+                    continue  # "Official Form 106A/B" — a form title, not a name
                 taken = True
                 yield _mk(nt, vs + m.start(), vs + m.end(), "PERSON", 0.82, "kv:name_column",
                           "value in a first-name / last-name column")
@@ -391,8 +398,16 @@ def find_labelled_ids(nt: NormText) -> Iterator[Span]:
             if h.label.entity == "PASSWORD" and (re.search(r"with\s*$", pre) or _DATEISH.match(val) or
                                                  re.fullmatch(r"\d{1,2}/\d{1,2}", val)):
                 continue
+            if h.label.entity in ("PASSWORD", "USERNAME") and re.match(r"[.!?](?![.!?])\s", gap):
+                continue  # "… your online banking password.\n  Credit reporting", "… user ID. Your old user ID was"
+            if h.label.entity == "BANK_ACCOUNT" and re.search(r"(?i)(?:\bgl|\bg/l|general\s+ledger|ledger)\s*$",
+                                                               text[max(0, h.start - 16):h.start]):
+                continue  # a general-ledger account code, not a bank account
             # "login from …", "PIN number field": a plain lower-case word is only a value after ":" / "is"
-            if h.label.entity in ("PASSWORD", "USERNAME") and val.isalpha() and val.islower() and \
+            word = val.rstrip(":;,")
+            if _ocr_word(word):  # "password wi11 be sent", "PIN f0r ATM card": OCR'd words
+                word = word.lower().replace("0", "o").replace("1", "l").replace("|", "l")
+            if h.label.entity in ("PASSWORD", "USERNAME") and word.isalpha() and word.islower() and \
                     not re.search(r"[:=]|\bis\b|\bwas\b", gap):
                 continue
             if h.label.entity == "USERNAME" and re.match(r"(?:instagram|snapchat|twitter|tiktok|facebook|venmo|cash\s*app|"
@@ -405,7 +420,9 @@ def find_labelled_ids(nt: NormText) -> Iterator[Span]:
             wide = text[max(0, h.start - 30):h.start].lower()
             if h.label.entity in ("ID_NUMBER", "DRIVERS_LICENSE") and (
                     re.search(r"(?:nmlsr?|charter|registration|atm|terminal|merchant|store|batch|branch|fdic|naic|ncua|"
-                              r"regulator|agency|licen[cs]e|lic\.)\s*(?:id|#|no\.?)?\s*$", wide) or
+                              r"regulator|agency|licen[cs]e|lic\.|payer|payor|location)\s*(?:id|#|no\.?)?\s*$", wide) or
+                    # "RIDGELINE AUTO FINANCE, LLC is licensed by the … Commissioner, license no. 1300447-18"
+                    re.search(r"(?i)\blicensed\s+(?:by|with)\b[^.\n]*$", text[max(0, h.start - 160):h.start]) or
                     re.match(r"(?:licen[cs]e|lic\.?)", lab_txt) and re.search(
                         r"(?:\b[a-z]{2}|state|escrow|broker|lender|company|agency|organization|business|firm|"
                         r"originator|mlo)\s*$", wide)):
@@ -414,6 +431,8 @@ def find_labelled_ids(nt: NormText) -> Iterator[Span]:
             e = s + len(val)
             emitted.add((s, e))
             score = 0.92 + adj
+            if h.label.entity == "ID_NUMBER" and re.fullmatch(r"emp\.?\s*", lab_txt) and re.fullmatch(r"\d{4}", val):
+                score = 0.45  # "Emp 1033": a payroll register's four-digit sequence number, offered for review
             if h.label.shape == "file":
                 score = 0.45  # a firm's / insurer's own file number: shown to the reviewer, not auto-redacted
                 ls_, le_ = text.rfind("\n", 0, h.start) + 1, text.find("\n", e)
@@ -554,6 +573,9 @@ def find_labelled_ids(nt: NormText) -> Iterator[Span]:
                                         for c in cells))):
             continue
         cols = sorted(((h.start - ls, h) for h in header_hits), key=lambda x: x[0])
+        # every heading of the row is a column, labelled or not ("Plan Claim No.  DOS  Provider  CPT"): a value
+        # belongs to the heading nearest it, so the CPT column is not read as more claim numbers
+        hdr_cells = [(hm.start(), hm.end()) for hm in re.finditer(r"\S+(?: \S+)*", line_txt)]
         for lj in range(li + 1, min(li + 15, len(lines))):
             vs, ve = lines[lj]
             row = text[vs:ve]
@@ -565,7 +587,14 @@ def find_labelled_ids(nt: NormText) -> Iterator[Span]:
                 col = m.start()
                 tok = m.group()
                 best = min(cols, key=lambda c: abs(c[0] - col))
+                cell = min(hdr_cells, key=lambda c: min(abs(c[0] - col), abs(c[1] - (col + len(tok)))))
+                if not cell[0] <= best[0] < cell[1] and not any(cell[0] <= c[0] < cell[1] for c in cols):
+                    continue  # under a heading that is not an ID label
+                best = next((c for c in cols if cell[0] <= c[0] < cell[1]), best)
                 lab = best[1].label
+                if lab.entity == "BANK_ACCOUNT" and re.search(r"(?i)(?:\bgl|\bg/l|general\s+ledger|ledger)\s*$",
+                                                               text[max(0, best[1].start - 16):best[1].start]):
+                    continue  # "GL ACCOUNT  6010-10": a general-ledger code
                 if lab.shape == "file" or lab.entity in ("DEVICE_ID", "ID_NUMBER") or (
                         lab.entity in ("LAW_ENFORCEMENT_ID", "CASE_NUMBER") and len(re.sub(r"\D", "", tok)) < 5):
                     continue  # generic columns are too ambiguous to assign positionally
@@ -574,8 +603,8 @@ def find_labelled_ids(nt: NormText) -> Iterator[Span]:
                     continue
                 val = tm.group()
                 ok, adj = _value_ok(lab.shape, lab.entity, val)
-                if not ok:
-                    continue
+                if not ok or lab.shape == "username" and val.isalpha() and val.islower():
+                    continue  # "since" under an "(FSA ID)" heading — a word, not a handle
                 s = vs + m.start() + tm.start()
                 e = s + len(val)
                 if (s, e) in emitted:
@@ -662,11 +691,14 @@ _ORG_WORDS = re.compile(r"(?i)\b(?:inc|llc|l\.l\.c|corp|corporation|company|co\.
                         r"medical|health|healthcare|group|associates|partners|bank|court|county|"
                         r"department|dept|university|college|school|services|systems|pharmacy|"
                         r"laboratory|law|firm|pllc|p\.a\.|lp|llp|office|agency|police|sheriff|"
-                        r"authority|district|foundation|holdings|enterprises|motors|automotive|industries|international)\b")
+                        r"authority|district|foundation|holdings|enterprises|motors|automotive|industries|international|"
+                        r"bureau|commission|ministry)\b")
 # words that can be surnames ("Hope Church", "Rose Banks") — only organisational in 3+ word values
 _WEAK_ORG_WORDS = re.compile(r"(?i)\b(?:center|centre|church|state|city|trust|fund|labs?|imaging|radiology|therapy|"
                              r"rehab(?:ilitation)?|orthopedics?|chiropractic|fire|ems|transit|banks?)\b")
 _EMAIL_HDR_LABELS = {"to", "from", "cc", "bcc"}
+# labels that open a turn in a call / deposition transcript
+_SPEAKER_LABELS = {"caller", "operator", "witness", "deponent", "interpreter", "translator", "reporting person"}
 
 
 _FUNCTION_WORDS = {"your", "our", "my", "his", "her", "their", "its", "the", "a", "an", "this", "that", "these",
@@ -678,7 +710,8 @@ _LABEL_MOD = (r"Home|Cell|Work|Mobile|Date|Visit|Patient|Emergency|Policy|Member
               r"Social|Security|Phone|Fax|E-?mail|Marital|Insurance|Primary|Secondary|Contact|Driver'?s|License|"
               r"Plate|Case|Badge|Report|Employer|Job|Middle|First|Last|Full|Birth|Place|Mailing|Street|Tax|Federal|"
               r"Medical|Record|Chart|Health|Plan|Subscriber|Guarantor|Responsible|Next|Of|Date of|Type|Unit|Seat")
-_NEXT_LABEL = re.compile(rf"\s+(?:(?:{_LABEL_MOD})\s+){{0,2}}[A-Z][A-Za-z'-]*\s?(?:#|No\.|ID|Number)?\s?:\s|\s{{3,}}")
+_NEXT_LABEL = re.compile(rf"\s+(?:(?:{_LABEL_MOD})\s+){{0,2}}[A-Z][A-Za-z'’-]*\s?(?:#|No\.|ID|Number|TIN|SSN|EIN|ITIN|DOB|"
+                         rf"Name)?\s?:\s|\s{{3,}}")
 
 
 def cut_at_next_label(value: str) -> str:
@@ -692,6 +725,8 @@ def _clean_name_value(line_rest: str) -> str | None:
     if not m:
         return None
     v = m.group().rstrip(" ,.")
+    # "DESHAWN M ABERNATHY  DBA ABERNATHY MOBILE DETAILING": the trade name after "DBA" is a business
+    v = re.split(r"\s+(?:DBA|D/B/A|dba|d/b/a)(?![\w/])", v)[0].rstrip(" ,.")
     # "Richard Santiago, Injury Severity…": a comma only belongs to the name in LAST, FIRST form
     if "," in v:
         before, _, after = v.partition(",")
@@ -753,6 +788,18 @@ def find_kv_people(nt: NormText) -> Iterator[Span]:
         if _ORG_WORDS.search(v) or (_WEAK_ORG_WORDS.search(v) and len(v.split()) >= 3):
             continue
         after = text[rest_start + lead + len(v):rest_start + lead + len(v) + 18]
+        # a name field holds a name, not a sentence: "CALLER: Thank you.", "THE WITNESS: He also told me",
+        # "[operator: OCR misread on MICR", "Re: Subpoena Duces Tecum dated …"
+        if len(v.split()) == 1 and re.match(r"[ \t]+(?!(?:and|or|v|vs|et|aka|nka|fka|de|da|del|la|van|von)\b)[a-z]", after):
+            continue
+        if label in ("re", "attn", "attention") and re.match(
+                r"[ \t]+(?:dated|filed|served|issued|signed|received|sent|of|for|from|on|to|with|regarding)\b", after):
+            continue
+        if label in _SPEAKER_LABELS and len(v.split()) == 1 and re.match(r"[.!?]+[ \t]+\S", after) and (
+                m.group().strip(" :").isupper() or re.search(r"[\]\d][ \t]*$", text[max(0, m.start() - 4):m.start()])):
+            continue  # "[00:00:26] CALLER: Chorizo. C-H-O-R-I-Z-O." — a transcript turn, not a name field
+        if re.match(r"\s+of\s+[A-Z]", after):
+            continue  # "Requested by: NH Bureau of Elderly & Adult Services"
         if re.match(r"\s*(?:&\s+[A-Z]|,?\s+(?:LLP|LLC|Inc|P\.C\.|PLLC|P\.A\.|Law\b|Group\b))", after):
             continue  # "Brown & Kessler LLP"
         if label in ("name", "to", "from", "re", "signature", "signed") and len(v.split()) < 2:
@@ -792,6 +839,8 @@ def find_kv_addresses(nt: NormText) -> Iterator[Span]:
         # stop at a following label on the same line (e.g. "Address: 1 Elm St   Phone: ...")
         e = s + len(cut_at_next_label(text[s:e]))
         val = text[s:e].strip()
+        if re.match(r"(?i)(?:same|sa(?:rn|m)e)\s+as\b", val):
+            continue  # "Address: same as Signer 1" (OCR "sarne as") — a pointer, not an address
         if not val or not re.search(r"\d|P\.?\s?O\.?\s*Box|box", val, re.I) or _PLACEHOLDER.match(val):
             if not val and e < len(text):  # label at end of line, value on the next line
                 ns = e + 1

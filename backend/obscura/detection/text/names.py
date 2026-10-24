@@ -23,7 +23,8 @@ _MIXED = rf"(?:Mc|Mac|O['’]|D['’]|De|Di|La|Le){_U}{_L}+"  # McDonald, MacArt
 _CAP = rf"(?:{_MIXED}|{_TITLE}|{_CAPS}|{_U}['’]{_U}{_L}+)"
 _PARTICLE = r"(?:de|da|del|della|di|van|von|der|den|le|la|du|bin|ibn|al|el|dos|das|st\.?)"
 _NAME2 = rf"(?:(?:{_U}\.\s?){{0,2}}{_CAP}(?:[ \t]+(?:{_U}\.|{_PARTICLE}[ \t]+{_CAP}|{_CAP})){{0,3}})"
-_HON_NAME = re.compile(r"\b(?:" + HONORIFICS + r")\.?[ \t]+((?:" + _PARTICLE + r"[ \t]+){0,2})(" + _NAME2 + ")")
+# a title without its period is followed by one space: "Principal  Interest    Fees" is a table header
+_HON_NAME = re.compile(r"\b(?:" + HONORIFICS + r")(?:\.[ \t]+|[ ])((?:" + _PARTICLE + r"[ \t]+){0,2})(" + _NAME2 + ")")
 _SIG = re.compile(rf"(?:/s/|/S/|\bs/)[ \t]*({_U}[{UP}{LO}.'’\-]+(?:[ \t]+{_U}[{UP}{LO}.'’\-]+){{0,4}})")
 _CAPTION = re.compile(rf"(?m)^[ \t]*(?:\d{{1,2}}[ \t]+)?({_CAPS}(?:[ \t]+(?:{_U}\.|{_CAPS})){{1,4}}),?[ \t]*"
                       rf"(?:an\s+individual,?\s*|individually,?\s*)?(?:\)|,|$)")
@@ -141,6 +142,10 @@ individually individual next friend estate deceased decedent heirs representativ
 trust trustee petition original amended first second third fourth answer reply response objections
 respectfully submitted honorable said parties party cause no. cause plaintiff's defendant's defendants'
 texas florida california york illinois georgia arizona ohio michigan nevada colorado washington oregon
+interest principal escrow borrower borrowers co-borrower coborrower co-applicant lender lenders lienholder creditor
+recipient recipients payer payor payee remitter originator dba jtwros utma ugma pod ocr micr fraud recovery
+official thank change shop mobile branch drone contingent
+derechos consumidor cuenta dinero pago recibo fecha nombre firma monto cliente usted necesito
 """.split()}
 
 # Words in NON_NAME_WORDS that are also common surnames / given names. They are never a reason to
@@ -151,7 +156,7 @@ madison franklin jackson hunter wells brooks rose grace hope faith will mark sum
 sterling miles long black white brown green gray grey young north south east west major minor marsh park parks
 lane rivers river ford case claim law judge counsel nurse cook baker fisher hunter mason carpenter singer
 clay stone woods wood lake field fields bishop dean deacon pope cardinal abbott friend story love joy may june
-april august tuesday guard sharp short little small rich strong armstrong english french welsh scott
+april august tuesday guard sharp short little small rich strong armstrong english french welsh scott branch
 """.split()}
 HARD_STOP = NON_NAME_WORDS - SURNAME_WORDS
 ALWAYS_PROPAGATE_MIN_LEN = 3
@@ -306,8 +311,9 @@ def find_rule_names(nt: NormText) -> Iterator[Span]:
     for m in _NICKNAME.finditer(t):
         g = 1 if m.group(1) else 2
         v = m.group(g)
-        if v.lower() in NON_NAME_WORDS or v.lower() in LEGAL_ROLES or v.lower() in OCCUPATION_WORDS:
-            continue
+        if v.lower() in NON_NAME_WORDS or v.lower() in LEGAL_ROLES or v.lower() in OCCUPATION_WORDS or \
+                v.lower() in _DEFINED_TERMS:
+            continue  # ("Borrower"), ("Lender") — a defined term of the agreement
         s0 = m.start(g)
         yield _mk(nt, s0, s0 + len(v), 0.82, "rule:nickname", "nickname / alias of a person")
     for rx in (_SIGNOFF, _GREETING):
@@ -416,12 +422,19 @@ def names_above_addresses(text: str, address_spans: list[Span]) -> Iterator[Span
         m = _NAME_LINE.match(line)
         if not m:
             continue
-        parts = m.group(1).split()
-        if any(w.lower().strip(".,") in HARD_STOP for w in parts):
-            continue
-        s = pls + m.start(1)
-        yield Span(s, s + len(m.group(1)), "PERSON", 0.85, "rule:name_above_address", m.group(1),
-                   "name line of a mailing address block")
+        # two mailing blocks side by side ("THADDEUS K OYELARAN        Co-Borrower"): judge each column alone
+        pos = pls + m.start(1)
+        for piece in re.split(r"([ \t]{3,}|\t)", m.group(1)):
+            a, pos = pos, pos + len(piece)
+            parts = piece.split()
+            if not parts or re.fullmatch(r"[ \t]+", piece):
+                continue
+            if any(w.lower().strip(".,") in HARD_STOP for w in parts):
+                continue
+            if piece != m.group(1) and (len(parts) < 2 or not _NAME_LINE.match(piece)):
+                continue
+            yield Span(a, a + len(piece), "PERSON", 0.85, "rule:name_above_address", piece,
+                       "name line of a mailing address block")
 
 
 # ---------------------------------------------------------------------------------------------
@@ -449,8 +462,9 @@ def _name_variants(name: str) -> tuple[set[str], set[str]]:
         full.add(f"{core[0]} {core[-1]}")
         full.add(f"{core[-1]}, {core[0]}")
         full.add(f"{core[0][0]}. {core[-1]}")
-        if len(toks) > len(core):  # include middle initial form
+        if len(toks) > len(core):  # include middle initial form, with and without its period ("NORA L ROSS")
             full.add(" ".join(toks))
+            full.add(" ".join(w.rstrip(".") for w in toks))
     for i, w in enumerate(core):
         w = w.strip(".")
         is_surname = len(core) >= 2 and i == len(core) - 1

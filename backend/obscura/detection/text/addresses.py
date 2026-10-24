@@ -113,6 +113,11 @@ def find_addresses(nt: NormText) -> Iterator[Span]:
             continue
         if _NUMBER_AS_YEAR_EVENT.match(val) and not re.search(rf"{ZIP}$", val):
             continue
+        if re.match(r"0+\s", val) or re.search(r"(?i)\breal\s+estate$", val):
+            continue  # "0   I1" (a credit-report grid), "04  Real Estate Commission" (a closing-cost line)
+        if re.match(r"\d{1,4}\s+U\.\s?S\.\s+\d{1,4}$", val) and re.match(
+                r"\s*(?:,\s*\d{1,4}\s*)?\((?:[A-Z][\w.]*\s*)*(?:19|20)\d{2}\)", t[e:e + 30]):
+            continue  # "547 U.S. 356 (2006)" — a Supreme Court citation, not U.S. Route 356
         # trim trailing newline+city capture that swallowed a non-city line
         val_lines = val.split("\n")
         if len(val_lines) > 1 and not re.search(rf"(?:{STATE})\.?(?:,?\s+(?:{ZIP}|{CA_POST}))?\s*$", val_lines[-1]):
