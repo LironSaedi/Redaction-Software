@@ -75,6 +75,7 @@ function Save-Logs([string]$tag) {
         if (Test-Path $f) { Copy-Item $f (Join-Path $LogDir ("$tag-" + (Split-Path $f -Leaf))) -Force }
     }
     Get-ChildItem $env:TEMP -Filter "Setup Log*.txt" -ErrorAction SilentlyContinue | Copy-Item -Destination $LogDir -Force
+    if (Test-Path "$env:TEMP\Obscura-uninstall.log") { Copy-Item "$env:TEMP\Obscura-uninstall.log" $LogDir -Force }
 }
 
 function Install-Obscura([int]$n) {
@@ -235,6 +236,15 @@ sys.exit(1 if leaks else 0)
         Write-Host "`nLogs: $LogDir" -ForegroundColor Yellow
         Get-ChildItem $LogDir -Filter "*launcher.log" | ForEach-Object { Write-Host "--- $($_.Name)"; Get-Content $_.FullName -Tail 40 }
         Get-ChildItem $LogDir -Filter "*server.log" | ForEach-Object { Write-Host "--- $($_.Name)"; Get-Content $_.FullName -Tail 60 }
+        if (Test-Path "$LogDir\Obscura-uninstall.log") {
+            Write-Host "--- Obscura-uninstall.log (Obscura lines)"
+            Get-Content "$LogDir\Obscura-uninstall.log" | Where-Object { $_ -match "Obscura|case folder|Deleting|DelTree|Error|error" } | Select-Object -Last 40 | Write-Host
+        }
+        Write-Host "--- settings folder still there: $(Test-Path $AppHome)"
+        if (Test-Path -LiteralPath $DataDir) {
+            Write-Host "--- still in the case folder:"
+            Get-ChildItem -LiteralPath $DataDir -Recurse -Force | ForEach-Object { Write-Host ("  {0,-22} {1}" -f $_.Attributes, $_.FullName.Substring($DataDir.Length)) }
+        }
         # leave the machine clean
         if (Test-Path $UninstallKey) {
             $u = (Get-ItemProperty $UninstallKey).UninstallString.Trim('"')

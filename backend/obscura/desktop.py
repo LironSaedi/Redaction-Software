@@ -140,8 +140,11 @@ def uninstall_command(remove_data: bool, data_dir: Path, wait_pid: int | None = 
     if not u:
         return None
     if sys.platform == "win32":
-        # /WAITPID: the uninstaller lets the launcher quit by itself before it stops whatever is left (obscura.iss)
-        return [str(u), "/SILENT", f"/REMOVEDATA={'1' if remove_data else '0'}"] + (
+        # /WAITPID: the uninstaller lets the launcher quit by itself before it stops whatever is left (obscura.iss);
+        # /LOG: what it did, for support (%TEMP%\Obscura-uninstall.log)
+        import tempfile
+        return [str(u), "/SILENT", f"/REMOVEDATA={'1' if remove_data else '0'}",
+                f"/LOG={Path(tempfile.gettempdir()) / 'Obscura-uninstall.log'}"] + (
             [f"/WAITPID={wait_pid}"] if wait_pid else [])
     cmd = ["/bin/bash", str(u), "--yes", "--data-dir", str(data_dir), "--config", str(appconfig.config_path())]
     if wait_pid:

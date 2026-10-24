@@ -251,13 +251,23 @@ begin
       (MsgBox('Also permanently delete all Obscura case files, exports, the audit log and settings?' + #13#10 + #13#10 +
               Data + #13#10 + #13#10 + 'Choose No to keep them (a reinstall will find them again).',
               mbConfirmation, MB_YESNO or MB_DEFBUTTON2) = IDYES);
+  Log('Obscura case folder: ' + Data + '; delete it: ' + IntToStr(Ord(RemoveData)));
   if RemoveData then
   begin
     if LooksLikeObscuraData(Data) then
     begin
       DelTree(Data + '\keys', True, True, True);   { keys first: anything left can no longer be decrypted }
-      DelTree(Data, True, True, True);
-    end;
+      if not DelTree(Data, True, True, True) then
+      begin
+        Log('Case folder not fully deleted, trying again in 3 s');
+        Sleep(3000);
+        DelTree(Data, True, True, True);
+      end;
+      if DirExists(Data) then
+        Log('Case folder could not be deleted completely: ' + Data);
+    end
+    else
+      Log('Not deleted: no obscura.db, keys or blobs in ' + Data);
     DelTree(AppHome(), True, True, True);
   end
   else
