@@ -92,10 +92,11 @@ begin
 end;
 
 { the text of the JSON string that starts at S[1] (just after its opening quote), with \\, \" and \uXXXX decoded;
-  '' if the string does not end on this line }
+  '' if the string does not end on this line or holds a character above U+00FF, which Pascal Script's Chr() cannot
+  make (it keeps 8 bits: \u6570 would come out as "p") }
 function JsonText(S: String): String;
 var
-  I: Integer;
+  I, Code: Integer;
   C: Char;
 begin
   Result := '';
@@ -111,7 +112,10 @@ begin
       C := S[I];
       if (C = 'u') and (I + 4 <= Length(S)) then
       begin
-        C := Chr(StrToIntDef('$' + Copy(S, I + 1, 4), 63));
+        Code := StrToIntDef('$' + Copy(S, I + 1, 4), -1);
+        if (Code < 0) or (Code > 255) then
+          Break;
+        C := Chr(Code);
         I := I + 4;
       end;
     end;
@@ -121,24 +125,42 @@ begin
   Result := '';
 end;
 
-{ data_dir from %LOCALAPPDATA%\Obscura\config.json (Python writes non-ASCII letters, e.g. in a user name, as \u00e9) }
+function PsQuote(S: String): String;
+begin
+  StringChangeEx(S, '''', '''''', True);
+  Result := '''' + S + '''';
+end;
+
+{ data_dir from %LOCALAPPDATA%\Obscura\config.json. Python writes letters outside ASCII as \uXXXX (user names, folder
+  names in any language), so PowerShell's JSON reader decodes it. Without PowerShell only names up to U+00FF are
+  understood; anything else counts as unknown, and then the folder is not deleted. }
 function DataDir(): String;
 var
   Lines: TArrayOfString;
-  I, P: Integer;
-  S: String;
+  Cfg, Tmp: String;
+  I, P, Code: Integer;
 begin
   Result := AppHome() + '\data';
-  if LoadStringsFromFile(AppHome() + '\config.json', Lines) then
+  Cfg := AppHome() + '\config.json';
+  if not FileExists(Cfg) then
+    Exit;
+  Tmp := ExpandConstant('{tmp}\obscura-data-dir.txt');
+  if Exec(ExpandConstant('{sys}\WindowsPowerShell\v1.0\powershell.exe'),
+          '-NoProfile -NonInteractive -ExecutionPolicy Bypass -Command "$c = Get-Content -Raw -Encoding UTF8 -LiteralPath ' +
+          PsQuote(Cfg) + ' | ConvertFrom-Json; [IO.File]::WriteAllText(' + PsQuote(Tmp) +
+          ', [string]$c.data_dir, (New-Object System.Text.UTF8Encoding $true))"', '', SW_HIDE, ewWaitUntilTerminated, Code)
+     and (Code = 0) and LoadStringsFromFile(Tmp, Lines) then
+  begin
+    if (GetArrayLength(Lines) > 0) and (Trim(Lines[0]) <> '') then
+      Result := Trim(Lines[0]);
+    Exit;
+  end;
+  if LoadStringsFromFile(Cfg, Lines) then
     for I := 0 to GetArrayLength(Lines) - 1 do
     begin
       P := Pos('"data_dir": "', Lines[I]);
       if P > 0 then
-      begin
-        S := JsonText(Copy(Lines[I], P + 13, Length(Lines[I])));
-        if S <> '' then
-          Result := S;
-      end;
+        Result := JsonText(Copy(Lines[I], P + 13, Length(Lines[I])));   { '' when unreadable: never guess }
     end;
 end;
 

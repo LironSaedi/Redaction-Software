@@ -111,7 +111,12 @@ function Start-Obscura {
 }
 
 function Sign-In {
-    $script:Auth = @{ Authorization = "Bearer " + (Api POST "/api/auth/local" @{}).token }
+    # retried: on a new database the browser that Obscura opens signs in at the same moment, and the server's
+    # first-time creation of the built-in account can then fail one of the two requests
+    for ($i = 1; ; $i++) {
+        try { $script:Auth = @{ Authorization = "Bearer " + (Api POST "/api/auth/local" @{}).token }; return }
+        catch { if ($i -ge 3) { throw }; Write-Host "  (sign-in attempt $i failed: $($_.Exception.Message); retrying)"; Start-Sleep -Seconds 2 }
+    }
 }
 
 $failed = $true
