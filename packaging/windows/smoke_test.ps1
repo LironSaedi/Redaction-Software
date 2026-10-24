@@ -153,8 +153,9 @@ import sys, fitz
 d = fitz.open()
 p = d.new_page()
 p.insert_text((72, 96), "Patient: Maria Delgado\nSSN: 523-71-9921\nPhone: (512) 555-0187", fontsize=13)
+pix = p.get_pixmap(dpi=200)   # a picture of the page, which only OCR can read (taken first: new_page invalidates p)
 scan = d.new_page()
-scan.insert_image(scan.rect, pixmap=p.get_pixmap(dpi=200))   # a picture of the page: only OCR can read it
+scan.insert_image(scan.rect, pixmap=pix)
 d.save(sys.argv[1])
 '@
     $pdf = Join-Path $LogDir "smoke.pdf"
@@ -164,8 +165,11 @@ d.save(sys.argv[1])
     $up = & curl.exe -sS -f -H "Authorization: $($script:Auth.Authorization)" -F "files=@$pdf;type=application/pdf" "$($script:Base)/api/cases/$($case.id)/files" | ConvertFrom-Json
     Check (@($up.files).Count -eq 1 -and @($up.errors).Count -eq 0) "PDF uploaded"
     $fid = $up.files[0].id
+    # the program-only installer has no AI models until the setup assistant imports or downloads them, so analyze with
+    # the rules, OCR and the spaCy second opinion only; the full installer uses everything
     $useMl = Test-Path "$($script:App)\models\gliner"
-    $job = Api POST "/api/files/$fid/analyze" @{ use_ml = $useMl }
+    $analyze = if ($useMl) { @{} } else { @{ use_ml = $false; visual_on_pages = $false; classify_images = $false } }
+    $job = Api POST "/api/files/$fid/analyze" $analyze
     $j = Wait-ObscuraJob $job.job_id "analysis (AI models: $useMl)"
     Check ($j.result.ocr_pages -ge 1) "scanned page was read with OCR ($($j.result.ocr_pages) page)"
     $ssn = @((Api GET "/api/files/$fid/detections").detections | Where-Object entity -eq "SSN")
